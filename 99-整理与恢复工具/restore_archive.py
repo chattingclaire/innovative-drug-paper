@@ -58,6 +58,8 @@ def stream_sha256(stream) -> str:
 
 def read_metadata(directory: Path, requested: list[str] | None):
     summary_path = directory / "归档总览.json"
+    if not summary_path.is_file():
+        summary_path = directory / "archive-summary.json"
     try:
         summary = json.loads(summary_path.read_text(encoding="utf-8"))
     except (OSError, ValueError) as exc:
@@ -87,10 +89,14 @@ def read_metadata(directory: Path, requested: list[str] | None):
         raise RestoreError("归档来源清单无效。")
     allowed_roots = {Path(p).name for p in sources}
     manifest_path = directory / "全部文件清单.jsonl.gz"
+    if not manifest_path.is_file():
+        manifest_path = directory / "manifest.jsonl.gz"
     opener = gzip.open
     if not manifest_path.is_file():
         manifest_path = directory / "全部文件清单.jsonl"
         opener = open
+        if not manifest_path.is_file():
+            manifest_path = directory / "manifest.jsonl"
     catalog = {}
     counts = {name: 0 for name in selected}
     try:
@@ -137,6 +143,8 @@ def read_metadata(directory: Path, requested: list[str] | None):
 def read_internal_links(directory: Path, catalog, bundles, allowed_roots):
     """Only this reviewed map may create links; tar links remain forbidden."""
     path = directory / "内部研究链接映射.json"
+    if not path.is_file():
+        path = directory / "internal-links.json"
     if not path.exists():
         print("未找到内部研究链接映射；仅处理普通归档文件。", flush=True)
         return [], 0

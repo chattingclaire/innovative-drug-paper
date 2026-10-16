@@ -98,3 +98,5 @@
 每个文件记录来源SHA-256与归档SHA-256。正常文件二者相同；接口密钥脱敏文件有所变化。文件清单与原始输入逐一对应，依赖和系统文件按排除记录留痕。原件不移动、不删除；全部研究性中间过程仍在包内。部分旧脚本的本机绝对路径需要在新环境调整。
 
 GitHub对普通仓库单文件与仓库规模有建议限制，因此大批过程资料使用Release附件保存，常用材料与代码直接放入仓库；参见[GitHub官方大文件说明](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)。
+
+Release中的清单与说明使用英文附件名避免重名：`manifest.jsonl.gz`、`manifest.csv.gz`、`archive-summary.json`、`internal-links.json`、`integrity-report.json`、`RESTORE.md`。恢复工具支持这些别名，内容与仓库中文元数据一致。
