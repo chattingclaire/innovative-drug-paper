@@ -7,183 +7,183 @@
   "entries": [
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/格式校正版-方法待定/创新药评价的注意力配置差异与协调路径-格式校正版-方法待定.docx",
-      "suggested_destination": "01_当前论文/创新药评价的注意力配置差异与协调路径-方法待定.docx",
       "type": "file",
-      "role": "当前阅读文稿；24页格式已核，研究方法尚待统一更新"
+      "role": "当前阅读文稿；24页格式已核，研究方法尚待统一更新",
+      "browse_destination": "01-当前论文/创新药评价的注意力配置差异与协调路径-方法待定.docx"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/格式校正版-方法待定/创新药评价的注意力配置差异与协调路径-格式校正版-方法待定.pdf",
-      "suggested_destination": "01_当前论文/创新药评价的注意力配置差异与协调路径-方法待定.pdf",
       "type": "file",
-      "role": "对应固定版式PDF，不是投稿最终稿"
+      "role": "对应固定版式PDF，不是投稿最终稿",
+      "browse_destination": "01-当前论文/创新药评价的注意力配置差异与协调路径-方法待定.pdf"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/格式校正版-方法待定/格式校正变更与验证记录.md",
-      "suggested_destination": "01_当前论文/格式校正变更与验证记录.md",
       "type": "file",
-      "role": "最新格式副本来源、内容未变校验与当前方法限制"
+      "role": "最新格式副本来源、内容未变校验与当前方法限制",
+      "browse_destination": "01-当前论文/格式校正变更与验证记录.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/当前待办.md",
-      "suggested_destination": "00_阅读入口/当前待办-20261015.md",
       "type": "file",
-      "role": "最新真实状态；高于该目录历史README运行快照"
+      "role": "最新真实状态；高于该目录历史README运行快照",
+      "browse_destination": "00-阅读入口/当前待办-20261015.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/本轮核查进度.md",
-      "suggested_destination": "00_阅读入口/本轮核查进度-20261015.md",
       "type": "file",
-      "role": "最新来源、人工任务、122条暂缓发放及方法待确认状态"
+      "role": "最新来源、人工任务、122条暂缓发放及方法待确认状态",
+      "browse_destination": "00-阅读入口/本轮核查进度-20261015.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/原稿方法与结果修订稿-待确认主方法.md",
-      "suggested_destination": "01_当前论文/方法与结果待合并修订稿-主方法待确认.md",
       "type": "file",
-      "role": "待合并原稿的具体段落；拟采用旧LLM主分析，尚未获方法选择确认"
+      "role": "待合并原稿的具体段落；拟采用旧LLM主分析，尚未获方法选择确认",
+      "browse_destination": "01-当前论文/方法与结果待合并修订稿-主方法待确认.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/55项来源与4481条对应清单.md",
-      "suggested_destination": "02_研究设计与材料/55项来源与4481条对应清单.md",
       "type": "file",
-      "role": "51项三部门来源对应4481条，另4项中央政策仅作背景"
+      "role": "51项三部门来源对应4481条，另4项中央政策仅作背景",
+      "browse_destination": "02-研究设计与材料/55项来源与4481条对应清单.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/原始选文范围核对.md",
-      "suggested_destination": "02_研究设计与材料/原始选文范围核对.md",
       "type": "file",
-      "role": "材料范围及选文边界"
+      "role": "材料范围及选文边界",
+      "browse_destination": "02-研究设计与材料/原始选文范围核对.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/三份补充政策来源追溯结论.md",
-      "suggested_destination": "02_研究设计与材料/三份补充政策来源追溯结论.md",
       "type": "file",
-      "role": "补充政策在原时间范围内且部分曾被使用，不能直接称独立新源"
+      "role": "补充政策在原时间范围内且部分曾被使用，不能直接称独立新源",
+      "browse_destination": "02-研究设计与材料/三份补充政策来源追溯结论.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/122条补充材料用途更正与文献依据.md",
-      "suggested_destination": "02_研究设计与材料/122条补充材料用途更正与文献依据.md",
       "type": "file",
-      "role": "122条制包已撤回可发放状态；0技术错误不等于效度通过"
+      "role": "122条制包已撤回可发放状态；0技术错误不等于效度通过",
+      "browse_destination": "02-研究设计与材料/122条补充材料用途更正与文献依据.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/旧版现有证据核查/核查说明.md",
-      "suggested_destination": "03_编码检验与版本/旧版4481与人工200条核查说明.md",
       "type": "file",
-      "role": "含用户10月14日关于200条独立真人检验的来源更正及旧版同版检验"
+      "role": "含用户10月14日关于200条独立真人检验的来源更正及旧版同版检验",
+      "browse_destination": "03-编码检验与版本/旧版4481与人工200条核查说明.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/旧版现有证据核查/核查结果.json",
-      "suggested_destination": "03_编码检验与版本/旧版4481与人工200条核查结果.json",
       "type": "file",
-      "role": "旧全量版本的人机指标与原计数"
+      "role": "旧全量版本的人机指标与原计数",
+      "browse_destination": "03-编码检验与版本/旧版4481与人工200条核查结果.json"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013",
-      "suggested_destination": "03_编码检验与版本/历史人工200条结果包-保留原记录",
       "type": "directory",
-      "role": "历史原始包，含结果、材料与说明；其中10月13日身份说明已被10月14日用户更正，须并读核查说明"
+      "role": "历史原始包，含结果、材料与说明；其中10月13日身份说明已被10月14日用户更正，须并读核查说明",
+      "browse_destination": "03-编码检验与版本/历史人工200条结果包-保留原记录"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核对照说明.md",
-      "suggested_destination": "03_编码检验与版本/AI独立复核200条-对照说明.md",
       "type": "file",
-      "role": "独立AI复核另列，不能据其目录写成真人独立首判"
+      "role": "独立AI复核另列，不能据其目录写成真人独立首判",
+      "browse_destination": "03-编码检验与版本/AI独立复核200条-对照说明.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第六轮-20261015/第六轮规则调整结果.md",
-      "suggested_destination": "03_编码检验与版本/第六轮规则调整结果-开发诊断.md",
       "type": "file",
-      "role": "当前冻结规则候选；277条为77校准加200开发诊断，非新版独立检验或全量结果"
+      "role": "当前冻结规则候选；277条为77校准加200开发诊断，非新版独立检验或全量结果",
+      "browse_destination": "03-编码检验与版本/第六轮规则调整结果-开发诊断.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第六轮-20261015/code",
-      "suggested_destination": "05_代码/当前规则候选-第六轮",
       "type": "directory",
-      "role": "最新规则模块；依赖、执行账及输入保留在完整归档内，勿冒称独立可执行包"
+      "role": "最新规则模块；依赖、执行账及输入保留在完整归档内，勿冒称独立可执行包",
+      "browse_destination": "05-代码/当前规则候选-第六轮"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第六轮-20261015/指标独立复算.json",
-      "suggested_destination": "03_编码检验与版本/第六轮规则指标独立复算.json",
       "type": "file",
-      "role": "991项一致与9项分歧；不能拼接旧版4481全量"
+      "role": "991项一致与9项分歧；不能拼接旧版4481全量",
+      "browse_destination": "03-编码检验与版本/第六轮规则指标独立复算.json"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/后台统计图表-20261014/三部门评价维度-双口径组合图.png",
-      "suggested_destination": "04_图表与统计/三部门评价维度-双口径组合图.png",
       "type": "file",
-      "role": "同一旧LLM版本的条款占比与五维构成比例"
+      "role": "同一旧LLM版本的条款占比与五维构成比例",
+      "browse_destination": "04-图表与统计/三部门评价维度-双口径组合图.png"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/后台统计图表-20261014/LLM三部门双口径表.csv",
-      "suggested_destination": "04_图表与统计/LLM三部门双口径表.csv",
       "type": "file",
-      "role": "与组合图相同统计口径"
+      "role": "与组合图相同统计口径",
+      "browse_destination": "04-图表与统计/LLM三部门双口径表.csv"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/后台统计图表-20261014/统计及稳健性完整结果.json",
-      "suggested_destination": "04_图表与统计/统计及稳健性完整结果.json",
       "type": "file",
-      "role": "同版部门统计及来源影响复核"
+      "role": "同版部门统计及来源影响复核",
+      "browse_destination": "04-图表与统计/统计及稳健性完整结果.json"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/后台统计图表-20261014/recompute.py",
-      "suggested_destination": "05_代码/旧版4481统计重算.py",
       "type": "file",
-      "role": "重算旧版4481；依赖原归档路径，完整复现需还原归档"
+      "role": "重算旧版4481；依赖原归档路径，完整复现需还原归档",
+      "browse_destination": "05-代码/旧版4481统计重算.py"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/后台统计图表-20261014/plot.py",
-      "suggested_destination": "05_代码/三部门双口径绘图.py",
       "type": "file",
-      "role": "生成双口径图，路径依赖完整归档"
+      "role": "生成双口径图，路径依赖完整归档",
+      "browse_destination": "05-代码/三部门双口径绘图.py"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/full4481-results-20261012-sol",
-      "suggested_destination": "04_图表与统计/原4481全量编码与指标",
       "type": "directory",
-      "role": "保存原4481结果工作簿及其当时README；最新解释另见10月15日状态"
+      "role": "保存原4481结果工作簿及其当时README；最新解释另见10月15日状态",
+      "browse_destination": "04-图表与统计/原4481全量编码与指标"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/0815论文修订稿v2-创新药评价的认知分歧-科学决策版式.docx",
-      "suggested_destination": "06_历史文稿/20260914-0815修订稿v2.docx",
       "type": "file",
-      "role": "9月14日保存的旧文稿；早期3387句/四组政策口径，不是当前三部门4481结果"
+      "role": "9月14日保存的旧文稿；早期3387句/四组政策口径，不是当前三部门4481结果",
+      "browse_destination": "06-历史文稿/20260914-0815修订稿v2.docx"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/论文正文-0813核查后修改稿.md",
-      "suggested_destination": "06_历史文稿/20260813-论文正文核查后.md",
       "type": "file",
-      "role": "历史可编辑正文"
+      "role": "历史可编辑正文",
+      "browse_destination": "06-历史文稿/20260813-论文正文核查后.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/论文构建档案-0813",
-      "suggested_destination": "06_历史文稿/20260813-论文构建档案",
       "type": "directory",
-      "role": "保留早期Markdown编辑源、编号器、样式、图形及恢复编码代码；README适用早期3387句版本"
+      "role": "保留早期Markdown编辑源、编号器、样式、图形及恢复编码代码；README适用早期3387句版本",
+      "browse_destination": "06-历史文稿/20260813-论文构建档案"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/all_sentences.json",
-      "suggested_destination": "07_历史数据/20260711-all_sentences-3387句.json",
       "type": "file",
-      "role": "原始3387句早期语料，与当前4481条版本分开"
+      "role": "原始3387句早期语料，与当前4481条版本分开",
+      "browse_destination": "07-历史数据/20260711-all_sentences-3387句.json"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/llm_all_results.json",
-      "suggested_destination": "07_历史数据/20260711-llm_all_results.json",
       "type": "file",
-      "role": "早期LLM编码结果，与当前4481条版本分开"
+      "role": "早期LLM编码结果，与当前4481条版本分开",
+      "browse_destination": "07-历史数据/20260711-llm_all_results.json"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/政策文件/README-政策文件清单.md",
-      "suggested_destination": "02_研究设计与材料/政策文件收藏清单-20260706.md",
       "type": "file",
-      "role": "本地政策收藏清单；不是当前55项分析来源清单"
+      "role": "本地政策收藏清单；不是当前55项分析来源清单",
+      "browse_destination": "02-研究设计与材料/政策文件收藏清单-20260706.md"
     },
     {
       "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-metrics/完整方法与历史统计复核报告.md",
-      "suggested_destination": "02_研究设计与材料/完整方法与历史统计复核报告-20261010.md",
       "type": "file",
-      "role": "方法公式、历史统计口径审查；结果用途以较新版本核查为准"
+      "role": "方法公式、历史统计口径审查；结果用途以较新版本核查为准",
+      "browse_destination": "02-研究设计与材料/完整方法与历史统计复核报告-20261010.md"
     }
   ],
   "count": 30,
