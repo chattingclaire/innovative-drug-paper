@@ -1,0 +1,21 @@
+# 原生完整来源输入协议（技术准备封存）
+
+本目录只准备输入与可核验台账。未选正式样本、未冻结真实批次预算、未运行R1/R2/R3/W/H模型判读、未打开比较。实质编码手册为v1.1原字节，SHA256 6ffc7b35a5cbe1c1f90c81d24d1508dba7adefe5e7bbd058c284d76e14b8a70f；后续版本必须另行显式绑定，不能静默替换。
+
+来源绑定为owner-v12-binding-final/owner-binding.json，其绑定的owner seal SHA为68b62081c523f3e22ae5830887b073f50ef79a02c0143a4608630355a4b7f426。schema、accessor、visual schema和33个owner文件均按封存SHA复核。字段闭合profile仅由获准六条、已封存旧36纯来源、两份同SHA例示文档形成；无新剩余1444正文进入模型，无标签/参照/机器结果读取。两份例示文档的104文字资源和17展示区域仅作结构输入，未声称消费端看图。
+
+每packet逐值保留原完整10根键bundle；source_ref、所有CTX及关系/geometry、公共文档全文、source roles、确指与unknown状态、历史中性补件、reference index与provenance addenda均不删改。source_bundle_sha256是整个原bundle的canonical UTF8 JSON SHA，区别于旧四字段hash。source_id保持RECODE25原ID；output_id透明映射为B加五位数字。输出中的content_sha256采用此全包hash。原输出item schema实质不改；公共资源引文另存source-quote.schema.json侧文件，保留原bundle JSON Pointer与Unicode码点连续span，不伪造CTX。
+
+文件SHA检查与完整实际读取分账。文档snapshot、全文JSON、资产文件均须有原显式locator和SHA且可访问。段落source_page_images即使未列入accessor资产投影，也仅沿其原显式路径与canonical base解析并核验；原bundle不变，verified_asset_files保留实际路径。缺失、未知形状/状态、坏关系、错SHA或不支持图像编码均使整条输入技术失败，不降为语义null，不删除字段或图片继续。SHA存在不证明实际读取；原审阅者“已看图”也不是编码AI的读取事件。
+
+正式执行前由外部协调者冻结授权全局顺序与source selection manifest，并填写operational-budget.blank.json全部正整数限制和依据。max_units不超过41，仅作上限。按原顺序取最长可容纳连续前缀；成本含完整来源JSON的R/W/H最大展示字节加输出预留、全部CTX和按SHA去重资产数/总字节/单图字节/像素。相同共享资源原bundle副本均保留。单条超预算时整体阻断，不拆删、跳条、改序或按标签难度分组。后台真实token/asset容量不可见，保留null；本地操作预算不是后台容量保证。
+
+freeze_inputs冻结每条完整packet文件和共用有序来源文件索引。初始提示含完整手册/schema和所有索引；索引须逐个实际完整打开complete_packet_file，再读其全部当前/CTX/资源并实际打开全部图资产。相同SHA公共文档/图可批内一次实际完整读后共享，逐source_id记录事件绑定。无需在初始提示中重复粘贴同一完整公共文档，不能用索引替代原文读取。
+
+R1/R2/R3使用相同prompt-R字节与compact packet；外部身份不进入提示。W仅改变JSON缩进、来源索引路径/SHA指向语义相同的indented packet，字段/值/顺序与全包canonical SHA相同。H仅将首行“判读要求”改为“判读说明”，其余提示与R相同。五条件使用相同固定批次划分。
+
+每(condition,batch,attempt)全新对话；批内共享历史。一个完整初始任务交付整个批次，最多3次技术尝试。失败记录不删除；下一次不带上次答案/失败正文/纠错/催续/评价，不从多次响应拼行，不因null、语义或分数重试。第一份技术完整的全批语义输出立即独占保存并封存；语义null按手册附材料请求，不能当技术失败重跑。完整输出/真实读取/历史/技术检查/线程创建请求回执均按SHA绑定，无法证明完整读取或观察到摘要/截断/压缩的尝试保留技术失败。
+
+native_records.py只机械校验外部回执；它不验证语义正确性，不伪造provider证据。所有condition×batch均有首次完整输出及seal、独立尝试线程、真实读取账后才允许comparison gate。未执行时空白ledger各字段保持planned_not_executed/null；实际model/provider、参数、token和调用数不可见时保持null。已暴露历史AI开发对话不能充当正式全新独立重复；不得称AI编码为人类标注。
+
+packet_builder.py bind-owner用于源绑定；build须显式提供binding/SHA、授权顺序/SHA、手册/SHA、已冻结操作预算/SHA和新输出目录。无模型/采样/比较API。旧29文件协议与native6原件逐文件SHA复核未变。167原有无标签构造测试重跑167通过；保留先前失败记录，不增加无关审查。

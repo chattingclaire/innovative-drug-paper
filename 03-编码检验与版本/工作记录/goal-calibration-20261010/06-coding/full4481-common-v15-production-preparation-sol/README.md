@@ -1,0 +1,11 @@
+本目录仅完成全量共同源的机械预备与生产接口实例化。真实源为4481个唯一source_id，按原FRAME4481顺序，未重抽、删除、裁断或语义改写源正文。一次全量源字段读取完成，schema与逐bundle/source_record/order/hash核对通过。五维输出接口为S/E/Ec/I/F，合法0/1/null，未新增标签或语义断言。
+
+真实静态批计划504批，每批最多12条、packet字节最多260000；包字节总77905594，单包4433–244813，批包字节18914–259773，无超限单包。容量按事前实际材料字节决定；只是继承的packet文件字节阈值，不是provider token/context保证。源资源可用字节、正式共同核心字节和全部声明可读文件字节另在生产byte-budget.json披露。
+
+production-source-material-bindings.json（235条）与approved_record_ids.json已经固定原字节，SHA分别为ee6cae5f2a05a90dab0d05a6b7876e1ef2b0854084f785c3478b0614d0470a9f及602588f7bdbba615b43598ab33cca7f41e618f2e2142575a72899738112bfbbe。inventory不挂旧开发运行或旧手册。原包v12 identity和真正v15文件identity均明确披露，不混称。
+
+资源hash核对与JSON解析不构成coding actor实际阅读或使用收据。保留9个旧relative page_asset缺失定位，完整位置见remaining-legacy-locators.json；不按文件名猜路径，不替actor判定语义必要性。现成旧alias只含4次同SHA snapshot映射，实际2文件均已在inventory内。
+
+prepare-full4481.py执行初次预备；其已有preflight锁禁止重新全量读源或覆盖。build-native-campaign.py中的build_campaign函数用正式common-input-freeze及ROOT native adapter作必填外部参数，仅从已经预备的metadata组装生产campaign，不重读共同源字段。最终生产目录为../native-full4481-v1-sol；run-manifest status=frozen_before_dispatch，batch_N504，runtime_task_prefix=native_full4481v1。504批exact schema/assignment机械核对已通过，见campaign-mechanical-verification.json。
+
+实例化时实际inference为0、实际first文件为0，1512空attempt slot仅为预留。ROOT独占真正fresh actor派发及原字节接收；同批最多3总technical attempts，合法null不触发重试；按最早整批技术有效原件固定，禁止跨attempt拼接或按标签择优。准备和冻结状态不等于实际running。

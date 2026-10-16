@@ -1,0 +1,3 @@
+# 测试夹具版本适配
+
+behavior-run01.txt保留首次失败：已复制的模拟seal仍声明implementation02，被implementation03的严格协议拒绝。修复仅将模拟seal版本改为implementation03；所有语义期待及“预测SHA失败先于fixture/reference读取”的验证期待不变。其他日志完整保留。

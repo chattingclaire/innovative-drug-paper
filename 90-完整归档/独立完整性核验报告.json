@@ -1,0 +1,780 @@
+{
+  "status": "PASS",
+  "checked_at_unix": 1792127787.8443441,
+  "elapsed_seconds": 53.14,
+  "package": "/Users/rainbow/Desktop/战略院/创新药论文-GitHub完整包-20261016",
+  "inventory": "/tmp/innovative-drug-inventory.json",
+  "manifest": "/Users/rainbow/Desktop/战略院/创新药论文-GitHub整理-20261016/90-完整归档/全部文件清单.jsonl",
+  "input_files": 135380,
+  "manifest_files": 135380,
+  "archive_members": 135380,
+  "independent_source_files": 135380,
+  "independent_excluded_entries": 279,
+  "source_differences": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "source_roots": {
+    "药企项目-创新药": {
+      "files": 130818,
+      "bytes": 22932129339
+    },
+    "创新药论文-完整归档-20260914": {
+      "files": 4455,
+      "bytes": 1934368444
+    },
+    "创新药论文.md": {
+      "files": 89,
+      "bytes": 53223845
+    },
+    "创新药动态简报": {
+      "files": 9,
+      "bytes": 299373
+    },
+    "美国生物医药产业研究": {
+      "files": 3,
+      "bytes": 3972594
+    },
+    "创新发展政策导论": {
+      "files": 6,
+      "bytes": 27971816
+    }
+  },
+  "source_bytes": 24951965411,
+  "compressed_archive_bytes": 6023030722,
+  "verified_archived_payload_bytes": 24951965201,
+  "bundles_checked": 70,
+  "bundles": [
+    {
+      "asset": "archive-001.tar.gz",
+      "sha256": "bfc87641c40af94e1d339682989049a345c0f6422868464301e4dd5e34848f95",
+      "compressed_bytes": 60356232,
+      "members": 254,
+      "archived_bytes": 141414999
+    },
+    {
+      "asset": "archive-002.tar.gz",
+      "sha256": "a85e31320ee128416f5ab9d69426c5d9af5110c28a78096e6935cdfd5dfa0084",
+      "compressed_bytes": 114027406,
+      "members": 672,
+      "archived_bytes": 791496233
+    },
+    {
+      "asset": "archive-003.tar.gz",
+      "sha256": "4629751af07c6c4e3b642dbc93ec59d4b113ce1383c01e2a5a99de72b31c6734",
+      "compressed_bytes": 29705629,
+      "members": 227,
+      "archived_bytes": 267752900
+    },
+    {
+      "asset": "archive-004.tar.gz",
+      "sha256": "5fb0b950c4f582e358c6f11d01c72876aeca68ab1551244d54ad5420a3446779",
+      "compressed_bytes": 2392859,
+      "members": 44,
+      "archived_bytes": 4147842
+    },
+    {
+      "asset": "archive-005.tar.gz",
+      "sha256": "18276bbaa7fb31566083379983f4ac941020de580f331076ab9f0bc3fefa7784",
+      "compressed_bytes": 22728406,
+      "members": 4542,
+      "archived_bytes": 156197237
+    },
+    {
+      "asset": "archive-006.tar.gz",
+      "sha256": "031601e42f24a6de454e26eedb4e7c2505ef5edffb17caeb3342e4018ae07d44",
+      "compressed_bytes": 34457287,
+      "members": 220,
+      "archived_bytes": 41897083
+    },
+    {
+      "asset": "archive-007.tar.gz",
+      "sha256": "27b9ff30b0bfeefe545392788d1b7138b91fd652f8fb1fc549193a315ad8b65c",
+      "compressed_bytes": 184909581,
+      "members": 593,
+      "archived_bytes": 339199695
+    },
+    {
+      "asset": "archive-008.tar.gz",
+      "sha256": "3683bf1ca0504fd533ef8ec9cef711444725f2a4ec4e74fdf9d76c4d9c20b22b",
+      "compressed_bytes": 119092130,
+      "members": 10754,
+      "archived_bytes": 838170658
+    },
+    {
+      "asset": "archive-009.tar.gz",
+      "sha256": "cd3b620307b95dc96330f08ea9d0c96073abb660ad0d7409e8eafbb27a50fc82",
+      "compressed_bytes": 104006502,
+      "members": 14802,
+      "archived_bytes": 830931319
+    },
+    {
+      "asset": "archive-010.tar.gz",
+      "sha256": "1e3878eacdf0874ea3632c78187671d1e255078087bd416baf208ed19169635f",
+      "compressed_bytes": 89860962,
+      "members": 22005,
+      "archived_bytes": 766951827
+    },
+    {
+      "asset": "archive-011.tar.gz",
+      "sha256": "a783a1ad62b44fa0e05675ff1e6adf20bd2aee68f256d74f8fbc9e47ddd4d738",
+      "compressed_bytes": 43625951,
+      "members": 17,
+      "archived_bytes": 638754848
+    },
+    {
+      "asset": "archive-012.tar.gz",
+      "sha256": "4a9dad650acf3cb5edbee002155dd27a2a37a1ee669c6d72125840b405a0cdda",
+      "compressed_bytes": 64712786,
+      "members": 1096,
+      "archived_bytes": 830823211
+    },
+    {
+      "asset": "archive-013.tar.gz",
+      "sha256": "3d2aef5ba58e24973f66d7931b897edb98852be774fb76b4f881ae0a5580c1fe",
+      "compressed_bytes": 54726739,
+      "members": 111,
+      "archived_bytes": 817348361
+    },
+    {
+      "asset": "archive-014.tar.gz",
+      "sha256": "9ff3687c87c732cd3fdaa73f199c5a505a9057cd3e72b3e9bf6d997671c2e205",
+      "compressed_bytes": 51256453,
+      "members": 14,
+      "archived_bytes": 766434716
+    },
+    {
+      "asset": "archive-015.tar.gz",
+      "sha256": "c37ec4aeb4f6f05e6d3194f5a42bad279dec86f7663353069b762b6e955dbfbf",
+      "compressed_bytes": 38742753,
+      "members": 18,
+      "archived_bytes": 792314819
+    },
+    {
+      "asset": "archive-016.tar.gz",
+      "sha256": "a05ad26ff62c10cb6bb329850933187aae54f3ffd200850dc7bb6e001bb09e95",
+      "compressed_bytes": 30184821,
+      "members": 25,
+      "archived_bytes": 698802847
+    },
+    {
+      "asset": "archive-017.tar.gz",
+      "sha256": "565d41ece1f365d8c143a5ff069ff46e33dfe84fd47fd3b84d705128902fe1f1",
+      "compressed_bytes": 52237900,
+      "members": 15,
+      "archived_bytes": 838005330
+    },
+    {
+      "asset": "archive-018.tar.gz",
+      "sha256": "68a017fd75f8a0c0d77e06890f2131911198c031a0190be519edc09ea0a4752e",
+      "compressed_bytes": 50873144,
+      "members": 130,
+      "archived_bytes": 789557834
+    },
+    {
+      "asset": "archive-019.tar.gz",
+      "sha256": "84128e363566fd28125ca014a19d65472c78da2fa8a00b7b228aeff0e592623f",
+      "compressed_bytes": 53801733,
+      "members": 55,
+      "archived_bytes": 778551745
+    },
+    {
+      "asset": "archive-020.tar.gz",
+      "sha256": "aa642260e505351da8061bd374eba7598d6e2c7cc1a54cbabdc34017dda6be78",
+      "compressed_bytes": 68512564,
+      "members": 878,
+      "archived_bytes": 722325717
+    },
+    {
+      "asset": "archive-021.tar.gz",
+      "sha256": "419daba7296cec752ba28d847a4e16581b5802fee70c96dafb11c6eff2117da5",
+      "compressed_bytes": 43527824,
+      "members": 620,
+      "archived_bytes": 614272370
+    },
+    {
+      "asset": "archive-022.tar.gz",
+      "sha256": "0f65b76d9a783fff47adee141072c98e8bf68f1e30b9acfacadf8501eac8f6df",
+      "compressed_bytes": 42969830,
+      "members": 15984,
+      "archived_bytes": 570712088
+    },
+    {
+      "asset": "archive-023.tar.gz",
+      "sha256": "e751b0c5e8328f047ed048afc2ac0da2500dfa89bb3855c35e8411ffd287e3c6",
+      "compressed_bytes": 26111392,
+      "members": 1577,
+      "archived_bytes": 279635972
+    },
+    {
+      "asset": "archive-024.tar.gz",
+      "sha256": "56b029bed7c22b054e8ca8ef894e0dd1239a6621e854d34ba93e3f392f86b887",
+      "compressed_bytes": 215768169,
+      "members": 522,
+      "archived_bytes": 258574069
+    },
+    {
+      "asset": "archive-025.tar.gz",
+      "sha256": "64cfeccf3250c19d2018a37d4343f6f06808e5cc48e9d972ad048ed945e85369",
+      "compressed_bytes": 469502196,
+      "members": 7443,
+      "archived_bytes": 827554373
+    },
+    {
+      "asset": "archive-026.tar.gz",
+      "sha256": "c6804d5c7e55ca5b7474e021903d0f49b9f621c193ea6f713b98042fcd6b06ed",
+      "compressed_bytes": 544230750,
+      "members": 5133,
+      "archived_bytes": 809845499
+    },
+    {
+      "asset": "archive-027.tar.gz",
+      "sha256": "0ad50df71a71efe9e7fdc0885d31fca61fb071b7191e69adb92a199026f90298",
+      "compressed_bytes": 456360054,
+      "members": 1874,
+      "archived_bytes": 531773274
+    },
+    {
+      "asset": "archive-028.tar.gz",
+      "sha256": "24e80f243cf5fe31d9765c4f73819f1626698acb141f02db917434da3e545266",
+      "compressed_bytes": 40944422,
+      "members": 2634,
+      "archived_bytes": 539919732
+    },
+    {
+      "asset": "archive-029.tar.gz",
+      "sha256": "9bbf64a6f6e0fb125c395263fd17ad361d7c4c066dd8c18113f6f0cc28d0f0a7",
+      "compressed_bytes": 8400558,
+      "members": 483,
+      "archived_bytes": 109729556
+    },
+    {
+      "asset": "archive-030.tar.gz",
+      "sha256": "2ec5bc94f040b7ce647dc854ebd516b79085efd7a3a8f3786e7e48d1a716e538",
+      "compressed_bytes": 11041901,
+      "members": 280,
+      "archived_bytes": 44120320
+    },
+    {
+      "asset": "archive-031.tar.gz",
+      "sha256": "9c92965a4811ff2d386ab6e5a0249eae169e1106543203bdd5ce6f6573725f6e",
+      "compressed_bytes": 23903652,
+      "members": 263,
+      "archived_bytes": 30637361
+    },
+    {
+      "asset": "archive-032.tar.gz",
+      "sha256": "da8b2302303b7267aa73e7af42b945ed088f30fe277ba01df0d948f557c657e7",
+      "compressed_bytes": 6245844,
+      "members": 206,
+      "archived_bytes": 46020906
+    },
+    {
+      "asset": "archive-033.tar.gz",
+      "sha256": "ff21a375e3b9104c1510d1264419b99a57035d28e744cd5725e0a30760bb9622",
+      "compressed_bytes": 242700,
+      "members": 5,
+      "archived_bytes": 1916030
+    },
+    {
+      "asset": "archive-034.tar.gz",
+      "sha256": "28a0612aa133df39ec2103536c095c173c4cdd1b70753f6c32913cca516e4c5d",
+      "compressed_bytes": 120723,
+      "members": 53,
+      "archived_bytes": 402148
+    },
+    {
+      "asset": "archive-035.tar.gz",
+      "sha256": "19a5fd549aa6f1d60402aa2b71d3455940973c5fdce6a4881ab6d6b1071182a7",
+      "compressed_bytes": 488855035,
+      "members": 2681,
+      "archived_bytes": 838543409
+    },
+    {
+      "asset": "archive-036.tar.gz",
+      "sha256": "77771858abe1f8fb20f8b0526d32b7c27730fdb47fbb6d292fa5ea737bd16edd",
+      "compressed_bytes": 748877823,
+      "members": 1341,
+      "archived_bytes": 838440588
+    },
+    {
+      "asset": "archive-037.tar.gz",
+      "sha256": "5c74bfe7a1fc7e38546c4939f6700dd4a1620e5835063f9818841e243faf9a71",
+      "compressed_bytes": 220570334,
+      "members": 433,
+      "archived_bytes": 257384447
+    },
+    {
+      "asset": "archive-038.tar.gz",
+      "sha256": "7fd2f33ce275603c37d5329f8a62380ac332fcc78f1ee16bc4b92a91ff9e60ab",
+      "compressed_bytes": 44682112,
+      "members": 89,
+      "archived_bytes": 53223635
+    },
+    {
+      "asset": "archive-039.tar.gz",
+      "sha256": "f1a69f5b1b7bbbbd8c82a1696485c42e56c8c727c837ccba6d5574e095e142ae",
+      "compressed_bytes": 132978293,
+      "members": 494,
+      "archived_bytes": 159308931
+    },
+    {
+      "asset": "archive-040.tar.gz",
+      "sha256": "d7b5dda67797589dc91bc4de16b9187c635d6ea15741eb89b0ba271e90596d17",
+      "compressed_bytes": 15592561,
+      "members": 10,
+      "archived_bytes": 109718895
+    },
+    {
+      "asset": "archive-041.tar.gz",
+      "sha256": "3a89b12669913d1d4c1a6c424146e137584dc013aa0c6bb3dd68d46b0f621e1f",
+      "compressed_bytes": 3911838,
+      "members": 55,
+      "archived_bytes": 4510351
+    },
+    {
+      "asset": "archive-042.tar.gz",
+      "sha256": "01808bc6a55770430282b4074e709e50949fad8ccd1acaefeec2aa51e18d3e8b",
+      "compressed_bytes": 1793811,
+      "members": 10,
+      "archived_bytes": 1992061
+    },
+    {
+      "asset": "archive-043.tar.gz",
+      "sha256": "26f79c4b4b1ef47be02afbf2e5ec2dd4811a191b618fccabca7f8b48307cbb4d",
+      "compressed_bytes": 1081204,
+      "members": 30,
+      "archived_bytes": 3484892
+    },
+    {
+      "asset": "archive-044.tar.gz",
+      "sha256": "480e101133177a1311019d87b559d7a1cfe6852c0e993a6e160807003595050f",
+      "compressed_bytes": 28548603,
+      "members": 3052,
+      "archived_bytes": 392048242
+    },
+    {
+      "asset": "archive-045.tar.gz",
+      "sha256": "f6cec1b48bccef0a7010631171d51b42a58f43020991060aaee409f6f37a1e3e",
+      "compressed_bytes": 284886618,
+      "members": 3577,
+      "archived_bytes": 435074848
+    },
+    {
+      "asset": "archive-046.tar.gz",
+      "sha256": "6fc8228266cd8c4dc46429e466afd3ec04009bd52d210c1bfa4bb049aaee9045",
+      "compressed_bytes": 7148732,
+      "members": 94,
+      "archived_bytes": 21854491
+    },
+    {
+      "asset": "archive-047.tar.gz",
+      "sha256": "e85ef9f72efc354429efda18fdb14b3bd88dc4002232aec18ec4818e7d394d8b",
+      "compressed_bytes": 1456549,
+      "members": 5,
+      "archived_bytes": 16298252
+    },
+    {
+      "asset": "archive-048.tar.gz",
+      "sha256": "234c028dcbd8a6de71a46fe9c1c4495bd9f76dafabd02cc9fa177b2c6aa30092",
+      "compressed_bytes": 19057276,
+      "members": 1647,
+      "archived_bytes": 110868352
+    },
+    {
+      "asset": "archive-049.tar.gz",
+      "sha256": "25fee53699ff7b3d55521900d0b8754c68944f1380ca4ade29bf677ff0e70771",
+      "compressed_bytes": 6269408,
+      "members": 68,
+      "archived_bytes": 109283360
+    },
+    {
+      "asset": "archive-050.tar.gz",
+      "sha256": "72f5f2a155158b97a7bbc921d5760257ae834748867d16e125c080a72a49aa79",
+      "compressed_bytes": 6269921,
+      "members": 70,
+      "archived_bytes": 109283217
+    },
+    {
+      "asset": "archive-051.tar.gz",
+      "sha256": "0d9881b8d87bdec6378c52d035a3a3f21eec4169db40b218ae755410a65f8dbe",
+      "compressed_bytes": 15835059,
+      "members": 185,
+      "archived_bytes": 248109090
+    },
+    {
+      "asset": "archive-052.tar.gz",
+      "sha256": "416f6b0eb2eeb2ac925fdbe48c07a700d7d507100ccca543a14a20b922176e27",
+      "compressed_bytes": 76259641,
+      "members": 7105,
+      "archived_bytes": 837661737
+    },
+    {
+      "asset": "archive-053.tar.gz",
+      "sha256": "c7add6aa987b2238df5d9c551341535060c0fa1cd53934b76dc3ab3442d7d744",
+      "compressed_bytes": 15033432,
+      "members": 459,
+      "archived_bytes": 209014210
+    },
+    {
+      "asset": "archive-054.tar.gz",
+      "sha256": "0e8af8b51b9f026fc2ef8800ab7a3565d639d1f7786672bffb6bcc7648d048c1",
+      "compressed_bytes": 56242604,
+      "members": 1525,
+      "archived_bytes": 143572590
+    },
+    {
+      "asset": "archive-055.tar.gz",
+      "sha256": "da9bf386eda4ce3c2126d1dc8adc8af17845525dc51e0bb13a4dcf9ede8b7c6c",
+      "compressed_bytes": 3466093,
+      "members": 69,
+      "archived_bytes": 52700617
+    },
+    {
+      "asset": "archive-056.tar.gz",
+      "sha256": "c0c72e9e4122ca6ef739fbd18f473aeca2c3fe4d05c3e7591499e935d3cc19bc",
+      "compressed_bytes": 94369567,
+      "members": 2066,
+      "archived_bytes": 333989726
+    },
+    {
+      "asset": "archive-057.tar.gz",
+      "sha256": "38ef31ae53e2a1573b87b1457e93999a97d580ffa26c86cc148db019871b22e1",
+      "compressed_bytes": 23917536,
+      "members": 73,
+      "archived_bytes": 27792676
+    },
+    {
+      "asset": "archive-058.tar.gz",
+      "sha256": "efc567422991e9d560ab24bfbafc1a3dc384cae28c3abf8ccbb602704620f40d",
+      "compressed_bytes": 74020765,
+      "members": 234,
+      "archived_bytes": 85170826
+    },
+    {
+      "asset": "archive-059.tar.gz",
+      "sha256": "bedf4018b565b3ff606417f4d3af843eee36fc1cae25f928b95117f2f219eb30",
+      "compressed_bytes": 49868165,
+      "members": 135,
+      "archived_bytes": 57250281
+    },
+    {
+      "asset": "archive-060.tar.gz",
+      "sha256": "7fd81f39eaf50a7b7e70e72ac91458e4647da8058e7dd13d790f3c11cf1d1873",
+      "compressed_bytes": 11318,
+      "members": 2,
+      "archived_bytes": 114147
+    },
+    {
+      "asset": "archive-061.tar.gz",
+      "sha256": "c07c6063de7d8841ffc14b29ffbcde0ef42fb97d258e0d155175d09e5a13c6d2",
+      "compressed_bytes": 40624,
+      "members": 10,
+      "archived_bytes": 114759
+    },
+    {
+      "asset": "archive-062.tar.gz",
+      "sha256": "030eb77a0bd2a644dc81a26c499610858bdd75e29ffcf65c1c9cfbab7ffcc5d2",
+      "compressed_bytes": 48568390,
+      "members": 174,
+      "archived_bytes": 58567055
+    },
+    {
+      "asset": "archive-063.tar.gz",
+      "sha256": "0b9124401e94f4b941fa49e0a5c6e89792cfedd9e31a80d92f99af94a3ae499f",
+      "compressed_bytes": 4551,
+      "members": 2,
+      "archived_bytes": 8667
+    },
+    {
+      "asset": "archive-064.tar.gz",
+      "sha256": "a1585f47c5885170282bf9c0a14c59afcee405bff7dcf7a9e843b4836a394e9b",
+      "compressed_bytes": 38482675,
+      "members": 2936,
+      "archived_bytes": 400388470
+    },
+    {
+      "asset": "archive-065.tar.gz",
+      "sha256": "0383332c060ebb8a4b89671167e88e6d8cc81d7eb3f0b63e7650e6ebf942becb",
+      "compressed_bytes": 97392251,
+      "members": 1352,
+      "archived_bytes": 742570676
+    },
+    {
+      "asset": "archive-066.tar.gz",
+      "sha256": "de10b50eacd791a3257fdf05a16d63239c93aa92b433c85b07baae239efa5c1c",
+      "compressed_bytes": 1359594,
+      "members": 14,
+      "archived_bytes": 9833842
+    },
+    {
+      "asset": "archive-067.tar.gz",
+      "sha256": "7b5f89a56edf96670bc75cee850c3e62aea74cbb8a39bfaefe86db4d40c92b92",
+      "compressed_bytes": 68990835,
+      "members": 6961,
+      "archived_bytes": 838604903
+    },
+    {
+      "asset": "archive-068.tar.gz",
+      "sha256": "2c660febae5d15b6ee48b4c31e2241cbd76381084a079fe1a8d45d39cc6870a1",
+      "compressed_bytes": 150842576,
+      "members": 3863,
+      "archived_bytes": 819885195
+    },
+    {
+      "asset": "archive-069.tar.gz",
+      "sha256": "a7fb1d22ab755845cf3b7f9bd2c4c5a8981ee9a572209fecab610b0838a1f4ea",
+      "compressed_bytes": 7178624,
+      "members": 992,
+      "archived_bytes": 76861061
+    },
+    {
+      "asset": "archive-070.tar.gz",
+      "sha256": "6739518d3ff201af96bef497b85e982bae28b7094588153c5b08a1b22d08e459",
+      "compressed_bytes": 29584451,
+      "members": 18,
+      "archived_bytes": 32243783
+    }
+  ],
+  "redacted_files": {
+    "创新药论文.md/README.md": 1,
+    "创新药论文.md/academic_paper_analyzer.py": 1,
+    "创新药论文.md/framework_paper_analyzer.py": 1,
+    "创新药论文.md/mg.txt": 1,
+    "创新药论文.md/test_analyzer.py": 1,
+    "创新药论文.md/widget_query_optimizer.py": 1
+  },
+  "checks": [
+    "independent six-source traversal versus construction input",
+    "exact inventory/manifest/tar set equality",
+    "six source roots and counts/bytes",
+    "manifest provenance",
+    "every member full-read sha256",
+    "every compressed bundle sha256 and size against build log",
+    "safe relative paths",
+    "regular file entries only",
+    "no symlink traversal",
+    "only known six secret files redacted",
+    "redactions are exact known-key replacements",
+    "seventeen internal research links (nine file/eight directory): original readlink, archived targets, target subtree counts, owner/target bundles, safe relative restoration"
+  ],
+  "errors": [],
+  "internal_link_verification": {
+    "status": "PASS",
+    "mapping": "/Users/rainbow/Desktop/战略院/创新药论文-GitHub整理-20261016/90-完整归档/内部研究链接映射.json",
+    "mapping_sha256": "a682a93915c827ab1311d21e673dcbb47f73d28bb5b4320ec8f42ac7f2933259",
+    "internal_link_records": 17,
+    "restorable_internal_file_links": 9,
+    "verified_restorable_file_links": 9,
+    "verified_restorable_directory_links": 8,
+    "excluded_dependency_link_records": 29,
+    "links": [
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/shared-source",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+        "restored_relative_target": "../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 159
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/A版/materials",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+        "restored_relative_target": "../../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 400
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/A版/shared-source",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+        "restored_relative_target": "../../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 159
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/B版/materials",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+        "restored_relative_target": "../../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 400
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/B版/shared-source",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+        "restored_relative_target": "../../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 159
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/materials",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+        "restored_relative_target": "../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 400
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/评审A/materials",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+        "restored_relative_target": "../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 400
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/评审B/materials",
+        "entry_type": "directory",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+        "restored_relative_target": "../../goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+        "owner_bundle": "archive-046.tar.gz",
+        "target_bundle": null,
+        "target_bundles": [
+          "archive-026.tar.gz"
+        ],
+        "target_archived_file_count": 400
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/metadata-coverage.json",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+        "restored_relative_target": "../../full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+        "owner_bundle": "archive-022.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/source-entry-metadata.json",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+        "restored_relative_target": "../../full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+        "owner_bundle": "archive-022.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/unit-metadata.jsonl",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+        "restored_relative_target": "../../full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+        "owner_bundle": "archive-022.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/metadata-coverage.json",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+        "restored_relative_target": "../../../../07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+        "owner_bundle": "archive-028.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/source-entry-metadata.json",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+        "restored_relative_target": "../../../../07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+        "owner_bundle": "archive-028.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/unit-metadata.jsonl",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+        "restored_relative_target": "../../../../07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+        "owner_bundle": "archive-028.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/metadata-coverage.json",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+        "restored_relative_target": "../../../../07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+        "owner_bundle": "archive-028.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/source-entry-metadata.json",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+        "restored_relative_target": "../../../../07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+        "owner_bundle": "archive-028.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      },
+      {
+        "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/unit-metadata.jsonl",
+        "entry_type": "file",
+        "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+        "restored_relative_target": "../../../../07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+        "owner_bundle": "archive-028.tar.gz",
+        "target_bundle": "archive-022.tar.gz",
+        "target_bundles": [
+          "archive-022.tar.gz"
+        ],
+        "target_archived_file_count": 1
+      }
+    ],
+    "errors": []
+  }
+}

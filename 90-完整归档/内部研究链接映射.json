@@ -1,0 +1,584 @@
+{
+  "schema_version": 1,
+  "manifest": "全部文件清单.jsonl.gz",
+  "restoration_policy": "Original target strings are provenance only. Reconstruct relative links solely from archive_member and resolved_archive_member inside the restored tree. Restore a file link only when its owner anchor and ordinary target are selected and verified. Restore a directory link only when its owner anchor and every archived ordinary file under the target prefix are selected and verified, and the link is non-cyclic. Dependency links are excluded.",
+  "link_count": 17,
+  "restorable_file_links": 9,
+  "links": [
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/shared-source",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/shared-source",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/assignment.json",
+      "target_bundle": null,
+      "target_archived_file_count": 159,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/真人复核/A版/materials",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/A版/materials",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/A版/真人复核-A-200条.xlsx",
+      "target_bundle": null,
+      "target_archived_file_count": 400,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/真人复核/A版/shared-source",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/A版/shared-source",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/A版/真人复核-A-200条.xlsx",
+      "target_bundle": null,
+      "target_archived_file_count": 159,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/真人复核/B版/materials",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/B版/materials",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/B版/真人复核-B-200条.xlsx",
+      "target_bundle": null,
+      "target_archived_file_count": 400,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/真人复核/B版/shared-source",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/B版/shared-source",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/shared-source",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/B版/真人复核-B-200条.xlsx",
+      "target_bundle": null,
+      "target_archived_file_count": 159,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/真人复核/materials",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/materials",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/真人复核/复核建议原始记录.json",
+      "target_bundle": null,
+      "target_archived_file_count": 400,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/评审A/materials",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/评审A/materials",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/materials",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/评审A/AI独立盲评-A-200条.xlsx",
+      "target_bundle": null,
+      "target_archived_file_count": 400,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/评审B/materials",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/评审B/materials",
+      "entry_type": "directory",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/materials",
+      "restorable": true,
+      "reason": "archived_internal_directory_prefix",
+      "owner_bundle": "archive-046.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-046.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/评审B/AI独立盲评-B-200条.xlsx",
+      "target_bundle": null,
+      "target_archived_file_count": 400,
+      "target_bundles": [
+        "archive-026.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/metadata-coverage.json",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/metadata-coverage.json",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-022.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-022.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/source-entry-metadata.json",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/source-entry-metadata.json",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-022.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-022.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/unit-metadata.jsonl",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/unit-metadata.jsonl",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-022.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-022.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/native-input-facade/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/metadata-coverage.json",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/metadata-coverage.json",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-028.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-028.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/source-entry-metadata.json",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/source-entry-metadata.json",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-028.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-028.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/unit-metadata.jsonl",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/unit-metadata.jsonl",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-028.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-028.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/native-input-facade/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/metadata-coverage.json",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/metadata-coverage.json",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/metadata-coverage.json",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-028.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-028.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/source-entry-metadata.json",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/source-entry-metadata.json",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/source-entry-metadata.json",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-028.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-028.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/unit-metadata.jsonl",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/unit-metadata.jsonl",
+      "entry_type": "file",
+      "target": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+      "resolved_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/unit-metadata.jsonl",
+      "restorable": true,
+      "reason": "archived_internal_regular_file",
+      "owner_bundle": "archive-028.tar.gz",
+      "owner_bundle_candidates": [
+        "archive-028.tar.gz"
+      ],
+      "owner_anchor_archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/statistical-inputs/input-bindings.json",
+      "target_bundle": "archive-022.tar.gz",
+      "target_archived_file_count": 1,
+      "target_bundles": [
+        "archive-022.tar.gz"
+      ]
+    }
+  ],
+  "excluded_dependency_links": [
+    {
+      "source_root": "创新药论文-完整归档-20260914",
+      "relative_path": "12-投稿定稿工作区/node_modules",
+      "archive_member": "创新药论文-完整归档-20260914/12-投稿定稿工作区/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/01a0dbb7-blind-review/node_modules",
+      "archive_member": "药企项目-创新药/outputs/01a0dbb7-blind-review/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ab-four-calibration-20261010/node_modules",
+      "archive_member": "药企项目-创新药/outputs/ab-four-calibration-20261010/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ab-review-20261010/node_modules",
+      "archive_member": "药企项目-创新药/outputs/ab-review-20261010/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/agent-validation-20261007-r2/audit-training/node_modules",
+      "archive_member": "药企项目-创新药/outputs/agent-validation-20261007-r2/audit-training/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-audit800-20261010/node_modules",
+      "archive_member": "药企项目-创新药/outputs/ai-audit800-20261010/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/ai-blind200-20261012/_build/node_modules",
+      "archive_member": "药企项目-创新药/outputs/ai-blind200-20261012/_build/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/autocode-v25-20260927/node_modules",
+      "archive_member": "药企项目-创新药/outputs/autocode-v25-20260927/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/autocode-v27-20260930/node_modules",
+      "archive_member": "药企项目-创新药/outputs/autocode-v27-20260930/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/autocode-v27-final-20261004-1034/node_modules",
+      "archive_member": "药企项目-创新药/outputs/autocode-v27-final-20261004-1034/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/autocode-v28-review-20261004-111306/node_modules",
+      "archive_member": "药企项目-创新药/outputs/autocode-v28-review-20261004-111306/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/coding-revision-20261008-r4/ac-original-text-workbooks/node_modules",
+      "archive_member": "药企项目-创新药/outputs/coding-revision-20261008-r4/ac-original-text-workbooks/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/final-three-department-20261007/node_modules",
+      "archive_member": "药企项目-创新药/outputs/final-three-department-20261007/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/05-validation/formal800-xlsx-reception-adapter-sol/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-reception-adapter-sol/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/_build/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/_build/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/innovation-fairness-positive-review-root/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/innovation-fairness-positive-review-root/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/targeted-calibration35-root/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/targeted-calibration35-root/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/补充判读-122条/管理员留存-勿发编码者/_build/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/补充判读-122条/管理员留存-勿发编码者/_build/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/管理员留存-勿发编码者/_build/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/管理员留存-勿发编码者/_build/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/_support/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/_support/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/goal-calibration-20261010/scripts/node_modules",
+      "archive_member": "药企项目-创新药/outputs/goal-calibration-20261010/scripts/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/recall-revision-20261007/node_modules",
+      "archive_member": "药企项目-创新药/outputs/recall-revision-20261007/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/validation-expansion-20260926/node_modules",
+      "archive_member": "药企项目-创新药/outputs/validation-expansion-20260926/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/编码修订核查-20261008/人工参照复核/手册校准准备-20261010/材料整理记录/node_modules",
+      "archive_member": "药企项目-创新药/outputs/编码修订核查-20261008/人工参照复核/手册校准准备-20261010/材料整理记录/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/编码修订核查-20261008/人工参照复核/新定义概率180复核同步02/admin/node_modules",
+      "archive_member": "药企项目-创新药/outputs/编码修订核查-20261008/人工参照复核/新定义概率180复核同步02/admin/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/编码修订核查-20261008/人工参照复核/新定义概率180复核草稿01/admin/node_modules",
+      "archive_member": "药企项目-创新药/outputs/编码修订核查-20261008/人工参照复核/新定义概率180复核草稿01/admin/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    },
+    {
+      "source_root": "药企项目-创新药",
+      "relative_path": "outputs/编码修订核查-20261008/统计复算/真人确认40条-指标验证-20261010/本对话同手册复检-20261010/本轮结果/node_modules",
+      "archive_member": "药企项目-创新药/outputs/编码修订核查-20261008/统计复算/真人确认40条-指标验证-20261010/本对话同手册复检-20261010/本轮结果/node_modules",
+      "entry_type": "directory",
+      "reason": "reinstallable_dependency_or_cache",
+      "restorable": false
+    }
+  ],
+  "restorable_directory_links": 8
+}

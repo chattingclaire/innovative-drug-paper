@@ -1,0 +1,9 @@
+# v19 v4 / source v15 development77 first attempt
+
+This new subdirectory freezes the immutable v4 general semantic repair candidate (`rule-v19-human4-general-repair-development-candidate-4`) and the same candidate clarification manual with the exact same shared v15 development77 packet. It is a disclosed-label development regression (77 records, 385 slots), with no blind, formal, independent-human validation or accuracy calculation. V2 preparation remains sealed and unexecuted; v3 preparation was not created.
+
+The v4 driver requires 10 implementation bindings: five inference dependencies and five coder modules. All 112 v15 source-material whitelist entries remain exact, with the candidate manual added as the 113th runtime material. The source packet is the sole approved actual77 input; source availability grants no reading/use receipt. The original 13 native batches contribute only source ID-order metadata already present in the v15 delivery manifest.
+
+Scope preparation imports no coder and executes no record. No ROOT GO record is created during preparation. The pre-run seal binds the scope, scripts, code/material hashes, author v4 seal, source seal, and preserved v2 pre-run seal. The launcher requires explicit ROOT GO bound to this exact scope and seal, plus independent fixed43 evidence with all 43 passed. It also rejects any previous v2 actual attempt.
+
+The first output path is this directory's `run77-first` subdirectory. The launcher commits an exclusive actual-launch record before starting one process, streams stdout/stderr into exclusive files, and preserves all failed attempt output without retry or overwrite. The driver retains its executed read/use/request events and seals its own output. Post-run reporting may cover execution count, nulls, technical failures, versions and independently verified trace/quote/source-view bindings only. No new800 or all4481 run is authorized.

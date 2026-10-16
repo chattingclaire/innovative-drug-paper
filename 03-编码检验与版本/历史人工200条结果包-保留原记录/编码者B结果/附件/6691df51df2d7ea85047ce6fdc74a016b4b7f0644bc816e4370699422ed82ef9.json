@@ -1,0 +1,142 @@
+{
+  "availability_binding": "exact original PDF SHA in source_documents; no record-ID, keyword or coding filter",
+  "base_frame_bundle_bindings": {
+    "bytes": 4401850,
+    "sha256": "7de3b8cad91897dbf6bfee5b48e653c7a1fae234f95e957228856ac7f9c6630c"
+  },
+  "base_frame_bundles": {
+    "bytes": 74440089,
+    "sha256": "3dc430e475d0ff81548f1c5fa937df56bc80ae7d8d02fc1ed17b2499e101e604"
+  },
+  "base_interface": {
+    "bytes": 5182,
+    "sha256": "d3662ffda2de485fccfc07864fb60c97f1c301c9fadabacbb49f0ed3e38c5715"
+  },
+  "base_source_interface_seal": {
+    "bytes": 9280,
+    "sha256": "628bbec47f94546cf228ebd1f8fefbd8b8f1673164c0fef127f65abfe3f5f4aa"
+  },
+  "binding_source_pdf_sha256": "64ac48e58753780279df45a96c595f6415e84fef087a316b66f26def2cd5658c",
+  "common_source_bundle_version_policy": "preserve original base identity exactly; extension recorded separately",
+  "consumer_read_status": "not_recorded",
+  "consumer_use_status": "not_recorded",
+  "extract_chain_file": {
+    "bytes": 5821,
+    "sha256": "455d73769c59a1cc9de3232ba8807ef6a17436d63eb48b729669b64754b909fb"
+  },
+  "original_pdf": {
+    "bytes": 4021449,
+    "sha256": "64ac48e58753780279df45a96c595f6415e84fef087a316b66f26def2cd5658c"
+  },
+  "page_extractions": [
+    {
+      "command_arguments": [
+        "/opt/homebrew/bin/pdftotext",
+        "-f",
+        "8",
+        "-l",
+        "8",
+        "-layout",
+        "［本地来源路径已隐藏］",
+        "-"
+      ],
+      "exact_text_and_UTF8_byte_equality_including_formfeed": true,
+      "formfeed_count": 1,
+      "original_material_block": {
+        "key": "03876补材8",
+        "text_sha256": "378559dab6497f243c8683ff9fd87ea8d23aa5cdef4ae85fd83388906f396c66",
+        "text_utf8_bytes": 1775
+      },
+      "output_file": {
+        "bytes": 1775,
+        "sha256": "378559dab6497f243c8683ff9fd87ea8d23aa5cdef4ae85fd83388906f396c66"
+      },
+      "physical_page": 8
+    },
+    {
+      "command_arguments": [
+        "/opt/homebrew/bin/pdftotext",
+        "-f",
+        "9",
+        "-l",
+        "9",
+        "-layout",
+        "［本地来源路径已隐藏］",
+        "-"
+      ],
+      "exact_text_and_UTF8_byte_equality_including_formfeed": true,
+      "formfeed_count": 1,
+      "original_material_block": {
+        "key": "03876补材9",
+        "text_sha256": "4faee54c3125372e4055f62adcb50877a3c4e197b6f9c56d19c120d97df672e8",
+        "text_utf8_bytes": 1045
+      },
+      "output_file": {
+        "bytes": 1045,
+        "sha256": "4faee54c3125372e4055f62adcb50877a3c4e197b6f9c56d19c120d97df672e8"
+      },
+      "physical_page": 9
+    },
+    {
+      "command_arguments": [
+        "/opt/homebrew/bin/pdftotext",
+        "-f",
+        "20",
+        "-l",
+        "20",
+        "-layout",
+        "［本地来源路径已隐藏］",
+        "-"
+      ],
+      "exact_text_and_UTF8_byte_equality_including_formfeed": true,
+      "formfeed_count": 1,
+      "original_material_block": {
+        "key": "03876补材20",
+        "text_sha256": "fa9fe714165253cb5a2a39fbc5ac186245ced76341c26595a2e97005fcf6141f",
+        "text_utf8_bytes": 1718
+      },
+      "output_file": {
+        "bytes": 1718,
+        "sha256": "fa9fe714165253cb5a2a39fbc5ac186245ced76341c26595a2e97005fcf6141f"
+      },
+      "physical_page": 20
+    },
+    {
+      "command_arguments": [
+        "/opt/homebrew/bin/pdftotext",
+        "-f",
+        "21",
+        "-l",
+        "21",
+        "-layout",
+        "［本地来源路径已隐藏］",
+        "-"
+      ],
+      "exact_text_and_UTF8_byte_equality_including_formfeed": true,
+      "formfeed_count": 1,
+      "original_material_block": {
+        "key": "03876补材21",
+        "text_sha256": "ad043d798d724d40729e5dfc6990258301f8f7c2acf4d324f1ea1f9e0e1a6df3",
+        "text_utf8_bytes": 1520
+      },
+      "output_file": {
+        "bytes": 1520,
+        "sha256": "ad043d798d724d40729e5dfc6990258301f8f7c2acf4d324f1ea1f9e0e1a6df3"
+      },
+      "physical_page": 21
+    }
+  ],
+  "payload_canonical_view_sha256": "826591b6766f63e9d0ec85c2a58982a0459675b9dc398c343ddebec7ced9fb9e",
+  "payload_file": {
+    "bytes": 9170,
+    "sha256": "826591b6766f63e9d0ec85c2a58982a0459675b9dc398c343ddebec7ced9fb9e"
+  },
+  "semantic_applicability_granted": false,
+  "source_text_resource_metadata": {
+    "bytes": 9170,
+    "sha256": "826591b6766f63e9d0ec85c2a58982a0459675b9dc398c343ddebec7ced9fb9e",
+    "source_pdf_sha256": "64ac48e58753780279df45a96c595f6415e84fef087a316b66f26def2cd5658c"
+  },
+  "v12_source_base": "［本地来源路径已隐藏］",
+  "version": "source-interface/v15-same-PDF-physical-page-text"
+}

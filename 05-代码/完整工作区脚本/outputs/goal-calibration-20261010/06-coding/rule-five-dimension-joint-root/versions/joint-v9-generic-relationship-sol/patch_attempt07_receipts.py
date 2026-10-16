@@ -1,0 +1,5 @@
+from pathlib import Path
+P=Path(__file__).resolve().parent;q=P/'relations.py';s=q.read_text()
+s=s.replace("        if len(eligible)==1 and member:\n            self._v9_emit([self._quote(eligible[0],'当前成员直接父句明文限定1类创新临床对象及通道准入后果')],'direct_innovative_trial_qualification_member',['I'],'当前实质创新临床准入成员承接直接父句的对象及后果；非兄弟条件',current_member=self.norm,direct_parent=eligible[0]['text'])", "        if len(eligible)==1 and member:\n            binding=self._se_parent_binding(eligible[0])\n            if not binding or binding.get('role_only_not_independent_source_verification') is not False:binding=self._v9_ordered_parent_binding(eligible[0],current)\n            evidence=[self._quote(eligible[0],'当前成员直接父句明文限定1类创新临床对象及通道准入后果')]\n            if binding.get('scope_quote'):evidence.append(binding['scope_quote'])\n            self._v9_emit(evidence,'direct_innovative_trial_qualification_member',['I'],'当前实质创新临床准入成员承接直接父句的对象及后果；非兄弟条件',current_member=self.norm,direct_parent=eligible[0]['text'],direct_parent_governance_proof=binding)")
+s=s.replace("re.search('支持符合条件的全球同步研发品种[^。；;]{0,30}纳入\\d+日通道',text)", "re.search(r'支持符合条件的全球同步研发品种[^。；;]{0,30}纳入\\d+日通道',text)")
+q.write_text(s)

@@ -1,0 +1,161 @@
+from __future__ import annotations
+
+import argparse
+import datetime
+import hashlib
+import json
+from pathlib import Path
+
+from relation_coder_v04 import DIMENSIONS, MANUAL_SHA256, VERSION, code_unit
+
+
+HERE = Path(__file__).resolve().parent
+CAMPAIGN = HERE.parent
+INPUT_DIR = CAMPAIGN / "无答案输入"
+
+
+def sha(path: Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def write_json(path: Path, value) -> None:
+    assert not path.exists(), f"preserve existing actual artifact: {path.name}"
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n")
+
+
+def load_control_cases() -> tuple[list[dict], list[dict]]:
+    v02_path = HERE / "关系控制_v02.json"
+    v03_path = HERE / "关系控制_v03.json"
+    v04_path = HERE / "关系控制_v04.json"
+    v02 = json.loads(v02_path.read_text())
+    v03 = json.loads(v03_path.read_text())
+    v04 = json.loads(v04_path.read_text())
+    assert v02["manual_sha256"] == v03["manual_sha256"] == v04["manual_sha256"] == MANUAL_SHA256
+    superseded = {"F08", "F09"}
+    cases = [case for case in v02["controls"] if case["id"] not in superseded]
+    cases.extend(v03["controls"])
+    cases.extend(v04["controls"])
+    assert len({case["id"] for case in cases}) == len(cases)
+    bindings = [
+        {"path": str(v02_path), "sha256": sha(v02_path), "excluded_superseded_case_ids": sorted(superseded)},
+        {"path": str(v03_path), "sha256": sha(v03_path)},
+        {"path": str(v04_path), "sha256": sha(v04_path)},
+    ]
+    return cases, bindings
+
+
+def run_controls() -> int:
+    cases, bindings = load_control_cases()
+    rows, failed = [], 0
+    for case in cases:
+        result = code_unit({"current_text": case["current_text"], "contexts": case.get("contexts", [])})
+        observed = {dimension: result["labels"][dimension] for dimension in case["expected"]}
+        passed = observed == case["expected"]
+        failed += int(not passed)
+        rows.append({
+            "id": case["id"],
+            "expected": case["expected"],
+            "observed": observed,
+            "passed": passed,
+            "reason": case["reason"],
+            "evidence": result["evidence"],
+            "exclusions": result["exclusions"],
+        })
+    report = {
+        "kind": "candidate04_predeclared_general_relation_controls",
+        "version": VERSION,
+        "manual_sha256": MANUAL_SHA256,
+        "development_status": "after_candidate03_evaluation_and_independent_semantic_audits_not_independent_validation",
+        "control_bindings": bindings,
+        "coder_sha256": sha(HERE / "relation_coder_v04.py"),
+        "preserved_base_coder_sha256": sha(HERE / "relation_coder_v03.py"),
+        "n": len(rows),
+        "passed_n": len(rows) - failed,
+        "failed_n": failed,
+        "rows": rows,
+        "completed_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+    }
+    write_json(HERE / f"控制执行结果-{VERSION}.json", report)
+    print(json.dumps({"n": len(rows), "passed_n": len(rows) - failed, "failed_n": failed}, ensure_ascii=False))
+    return 1 if failed else 0
+
+
+def load_units() -> tuple[list[dict], list[dict]]:
+    units, bindings = [], []
+    for path in sorted(INPUT_DIR.glob("批次*.json")):
+        payload = json.loads(path.read_text())
+        assert payload["manual_sha256"] == MANUAL_SHA256
+        units.extend(payload["units"])
+        bindings.append({"path": str(path), "sha256": sha(path), "n": len(payload["units"])})
+    assert len(units) == len({unit["material_id"] for unit in units}) == 40
+    return units, bindings
+
+
+def run_predictions() -> int:
+    manual_path = INPUT_DIR / "共用编码手册.md"
+    assert sha(manual_path) == MANUAL_SHA256
+    controls_path = HERE / f"控制执行结果-{VERSION}.json"
+    controls = json.loads(controls_path.read_text())
+    assert controls["failed_n"] == 0, "do not run 40 units after a failed control set"
+    units, bindings = load_units()
+    rows = []
+    for unit in units:
+        prediction_input = {"current_text": unit["current_text"], "contexts": unit.get("contexts", [])}
+        rows.append({"material_id": unit["material_id"], "prediction": code_unit(prediction_input)})
+    output_path = HERE / f"40条规则实际输出-{VERSION}.jsonl"
+    assert not output_path.exists(), f"preserve existing actual artifact: {output_path.name}"
+    output_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows))
+    manifest = {
+        "kind": "continued_development_execution_after_candidate03_evaluation_semantic_audits_and_candidate17_adjudication",
+        "version": VERSION,
+        "manual_path": str(manual_path),
+        "manual_sha256": sha(manual_path),
+        "input_batches": bindings,
+        "input_unit_count": len(units),
+        "output_path": str(output_path),
+        "output_sha256": sha(output_path),
+        "coder_path": str(HERE / "relation_coder_v04.py"),
+        "coder_sha256": sha(HERE / "relation_coder_v04.py"),
+        "base_coder_path": str(HERE / "relation_coder_v03.py"),
+        "base_coder_sha256": sha(HERE / "relation_coder_v03.py"),
+        "runner_path": str(Path(__file__).resolve()),
+        "runner_sha256": sha(Path(__file__).resolve()),
+        "control_definition_path": str(HERE / "关系控制_v04.json"),
+        "control_definition_sha256": sha(HERE / "关系控制_v04.json"),
+        "control_result_path": str(controls_path),
+        "control_result_sha256": sha(controls_path),
+        "control_failures_preserved": controls["failed_n"],
+        "status_counts": {"completed": len(rows)},
+        "label_positive_counts": {
+            dimension: sum(row["prediction"]["labels"][dimension] for row in rows)
+            for dimension in DIMENSIONS
+        },
+        "evidence_n": sum(len(row["prediction"]["evidence"]) for row in rows),
+        "excluded_candidate_n": sum(len(row["prediction"]["exclusions"]) for row in rows),
+        "prediction_fields_consumed": ["current_text", "contexts"],
+        "reference_or_prior_prediction_loaded_during_prediction": False,
+        "developer_had_seen_candidate03_evaluation_and_semantic_audits_before_candidate04": True,
+        "candidate17_adjudication_known_but_reference_file_not_loaded_during_prediction": True,
+        "candidate17_decided_by_general_current_rule_context_chain_not_material_id": True,
+        "source_files_opened_for_prediction": False,
+        "full_4480_run": False,
+        "completed_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+    }
+    write_json(HERE / f"40条规则实际执行记录-{VERSION}.json", manifest)
+    print(json.dumps({
+        "n": len(rows),
+        "positive_counts": manifest["label_positive_counts"],
+        "output_sha256": manifest["output_sha256"],
+    }, ensure_ascii=False))
+    return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("mode", choices=("controls", "predict"))
+    args = parser.parse_args()
+    return run_controls() if args.mode == "controls" else run_predictions()
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

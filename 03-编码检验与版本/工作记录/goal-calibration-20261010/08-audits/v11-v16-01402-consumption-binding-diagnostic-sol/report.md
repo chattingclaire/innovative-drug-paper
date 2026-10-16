@@ -1,0 +1,7 @@
+首个失配：actual events[14]（BODY前置后；view.source_view_events[13]），SOURCETEXT-09d813b3014db413-NP013 / text。原source SHA 09d813b3014db4137d2bceab8bc280c396a5916fafa7bb4c216c5798ae824d06；literal view SHA 70c4d7e260d73b470e7f68023054718381eef7aaaed9538baca4182a512cbca9。producer及resolved inventory都无该ID。
+
+五个新source_texts均缺inventory条目；旧9段在source_full_text_resources有镜像，故旧事件可核。两份document_bundle哈希均匹配，没有raw/resolved SHA桥接变化，也没有源字面值冲突。实际view事件和关系使用日志保留，uniform log未返回；静态inventory投影明确标注非runtime返回日志。
+
+建议仅新增运输层中性literal inventory adapter，从冻结source_texts及独立原源JSON/HTML绑定登记缺失text视图；producer原库存和旧条目原样保留，新增来源证明单列。相同扩展inventory须用于prepare、check、resolver及actual_reading_log；不删事件、不放宽guard、不改协议/C/材料/期待。ROOT另授权仅14技术恢复，43条首轮有效结果和全部失败保留。
+
+实际driver已先judge/validate并留下diagnostic-only，随后actual_reading_log失败；这不构成有效预测，retained labels/decisions仍null。此次0 classifier、0 model、0 rerun，无任何冻结输入修改。

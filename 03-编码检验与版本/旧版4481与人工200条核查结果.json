@@ -1,0 +1,713 @@
+{
+  "role": "旧版已保存输出与既有独立人工检验的对照；人工来源按用户2026-10-14纠正认定",
+  "reference_process": {
+    "date": "2026-10-14",
+    "timezone": "Asia/Shanghai",
+    "source": "用户在当前对话中的直接纠正",
+    "statements": [
+      "那个就是真人做的 之前记录错误了",
+      "就是独立检验"
+    ],
+    "scope": "正在核查的现有200条、1000项人工检验结果",
+    "independent_human_validation": true,
+    "correction": "此前文件关于AI辅助后由用户确认的来源描述有误；本次及后续报告按用户纠正认定为独立人工检验。",
+    "label_changes": 0,
+    "limitations_of_this_record": "本更正只订正人工来源与独立检验身份；不据此生成两位编码者的独立首判差异或信度数字。历史文件保留，并由本更正记录覆盖其冲突描述。"
+  },
+  "superseded_reference_process_record": {
+    "reviewer_type": "真人",
+    "reviewer": "用户本人",
+    "recording_method": "AI依据用户确认代录",
+    "date": "2026-10-13",
+    "stage": "AI辅助后的真人核验确认",
+    "statements": [
+      "我人工核验与你的结果一致你填写一下结果然后给我对应的文件路径吧 填写为真人就可以",
+      "5项全部确认填1"
+    ],
+    "independently_blinded_human_submissions": 0,
+    "scope": "整合982项原A/B一致值与18项用户确认的复核结果；5项边界均按用户明确回复填1。"
+  },
+  "scope": {
+    "sample_N": 200,
+    "sampling_frame_N": 1151,
+    "full_N": 4481,
+    "original77_overlap": 0,
+    "registered_exposed_overlap": 0,
+    "material_byte_equal_N": 200,
+    "reference_independent_of_AI": true,
+    "independence_basis": "user_correction_20261014",
+    "retrospective_old_version_comparison": true,
+    "model_calls": 0,
+    "source_labels_modified": false
+  },
+  "source_bindings": {
+    "original77_recheck": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/原77条复算.json",
+      "bytes": 10047,
+      "sha256": "6ae70151bc264b33166d3879771dbbb00ce2f6a3ce03601ef2a4f26568ffc80c"
+    },
+    "rule": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v2-root/run4481-first/predictions.jsonl",
+      "sha256": "3ce3f8d0cce25010312d3c697c8f84ed91e6f3e406f62f4962511f1a728e5552",
+      "bytes": 32545085
+    },
+    "LLM": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/original-whole-batch-native-full4481-cap13-root/selected-records.jsonl",
+      "bytes": 20487490,
+      "sha256": "81292416db64552eeb0b8043542be142223ec04e01799bb0ab3becfe8a7361f9"
+    },
+    "draw": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/管理员留存-勿发编码者/draw.json",
+      "bytes": 48451,
+      "sha256": "ff357b023121be0e4560b6b73f2f86b96d38c7746efedea277f49aa5112d8631"
+    },
+    "freeze": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/管理员留存-勿发编码者/sampling-freeze.json",
+      "bytes": 111706,
+      "sha256": "ea1f791fcbee233d7a7fec1341b821532f704b75b7a142ac91715c5a7296bc1f"
+    },
+    "reference": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验结果.json",
+      "bytes": 424240,
+      "sha256": "882b355ccc26a983a609eace8d3193ee046a654642473a0dfa5450afb95a6b88"
+    },
+    "reference_description": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/提交说明.txt",
+      "bytes": 1316,
+      "sha256": "4aedeea86b35ffb520723bf29a850958ec2eb051ee43566611dc04bafd41cfbe"
+    },
+    "manual": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/full4481-common-release-20261010-root/manual.txt",
+      "bytes": 46171,
+      "sha256": "5ea7ab74d30fb79c4cbd1d7d6b2ae40c4f52a52360075f3552199de949f9cc7b"
+    },
+    "metadata": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/current-validation/exposure/candidate-frame.jsonl",
+      "bytes": 2324020,
+      "sha256": "5100cd0c0cee7cee629e1b95a89abd43a4e561a196f6b9e25f7023684c242612"
+    },
+    "user_provenance_correction": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/人工独立检验记录更正-20261014.json",
+      "bytes": 714,
+      "sha256": "2769d6f3f538bb85062c1a751a4076d642199a6245edc4727781351cb1a33df5"
+    },
+    "script": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/audit_saved_old_version.py",
+      "bytes": 11643,
+      "sha256": "1694e468878bfb09b27eb4bfa8857e365609c54e881e0708ff3f212c1685d911"
+    }
+  },
+  "comparisons": [
+    {
+      "method": "rule",
+      "dimension": "S",
+      "sample_N": 200,
+      "binary_N": 198,
+      "null_ids": [
+        "RECODE25-00123",
+        "RECODE25-00111"
+      ],
+      "TP_FP_FN_TN": [
+        13,
+        1,
+        12,
+        172
+      ],
+      "raw_metrics": {
+        "kappa": 0.6334377670179436,
+        "precision": 0.9285714285714286,
+        "recall": 0.52,
+        "F1": 0.6666666666666666
+      },
+      "design_weighted_cells_exact": [
+        "454991/5418",
+        "595/86",
+        "5627/86",
+        "5378305/5418"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.6660799434892699,
+        "precision": 0.9238846156970086,
+        "recall": 0.5620697919188825,
+        "F1": 0.6989280842539909
+      }
+    },
+    {
+      "method": "rule",
+      "dimension": "E",
+      "sample_N": 200,
+      "binary_N": 198,
+      "null_ids": [
+        "RECODE25-00123",
+        "RECODE25-00111"
+      ],
+      "TP_FP_FN_TN": [
+        5,
+        0,
+        6,
+        187
+      ],
+      "raw_metrics": {
+        "kappa": 0.6115107913669064,
+        "precision": 1.0,
+        "recall": 0.45454545454545453,
+        "F1": 0.625
+      },
+      "design_weighted_cells_exact": [
+        "1233/43",
+        "0",
+        "2043/86",
+        "94305/86"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.6973309564314994,
+        "precision": 1.0,
+        "recall": 0.5469061876247505,
+        "F1": 0.7070967741935484
+      }
+    },
+    {
+      "method": "rule",
+      "dimension": "Ec",
+      "sample_N": 200,
+      "binary_N": 198,
+      "null_ids": [
+        "RECODE25-00123",
+        "RECODE25-00111"
+      ],
+      "TP_FP_FN_TN": [
+        15,
+        2,
+        5,
+        176
+      ],
+      "raw_metrics": {
+        "kappa": 0.7914535058681914,
+        "precision": 0.8823529411764706,
+        "recall": 0.75,
+        "F1": 0.8108108108108109
+      },
+      "design_weighted_cells_exact": [
+        "875/9",
+        "866/63",
+        "1795/63",
+        "63601/63"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.8011389508496506,
+        "precision": 0.8761264482906594,
+        "recall": 0.7733585858585859,
+        "F1": 0.8215411441217892
+      }
+    },
+    {
+      "method": "rule",
+      "dimension": "I",
+      "sample_N": 200,
+      "binary_N": 198,
+      "null_ids": [
+        "RECODE25-00123",
+        "RECODE25-00111"
+      ],
+      "TP_FP_FN_TN": [
+        0,
+        0,
+        30,
+        168
+      ],
+      "raw_metrics": {
+        "kappa": 0.0,
+        "precision": null,
+        "recall": 0.0,
+        "F1": 0.0
+      },
+      "design_weighted_cells_exact": [
+        "0",
+        "0",
+        "30",
+        "1119"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.0,
+        "precision": null,
+        "recall": 0.0,
+        "F1": 0.0
+      }
+    },
+    {
+      "method": "rule",
+      "dimension": "F",
+      "sample_N": 200,
+      "binary_N": 198,
+      "null_ids": [
+        "RECODE25-00123",
+        "RECODE25-00111"
+      ],
+      "TP_FP_FN_TN": [
+        0,
+        0,
+        14,
+        184
+      ],
+      "raw_metrics": {
+        "kappa": 0.0,
+        "precision": null,
+        "recall": 0.0,
+        "F1": 0.0
+      },
+      "design_weighted_cells_exact": [
+        "0",
+        "0",
+        "1713/86",
+        "97101/86"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.0,
+        "precision": null,
+        "recall": 0.0,
+        "F1": 0.0
+      }
+    },
+    {
+      "method": "LLM",
+      "dimension": "S",
+      "sample_N": 200,
+      "binary_N": 199,
+      "null_ids": [
+        "RECODE25-00084"
+      ],
+      "TP_FP_FN_TN": [
+        25,
+        2,
+        2,
+        170
+      ],
+      "raw_metrics": {
+        "kappa": 0.9142980189491817,
+        "precision": 0.9259259259259259,
+        "recall": 0.9259259259259259,
+        "F1": 0.9259259259259259
+      },
+      "design_weighted_cells_exact": [
+        "5914/43",
+        "595/43",
+        "874/63",
+        "5303335/5418"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.8945235403361399,
+        "precision": 0.9085881087724689,
+        "recall": 0.9083732360714251,
+        "F1": 0.9084806597165921
+      }
+    },
+    {
+      "method": "LLM",
+      "dimension": "E",
+      "sample_N": 200,
+      "binary_N": 199,
+      "null_ids": [
+        "RECODE25-00084"
+      ],
+      "TP_FP_FN_TN": [
+        13,
+        0,
+        0,
+        186
+      ],
+      "raw_metrics": {
+        "kappa": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "F1": 1.0
+      },
+      "design_weighted_cells_exact": [
+        "4681/86",
+        "0",
+        "0",
+        "46855/43"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "F1": 1.0
+      }
+    },
+    {
+      "method": "LLM",
+      "dimension": "Ec",
+      "sample_N": 200,
+      "binary_N": 199,
+      "null_ids": [
+        "RECODE25-00084"
+      ],
+      "TP_FP_FN_TN": [
+        20,
+        2,
+        0,
+        177
+      ],
+      "raw_metrics": {
+        "kappa": 0.9467772131585985,
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "F1": 0.9523809523809523
+      },
+      "design_weighted_cells_exact": [
+        "880/7",
+        "496/63",
+        "0",
+        "5474857/5418"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.9657611344178376,
+        "precision": 0.94106463878327,
+        "recall": 1.0,
+        "F1": 0.9696376101860921
+      }
+    },
+    {
+      "method": "LLM",
+      "dimension": "I",
+      "sample_N": 200,
+      "binary_N": 199,
+      "null_ids": [
+        "RECODE25-00084"
+      ],
+      "TP_FP_FN_TN": [
+        30,
+        2,
+        2,
+        165
+      ],
+      "raw_metrics": {
+        "kappa": 0.9255239520958084,
+        "precision": 0.9375,
+        "recall": 0.9375,
+        "F1": 0.9375
+      },
+      "design_weighted_cells_exact": [
+        "30",
+        "2",
+        "2",
+        "95467/86"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.9357015704890265,
+        "precision": 0.9375,
+        "recall": 0.9375,
+        "F1": 0.9375
+      }
+    },
+    {
+      "method": "LLM",
+      "dimension": "F",
+      "sample_N": 200,
+      "binary_N": 199,
+      "null_ids": [
+        "RECODE25-00084"
+      ],
+      "TP_FP_FN_TN": [
+        15,
+        1,
+        1,
+        182
+      ],
+      "raw_metrics": {
+        "kappa": 0.932035519125683,
+        "precision": 0.9375,
+        "recall": 0.9375,
+        "F1": 0.9375
+      },
+      "design_weighted_cells_exact": [
+        "15",
+        "1",
+        "595/86",
+        "48210/43"
+      ],
+      "design_weighted_metrics": {
+        "kappa": 0.7877364982241283,
+        "precision": 0.9375,
+        "recall": 0.6843501326259946,
+        "F1": 0.7911683532658693
+      }
+    }
+  ],
+  "full_descriptive_counts": [
+    {
+      "method": "rule",
+      "department": "ALL",
+      "N": 4481,
+      "positive_counts": {
+        "S": 270,
+        "E": 160,
+        "Ec": 571,
+        "I": 61,
+        "F": 41
+      },
+      "null_counts": {
+        "S": 30,
+        "E": 31,
+        "Ec": 23,
+        "I": 32,
+        "F": 31
+      },
+      "positive_label_total": 1103,
+      "share_among_known_positive_labels": {
+        "S": 0.24478694469628287,
+        "E": 0.14505893019038985,
+        "Ec": 0.5176790571169537,
+        "I": 0.05530371713508613,
+        "F": 0.0371713508612874
+      },
+      "rank": [
+        "Ec",
+        "S",
+        "E",
+        "I",
+        "F"
+      ]
+    },
+    {
+      "method": "rule",
+      "department": "NMPA",
+      "N": 1848,
+      "positive_counts": {
+        "S": 206,
+        "E": 119,
+        "Ec": 0,
+        "I": 22,
+        "F": 27
+      },
+      "null_counts": {
+        "S": 18,
+        "E": 18,
+        "Ec": 19,
+        "I": 19,
+        "F": 18
+      },
+      "positive_label_total": 374,
+      "share_among_known_positive_labels": {
+        "S": 0.5508021390374331,
+        "E": 0.3181818181818182,
+        "Ec": 0.0,
+        "I": 0.058823529411764705,
+        "F": 0.07219251336898395
+      },
+      "rank": [
+        "S",
+        "E",
+        "F",
+        "I",
+        "Ec"
+      ]
+    },
+    {
+      "method": "rule",
+      "department": "NHSA",
+      "N": 2100,
+      "positive_counts": {
+        "S": 34,
+        "E": 28,
+        "Ec": 550,
+        "I": 33,
+        "F": 11
+      },
+      "null_counts": {
+        "S": 12,
+        "E": 13,
+        "Ec": 4,
+        "I": 13,
+        "F": 13
+      },
+      "positive_label_total": 656,
+      "share_among_known_positive_labels": {
+        "S": 0.051829268292682924,
+        "E": 0.042682926829268296,
+        "Ec": 0.8384146341463414,
+        "I": 0.05030487804878049,
+        "F": 0.01676829268292683
+      },
+      "rank": [
+        "Ec",
+        "S",
+        "I",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "method": "rule",
+      "department": "NHC",
+      "N": 533,
+      "positive_counts": {
+        "S": 30,
+        "E": 13,
+        "Ec": 21,
+        "I": 6,
+        "F": 3
+      },
+      "null_counts": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "positive_label_total": 73,
+      "share_among_known_positive_labels": {
+        "S": 0.410958904109589,
+        "E": 0.1780821917808219,
+        "Ec": 0.2876712328767123,
+        "I": 0.0821917808219178,
+        "F": 0.0410958904109589
+      },
+      "rank": [
+        "S",
+        "Ec",
+        "E",
+        "I",
+        "F"
+      ]
+    },
+    {
+      "method": "LLM",
+      "department": "ALL",
+      "N": 4481,
+      "positive_counts": {
+        "S": 571,
+        "E": 405,
+        "Ec": 919,
+        "I": 301,
+        "F": 170
+      },
+      "null_counts": {
+        "S": 11,
+        "E": 13,
+        "Ec": 10,
+        "I": 12,
+        "F": 14
+      },
+      "positive_label_total": 2366,
+      "share_among_known_positive_labels": {
+        "S": 0.24133558748943365,
+        "E": 0.17117497886728655,
+        "Ec": 0.3884192730346577,
+        "I": 0.12721893491124261,
+        "F": 0.07185122569737955
+      },
+      "rank": [
+        "Ec",
+        "S",
+        "E",
+        "I",
+        "F"
+      ]
+    },
+    {
+      "method": "LLM",
+      "department": "NMPA",
+      "N": 1848,
+      "positive_counts": {
+        "S": 441,
+        "E": 304,
+        "Ec": 5,
+        "I": 229,
+        "F": 112
+      },
+      "null_counts": {
+        "S": 8,
+        "E": 9,
+        "Ec": 8,
+        "I": 10,
+        "F": 11
+      },
+      "positive_label_total": 1091,
+      "share_among_known_positive_labels": {
+        "S": 0.40421631530705776,
+        "E": 0.27864344637946836,
+        "Ec": 0.00458295142071494,
+        "I": 0.20989917506874428,
+        "F": 0.10265811182401467
+      },
+      "rank": [
+        "S",
+        "E",
+        "I",
+        "F",
+        "Ec"
+      ]
+    },
+    {
+      "method": "LLM",
+      "department": "NHSA",
+      "N": 2100,
+      "positive_counts": {
+        "S": 80,
+        "E": 80,
+        "Ec": 878,
+        "I": 67,
+        "F": 43
+      },
+      "null_counts": {
+        "S": 2,
+        "E": 3,
+        "Ec": 1,
+        "I": 1,
+        "F": 2
+      },
+      "positive_label_total": 1148,
+      "share_among_known_positive_labels": {
+        "S": 0.06968641114982578,
+        "E": 0.06968641114982578,
+        "Ec": 0.764808362369338,
+        "I": 0.05836236933797909,
+        "F": 0.037456445993031356
+      },
+      "rank": [
+        "Ec",
+        "S",
+        "E",
+        "I",
+        "F"
+      ]
+    },
+    {
+      "method": "LLM",
+      "department": "NHC",
+      "N": 533,
+      "positive_counts": {
+        "S": 50,
+        "E": 21,
+        "Ec": 36,
+        "I": 5,
+        "F": 15
+      },
+      "null_counts": {
+        "S": 1,
+        "E": 1,
+        "Ec": 1,
+        "I": 1,
+        "F": 1
+      },
+      "positive_label_total": 127,
+      "share_among_known_positive_labels": {
+        "S": 0.3937007874015748,
+        "E": 0.16535433070866143,
+        "Ec": 0.28346456692913385,
+        "I": 0.03937007874015748,
+        "F": 0.11811023622047244
+      },
+      "rank": [
+        "S",
+        "Ec",
+        "E",
+        "F",
+        "I"
+      ]
+    }
+  ],
+  "difference_dimension_slots": 97,
+  "difference_records": 59
+}

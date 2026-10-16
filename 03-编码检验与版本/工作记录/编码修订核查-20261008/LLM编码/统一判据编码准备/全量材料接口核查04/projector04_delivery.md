@@ -1,0 +1,13 @@
+# projector04 有限递归边界修复交付
+
+04已另存，源码停止修改，等待独立复核。03的独立报告与首次四项FAIL保留；没有改写旧结果。
+
+本次只修复边界递归中的空成员检查：`emit_node`显式携带boundary_scope，在boundary、next_boundary、next_structure下沿既有声明的结构子项及列表成员传播。空dict或空list在其实际raw_pointer记录candidate_view问题及遗漏路径，不能消失后仍称view完整；原有非法标量与空白正文处理继续生效。一般可选locator元数据不进入该遍历，pages/source_lines/line_ids空列表可正常保留。正常文字、重复发生、段落位置、父子关系及有序成员继续按原规则投影。
+
+`implementation_scope04.json`及16项新构造设计先于语义修改保存；先复制03基线实际执行原28项与新16项，共44项，31PASS、13FAIL，保留在 `boundary04_before.json`。限定修复后44项全部通过，见 `boundary04_after.json`。原28项的fixture正文与预期逐项相同，执行时只适配目标代码身份；新增16项是实施者构造检查，不称独立复核。新构造覆盖深层空对象/空列表、合法与空成员混合、声明contexts/actual_heading/references/actual_list_siblings子结构、非法或空白成员，以及深层正常重复成员、可选空定位元数据等控制。
+
+原作者12项及旧独立02的33项也实际复现，45/45通过，另存 `existing45_reproduced04.json`。这45项是已有构造回归，不计新增独立样本。执行使用临时的原字节代码/validator副本，旧设计和结果未覆盖。语法解析通过；01、02、03既有文件共50份前后SHA不变。03原4FAIL、02原3FAIL及04基线13FAIL全部保留。
+
+04源码SHA为 `e8d20adcfdca24d9e9d8ab1e439bf3ed93c24bc1268f588c347a9708bc43859d`；差异仅VERSION和上述递归scope/空成员guard，见 `projector04_boundary_changes.diff`。source/candidate/image身份配对、leaf外部绑定判据、表格编码及实际认证逻辑均未改。`actual_source_authentication_verified`和`formal_model_input_ready`仍固定false，正式accessor在44项中全部拒绝。
+
+本轮只运行临时构造，没有读取真实4924政策正文、保护文本或人工标签，没有真实全量投影/导出，没有调用模型或规则。外部registry为接口夹具，不能视为真实字面来源证据。后续由root或未参与实现的复核者对04作有限独立检查，再判断是否可冻结；实际源leaf认证及正式模型输入就绪仍另行处理。本次通过不代表真实材料完整率、编码信效度或论文指标合格。

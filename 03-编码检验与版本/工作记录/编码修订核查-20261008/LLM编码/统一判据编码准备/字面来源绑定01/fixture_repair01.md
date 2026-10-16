@@ -1,0 +1,3 @@
+最终契约补查46项中的`candidate_repeated_unit_explicit_offset`因临时fixture文件重名而失败：source.txt与source.md此前都生成source-candidate.json，MD测试覆盖了TXT候选；复制出的重复段落候选因此实际链接MD，绑定器正确拒绝来源不一致。保留`constructed_execution_final01.json`。只将fixture候选文件名改为包括来源完整后缀，避免跨格式覆盖；不放松来源关系或改变该项预期。另存最终执行记录。
+
+先前`constructed_contract_initial01.json`保留3个真正契约缺口：HTML缺关闭节点仍绑定、representation字典未拒绝、DOCX仅表格文字未明确unsupported理由。修复了关闭边界、枚举/编码形状和unsupported诊断；原先36项及首次输出保留。DOCX表格预期始终为unbound，仅将泛化source_literal_absent原因具体化为unsupported，不改成通过的字面绑定。

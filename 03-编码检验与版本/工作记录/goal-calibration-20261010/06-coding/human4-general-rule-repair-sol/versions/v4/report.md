@@ -1,0 +1,5 @@
+v4单点保留出版宗旨句内“需要/需 + 实质动作”的独立内容要求，generic和其他维度谓词未改。P03当前“需要评价药物安全性”交原有评价判据消费；纯宗旨与文件后文不因此借成标签。v3原seal全部字节不变。
+
+先验和独立原失败绑定见modal-prior-expectations.json。复制v3后的真实attempt12为49例272检查中271通过、仅P03失败；修改后attempt13的49例272检查全部通过。原48控制保持，只加固定P03。modal-repair.patch仅有该一行语义变化及候选4身份同步。原四项根因、有限材料引文及真实运行先验指向已封存v3文件，见evidence-and-prior-bindings.json。
+
+这是标签已披露的AI开发修复，非盲、非正式验证，不宣称准确率提升。manualcandidate仍绑定7bb13ef1a5ad3d230abe5e786eb3dccd1ef4dfdc17a8f8ae4cbf2958d7229a65。独立代理将复跑同一43固定集；此seal未宣称独立通过。真实77/800/4481运行均为0，待ROOT对齐并另行授权。

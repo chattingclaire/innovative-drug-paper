@@ -1,0 +1,80 @@
+{
+  "input": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第六轮-20261015/关闭回归",
+  "counts": {
+    "agreed": 991,
+    "disagreed": 9
+  },
+  "metrics_verified_from_predictions_and_reference": [
+    {
+      "dimension": "S",
+      "binary_N": 200,
+      "pending_N": 0,
+      "TP": 26,
+      "FP": 0,
+      "FN": 1,
+      "TN": 173,
+      "agreement": 0.995,
+      "kappa": 0.9782514136581122,
+      "precision": 1.0,
+      "recall": 0.9629629629629629,
+      "F1": 0.9811320754716981
+    },
+    {
+      "dimension": "E",
+      "binary_N": 200,
+      "pending_N": 0,
+      "TP": 13,
+      "FP": 0,
+      "FN": 0,
+      "TN": 187,
+      "agreement": 1.0,
+      "kappa": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "dimension": "Ec",
+      "binary_N": 200,
+      "pending_N": 0,
+      "TP": 20,
+      "FP": 0,
+      "FN": 0,
+      "TN": 180,
+      "agreement": 1.0,
+      "kappa": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "dimension": "I",
+      "binary_N": 200,
+      "pending_N": 0,
+      "TP": 26,
+      "FP": 0,
+      "FN": 6,
+      "TN": 168,
+      "agreement": 0.97,
+      "kappa": 0.8792270531400965,
+      "precision": 1.0,
+      "recall": 0.8125,
+      "F1": 0.896551724137931
+    },
+    {
+      "dimension": "F",
+      "binary_N": 200,
+      "pending_N": 0,
+      "TP": 14,
+      "FP": 0,
+      "FN": 2,
+      "TN": 184,
+      "agreement": 0.99,
+      "kappa": 0.9279538904899134,
+      "precision": 1.0,
+      "recall": 0.875,
+      "F1": 0.9333333333333333
+    }
+  ],
+  "candidate_independent_validation": false
+}

@@ -1,0 +1,72 @@
+{
+  "total_papers": 207,
+  "successful_analysis": 207,
+  "level1_stats": {
+    "pharma": 195,
+    "government": 164,
+    "research": 95,
+    "insurance": 35,
+    "others": 49
+  },
+  "method_types": {
+    "theoretical": 83,
+    "review": 2,
+    "empirical": 49,
+    "policy": 3,
+    "policy_analysis": 1,
+    "policy_interpretation": 1,
+    "case_study": 7,
+    "descriptive": 21,
+    "conference": 3,
+    "practical": 5,
+    "activity": 2,
+    "comparative": 17,
+    "methodological": 4,
+    "quantitative": 2,
+    "applied": 1,
+    "experimental": 3,
+    "literature_review": 2,
+    "qualitative": 1
+  },
+  "innovation_features": {
+    "innovation_diff": 103,
+    "multi_stakeholder": 118,
+    "weight_allocation": 3,
+    "coordination_mechanism": 117
+  },
+  "relationship_types": {
+    "regulation": 212,
+    "competition": 4,
+    "conflict": 21,
+    "cooperation": 122
+  },
+  "year_distribution": {
+    "2019": 18,
+    "2022": 16,
+    "2016": 6,
+    "2018": 6,
+    "2017": 10,
+    "2010": 13,
+    "2020": 21,
+    "2005": 3,
+    "2021": 14,
+    "2015": 9,
+    "2014": 2,
+    "2012": 9,
+    "2011": 6,
+    "2009": 7,
+    "2008": 3,
+    "2025": 6,
+    "2023": 21,
+    "2024": 19,
+    "2013": 3,
+    "2007": 2,
+    "2001": 3,
+    "2006": 3,
+    "2000": 1,
+    "1996": 1,
+    "2004": 1,
+    "1994": 1,
+    "1995": 1
+  }
+}

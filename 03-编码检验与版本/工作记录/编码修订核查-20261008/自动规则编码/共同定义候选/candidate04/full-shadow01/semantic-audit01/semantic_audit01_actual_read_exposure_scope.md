@@ -1,0 +1,7 @@
+本记录接入已实际完成的semantic-audit01审读：仅盲包导出的21条、I/F共42维及实际展示的58个语境条目。SA01-019未导出，不登记为本次已读。上下文按实际展示text_sha256反接selection.exports[].consumed_context_fields，再与既有unit/paragraph/family依赖字段和hash对应；不由未展示的输入全部字段推定已读。
+
+登记当前21个分析单元、语境中的67个分析单元ID（与当前有重叠），合计67个当前/语境分析单元ID，及100个当前/展示语境家族。已有元数据不能唯一定位的项按类型保留：CANDIDATE_UNIT_TO_FAMILY_NOT_UNIQUE_IN_EXISTING_METADATA 21；MULTIPLE_EXISTING_PARAGRAPH_LOCATORS_FOR_SAME_DISPLAYED_CONTENT 5；CONTEXT_ANALYSIS_UNIT_TO_FAMILY_NOT_UNIQUE_IN_EXISTING_METADATA 30。正文或标签未用于本次登记；多段落候选位置不伪称唯一。
+
+原267保护成员交集0个，原保护家族交集0个，结论限于本次既有ID/hash/字段绑定。此为已暴露开发材料复读及所展示非保护语境接触，不是新独立验证，不承诺绝对无历史接触。原保护集合、原v5、盲包、选择与冻结文件均未改。
+
+盲包SHA：`83919a444fc46c10ff77fea25bf3f3d867d04735f99f25ef38a7d2c49d6ec05e`。本登记JSON SHA：`13b903895b8c0f51bf73c1984306fdbe4cd4a8b8d0fdf0167dd3ab3bbbd1f55a`。

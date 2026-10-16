@@ -1,0 +1,50 @@
+{
+  "tool": "mcp__cua_repl",
+  "legacy_notice": {
+    "url": "https://www.cde.org.cn/news.do?id=314967&method=viewInfoCommon",
+    "actual_result": "错误页面; 404; 非法输入，请输入正确的页面地址！",
+    "success": false
+  },
+  "recovery_path": "CDE homepage search -> global search results -> single 2019-11-08 exact-title notice",
+  "notice": {
+    "url": "https://www.cde.org.cn/main/news/viewInfoCommon/f754f54763c4e76e3d019878b85cadfd",
+    "full_title": "关于再次公开征求《临床急需药品附条件批准上市技术指导原则》意见的通知",
+    "read_layer": "original CDE notice rendered page, full relevant notice body and related attachment links",
+    "publication_label": "发布日期：20191108",
+    "composition_label": "国家药品监督管理局药品审评中心 2019年11月08日",
+    "deadline_label": "征求意见请于2019年11月13日17：00前反馈。",
+    "draft_confirming_text": "现再次向社会公开征求意见。",
+    "attachments": [
+      {
+        "title": "临床急需药品附条件批准上市技术指导原则（征求意见稿）.docx",
+        "url": "https://www.cde.org.cn/main/att/download/835a3c0047c2c5b489d6abe92c6253d8",
+        "download_success": true,
+        "download_route": "playwright locator downloadMedia, then moved from tool-managed Downloads to allowed output sources directory"
+      },
+      {
+        "title": "临床急需药品附条件批准上市技术指导原则--起草说明.docx",
+        "url": "https://www.cde.org.cn/main/att/download/959c28da5edd729b4d0820884706c055",
+        "download_success": true,
+        "download_route": "playwright locator downloadMedia, then moved from tool-managed Downloads to allowed output sources directory"
+      }
+    ]
+  },
+  "bounded_search": {
+    "url": "https://www.cde.org.cn/main/fullsearch/fullsearchpage",
+    "filters": {
+      "title": "药品附条件批准上市技术指导原则",
+      "start": "2000-01-01",
+      "end": "2020-07-08"
+    },
+    "read_layer": "rendered CDE global-search result plus DOM snapshot",
+    "result_count": 1,
+    "rows": [
+      {
+        "date": "2019-11-08",
+        "title": "关于再次公开征求《临床急需药品附条件批准上市技术指导原则》意见的通知",
+        "url": "https://www.cde.org.cn/main/news/viewInfoCommon/f754f54763c4e76e3d019878b85cadfd"
+      }
+    ],
+    "limitation": "This is a negative result within the current CDE index/title search. It cannot establish that no unindexed, internal, or differently titled earlier version existed."
+  }
+}

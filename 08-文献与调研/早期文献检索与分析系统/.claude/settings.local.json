@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.claude/skills /tmp/oskills)",
+      "Read(//private/tmp/oskills/**)",
+      "Bash(rm -rf *)",
+      "Bash(curl -fsSL \"https://codeload.github.com/LvvUP/academic-writing-assistant/tar.gz/refs/heads/main\")",
+      "Bash(tar xz *)",
+      "Bash(curl -fsSL \"https://codeload.github.com/qinky1234-sys/chinese-academic-paper-skill/tar.gz/refs/heads/main\")",
+      "Bash(curl -fsSL \"https://codeload.github.com/Imbad0202/academic-research-skills/tar.gz/refs/heads/main\")",
+      "Bash(curl -fsSL \"https://codeload.github.com/blader/humanizer/tar.gz/refs/heads/main\")",
+      "Bash(curl -fsSL \"https://codeload.github.com/zechenzhangAGI/AI-research-SKILLs/tar.gz/refs/heads/main\")"
+    ]
+  }
+}

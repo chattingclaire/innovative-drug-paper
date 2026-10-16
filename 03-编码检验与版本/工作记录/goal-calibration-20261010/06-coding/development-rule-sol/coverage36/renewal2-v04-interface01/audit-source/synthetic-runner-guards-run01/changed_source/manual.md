@@ -1,0 +1,1 @@
+synthetic manual content

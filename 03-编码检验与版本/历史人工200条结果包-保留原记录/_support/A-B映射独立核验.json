@@ -1,0 +1,25 @@
+{
+  "stage": "precheck",
+  "records": 200,
+  "pairings": 200,
+  "judgments": 1000,
+  "positive_counts": {
+    "S": 27,
+    "E": 13,
+    "Ec": 20,
+    "I": 32,
+    "F": 16
+  },
+  "boundary_values": {
+    "A-036/I": 1,
+    "A-120/I": 1,
+    "A-178/I": 1,
+    "A-122/I": 1,
+    "A-160/F": 1
+  },
+  "issues": [],
+  "source_hashes": {
+    "outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验结果.json": "882b355ccc26a983a609eace8d3193ee046a654642473a0dfa5450afb95a6b88",
+    "outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/pairing.json": "91a3a05898ca468d6a71cc2786fd3227f01540a90463e6af4c340aecf3bf8e37"
+  }
+}

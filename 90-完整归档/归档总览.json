@@ -1,0 +1,657 @@
+{
+  "date": "2026-10-16",
+  "repository": "chattingclaire/innovative-drug-paper",
+  "release_tag": "archive-20261016",
+  "sources": [
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药",
+    "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914",
+    "/Users/rainbow/Desktop/战略院/创新药论文.md",
+    "/Users/rainbow/Desktop/战略院/创新药动态简报",
+    "/Users/rainbow/Desktop/战略院/美国生物医药产业研究",
+    "/Users/rainbow/Desktop/国科大研一/国科大研一-春季课/创新发展政策导论"
+  ],
+  "file_count": 135380,
+  "source_bytes": 24951965411,
+  "archived_bytes": 24951965201,
+  "compressed_bytes": 6023030722,
+  "redacted_files": 6,
+  "redactions": 6,
+  "excluded_entries": 279,
+  "bundles": [
+    {
+      "asset": "archive-001.tar.gz",
+      "group": "goal-00-baseline",
+      "part": 1,
+      "file_count": 254,
+      "source_bytes": 141414999,
+      "compressed_bytes": 60356232,
+      "sha256": "bfc87641c40af94e1d339682989049a345c0f6422868464301e4dd5e34848f95"
+    },
+    {
+      "asset": "archive-002.tar.gz",
+      "group": "goal-01-review",
+      "part": 1,
+      "file_count": 672,
+      "source_bytes": 791496233,
+      "compressed_bytes": 114027406,
+      "sha256": "a85e31320ee128416f5ab9d69426c5d9af5110c28a78096e6935cdfd5dfa0084"
+    },
+    {
+      "asset": "archive-003.tar.gz",
+      "group": "goal-01-review",
+      "part": 2,
+      "file_count": 227,
+      "source_bytes": 267752900,
+      "compressed_bytes": 29705629,
+      "sha256": "4629751af07c6c4e3b642dbc93ec59d4b113ce1383c01e2a5a99de72b31c6734"
+    },
+    {
+      "asset": "archive-004.tar.gz",
+      "group": "goal-02-methods",
+      "part": 1,
+      "file_count": 44,
+      "source_bytes": 4147842,
+      "compressed_bytes": 2392859,
+      "sha256": "5fb0b950c4f582e358c6f11d01c72876aeca68ab1551244d54ad5420a3446779"
+    },
+    {
+      "asset": "archive-005.tar.gz",
+      "group": "goal-03-manual",
+      "part": 1,
+      "file_count": 4542,
+      "source_bytes": 156197237,
+      "compressed_bytes": 22728406,
+      "sha256": "18276bbaa7fb31566083379983f4ac941020de580f331076ab9f0bc3fefa7784"
+    },
+    {
+      "asset": "archive-006.tar.gz",
+      "group": "goal-04-calibration",
+      "part": 1,
+      "file_count": 220,
+      "source_bytes": 41897083,
+      "compressed_bytes": 34457287,
+      "sha256": "031601e42f24a6de454e26eedb4e7c2505ef5edffb17caeb3342e4018ae07d44"
+    },
+    {
+      "asset": "archive-007.tar.gz",
+      "group": "goal-05-validation",
+      "part": 1,
+      "file_count": 593,
+      "source_bytes": 339199695,
+      "compressed_bytes": 184909581,
+      "sha256": "27b9ff30b0bfeefe545392788d1b7138b91fd652f8fb1fc549193a315ad8b65c"
+    },
+    {
+      "asset": "archive-008.tar.gz",
+      "group": "goal-06-coding",
+      "part": 1,
+      "file_count": 10754,
+      "source_bytes": 838170658,
+      "compressed_bytes": 119092130,
+      "sha256": "3683bf1ca0504fd533ef8ec9cef711444725f2a4ec4e74fdf9d76c4d9c20b22b"
+    },
+    {
+      "asset": "archive-009.tar.gz",
+      "group": "goal-06-coding",
+      "part": 2,
+      "file_count": 14802,
+      "source_bytes": 830931319,
+      "compressed_bytes": 104006502,
+      "sha256": "cd3b620307b95dc96330f08ea9d0c96073abb660ad0d7409e8eafbb27a50fc82"
+    },
+    {
+      "asset": "archive-010.tar.gz",
+      "group": "goal-06-coding",
+      "part": 3,
+      "file_count": 22005,
+      "source_bytes": 766951827,
+      "compressed_bytes": 89860962,
+      "sha256": "1e3878eacdf0874ea3632c78187671d1e255078087bd416baf208ed19169635f"
+    },
+    {
+      "asset": "archive-011.tar.gz",
+      "group": "goal-06-coding",
+      "part": 4,
+      "file_count": 17,
+      "source_bytes": 638754848,
+      "compressed_bytes": 43625951,
+      "sha256": "a783a1ad62b44fa0e05675ff1e6adf20bd2aee68f256d74f8fbc9e47ddd4d738"
+    },
+    {
+      "asset": "archive-012.tar.gz",
+      "group": "goal-06-coding",
+      "part": 5,
+      "file_count": 1096,
+      "source_bytes": 830823211,
+      "compressed_bytes": 64712786,
+      "sha256": "4a9dad650acf3cb5edbee002155dd27a2a37a1ee669c6d72125840b405a0cdda"
+    },
+    {
+      "asset": "archive-013.tar.gz",
+      "group": "goal-06-coding",
+      "part": 6,
+      "file_count": 111,
+      "source_bytes": 817348361,
+      "compressed_bytes": 54726739,
+      "sha256": "3d2aef5ba58e24973f66d7931b897edb98852be774fb76b4f881ae0a5580c1fe"
+    },
+    {
+      "asset": "archive-014.tar.gz",
+      "group": "goal-06-coding",
+      "part": 7,
+      "file_count": 14,
+      "source_bytes": 766434716,
+      "compressed_bytes": 51256453,
+      "sha256": "9ff3687c87c732cd3fdaa73f199c5a505a9057cd3e72b3e9bf6d997671c2e205"
+    },
+    {
+      "asset": "archive-015.tar.gz",
+      "group": "goal-06-coding",
+      "part": 8,
+      "file_count": 18,
+      "source_bytes": 792314819,
+      "compressed_bytes": 38742753,
+      "sha256": "c37ec4aeb4f6f05e6d3194f5a42bad279dec86f7663353069b762b6e955dbfbf"
+    },
+    {
+      "asset": "archive-016.tar.gz",
+      "group": "goal-06-coding",
+      "part": 9,
+      "file_count": 25,
+      "source_bytes": 698802847,
+      "compressed_bytes": 30184821,
+      "sha256": "a05ad26ff62c10cb6bb329850933187aae54f3ffd200850dc7bb6e001bb09e95"
+    },
+    {
+      "asset": "archive-017.tar.gz",
+      "group": "goal-06-coding",
+      "part": 10,
+      "file_count": 15,
+      "source_bytes": 838005330,
+      "compressed_bytes": 52237900,
+      "sha256": "565d41ece1f365d8c143a5ff069ff46e33dfe84fd47fd3b84d705128902fe1f1"
+    },
+    {
+      "asset": "archive-018.tar.gz",
+      "group": "goal-06-coding",
+      "part": 11,
+      "file_count": 130,
+      "source_bytes": 789557834,
+      "compressed_bytes": 50873144,
+      "sha256": "68a017fd75f8a0c0d77e06890f2131911198c031a0190be519edc09ea0a4752e"
+    },
+    {
+      "asset": "archive-019.tar.gz",
+      "group": "goal-06-coding",
+      "part": 12,
+      "file_count": 55,
+      "source_bytes": 778551745,
+      "compressed_bytes": 53801733,
+      "sha256": "84128e363566fd28125ca014a19d65472c78da2fa8a00b7b228aeff0e592623f"
+    },
+    {
+      "asset": "archive-020.tar.gz",
+      "group": "goal-06-coding",
+      "part": 13,
+      "file_count": 878,
+      "source_bytes": 722325717,
+      "compressed_bytes": 68512564,
+      "sha256": "aa642260e505351da8061bd374eba7598d6e2c7cc1a54cbabdc34017dda6be78"
+    },
+    {
+      "asset": "archive-021.tar.gz",
+      "group": "goal-06-coding",
+      "part": 14,
+      "file_count": 620,
+      "source_bytes": 614272370,
+      "compressed_bytes": 43527824,
+      "sha256": "419daba7296cec752ba28d847a4e16581b5802fee70c96dafb11c6eff2117da5"
+    },
+    {
+      "asset": "archive-022.tar.gz",
+      "group": "goal-07-statistics",
+      "part": 1,
+      "file_count": 15984,
+      "source_bytes": 570712088,
+      "compressed_bytes": 42969830,
+      "sha256": "0f65b76d9a783fff47adee141072c98e8bf68f1e30b9acfacadf8501eac8f6df"
+    },
+    {
+      "asset": "archive-023.tar.gz",
+      "group": "goal-08-audits",
+      "part": 1,
+      "file_count": 1577,
+      "source_bytes": 279635972,
+      "compressed_bytes": 26111392,
+      "sha256": "e751b0c5e8328f047ed048afc2ac0da2500dfa89bb3855c35e8411ffd287e3c6"
+    },
+    {
+      "asset": "archive-024.tar.gz",
+      "group": "goal-08-manuscript",
+      "part": 1,
+      "file_count": 522,
+      "source_bytes": 258574069,
+      "compressed_bytes": 215768169,
+      "sha256": "56b029bed7c22b054e8ca8ef894e0dd1239a6621e854d34ba93e3f392f86b887"
+    },
+    {
+      "asset": "archive-025.tar.gz",
+      "group": "goal-09-delivery",
+      "part": 1,
+      "file_count": 7443,
+      "source_bytes": 827554373,
+      "compressed_bytes": 469502196,
+      "sha256": "64cfeccf3250c19d2018a37d4343f6f06808e5cc48e9d972ad048ed945e85369"
+    },
+    {
+      "asset": "archive-026.tar.gz",
+      "group": "goal-09-delivery",
+      "part": 2,
+      "file_count": 5133,
+      "source_bytes": 809845499,
+      "compressed_bytes": 544230750,
+      "sha256": "c6804d5c7e55ca5b7474e021903d0f49b9f621c193ea6f713b98042fcd6b06ed"
+    },
+    {
+      "asset": "archive-027.tar.gz",
+      "group": "goal-09-delivery",
+      "part": 3,
+      "file_count": 1874,
+      "source_bytes": 531773274,
+      "compressed_bytes": 456360054,
+      "sha256": "0ad50df71a71efe9e7fdc0885d31fca61fb071b7191e69adb92a199026f90298"
+    },
+    {
+      "asset": "archive-028.tar.gz",
+      "group": "goal-10-closure-20261012",
+      "part": 1,
+      "file_count": 2634,
+      "source_bytes": 539919732,
+      "compressed_bytes": 40944422,
+      "sha256": "24e80f243cf5fe31d9765c4f73819f1626698acb141f02db917434da3e545266"
+    },
+    {
+      "asset": "archive-029.tar.gz",
+      "group": "goal-11-version-comparison-20261014",
+      "part": 1,
+      "file_count": 483,
+      "source_bytes": 109729556,
+      "compressed_bytes": 8400558,
+      "sha256": "9bbf64a6f6e0fb125c395263fd17ad361d7c4c066dd8c18113f6f0cc28d0f0a7"
+    },
+    {
+      "asset": "archive-030.tar.gz",
+      "group": "goal-logs",
+      "part": 1,
+      "file_count": 280,
+      "source_bytes": 44120320,
+      "compressed_bytes": 11041901,
+      "sha256": "2ec5bc94f040b7ce647dc854ebd516b79085efd7a3a8f3786e7e48d1a716e538"
+    },
+    {
+      "asset": "archive-031.tar.gz",
+      "group": "goal-parallel-manuscript",
+      "part": 1,
+      "file_count": 263,
+      "source_bytes": 30637361,
+      "compressed_bytes": 23903652,
+      "sha256": "9c92965a4811ff2d386ab6e5a0249eae169e1106543203bdd5ce6f6573725f6e"
+    },
+    {
+      "asset": "archive-032.tar.gz",
+      "group": "goal-parallel-metrics",
+      "part": 1,
+      "file_count": 206,
+      "source_bytes": 46020906,
+      "compressed_bytes": 6245844,
+      "sha256": "da8b2302303b7267aa73e7af42b945ed088f30fe277ba01df0d948f557c657e7"
+    },
+    {
+      "asset": "archive-033.tar.gz",
+      "group": "goal-root",
+      "part": 1,
+      "file_count": 5,
+      "source_bytes": 1916030,
+      "compressed_bytes": 242700,
+      "sha256": "ff21a375e3b9104c1510d1264419b99a57035d28e744cd5725e0a30760bb9622"
+    },
+    {
+      "asset": "archive-034.tar.gz",
+      "group": "goal-scripts",
+      "part": 1,
+      "file_count": 53,
+      "source_bytes": 402148,
+      "compressed_bytes": 120723,
+      "sha256": "28a0612aa133df39ec2103536c095c173c4cdd1b70753f6c32913cca516e4c5d"
+    },
+    {
+      "asset": "archive-035.tar.gz",
+      "group": "history-20260914",
+      "part": 1,
+      "file_count": 2681,
+      "source_bytes": 838543409,
+      "compressed_bytes": 488855035,
+      "sha256": "19a5fd549aa6f1d60402aa2b71d3455940973c5fdce6a4881ab6d6b1071182a7"
+    },
+    {
+      "asset": "archive-036.tar.gz",
+      "group": "history-20260914",
+      "part": 2,
+      "file_count": 1341,
+      "source_bytes": 838440588,
+      "compressed_bytes": 748877823,
+      "sha256": "77771858abe1f8fb20f8b0526d32b7c27730fdb47fbb6d292fa5ea737bd16edd"
+    },
+    {
+      "asset": "archive-037.tar.gz",
+      "group": "history-20260914",
+      "part": 3,
+      "file_count": 433,
+      "source_bytes": 257384447,
+      "compressed_bytes": 220570334,
+      "sha256": "5c74bfe7a1fc7e38546c4939f6700dd4a1620e5835063f9818841e243faf9a71"
+    },
+    {
+      "asset": "archive-038.tar.gz",
+      "group": "literature-analysis",
+      "part": 1,
+      "file_count": 89,
+      "source_bytes": 53223845,
+      "compressed_bytes": 44682112,
+      "sha256": "7fd2f33ce275603c37d5329f8a62380ac332fcc78f1ee16bc4b92a91ff9e60ab"
+    },
+    {
+      "asset": "archive-039.tar.gz",
+      "group": "main-materials",
+      "part": 1,
+      "file_count": 494,
+      "source_bytes": 159308931,
+      "compressed_bytes": 132978293,
+      "sha256": "f1a69f5b1b7bbbbd8c82a1696485c42e56c8c727c837ccba6d5574e095e142ae"
+    },
+    {
+      "asset": "archive-040.tar.gz",
+      "group": "outputs-01a0dbb7-43f0-7a61-a367-7f0c814ee9d4",
+      "part": 1,
+      "file_count": 10,
+      "source_bytes": 109718895,
+      "compressed_bytes": 15592561,
+      "sha256": "d7b5dda67797589dc91bc4de16b9187c635d6ea15741eb89b0ba271e90596d17"
+    },
+    {
+      "asset": "archive-041.tar.gz",
+      "group": "outputs-01a0dbb7-blind-review",
+      "part": 1,
+      "file_count": 55,
+      "source_bytes": 4510351,
+      "compressed_bytes": 3911838,
+      "sha256": "3a89b12669913d1d4c1a6c424146e137584dc013aa0c6bb3dd68d46b0f621e1f"
+    },
+    {
+      "asset": "archive-042.tar.gz",
+      "group": "outputs-ab-four-calibration-20261010",
+      "part": 1,
+      "file_count": 10,
+      "source_bytes": 1992061,
+      "compressed_bytes": 1793811,
+      "sha256": "01808bc6a55770430282b4074e709e50949fad8ccd1acaefeec2aa51e18d3e8b"
+    },
+    {
+      "asset": "archive-043.tar.gz",
+      "group": "outputs-ab-review-20261010",
+      "part": 1,
+      "file_count": 30,
+      "source_bytes": 3484892,
+      "compressed_bytes": 1081204,
+      "sha256": "26f79c4b4b1ef47be02afbf2e5ec2dd4811a191b618fccabca7f8b48307cbb4d"
+    },
+    {
+      "asset": "archive-044.tar.gz",
+      "group": "outputs-agent-validation-20261007-r2",
+      "part": 1,
+      "file_count": 3052,
+      "source_bytes": 392048242,
+      "compressed_bytes": 28548603,
+      "sha256": "480e101133177a1311019d87b559d7a1cfe6852c0e993a6e160807003595050f"
+    },
+    {
+      "asset": "archive-045.tar.gz",
+      "group": "outputs-ai-audit800-20261010",
+      "part": 1,
+      "file_count": 3577,
+      "source_bytes": 435074848,
+      "compressed_bytes": 284886618,
+      "sha256": "f6cec1b48bccef0a7010631171d51b42a58f43020991060aaee409f6f37a1e3e"
+    },
+    {
+      "asset": "archive-046.tar.gz",
+      "group": "outputs-ai-blind200-20261012",
+      "part": 1,
+      "file_count": 94,
+      "source_bytes": 21854491,
+      "compressed_bytes": 7148732,
+      "sha256": "6fc8228266cd8c4dc46429e466afd3ec04009bd52d210c1bfa4bb049aaee9045"
+    },
+    {
+      "asset": "archive-047.tar.gz",
+      "group": "outputs-attention-share-audit-20261007",
+      "part": 1,
+      "file_count": 5,
+      "source_bytes": 16298252,
+      "compressed_bytes": 1456549,
+      "sha256": "e85ef9f72efc354429efda18fdb14b3bd88dc4002232aec18ec4818e7d394d8b"
+    },
+    {
+      "asset": "archive-048.tar.gz",
+      "group": "outputs-autocode-v25-20260927",
+      "part": 1,
+      "file_count": 1647,
+      "source_bytes": 110868352,
+      "compressed_bytes": 19057276,
+      "sha256": "234c028dcbd8a6de71a46fe9c1c4495bd9f76dafabd02cc9fa177b2c6aa30092"
+    },
+    {
+      "asset": "archive-049.tar.gz",
+      "group": "outputs-autocode-v27-20260930",
+      "part": 1,
+      "file_count": 68,
+      "source_bytes": 109283360,
+      "compressed_bytes": 6269408,
+      "sha256": "25fee53699ff7b3d55521900d0b8754c68944f1380ca4ade29bf677ff0e70771"
+    },
+    {
+      "asset": "archive-050.tar.gz",
+      "group": "outputs-autocode-v27-final-20261004-1034",
+      "part": 1,
+      "file_count": 70,
+      "source_bytes": 109283217,
+      "compressed_bytes": 6269921,
+      "sha256": "72f5f2a155158b97a7bbc921d5760257ae834748867d16e125c080a72a49aa79"
+    },
+    {
+      "asset": "archive-051.tar.gz",
+      "group": "outputs-autocode-v28-review-20261004-111306",
+      "part": 1,
+      "file_count": 185,
+      "source_bytes": 248109090,
+      "compressed_bytes": 15835059,
+      "sha256": "0d9881b8d87bdec6378c52d035a3a3f21eec4169db40b218ae755410a65f8dbe"
+    },
+    {
+      "asset": "archive-052.tar.gz",
+      "group": "outputs-coding-revision-20261007-r3",
+      "part": 1,
+      "file_count": 7105,
+      "source_bytes": 837661737,
+      "compressed_bytes": 76259641,
+      "sha256": "416f6b0eb2eeb2ac925fdbe48c07a700d7d507100ccca543a14a20b922176e27"
+    },
+    {
+      "asset": "archive-053.tar.gz",
+      "group": "outputs-coding-revision-20261007-r3",
+      "part": 2,
+      "file_count": 459,
+      "source_bytes": 209014210,
+      "compressed_bytes": 15033432,
+      "sha256": "c7add6aa987b2238df5d9c551341535060c0fa1cd53934b76dc3ab3442d7d744"
+    },
+    {
+      "asset": "archive-054.tar.gz",
+      "group": "outputs-coding-revision-20261008-r4",
+      "part": 1,
+      "file_count": 1525,
+      "source_bytes": 143572590,
+      "compressed_bytes": 56242604,
+      "sha256": "0e8af8b51b9f026fc2ef8800ab7a3565d639d1f7786672bffb6bcc7648d048c1"
+    },
+    {
+      "asset": "archive-055.tar.gz",
+      "group": "outputs-coding-v26-20260930",
+      "part": 1,
+      "file_count": 69,
+      "source_bytes": 52700617,
+      "compressed_bytes": 3466093,
+      "sha256": "da9bf386eda4ce3c2126d1dc8adc8af17845525dc51e0bb13a4dcf9ede8b7c6c"
+    },
+    {
+      "asset": "archive-056.tar.gz",
+      "group": "outputs-final-three-department-20261007",
+      "part": 1,
+      "file_count": 2066,
+      "source_bytes": 333989726,
+      "compressed_bytes": 94369567,
+      "sha256": "c0c72e9e4122ca6ef739fbd18f473aeca2c3fe4d05c3e7591499e935d3cc19bc"
+    },
+    {
+      "asset": "archive-057.tar.gz",
+      "group": "outputs-final-three-department-20261008-adopted-results",
+      "part": 1,
+      "file_count": 73,
+      "source_bytes": 27792676,
+      "compressed_bytes": 23917536,
+      "sha256": "38ef31ae53e2a1573b87b1457e93999a97d580ffa26c86cc148db019871b22e1"
+    },
+    {
+      "asset": "archive-058.tar.gz",
+      "group": "outputs-final-three-department-20261008-human-validation-template",
+      "part": 1,
+      "file_count": 234,
+      "source_bytes": 85170826,
+      "compressed_bytes": 74020765,
+      "sha256": "efc567422991e9d560ab24bfbafc1a3dc384cae28c3abf8ccbb602704620f40d"
+    },
+    {
+      "asset": "archive-059.tar.gz",
+      "group": "outputs-indicator-alignment-20261007",
+      "part": 1,
+      "file_count": 135,
+      "source_bytes": 57250281,
+      "compressed_bytes": 49868165,
+      "sha256": "bedf4018b565b3ff606417f4d3af843eee36fc1cae25f928b95117f2f219eb30"
+    },
+    {
+      "asset": "archive-060.tar.gz",
+      "group": "outputs-kappa-status-20260930",
+      "part": 1,
+      "file_count": 2,
+      "source_bytes": 114147,
+      "compressed_bytes": 11318,
+      "sha256": "7fd81f39eaf50a7b7e70e72ac91458e4647da8058e7dd13d790f3c11cf1d1873"
+    },
+    {
+      "asset": "archive-061.tar.gz",
+      "group": "outputs-llm-v29-method-audit-20261005",
+      "part": 1,
+      "file_count": 10,
+      "source_bytes": 114759,
+      "compressed_bytes": 40624,
+      "sha256": "c07c6063de7d8841ffc14b29ffbcde0ef42fb97d258e0d155175d09e5a13c6d2"
+    },
+    {
+      "asset": "archive-062.tar.gz",
+      "group": "outputs-manuscript-completion-20261006",
+      "part": 1,
+      "file_count": 174,
+      "source_bytes": 58567055,
+      "compressed_bytes": 48568390,
+      "sha256": "030eb77a0bd2a644dc81a26c499610858bdd75e29ffcf65c1c9cfbab7ffcc5d2"
+    },
+    {
+      "asset": "archive-063.tar.gz",
+      "group": "outputs-method-validation-review-20261005",
+      "part": 1,
+      "file_count": 2,
+      "source_bytes": 8667,
+      "compressed_bytes": 4551,
+      "sha256": "0b9124401e94f4b941fa49e0a5c6e89792cfedd9e31a80d92f99af94a3ae499f"
+    },
+    {
+      "asset": "archive-064.tar.gz",
+      "group": "outputs-recall-revision-20261007",
+      "part": 1,
+      "file_count": 2936,
+      "source_bytes": 400388470,
+      "compressed_bytes": 38482675,
+      "sha256": "a1585f47c5885170282bf9c0a14c59afcee405bff7dcf7a9e843b4836a394e9b"
+    },
+    {
+      "asset": "archive-065.tar.gz",
+      "group": "outputs-validation-expansion-20260926",
+      "part": 1,
+      "file_count": 1352,
+      "source_bytes": 742570676,
+      "compressed_bytes": 97392251,
+      "sha256": "0383332c060ebb8a4b89671167e88e6d8cc81d7eb3f0b63e7650e6ebf942becb"
+    },
+    {
+      "asset": "archive-066.tar.gz",
+      "group": "outputs-本轮查看-既有AC结果与AB待填",
+      "part": 1,
+      "file_count": 14,
+      "source_bytes": 9833842,
+      "compressed_bytes": 1359594,
+      "sha256": "de10b50eacd791a3257fdf05a16d63239c93aa92b433c85b07baae239efa5c1c"
+    },
+    {
+      "asset": "archive-067.tar.gz",
+      "group": "outputs-编码修订核查-20261008",
+      "part": 1,
+      "file_count": 6961,
+      "source_bytes": 838604903,
+      "compressed_bytes": 68990835,
+      "sha256": "7b5f89a56edf96670bc75cee850c3e62aea74cbb8a39bfaefe86db4d40c92b92"
+    },
+    {
+      "asset": "archive-068.tar.gz",
+      "group": "outputs-编码修订核查-20261008",
+      "part": 2,
+      "file_count": 3863,
+      "source_bytes": 819885195,
+      "compressed_bytes": 150842576,
+      "sha256": "2c660febae5d15b6ee48b4c31e2241cbd76381084a079fe1a8d45d39cc6870a1"
+    },
+    {
+      "asset": "archive-069.tar.gz",
+      "group": "outputs-编码修订核查-20261008",
+      "part": 3,
+      "file_count": 992,
+      "source_bytes": 76861061,
+      "compressed_bytes": 7178624,
+      "sha256": "a7fb1d22ab755845cf3b7f9bd2c4c5a8981ee9a572209fecab610b0838a1f4ea"
+    },
+    {
+      "asset": "archive-070.tar.gz",
+      "group": "related-research",
+      "part": 1,
+      "file_count": 18,
+      "source_bytes": 32243783,
+      "compressed_bytes": 29584451,
+      "sha256": "6739518d3ff201af96bef497b85e982bae28b7094588153c5b08a1b22d08e459"
+    }
+  ],
+  "elapsed_seconds": 230.2,
+  "internal_research_links": 17,
+  "internal_file_links": 9,
+  "internal_directory_links": 8,
+  "link_mapping": "内部研究链接映射.json"
+}

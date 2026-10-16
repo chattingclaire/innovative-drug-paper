@@ -1,0 +1,2316 @@
+{
+  "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+  "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+  "snapshot_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+  "document_title": "谈判药品续约规则",
+  "document_year": 2025,
+  "official_url": null,
+  "official_publication_date": null,
+  "metadata_status": "official URL and publication date not established in the frozen source manifest; source content annual example is2025",
+  "source_texts": [
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "按照《基本医疗保险用药管理暂行办法》和医保药品目录调整有关要求，现分类制定协议期内谈判药品的续约规则如下。",
+      "text_sha256": "3a295c3b15c382ad3078257c5ca2ea93c84f79cd82bf6a8b3b7a512b22d5d3cd",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            1
+          ],
+          "printed_pages": [
+            1
+          ],
+          "heading_path": [
+            "谈判药品续约规则"
+          ],
+          "regions": [
+            {
+              "physical_page": 1,
+              "printed_page": 1,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                170.13275,
+                504.9466,
+                244.803
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                519.85,
+                1542.89,
+                748.01
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-001.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        8,
+        61
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-0c45f0915cb516d9c0f1"
+    },
+    {
+      "kind": "bounded_complete_rule",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "规则一纳入常规目录管理一、条件满足以下条件之一的协议期内谈判药品，可以纳入常规目录管理：1.非独家药品〔以国家药监部门批准的同通用名药品数量为准，截至目录调整当年6月30日（含），下同〕。2.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”时间达到8年的药品。二、规则1.原则上列入目录乙类。2.支付标准的确定：（1）政府定价的麻精类药品，根据政府定价确定支付标准。（2）国家组织药品集中带量采购的药品，根据集采政策确定支付标准。（3）非独家药品，鼓励各省级医保部门根据仿制药的价格水平调整制定该通用名药品在本省份的支付标准。（4）满足上述条件2的独家药品，按照本续约规则确定支付标准后方可纳入常规目录。3.国家医保药品支付标准制定规则出台后，按照相应规则执行。三、程序1.在评审环节，组织专家论证是否将药品纳入常规目录管理。2.评审结束后，将初步结果反馈企业。3.印发新版目录，公布正式结果。",
+      "text_sha256": "743d8a95b448d852c6196255341c42890aca062329002e3a9a8e584d517a45f4",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            1,
+            2
+          ],
+          "printed_pages": [
+            1,
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理"
+          ],
+          "regions": [
+            {
+              "physical_page": 1,
+              "printed_page": 1,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                287.66895,
+                504.9494,
+                752.523
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                878.99,
+                1542.9,
+                2299.38
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-001.png"
+            },
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                504.9479,
+                391.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1542.9,
+                1197.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        61,
+        467
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-5684e547580d9e98b66d"
+    },
+    {
+      "kind": "bounded_complete_rule",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "规则二简易续约一、条件协议将于目录调整当年12月31日到期，并同时满足以下条件的药品，可以简易续约，续约有效期2年。1.独家药品。2.本协议期实际发生的纳入支付范围的药品费用未超过纳入支付范围的药品费用预算（企业预估值，即当年填报的支付范围内的药品销售金额，下同）的200%。3.未来两年的纳入支付范围的药品费用预算增幅合理。（1）不调整支付范围的药品：未来两年的纳入支付范围的药品费用预算增幅不超过100%（与本协议期纳入支付范围的药品费用预算和本协议期实际发生的纳入支付范围的药品费用两者中的高者相比，下同）。（2）调整支付范围的药品：原支付范围满足条件（1）的情况下，因调整支付范围所致未来两年的纳入支付范围的药品费用预算增幅不超过100%。4.市场环境未发生重大变化。“重大变化”主要是指在同治疗领域中价格或治疗费用明显偏高、该药国内外实际销售价格或赠药折算后的价格明显低于现行支付标准、本轮调整有同类竞品通过评审且可能对价格产生较大影响等。5.不符合纳入常规目录管理的条件。二、规则（一）不调整支付范围的药品。以本协议期实际发生的纳入支付范围的药品费用与纳入支付范围的药品费用预算的比值（比值A）为基准确定支付标准。1.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”未达到4年的品种，按以下规则确定其支付标准：（1）比值A≤110%，支付标准不作调整。（2）110%<比值A≤140%，支付标准下调5个百分点。（3）140%<比值A≤170%，支付标准下调10个百分点。（4）170%<比值A≤200%，支付标准下调15个百分点。对于110%<比值A≤200%的药品，支付标准的下调比例同时与实际发生的纳入支付范围的年均药品费用挂钩：年均实际药品费用在3亿元（含）以内的，支付标准按以上规则调整。年均实际药品费用在3亿元-15亿元（含）之间，支付标准的下调比例增加2个百分点。年均实际药品费用在15亿元-30亿元（含）之间，支付标准的下调比例增加4个百分点。年均实际药品费用在30亿元-60亿元（含）之间，支付标准的下调比例增加6个百分点。年均实际药品费用在60亿元以上的，支付标准的下调比例增加10个百分点。2.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”达到或超过4年的品种，其支付标准的下调比例在前述计算值基础上减半。（二）调整支付范围的药品。分两步。第一步先计算原支付范围的下调比例，形成初步支付标准。第二步，将因本次调整支付范围所致的纳入支付范围的药品费用预算增加值，与原支付范围的纳入支付范围的药品费用预算和本协议期内实际发生的纳入支付范围的药品费用两者中的高者相比（比值B），在初步支付标准的基础上按以下规则调整，形成最终支付标准。1.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”未达到4年的品种，按以下规则确定其支付标准：（1）比值B≤10%，支付标准不作调整。（2）10%<比值B≤40%，支付标准下调5个百分点。（3）40%<比值B≤70%，支付标准下调10个百分点。（4）70%<比值B≤100%，支付标准下调15个百分点。对于10%<比值B≤100%的药品，支付标准的下调比例同时与纳入支付范围的药品费用预算年均增加值挂钩：纳入支付范围的药品费用预算年均增加值3亿元（含）以内的，按以上规则调整。年均增加值在3亿元-15亿元（含）之间，支付标准的下调比例增加2个百分点。年均增加值在15亿元-30亿元（含）之间，支付标准的下调比例增加4个百分点。年均增加值在30亿元-60亿元（含）之间，支付标准的下调比例增加6个百分点。年均增加值在60亿元以上的，支付标准的下调比例增加10个百分点。2.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”达到或超过4年的品种，其支付标准的下调比例在前述计算值基础上减半。三、程序1.申报环节，组织企业提交资料。符合申报条件的谈判药品，在申报环节按要求提交药品近年销量、纳入支付范围的药品费用预算增加值、国际价格情况、国内外慈善赠药等资料，以及是否申请调整支付范围等。2.专家评审环节，确定初步结果。评审专家对药品进行评审，确定该药品是否符合简易续约的条件。对符合条件的药品，由综合组中的药物经济学、医保管理专家按本规则确定支付标准。3.双方确认并签署协议。将续约结果通知相关企业。如无异议，按程序组织企业确认并签署协议。4.印发新版目录，公布正式结果。四、其他1.按照现行药品注册管理办法及注册分类标准批准的1类化学药品、1类治疗用生物制品、1类中药，续约时如比值A大于110%且未超过200%，企业可以按程序简易续约，也可以申请通过重新谈判确定下调比例，重新谈判的下调比例可不一定高于按简易续约规则确定的下调比例。如谈判失败，调出目录。2.目录调整当年协议未到期的谈判药品，如需调整支付范围，同时符合以下条件的可参照本规则（二）确定下调比例并以补充协议的形式确定新的支付标准和支付范围，补充协议到期时间与原协议到期时间一致。（1）独家药品。（2）目录调整当年实际发生的纳入支付范围的药品费用未超过当年纳入支付范围的药品费用预算的200%。（3）未来一年因调整支付范围所致的纳入医保支付范围的药品费用预算增幅不超过100%（与原支付范围的当年纳入支付范围的药品费用预算和当年实际发生的纳入医保支付范围的药品费用中的高者相比）。3.对申请调整支付范围的药品，若企业不同意按本规则（二）调整支付标准，可申请重新谈判并提交相应的资料，根据谈判结果确定是否调整支付范围。4.目录调整当年协议到期且前一年按简易程序增加了适应症的品种，如前一年因比值A超量导致支付标准下调，在计算续约降幅时，扣减前一年因比值A导致的降幅，直至扣减为零。5.实际发生的纳入支付范围的药品费用由医保部门统计。实际发生的纳入支付范围的药品费用=目录调整前1年全年实际发生的纳入支付范围的药品费用+（目录调整当年前5个月（1月1日至5月31日）实际发生的纳入支付范围的药品费用/5）×12。实际发生的纳入支付范围的年均药品费用=〔目录调整前1年全年实际发生的纳入支付范围的药品费用+（目录调整当年前5个月（1月1日至5月31日）实际发生的纳入支付范围的药品费用/5）×12〕/2。6.企业和医保方对实际发生的纳入支付范围的药品费用存在较大分歧的，允许企业方补充提交数据资料并进行协商。如协商不能达成一致的，以医保方数据为准。",
+      "text_sha256": "e29b3a0ae7dee2a4095cbfed6f4110bc3767394986d0562af5fa7e7dba07728f",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "printed_pages": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                434.66895,
+                504.9487,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1328.16,
+                1542.9,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            },
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                509.99,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1558.3,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            },
+            {
+              "physical_page": 4,
+              "printed_page": 4,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                505.015,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1543.1,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-004.png"
+            },
+            {
+              "physical_page": 5,
+              "printed_page": 5,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                504.95,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1542.9,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-005.png"
+            },
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                505.909,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1545.83,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            },
+            {
+              "physical_page": 7,
+              "printed_page": 7,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                505.909,
+                627.002
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1545.83,
+                1915.84
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-007.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        467,
+        3136
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-392b952cd05efc9d7137"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "满足以下条件之一的协议期内谈判药品，可以纳入常规目录管理：",
+      "text_sha256": "a91040570be858ceab715dce4d9cd72b20013ec1451dcc84e05af45255c360cc",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            1
+          ],
+          "printed_pages": [
+            1
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 1,
+              "printed_page": 1,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                383.85275,
+                504.9466,
+                429.123
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1172.88,
+                1542.89,
+                1311.21
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-001.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        76,
+        105
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-bf85195964303999725e"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "1.非独家药品〔以国家药监部门批准的同通用名药品数量为准，截至目录调整当年6月30日（含），下同〕。",
+      "text_sha256": "a59f9451712a7e1e174b52ba685ebd67fd29d09b5fb23ee700d653a310fb098d",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            1
+          ],
+          "printed_pages": [
+            1
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 1,
+              "printed_page": 1,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                442.65275,
+                504.9419,
+                487.923
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1352.55,
+                1542.88,
+                1490.88
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-001.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        105,
+        155
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-d1e2ab968979aeade45d"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "2.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”时间达到8年的药品。",
+      "text_sha256": "e923cd35b975187e16cf45d8de9712a49e9601056e7e4ed9f38f04dbbafd747f",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            1
+          ],
+          "printed_pages": [
+            1
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 1,
+              "printed_page": 1,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                501.45275,
+                504.9494,
+                546.723
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1532.22,
+                1542.9,
+                1670.54
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-001.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        155,
+        200
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-8274349c44a87c847818"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理",
+        "二、规则"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "二、规则1.原则上列入目录乙类。2.支付标准的确定：（1）政府定价的麻精类药品，根据政府定价确定支付标准。（2）国家组织药品集中带量采购的药品，根据集采政策确定支付标准。（3）非独家药品，鼓励各省级医保部门根据仿制药的价格水平调整制定该通用名药品在本省份的支付标准。（4）满足上述条件2的独家药品，按照本续约规则确定支付标准后方可纳入常规目录。3.国家医保药品支付标准制定规则出台后，按照相应规则执行。",
+      "text_sha256": "f5c1b6f0a829104fb7a9e17918b11c1da1a2ba58a2163860954a78c395126238",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            1,
+            2
+          ],
+          "printed_pages": [
+            1,
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理",
+            "二、规则"
+          ],
+          "regions": [
+            {
+              "physical_page": 1,
+              "printed_page": 1,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                560.18895,
+                504.9419,
+                752.523
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1711.69,
+                1542.88,
+                2299.38
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-001.png"
+            },
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                504.9479,
+                244.803
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1542.9,
+                748.01
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        200,
+        401
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-b2d39cb35d6619639230"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理",
+        "二、规则",
+        "2.支付标准的确定",
+        "（4）"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "（4）满足上述条件2的独家药品，按照本续约规则确定支付标准后方可纳入常规目录。",
+      "text_sha256": "b0bff4a4ffa7373fef1f2d423db048c7cee82de831ce5f216884fd4da52da64c",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2
+          ],
+          "printed_pages": [
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理",
+            "二、规则",
+            "2.支付标准的确定",
+            "（4）"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                140.73275,
+                504.94585,
+                186.003
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                430.02,
+                1542.89,
+                568.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        333,
+        372
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-57a108fc4d819fae57a6"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则一纳入常规目录管理",
+        "三、程序"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "三、程序1.在评审环节，组织专家论证是否将药品纳入常规目录管理。2.评审结束后，将初步结果反馈企业。3.印发新版目录，公布正式结果。",
+      "text_sha256": "9dcbb2ff10274061095850fe5017e4c30e51d53bddb69f2c967b6440376e03f7",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2
+          ],
+          "printed_pages": [
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则一纳入常规目录管理",
+            "三、程序"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                258.26895,
+                504.9419,
+                391.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                789.16,
+                1542.88,
+                1197.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        401,
+        467
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-88f3d3530404f2ff8f33"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "协议将于目录调整当年12月31日到期，并同时满足以下条件的药品，可以简易续约，续约有效期2年。",
+      "text_sha256": "77d7dd4a5a46fc8e9db5daf5c1a7c9ba2dde41970ef072b6fca8f6f97c302b5c",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2
+          ],
+          "printed_pages": [
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                522.93175,
+                504.9466,
+                568.202
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1597.85,
+                1542.89,
+                1736.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        478,
+        525
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-fb25f080572775af89d0"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "1.独家药品。",
+      "text_sha256": "3c8c590281d07ffb5f0e32d8e8dbcb3d2c4ec555dd6ffd00c358d05aac1e6556",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2
+          ],
+          "printed_pages": [
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                581.73275,
+                217.9079,
+                597.603
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                1777.52,
+                665.83,
+                1826.01
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        525,
+        532
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-c4d4c67087b80926d36f"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "2.本协议期实际发生的纳入支付范围的药品费用未超过纳入支付范围的药品费用预算（企业预估值，即当年填报的支付范围内的药品销售金额，下同）的200%。",
+      "text_sha256": "f0f4e38fe3c07c113e7614a22943a738c9185dd82179de2aa64840cb454b9a92",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2
+          ],
+          "printed_pages": [
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                611.13175,
+                504.9487,
+                685.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1867.35,
+                1542.9,
+                2095.51
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        532,
+        605
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-206f30e5a1114c2b6a0c"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "3.未来两年的纳入支付范围的药品费用预算增幅合理。",
+      "text_sha256": "ce7783515c0af5d2d33663c727ee51a6ddac97a44d0153fd44cff801118f1fd4",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2
+          ],
+          "printed_pages": [
+            2
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                120.0,
+                699.33175,
+                503.99,
+                715.202
+              ],
+              "bbox_220dpi_px_xyxy": [
+                366.67,
+                2136.85,
+                1539.97,
+                2185.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        605,
+        630
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-e724d15026252cccb79a"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "（1）不调整支付范围的药品：未来两年的纳入支付范围的药品费用预算增幅不超过100%（与本协议期纳入支付范围的药品费用预算和本协议期实际发生的纳入支付范围的药品费用两者中的高者相比，下同）。",
+      "text_sha256": "ace6781282bb350477fcca539fe4164701c507cdd4aa980d85c7d74535df1906",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            2,
+            3
+          ],
+          "printed_pages": [
+            2,
+            3
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 2,
+              "printed_page": 2,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                728.73175,
+                504.82865,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                2226.68,
+                1542.53,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-002.png"
+            },
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                504.9479,
+                156.603
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1542.9,
+                478.51
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        630,
+        724
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-e1d602feadd88b553390"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "（2）调整支付范围的药品：原支付范围满足条件（1）的情况下，因调整支付范围所致未来两年的纳入支付范围的药品费用预算增幅不超过100%。",
+      "text_sha256": "0c3f7cb7c13f122eb008ea4466b4e3025e3ce926318a4f21c3963a507d49de15",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            3
+          ],
+          "printed_pages": [
+            3
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                170.13275,
+                505.909,
+                244.803
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                519.85,
+                1545.83,
+                748.01
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        724,
+        791
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-4bcbb27e4ca9a4ab4f4d"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "4.市场环境未发生重大变化。“重大变化”主要是指在同治疗领域中价格或治疗费用明显偏高、该药国内外实际销售价格或赠药折算后的价格明显低于现行支付标准、本轮调整有同类竞品通过评审且可能对价格产生较大影响等。",
+      "text_sha256": "b13e9dc02eb0897ea38ec67f9fdd7f1f70bbe2141663e50b6295a8b3c3cfe17c",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            3
+          ],
+          "printed_pages": [
+            3
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                258.33275,
+                504.9481,
+                362.402
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                789.35,
+                1542.9,
+                1107.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        791,
+        892
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-abd30d6f0362dea7506e"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "5.不符合纳入常规目录管理的条件。",
+      "text_sha256": "568381f92f7382ec7e091e44a8628c1d974abc2f0f67c06de758561cfc069bc6",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            3
+          ],
+          "printed_pages": [
+            3
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                375.93175,
+                377.9831,
+                391.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                1148.68,
+                1154.95,
+                1197.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        892,
+        909
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-1ee0801ec1b7f29cd279"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "二、规则"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "二、规则（一）不调整支付范围的药品。以本协议期实际发生的纳入支付范围的药品费用与纳入支付范围的药品费用预算的比值（比值A）为基准确定支付标准。1.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”未达到4年的品种，按以下规则确定其支付标准：（1）比值A≤110%，支付标准不作调整。（2）110%<比值A≤140%，支付标准下调5个百分点。（3）140%<比值A≤170%，支付标准下调10个百分点。（4）170%<比值A≤200%，支付标准下调15个百分点。对于110%<比值A≤200%的药品，支付标准的下调比例同时与实际发生的纳入支付范围的年均药品费用挂钩：年均实际药品费用在3亿元（含）以内的，支付标准按以上规则调整。年均实际药品费用在3亿元-15亿元（含）之间，支付标准的下调比例增加2个百分点。年均实际药品费用在15亿元-30亿元（含）之间，支付标准的下调比例增加4个百分点。年均实际药品费用在30亿元-60亿元（含）之间，支付标准的下调比例增加6个百分点。年均实际药品费用在60亿元以上的，支付标准的下调比例增加10个百分点。2.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”达到或超过4年的品种，其支付标准的下调比例在前述计算值基础上减半。（二）调整支付范围的药品。分两步。第一步先计算原支付范围的下调比例，形成初步支付标准。第二步，将因本次调整支付范围所致的纳入支付范围的药品费用预算增加值，与原支付范围的纳入支付范围的药品费用预算和本协议期内实际发生的纳入支付范围的药品费用两者中的高者相比（比值B），在初步支付标准的基础上按以下规则调整，形成最终支付标准。1.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”未达到4年的品种，按以下规则确定其支付标准：（1）比值B≤10%，支付标准不作调整。（2）10%<比值B≤40%，支付标准下调5个百分点。（3）40%<比值B≤70%，支付标准下调10个百分点。（4）70%<比值B≤100%，支付标准下调15个百分点。对于10%<比值B≤100%的药品，支付标准的下调比例同时与纳入支付范围的药品费用预算年均增加值挂钩：纳入支付范围的药品费用预算年均增加值3亿元（含）以内的，按以上规则调整。年均增加值在3亿元-15亿元（含）之间，支付标准的下调比例增加2个百分点。年均增加值在15亿元-30亿元（含）之间，支付标准的下调比例增加4个百分点。年均增加值在30亿元-60亿元（含）之间，支付标准的下调比例增加6个百分点。年均增加值在60亿元以上的，支付标准的下调比例增加10个百分点。2.截至目录调整当年12月31日，连续纳入目录“协议期内谈判药品部分”达到或超过4年的品种，其支付标准的下调比例在前述计算值基础上减半。",
+      "text_sha256": "94b1645a460763de4ce2afb22a917b851dc5fe64b5b74b4b04306f0b24aca83a",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            3,
+            4,
+            5
+          ],
+          "printed_pages": [
+            3,
+            4,
+            5
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "二、规则"
+          ],
+          "regions": [
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                405.26795,
+                509.99,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1238.32,
+                1558.3,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            },
+            {
+              "physical_page": 4,
+              "printed_page": 4,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                505.015,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1543.1,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-004.png"
+            },
+            {
+              "physical_page": 5,
+              "printed_page": 5,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                504.95,
+                509.402
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1542.9,
+                1556.51
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-005.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        909,
+        2077
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-848e352d17797f16b1c4"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "二、规则",
+        "（一）不调整支付范围的药品"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "以本协议期实际发生的纳入支付范围的药品费用与纳入支付范围的药品费用预算的比值（比值A）为基准确定支付标准。",
+      "text_sha256": "bdb2d72eb12dd3538cd253b10f4cf513012b1714b8e90a6e94c36cbfcb54f498",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            3
+          ],
+          "printed_pages": [
+            3
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "二、规则",
+            "（一）不调整支付范围的药品"
+          ],
+          "regions": [
+            {
+              "physical_page": 3,
+              "printed_page": 3,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                464.13275,
+                504.95,
+                538.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1418.18,
+                1542.9,
+                1646.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-003.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        927,
+        980
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-6132d0a81b87012b4098"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "二、规则",
+        "（二）调整支付范围的药品"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "分两步。第一步先计算原支付范围的下调比例，形成初步支付标准。第二步，将因本次调整支付范围所致的纳入支付范围的药品费用预算增加值，与原支付范围的纳入支付范围的药品费用预算和本协议期内实际发生的纳入支付范围的药品费用两者中的高者相比（比值B），在初步支付标准的基础上按以下规则调整，形成最终支付标准。",
+      "text_sha256": "6f3b8f3e49c065713b763fea5e30084fd6edeab3a2cede0584a65b0723008ed7",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            4
+          ],
+          "printed_pages": [
+            4
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "二、规则",
+            "（二）调整支付范围的药品"
+          ],
+          "regions": [
+            {
+              "physical_page": 4,
+              "printed_page": 4,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                464.13275,
+                504.9481,
+                627.002
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1418.18,
+                1542.9,
+                1915.84
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-004.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        1468,
+        1616
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-0122d734076a5987a531"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "三、程序"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "三、程序1.申报环节，组织企业提交资料。符合申报条件的谈判药品，在申报环节按要求提交药品近年销量、纳入支付范围的药品费用预算增加值、国际价格情况、国内外慈善赠药等资料，以及是否申请调整支付范围等。2.专家评审环节，确定初步结果。评审专家对药品进行评审，确定该药品是否符合简易续约的条件。对符合条件的药品，由综合组中的药物经济学、医保管理专家按本规则确定支付标准。3.双方确认并签署协议。将续约结果通知相关企业。如无异议，按程序组织企业确认并签署协议。4.印发新版目录，公布正式结果。",
+      "text_sha256": "4ec8d8b82a6d341735c8749c68b90d3ee3f14608a0d8fa2aec8b36f1a436acd8",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            5,
+            6
+          ],
+          "printed_pages": [
+            5,
+            6
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "三、程序"
+          ],
+          "regions": [
+            {
+              "physical_page": 5,
+              "printed_page": 5,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                522.86795,
+                504.9485,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1597.65,
+                1542.9,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-005.png"
+            },
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                505.909,
+                244.803
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1545.83,
+                748.01
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2077,
+        2318
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-f20520ea5e6a16db3b3e"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "1.按照现行药品注册管理办法及注册分类标准批准的1类化学药品、1类治疗用生物制品、1类中药，续约时如比值A大于110%且未超过200%，企业可以按程序简易续约，也可以申请通过重新谈判确定下调比例，重新谈判的下调比例可不一定高于按简易续约规则确定的下调比例。如谈判失败，调出目录。",
+      "text_sha256": "e13c9fc4ddecfbd4763dd17b513dc306c60766c98204eea2155d5893562a4b09",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            6
+          ],
+          "printed_pages": [
+            6
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                287.73275,
+                504.9485,
+                450.603
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                879.18,
+                1542.9,
+                1376.84
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2322,
+        2461
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-653ea039a173cc8d5217"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "2.目录调整当年协议未到期的谈判药品，如需调整支付范围，同时符合以下条件的可参照本规则（二）确定下调比例并以补充协议的形式确定新的支付标准和支付范围，补充协议到期时间与原协议到期时间一致。",
+      "text_sha256": "e9a58b9b404004d0874770758762b79b65d13f21e1f737e40bf9dae91378a375",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            6
+          ],
+          "printed_pages": [
+            6
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                464.13275,
+                504.9494,
+                568.202
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1418.18,
+                1542.9,
+                1736.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2461,
+        2555
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-2cea66627a9543122248"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "（1）独家药品。",
+      "text_sha256": "93d6f9b18526750c9c750b6a2584035523a0096436195b3c4150426fd1552398",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            6
+          ],
+          "printed_pages": [
+            6
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                581.73275,
+                242.0276,
+                597.603
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                1777.52,
+                739.53,
+                1826.01
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2555,
+        2563
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-9883fd8ad282d662cde4"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "（2）目录调整当年实际发生的纳入支付范围的药品费用未超过当年纳入支付范围的药品费用预算的200%。",
+      "text_sha256": "14d371da26168092191e06aee90e1b5efc6d5a51de71db04ec8bc91a77f2713d",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            6
+          ],
+          "printed_pages": [
+            6
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                611.13175,
+                504.8246,
+                656.402
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1867.35,
+                1542.52,
+                2005.67
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2563,
+        2612
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-c304ce107f77fef7ef50"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "（3）未来一年因调整支付范围所致的纳入医保支付范围的药品费用预算增幅不超过100%（与原支付范围的当年纳入支付范围的药品费用预算和当年实际发生的纳入医保支付范围的药品费用中的高者相比）。",
+      "text_sha256": "cfef006543e0c3dfccd2b9fb860903137a4280582fa86e84930d78293518a613",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            6,
+            7
+          ],
+          "printed_pages": [
+            6,
+            7
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 6,
+              "printed_page": 6,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                669.93175,
+                504.95,
+                744.602
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                2047.01,
+                1542.9,
+                2275.17
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-006.png"
+            },
+            {
+              "physical_page": 7,
+              "printed_page": 7,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                337.909,
+                97.803
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1032.5,
+                298.84
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-007.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2612,
+        2705
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-239705adc6643a5839b9"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "3.对申请调整支付范围的药品，若企业不同意按本规则（二）调整支付标准，可申请重新谈判并提交相应的资料，根据谈判结果确定是否调整支付范围。",
+      "text_sha256": "aa291959d7d6cf6e63d14a44593a20580e9bd1edfb300da9b8a3a12a2542f5f0",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            7
+          ],
+          "printed_pages": [
+            7
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 7,
+              "printed_page": 7,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                111.33275,
+                505.909,
+                186.003
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                340.18,
+                1545.83,
+                568.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-007.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2705,
+        2773
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-4398936d715aa2540c69"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "4.目录调整当年协议到期且前一年按简易程序增加了适应症的品种，如前一年因比值A超量导致支付标准下调，在计算续约降幅时，扣减前一年因比值A导致的降幅，直至扣减为零。",
+      "text_sha256": "d89faec51dbc0cbd0ad2d492219e877b73ea4bdd2d2421366e0e0b1574e77ad0",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            7
+          ],
+          "printed_pages": [
+            7
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 7,
+              "printed_page": 7,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                199.53275,
+                505.909,
+                303.603
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                609.68,
+                1545.83,
+                927.68
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-007.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2773,
+        2854
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-ce7a11263e8a019efe1d"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "5.实际发生的纳入支付范围的药品费用由医保部门统计。实际发生的纳入支付范围的药品费用=目录调整前1年全年实际发生的纳入支付范围的药品费用+（目录调整当年前5个月（1月1日至5月31日）实际发生的纳入支付范围的药品费用/5）×12。实际发生的纳入支付范围的年均药品费用=〔目录调整前1年全年实际发生的纳入支付范围的药品费用+（目录调整当年前5个月（1月1日至5月31日）实际发生的纳入支付范围的药品费用/5）×12〕/2。",
+      "text_sha256": "d19596975cdd90d13d2d46b82fd5fe1f6d0f1b6b258cb4cd6918e89d4da696c0",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            7
+          ],
+          "printed_pages": [
+            7
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 7,
+              "printed_page": 7,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                317.13275,
+                504.95,
+                538.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                969.02,
+                1542.9,
+                1646.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-007.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        2854,
+        3064
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-6680cbf0486abc5a52a2"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则二简易续约",
+        "四、其他"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "6.企业和医保方对实际发生的纳入支付范围的药品费用存在较大分歧的，允许企业方补充提交数据资料并进行协商。如协商不能达成一致的，以医保方数据为准。",
+      "text_sha256": "a2aecaba4c9a795667597a998d83cde51177612ea7a054c042d0d2b828ce85b1",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            7
+          ],
+          "printed_pages": [
+            7
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则二简易续约",
+            "四、其他"
+          ],
+          "regions": [
+            {
+              "physical_page": 7,
+              "printed_page": 7,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                552.33175,
+                504.9458,
+                627.002
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1687.68,
+                1542.89,
+                1915.84
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-007.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3064,
+        3136
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-6ff645d4c7c1c8ffda94"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则三重新谈判",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "满足以下条件之一的协议期内独家药品纳入重新谈判范围：",
+      "text_sha256": "dc3474f0b5e71926ebd68a4a4ed4df0244d68fec340f2286fdd1a00296d595f5",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            8
+          ],
+          "printed_pages": [
+            8
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则三重新谈判",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 8,
+              "printed_page": 8,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                81.93275,
+                504.9434,
+                127.203
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                250.35,
+                1542.88,
+                388.68
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-008.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3147,
+        3173
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-b6ae8166af31c15fb3d7"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则三重新谈判",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "1.不符合纳入常规目录管理及简易续约条件的药品。",
+      "text_sha256": "b9abad230b1b0cb2a2ad25394a1d2f3978d5a699531576a237fe09636e3f5162",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            8
+          ],
+          "printed_pages": [
+            8
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则三重新谈判",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 8,
+              "printed_page": 8,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                140.73275,
+                489.9395,
+                156.603
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                430.02,
+                1497.04,
+                478.51
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-008.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3173,
+        3197
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-e5aeddc74e554c7dfc8e"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "规则三重新谈判",
+        "一、条件"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "2.按照现行药品注册管理办法及注册分类标准批准的1类化学药品、1类治疗用生物制品、1类中药，虽符合简易续约条件，但企业按程序主动申请通过谈判确定支付标准的品种。",
+      "text_sha256": "26f1a47b357fe87bf0ef0438bdda89b22c7b5f04ffd57ddf2f09379c10ea51ee",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            8
+          ],
+          "printed_pages": [
+            8
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "规则三重新谈判",
+            "一、条件"
+          ],
+          "regions": [
+            {
+              "physical_page": 8,
+              "printed_page": 8,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                170.13275,
+                504.94775,
+                274.203
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                519.85,
+                1542.9,
+                837.84
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-008.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3197,
+        3277
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-87aa369820e7309b8f7f"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "附则",
+        "一"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "一、本规则适用于所有协议期内谈判药品。",
+      "text_sha256": "302c32097f5c1ce60149453811f7a790a5090885a59f5f426b13b08d877d227a",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            9
+          ],
+          "printed_pages": [
+            9
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "附则",
+            "一"
+          ],
+          "regions": [
+            {
+              "physical_page": 9,
+              "printed_page": 9,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                346.53175,
+                425.981,
+                362.402
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                1058.85,
+                1301.61,
+                1107.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-009.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3658,
+        3677
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-afd92f179482f856554a"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "附则",
+        "二"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "二、药品连续纳入“协议期内谈判药品部分”年份的计算规则：以2025年目录调整为例（截至2025年12月31日），2017年至2024年谈判新增的药品，纳入目录的时间分别为8年、7年、6年、5年、4年、3年、2年、1年。",
+      "text_sha256": "56e3650a1f1be228904f64189d7c2c018a066fe36396079337c3e32e29215a08",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            9
+          ],
+          "printed_pages": [
+            9
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "附则",
+            "二"
+          ],
+          "regions": [
+            {
+              "physical_page": 9,
+              "printed_page": 9,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                375.93175,
+                512.99,
+                480.003
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1148.68,
+                1567.47,
+                1466.68
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-009.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3677,
+        3786
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-bee7eddf6f5a54b06ef0"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "附则",
+        "三"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "三、数据来源：1.医保部门通过国家医保信息平台反馈“实际发生的纳入支付范围的药品费用”，企业可查询。2.2023年、2024年谈判新增和重新谈判品种，纳入支付范围的药品费用预算以谈判现场签署的《谈判结果确认书》为准，2023年、2024年简易续约的品种，纳入支付范围的药品费用预算以国家医保信息平台中企业当年申报时填报的数据为准。",
+      "text_sha256": "579ef1ad8a716dc826f31706bf96b781a9099db126e3553e65b02435f6ac5e7f",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            9
+          ],
+          "printed_pages": [
+            9
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "附则",
+            "三"
+          ],
+          "regions": [
+            {
+              "physical_page": 9,
+              "printed_page": 9,
+              "bbox_pdf_points_xyxy": [
+                90.0,
+                493.53175,
+                504.95,
+                685.802
+              ],
+              "bbox_220dpi_px_xyxy": [
+                275.0,
+                1508.01,
+                1542.9,
+                2095.51
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-009.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3786,
+        3951
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-6ad1354e3e6f1195fab3"
+    },
+    {
+      "kind": "source_paragraph",
+      "heading_path": [
+        "谈判药品续约规则",
+        "附则",
+        "四"
+      ],
+      "source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "text": "四、国家医保局负责对本规则进行解释。",
+      "text_sha256": "016e76278a68b19ee04bb143f2dad30f4bda64aeb9ec781455520859db81e39e",
+      "source_ref": {
+        "sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+        "locator": {
+          "physical_pages": [
+            9
+          ],
+          "printed_pages": [
+            9
+          ],
+          "heading_path": [
+            "谈判药品续约规则",
+            "附则",
+            "四"
+          ],
+          "regions": [
+            {
+              "physical_page": 9,
+              "printed_page": 9,
+              "bbox_pdf_points_xyxy": [
+                122.04,
+                699.33175,
+                409.9019,
+                715.202
+              ],
+              "bbox_220dpi_px_xyxy": [
+                372.9,
+                2136.85,
+                1252.48,
+                2185.34
+              ],
+              "page_asset": "pages/d76f3d33e1ea7099-physical-009.png"
+            }
+          ]
+        },
+        "source_resource_id": "SOURCE-d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73"
+      },
+      "source_char_interval_footerless_whitespace_normalized": [
+        3951,
+        3969
+      ],
+      "source_resource_id": "SOURCEPARAGRAPH-745bf1bb8399dce3c55c"
+    }
+  ],
+  "source_geometry": {
+    "layout_type": "single_column_prose_and_numbered_lists",
+    "actual_viewed_physical_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "table_cells_or_merges": [],
+    "diagram_arrows": [],
+    "rule1_condition_group": {
+      "parent_resource_id": "SOURCEPARAGRAPH-bf85195964303999725e",
+      "operator_printed": "之一",
+      "operator": "any",
+      "shared_scope": "协议期内谈判药品",
+      "numbered_members": [
+        "SOURCEPARAGRAPH-d1e2ab968979aeade45d",
+        "SOURCEPARAGRAPH-8274349c44a87c847818"
+      ]
+    },
+    "rule2_due_condition_group": {
+      "parent_resource_id": "SOURCEPARAGRAPH-fb25f080572775af89d0",
+      "operator_printed": "并同时满足以下条件",
+      "operator": "all",
+      "shared_scope": "协议将于目录调整当年12月31日到期",
+      "renewal_period_text": "续约有效期2年",
+      "numbered_members": [
+        "SOURCEPARAGRAPH-c4d4c67087b80926d36f",
+        "SOURCEPARAGRAPH-206f30e5a1114c2b6a0c",
+        "SOURCEPARAGRAPH-e724d15026252cccb79a",
+        "SOURCEPARAGRAPH-abd30d6f0362dea7506e",
+        "SOURCEPARAGRAPH-1ee0801ec1b7f29cd279"
+      ],
+      "member3_submembers": [
+        "SOURCEPARAGRAPH-e1d602feadd88b553390",
+        "SOURCEPARAGRAPH-4bcbb27e4ca9a4ab4f4d"
+      ],
+      "geometry_note": "第3项总谓词和（1）开头在物理2页，子项（1）接物理3页；子项（2）、第4/5项也在3页。两个括号子项同属第3项，不能另编号成第6/7项。"
+    },
+    "rule2_not_due_adjustment_group": {
+      "parent_resource_id": "SOURCEPARAGRAPH-2cea66627a9543122248",
+      "operator_printed": "同时符合以下条件",
+      "operator": "all",
+      "shared_scope": "目录调整当年协议未到期的谈判药品，如需调整支付范围",
+      "numbered_members": [
+        "SOURCEPARAGRAPH-9883fd8ad282d662cde4",
+        "SOURCEPARAGRAPH-c304ce107f77fef7ef50",
+        "SOURCEPARAGRAPH-239705adc6643a5839b9"
+      ],
+      "geometry_note": "该组属于规则二“四、其他”第2条，（3）跨物理6–7页。没有把规则二“一、条件”五项全文移接为这组原文条件。"
+    },
+    "cross_page_joins": [
+      {
+        "resource_id": "SOURCEPARAGRAPH-e1d602feadd88b553390",
+        "pages": [
+          2,
+          3
+        ]
+      },
+      {
+        "resource_id": "SOURCEPARAGRAPH-239705adc6643a5839b9",
+        "pages": [
+          6,
+          7
+        ]
+      },
+      {
+        "resource_id": "SOURCEPARAGRAPH-f20520ea5e6a16db3b3e",
+        "pages": [
+          5,
+          6
+        ]
+      },
+      {
+        "rule3_heading_page": 7,
+        "rule3_common_predicate_page": 8,
+        "note": "标题/一、条件在7页，共同谓词及成员在8页。"
+      }
+    ],
+    "rule2_other_shared_definitions": [
+      "SOURCEPARAGRAPH-6680cbf0486abc5a52a2",
+      "SOURCEPARAGRAPH-6ff645d4c7c1c8ffda94",
+      "SOURCEPARAGRAPH-bee7eddf6f5a54b06ef0",
+      "SOURCEPARAGRAPH-6ad1354e3e6f1195fab3"
+    ],
+    "global_scope_resources": [
+      "SOURCEPARAGRAPH-0c45f0915cb516d9c0f1",
+      "SOURCEPARAGRAPH-afd92f179482f856554a"
+    ]
+  },
+  "source_page_assets": [
+    {
+      "sha256": "279ce5086b6fde3995ab76149fc6850dd8aa13ea77c1bca54f6f4a466aa7b494",
+      "physical_page": 1,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "f0f18162e2411db9c114e842f296bce53c58931aa9ae9030910ad93e236c5635",
+      "physical_page": 2,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "85c0b698525e06d43fb5ac1cbd665702a85e7f481b890052a17772a2eae1dab7",
+      "physical_page": 3,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "9e1115cb1ffbefb201fa4431048ef99b00651ebe3a524bed503e3d9d2391e983",
+      "physical_page": 4,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "35b8f7ccf0f163321d3a7fc5081d09755818245029ea31538c5dc4a6d75815ff",
+      "physical_page": 5,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "46d3dc056ee593b7f8f3dd429af29dbb2a6c112641d6e211dee7e121297fff09",
+      "physical_page": 6,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "14257ce69e0609306a36fbda9ec196a51c874ccf8e8883c899099edaa9d3f664",
+      "physical_page": 7,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "4b929ccaa0c034d8018215690d0ea0b67eb27a520a369ac9a47b81c218803ca7",
+      "physical_page": 8,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    },
+    {
+      "sha256": "f2afbfaf614ec821664b9649a679e673e2e1637e9f0c7430a107b9da7a175e9e",
+      "physical_page": 9,
+      "source_pdf_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+      "render_dpi": 220
+    }
+  ],
+  "scope": "full rule1, full rule2, source preface, expressly referenced rule3 opening and shared appendix passages; same original source snapshot"
+}

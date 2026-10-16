@@ -1,0 +1,286 @@
+肿瘤综合治疗电子杂志2021年第7卷第2期 ● 综述 ● 69
+DOI：10.12151/JMCM.2021.02-10
+食管鳞癌围术期综合治疗现状与进展
+戴亮，陈克能（北京大学肿瘤医院暨北京市肿瘤防治研究所 胸外一科 恶性肿瘤发病机制及转化研究教
+育部重点实验室，北京 100142）
+【摘要】 局部晚期食管鳞癌的治疗策略是以手术为主的综合治疗，如何在围术期合理安排化疗、放疗及免疫治疗是目前学
+界研究的热点。新辅助治疗方面，已有多项研究证明化疗以及放化疗能够使远期预后获益，但孰优孰劣仍存在争论；新辅
+助免疫治疗的加入进一步提高了病理完全缓解率，但如何搭配现有新辅助治疗方案以及疗效的精确评估仍有待进一步研究。
+单纯手术后的辅助治疗能够改善转移淋巴结阳性患者的预后，但新辅助治疗后淋巴结持续阳性的患者辅助治疗并不能带来
+更多获益，术后辅助免疫治疗也许是常规新辅助治疗（化疗或放化疗）后高危患者提高远期生存的有效治疗模式。
+【关键词】 食管鳞癌；新辅助治疗；辅助治疗；免疫治疗
+Current situation and progress of perioperative comprehensive treatment for esophageal squamous cell carcinoma
+Dai Liang, Chen Keneng (The First Department of Thoracic Surgery, Key Laboratory of Carcinogenesis and Translational Research
+(Ministry of Education), Peking University Cancer Hospital & Institute, Beijing 100142, China)
+Corresponding author: Chen Keneng, E-mail: chenkeneng@bjmu.edu.cn
+【Abstract】 The treatment strategy of locally advanced esophageal squamous cell carcinoma is surgery-based multidisciplinary
+treatment. How to reasonably arrange chemotherapy, radiotherapy and immunotherapy perioperatively is a hot topic in the academic
+field. For neoadjuvant therapy, many studies have proved that chemotherapy and chemoradiotherapy could bring long-term survival
+benefits for patients, yet which is better still remains controversial. The addition of neoadjuvant immunotherapy further improves the
+pathological complete response rate of patients, whereas how to arrange the available neoadjuvant therapy as well as the accurate
+evaluation of curative effect still need further research. Postoperative adjuvant therapy after surgery could improve the prognosis
+of patients with positive metastatic lymph nodes, but for patients with persistent positive lymph nodes after neoadjuvant therapy,
+postoperative therapy could not bring more benefits. On the other hand, postoperative adjuvant immunotherapy may be an effective
+treatment strategy to improve the long-term survival of high-risk patients after conventional neoadjuvant therapy (chemotherapy or
+chemoradiotherapy).
+【Key words】 Esophageal squamous cell carcinoma; Neoadjuvant therapy; Adjuvant therapy; Immunotherapy
+食管癌是我国常见的恶性肿瘤之一，我国食管 因此，食管癌围术期综合治疗越来越受到重视，围
+癌每年新发病例约32万例，死亡病例约30万例，发 术期化疗和/或放疗的疗效已得到临床验证，免疫
+病率在恶性肿瘤中排名第6位，死亡率排名第4位， 检查点抑制剂在晚期食管癌中的成功也使其在围术
+其中男性新发食管癌病例22.3万例，死亡20.7万例， 期治疗中逐渐成为热点。笔者将在本文为大家梳理
+女性新发食管癌病例10.1万例，死亡9.4万例[1]。食 食管鳞癌围术期综合治疗的现状及进展。
+管癌一直以来都是严重危害我国人民健康的疾病。 1 新辅助治疗
+根治性手术切除是治疗食管癌的最主要方法。 食管癌新辅助治疗能够降低肿瘤分期、消灭
+然而，食管癌患者早期症状不明显，就诊时多为中 亚临床转移灶、减少术中肿瘤种植转移风险，提高
+晚期，大部分已有区域或远处转移，单纯手术切 手术R0切除率，各国指南对cT N＋或cT 的
+1b～2 3～4a
+除后复发、转移的发生率很高，远期疗效不良[2,3]。 局部进展期食管癌都推荐采用新辅助治疗[4-6]。当前，
+基金项目：北京市优秀人才培养资助项目（2018000021469G259）；北京市医院管理局消化内科学科协同发展中心专项
+经费资助（XXT018）；吴阶平医学基金（320.6750.2020-15-2）
+通信作者：陈克能 E-mail：chenkeneng@bjmu.edu.cn
+
+70 ● 综述 ● 肿瘤综合治疗电子杂志2021年第7卷第2期
+欧美国家食管癌新辅助治疗多采用同步放化疗，而以 OEO2与RTOG 8911两项研究虽然来自于同一时期，
+中国和日本为代表的亚洲国家更多选择新辅助化疗。 但却得到截然不同的结果，究其原因可能是OEO2
+1.1 新辅助放疗 食管癌新辅助治疗的最早尝试 研究虽然采用相同的术前顺铂联合5-氟尿嘧啶方案，
+是放疗。早在20世纪70年代，由于医疗条件的限 但药物剂量（80 mg/m2顺铂联合1000 mg/m2 5-氟尿
+制，食管外科医生需要面对更多的局部晚期患者， 嘧啶）与周期数（2周期）都少于RTOG 8911研究，
+放疗的局部控制能力，能够使一部分不可切除肿瘤 这使得OEO2新辅助化疗完成率远高于RTOG 8911
+缩小达到可切除状态，帮助外科医生更好地完成手 研究（90%∶71%）。此外，手术切除率的差异（OEO2
+术。但是，这一优势并没有给患者带来明显的远期 和RTOG 8911研究分别为92%和80%）也可能影响
+生存获益。Cochrane组织于2005年对5项比较新辅 到最后的结果。
+助放疗联合手术与单纯手术治疗的研究进行了荟萃 日本的新辅助化疗来自术后辅助化疗有效性的
+分析，发现新辅助放疗组患者相较单纯手术组2年 启示，JCOG 9204是关于食管癌术后辅助化疗与单
+及5年生存率仅分别提高了3%和4%（P＝0.062， 纯手术比较的研究，结果显示术后辅助化疗效果优
+HR ＝ 0.91，95%CI：0.80 ～ 1.04）[7]。因此，对 于单纯手术[16]。在此基础上的JCOG 9907是关于食
+于潜在可切除的食管癌患者，单纯的术前放疗并不 管癌新辅助化疗与术后辅助化疗比较的研究，共入
+能改善患者的远期预后。 组330例食管鳞癌患者，该研究进行至中期时发现
+1.2 新辅助化疗 20世纪90年代初期，新辅助化 新辅助化疗组患者无论在总体生存，亦或是术后无
+疗的小样本研究逐渐见诸报道，但由于化疗方案、 瘤生存方面均优于术后辅助化疗组，因而申请提前
+化疗并发症处理手段的落后，使得前期尝试都以 关闭研究[17]。因此，新辅助化疗是日本进展期食管
+失败告终[8-11]。其中，RTOG 8911研究[12]是一项大 癌的标准治疗模式。
+型随机对照研究，共纳入440例食管癌及食管胃结 正是由于OEO2研究强有力的证据支持，使
+合部腺癌，随机分为新辅助化疗联合手术组（n＝ 得后续的荟萃分析都倾向于新辅助化疗。Sjoquist
+213，顺铂联合5-氟尿嘧啶方案3个周期）与直接手 等[18]2011年发表的荟萃分析共纳入9项研究（n＝
+术组（n＝227）。结果显示，两组患者的中位生存 1854）。发现新辅助化疗组与单纯手术组相比，HR
+期并无差异（14.9个月∶16.1个月，P＝0.530）， 值为0.87（95%CI：0.79 ～ 0.96；P ＝ 0.050）；亚
+术前化疗并不改善食管癌患者的生存。该研究团队 组分析，鳞癌患者HR值为0.92（95%CI：0.81～1.04；
+在2007年发表了长期随访后的更新结果，两组患者 P＝0.180），腺癌患者HR值为0.93（95%CI：0.71～
+的远期生存也无明显差异[13]。但从早期研究中，研 0.95；P＝0.010）。Cochrane组织也在2003年版本
+究者也发现：①新辅助化疗可以使肿瘤降期，提高 荟萃分析结果中更新了新辅助化疗相较于单纯手术
+根治性切除率；②新辅助化疗存在优势人群，能够 能够改善可切除食管癌的远期预后[19]。但是，以上
+改善此类患者的远期生存；③新辅助化疗的不良反 众多研究都来自于欧美国家食管癌或食管胃结合部
+应增加了围术期并发症发生率与死亡率，因此导致 腺癌，而鳞癌较少，再加上近年来食管外科技术和
+生存获益被低估。 围术期处理理念的进步、化疗方案及化疗支持治疗
+相较RTOG 8911研究，另一项来自英国的OEO2 的改进，都使得进一步探讨新辅助化疗在食管鳞癌
+研究给出了完全不一样的答案[14]。该研究共纳入 患者中的作用十分必要。Li等[20]发起的局部晚期食
+802例食管癌及食管胃结合部癌患者，结果发现新 管鳞癌新辅助化疗（紫杉醇联合顺铂方案）对比单
+辅助化疗组患者的手术R0切除率高（60%∶54%）， 纯手术的中国多中心前瞻性、随机对照临床研究已
+2年总生存率提高9%。研究认为术前化疗不仅不会 完成患者入组，目前正在随访阶段，相信这一研究
+增加围术期风险，而且可以使患者的总生存与无病 的结果将会更加巩固新辅助化疗在食管鳞癌围术期
+生存期延长。2009年OEO2研究的更新结果肯定了 治疗中的地位。
+新辅助化疗对食管鳞癌和腺癌的远期生存获益[15]。 1.3 新辅助放化疗 新辅助放化疗是指在手术前
+
+肿瘤综合治疗电子杂志2021年第7卷第2期 ● 综述 ● 71
+同时给予全身治疗（化疗）与局部治疗（放疗）， 转移区域）都没有超过根治性手术联合标准二野淋
+因此，手术切除原发灶及区域淋巴结时所看到的 巴结清扫的范围，因此，相较术前化疗，对于可切
+近期效果[包括肿瘤降期、区域淋巴结转移率、R0 除病灶，手术切除范围内增加术前放疗能否带来更
+切除率以及病理完全缓解（pathological complete 好的远期生存获益仍存在争议。亚洲国家更强调手
+response，pCR）率等]要优于术前化疗，而全身治 术中食管全系膜切除与完全淋巴结清扫，以及对自
+疗的帮助使得其远期效果优于术前放疗和单纯手 身手术根治程度的自信，也许是其更愿意选择新辅
+术[21]。正是由于术前放化疗相较于单纯手术的近、 助化疗的原因。
+远期效果，使得其成为欧美国家食管癌新辅助治疗 再从数据上来看，食管外科医生倾向于新辅助
+的首选。这其中有两项大型前瞻性随机对照研究起 放化疗的主要原因来自更好的近期效果，这主要是
+到了决定性作用。 指pCR率。新辅助化疗的pCR率在5%～10%，而
+启动于2004年的CROSS研究是具有里程碑意 新辅助放化疗的pCR率能高达29%～43.2%[22-27]。
+义的临床研究，它奠定了新辅助放化疗成为进展 这一直观的差距在手术后能立即呈现在外科医生和
+期食管癌标准治疗模式的基础[22]。该研究共纳入 患者面前，其震撼的效果更胜于远期预后的改善。
+368例进展期食管癌或食管胃结合部癌患者，随机 但是，新辅助化疗的pCR是全身治疗下局部对于全
+分为新辅助放化疗组（紫杉醇联合卡铂周方案化 身肿瘤控制情况的反映，而新辅助放化疗的pCR还
+疗并同期放疗41.4 Gy）和单纯手术组，结果显示， 包含了很大一部分化疗无效、仅由放疗带来的“局
+新辅助放化疗组患者的R0切除率（92%∶69%， 部pCR”，这部分“局部pCR”患者并不能获得更
+P＜0.001）和5年生存率（47%∶34%，P＜0.05） 好的远期生存获益。Pasquali等[24]关于新辅助治疗
+均明显优于单纯手术组，且术后并发症及围术期死 的荟萃分析结果显示，新辅助放化疗较新辅助化疗、
+亡率并无差异。虽然CROSS研究获得了令人惊喜 辅助治疗等其他治疗模式在改善患者生存获益方面
+的结果，但仍是一项以腺癌为主的研究（包含腺癌 最有优势（HR＝0.77，95%CI：0.68～0.87），但
+275例，鳞癌仅84例）。 在亚组分析中作者又指出，放疗的加入并未给患者
+来自中国的NEOCRTEC 5010研究是一项针对 带来生存获益（HR＝1.16，95%CI：0.98～1.38）。
+食管鳞癌的多中心、前瞻性、随机对照研究，该研 Samson等[25]对比了美国国家癌症数据库中食管癌接
+究将纳入的451例局部进展期食管鳞癌患者，随机 受新辅助化疗者（n＝916）与新辅助放化疗者（n＝
+分为新辅助放化疗组（长春瑞滨联合顺铂化疗，同 6422）的远期预后，结果显示，虽然新辅助放化疗
+步联合40 Gy放疗）和单纯手术组，结果显示，新 在食管切除术前较成功地降低了食管癌的分期，但
+辅助放化疗组患者的R0切除率（98.4%∶91.2%； 它并没有改善长期生存。Spicer等[26]回顾了该中心
+P ＝ 0.002）、中位总生存（overall survival，OS） 214例食管腺癌患者新辅助治疗方式发现，虽然新
+时间（100.1个月∶66.5个月，P＝0.025）和无病 辅助放化疗相对于新辅助化疗没有增加患者围术
+生存（disease-free survival，DFS）时间（100.1个 期风险，但也没有延长生存时间（39.2个月∶31.2
+月∶41.7个月，P＝0.025）均优于单纯手术组[23]。 个月，P＝0.665），在计划的根治性切除患者中，
+1.4 新辅助化疗与新辅助放化疗 虽然新辅助化 术前放疗的作用应进一步评估。一项来自欧洲的多
+疗与新辅助放化疗较单纯手术均能改善患者远期预 中心、前瞻性、随机对照研究共纳入了181例食管
+后，但孰优孰劣仍是目前争论的焦点。从理论上讲， 癌患者，也获得了同前相似的结果，在新辅助化疗
+新辅助放化疗较新辅助化疗增加了局部放疗，但对 的基础上增加放疗可以提高pCR率和R0切除率，降
+于可切除病灶，这种术前局部的加强治疗能否带来 低淋巴结转移率，但这些局部获益并没有在根治性
+超过完整手术切除的局部控制效果仍是未知数。无 手术后带来远期生存的延长[27]。
+论CROSS研究还是NEOCRTEC 5010研究，新辅助 目前，关于新辅助治疗最佳模式的讨论仍在继
+放疗野的设定（原发灶上下3～4 cm及可疑淋巴结 续，包括日本的JCOG 1109研究，欧洲的ESOPEC
+
+72 ● 综述 ● 肿瘤综合治疗电子杂志2021年第7卷第2期
+研究、Neo-AEGIS研究以及中国的CMISG 1701研 瘤学会指南[6]没有给出食管鳞癌辅助治疗的明确建
+究等多项大型前瞻性、随机对照研究都已关闭入组， 议。Zhao等[33]回顾了食管鳞癌辅助治疗的9项研究，
+相信这些研究的结果会为这一争论指明方向。 包括3项随机对照试验和6项回顾性研究，共1684例
+1.5 新辅助免疫治疗 尽管新辅助放化疗对比单纯 患者。结果表明，术后化疗可延长OS时间（HR＝
+手术治疗带来了明显的长期生存获益，但放疗带来 0.78，95%CI：0.66～0.91，P＝0.002）和DFS时
+的手术难度增加、非pCR患者预后不良等问题仍然促 间（HR＝0.72，95%CI：0.6～0.86；P＜0.001）。
+使我们寻找更好的新辅助方案。鉴于免疫治疗，特 在临床实践中，更倾向于对未接受过新辅助治疗的
+别是免疫检查点抑制剂在晚期食管癌中获得的成功， 局部晚期患者（pT /pN＋）给予辅助化疗。
+3-4a
+其在新辅助治疗中能否获得同样令人惊喜的结果值 2.2 新辅助治疗后的辅助治疗 当今食管癌的围
+得期待。目前，已有多项Ⅱ期新辅助免疫联合放化 术期综合治疗更倾向于新辅助治疗，但新辅助治疗
+疗的临床研究获得令人惊喜的结果。NCT02844075 联合手术之后的辅助治疗是否还有必要探讨。是否
+研究是一项术前应用帕博利珠单抗注射液联合新辅 达到pCR是新辅助治疗最常用的预后指标，但越来
+助同步放化疗（紫杉醇联合卡铂并44.1 Gy同步放 越多的研究发现，区域淋巴结的状态（诱导治疗
+疗）治疗Ⅰb～Ⅲ期食管鳞癌的Ⅱ期临床试验，初 后淋巴结病理分期，ypN）比原发灶是否达到pCR
+步结果显示全组（n＝28）pCR率达46.1%，但有 更为重要[34]。新辅助治疗后ypN 者预后良好，复
+0
+3例患者在围术期出现了非外科相关的死亡[28]。我 发转移风险较低，术后辅助治疗的需求并不迫切；
+国开展的PALACE-1研究是帕博利珠单抗联合同步 ypN＋者预后不良，即使原发灶pCR也不能获得满
+放化疗用于局部进展期食管癌新辅助治疗的Ⅱ期临 意的远期生存，其中ypN 者中位DFS时间不足20个
+1
+床研究，其结果显示pCR率高达56%[29]。为了规避 月，远低于ypN 者的80个月，而ypN 者中位DFS
+0 2～3
+围术期可能出现的风险增加，新辅助化疗联合免疫 时间甚至不足12个月[23,35]。然而，即使此类患者预
+治疗的模式成为研究的热点，国内有多个Ⅱ期临床 后极差，常规的辅助放化疗似乎并不能带来更多的
+研究正在开展，初步结果显示新辅助化疗联合免疫 生存获益。回顾既往研究结果，除了Brescia等[36]与
+治疗的pCR率在30%左右，而主要病理缓解率高达 Saunders等[37]认为辅助化疗可以提高食管癌（腺癌
+45%～68%[30,31]。 为主）新辅助治疗后ypN＋者及新辅助化疗反应良
+2 辅助治疗 好者的远期生存，其他大多数研究者都认为包含化
+在选择辅助治疗时也需要考虑患者是否已经接 疗在内的新辅助治疗后，辅助化疗不能带来生存获
+受术前治疗。 益[38,39]。Yan等[40]回顾了252例接受术前新辅助化疗
+2.1 单纯辅助治疗 虽然术前治疗的效果比较明 联合根治性手术治疗的食管鳞癌患者，通过倾向性
+确，但术后治疗的效果，特别是术后化疗的效果仍 评分匹配分为术后化疗组与观察组，比较两组患者
+存在争议。其根本原因是手术造成的创伤大，术后 的远期生存及亚组分析发现，辅助化疗不能带来生
+患者对化疗、放疗的耐受性较差；因此，只有少 存获益，即使在我们通常认为高选择的ypN＋、化
+数患者可以完成辅助治疗计划。这种情况也导致 疗反应良好的人群中也是如此。由此可见，并没有
+了数据的缺乏。对于未接受过术前新辅助治疗的 证据支持新辅助治疗后沿用术前治疗的辅助治疗。
+食管鳞癌患者，美国国家综合癌症网络（National 因此，NCCN指南对于接受新辅助放化疗后的食管
+Comprehensive Cancer Network，NCCN）指南（2019 鳞癌患者，无论N的状态及切缘状态都不再推荐术
+年第2版）[4]不建议R0切除者接受辅助治疗，无论 后治疗[4]。
+pT和pN分期，非R0切除者可以接受辅助放化疗或 既然ypN＋者预后不好，辅助放化疗又不能进
+姑息治疗；基于JCOG 9204研究的结果，日本食管 一步改善生存，因此，我们需要一种不同于新辅助
+协会指南[5]建议对于pN＋者给予术后化疗；2016 治疗方式的辅助治疗。免疫检查点抑制剂在晚期食
+年的欧洲肿瘤内科学会指南[32]和2020年中国临床肿 管癌二线治疗中获得的成功，使其进入了大家的视
+
+肿瘤综合治疗电子杂志2021年第7卷第2期 ● 综述 ● 73
+野。一项针对食管癌新辅助放化疗后非pCR者，术 Collabor ative Group[J]. Cochrane Database Syst Rev, 2000:
+CD001799.
+后辅助免疫治疗（纳武利尤单抗）对比安慰剂的国
+[8] SCHLAG P M. Randomized trial of preoperative chemotherapy
+际多中心、前瞻性、随机、对照研究（CheckMate
+for squamous cell cancer of the esophagus. The Chirurgische
+577）在2020年欧洲肿瘤内科学会大会上报告了其 Arbeitsgemeinschaft Fuer Onkologie der Deutschen Gesells-
+chaft Fuer Chirurgie Study Group[J]. Arch Surg, 1992, 127(12):
+中期结果，免疫组患者相较于安慰剂组中位DFS时
+1446-1450.
+间延长11.4个月（22.4个月∶11.0个月，P＝0.0003）；
+[9] NYGAARD K, HAGEN S, HANSEN H S, et al. Pre-operative
+预设的亚组分析中，ypN者术后辅助免疫治疗获益 radiotherapy prolongs survival in operable esophageal
+0
+carcinoma: a randomized, multi-center study of pre-operative
+不明显，仅ypN＋者能够获益[41]。
+radiothe rapy and chemotherapy. The second Scandinavian trial
+对远期生存的关注使得食管外科医生愈发注重
+in esophageal cancer[J]. World J Surg, 1992, 16(6):1104-1110.
+围术期的综合治疗，特别是对于局部晚期患者。由 [10] MAIPANG T, VASINANUKORN P, PETPICHETCHIAN C,
+et al. Induction chemotherapy in the treatment of patients with
+于新辅助治疗在生存获益、治疗耐受性及易于评估
+carci noma of the esophagus[J]. J Surg Oncol, 1994, 56(3):191-197.
+方面的优势，其较辅助治疗更易获得临床医生接受。 [11] LAW S, FOK M, CHOW S, et al. Preoperative chemotherapy
+虽然同步放化疗已成为欧美国家食管鳞癌新辅助治 versus surgical therapy alone for squamous cell carcinoma
+of the esophagus: a prospective randomized trialJ]. J Thorac
+疗的首选，但目前仍缺乏直接的高级别证据证明放
+Cardiovasc Surg, 1997, 114(2):210-217.
+化疗相对于化疗的远期生存优势。新辅助免疫治疗 [12] KELSEN D P, GINSBERG R, PAJAK T F, et al. Chemotherapy
+以何种身份、在何种时间介入新辅助治疗也有待更 followed by surgery compared with surgery alone for localised
+oesop hageal cancer[J]. N Engl J Med, 1998, 339(27):1979-1984.
+多的临床研究去探索。而对于新辅助治疗后ypN＋
+[13] KELSEN D P, WINTER K A, GUNDERSON L L, et al. Long-
+的高危患者，免疫检查点抑制剂也许是延长术后 term results of RTOG trial 8911 (USA Intergroup 113): a
+random assignment trial comparison of chemotherapy followed
+DFS时间有效的辅助治疗方式。
+by surgery compared with surgery alone for esophageal
+总之，在有限的治疗手段中，如何合理安排治
+cancer[J]. J Clin Oncol, 2007, 25(24):3719-3725.
+疗组合，有效评估各种治疗疗效，提高患者生存是 [14] MEDICAL RESEARCH COUNCIL OESOPHAGEAL
+CANCER WORKING GROUP. Surgical resection with or without
+食管鳞癌围术期综合治疗当前研究的重点。
+preoperative chemotherapy in oesophageal cancer: a rando mised
+controlled trial[J]. Lancet, 2002, 359(9319):1727-1733.
+[15] ALLUM W H, STENNING S P, BANCEWICZ J, et al. Long-
+参考文献
+term results of a randomized trial of surgery with or without
+[1] International Agency for Research on Cancer. Estimated preoperative chemotherapy in esophageal cancer[J]. J Clin
+number of new cases in 2020, China, both sexes, all ages[R/ Oncol, 2009, 27(30):5062-5067.
+OL]. (2021-04-15) [2021-04-01].https://gco.iarc.fr/today/ [16] ANDO N, IIZUKA T, IDE H, et al. Surgery plus chemotherapy
+online- analysis-pie. compared with surgery alone for localized squamous cell carcin-
+[2] 平育敏，张毓德，杜喜群，等．食管癌和贲门癌20000例外 oma of the thoracic esophagus: a Japan Clinical Oncology Group
+科治疗经验[C]//中国国际食管癌学术会议暨全国食管癌学 Study--JCOG9204[J]. J Clin Oncol, 2003, 21(24):4592-4596.
+术会议，2005． [17] ANDO N, KATO H, IGAKI H, et al. A randomized trial
+[3] 邵令方，高宗人，许金良，等．食管癌和贲门癌的外科治 comparing postoperative adjuvant chemotherapy with cisplatin
+疗15707例总结——附河南省食管癌的防治研究概况[C]//中 and 5-fluorouracil versus preoperative chemotherapy for
+国国际食管癌学术会议暨全国食管癌学术会议，2005． localized advanced squamous cell carcinoma of the thoracic
+[4] AJANI J A, D'AMICO T A, BENTREM D J, et al. Esophageal esophagus (JCOG9907)[J]. Ann Surg Oncol, 2012, 19 (1):68-74.
+and Esophagogastric Junction Cancers, Version 2.2019, NCCN [18] SJOQUIST K M, BURMEISTER B H, SMITHERS B M, et al.
+Clinical Practice Guidelines in Oncology[J]. J Natl Compr Survival after neoadjuvant chemotherapy or chemoradiotherapy
+Canc Netw, 2019, 17(7):855-883. for resectable oesophageal carcinoma: an updated meta-
+[5] KITAGAWA Y, UNO T, OYAMA T, et al. Esophageal cancer analysis[J]. Lancet Oncol, 2011, 12 (7):681-692.
+practice guidelines 2017 edited by the Japan Esophageal Society: [19] KIDANE B, COUGHLIN S, VOGT K, et al. Preoperative
+part 1[J]. Esophagus, 2019, 16(1):1-24. chemoth erapy for resectable thoracic esophageal cancer[J].
+[6] 中国临床肿瘤学会．中国临床肿瘤学会（CSCO）食管癌 Cochrane Database Syst Rev, 2015:CD001556.
+诊疗指南2020[M]．北京：人民卫生出版社，2020． [20] LI YIN. Neoadjuvant Chemotherapy Versus Surgery Alone for
+[7] ARNOTT S J, DUNCAN W, GIGNOUX M, et al. Preoperative Esophageal Squamous Cell Carcinoma[Z/OL]. [2015-03-24].
+radioth erapy for esophageal carcinoma. Oeosphageal Cancer https://clinicaltrials.gov/ct2/show/NCT02395705.
+
+74 ● 综述 ● 肿瘤综合治疗电子杂志2021年第7卷第2期
+[21] GEH J I, CRELLIN A M, GLYNNE-JONES R. Preoperative phase Ⅱ study[J]. J Clin Oncol, 2021, 39(3_suppl):222.
+(neoadjuvant) chemoradiotherapy in oesophageal cancer[J]. Br [32] LORDICK F, MARIETTE C, HAUSTERMANS K, et al.
+J Surg, 2001, 88(3):338-356. Oesophageal cancer: ESMO Clinical Practice Guidelines
+[22] VAN HAGEN P, HULSHOF M C C M, VAN LANSCHOT J J B, for diagnosis, treatment and follow-up[J]. Ann Oncol, 2016,
+et al. Preoperative chemoradiotherapy for esophageal or 27(suppl 5):v50-v57.
+junctional cancer[J]. N Engl J Med, 2012, 366(22):2074-2084. [33] ZHAO P, YAN W, FU H, et al. Efficacy of postoperative adjuvant
+[23] YANG H, LIU H, CHEN Y, et al. Neoadjuvant Chemoradio- chemotherapy for esophageal squamous cell carcinoma: A meta-
+therapy Followed by Surgery Versus Surgery Alone for Locally analysis[J]. Thorac Cancer, 2018, 9(8):1048-1055.
+Advanced Squamous Cell Carcinoma of the Esophagus [34] NIEMAN D R, PEYRE C G, WATSON T J, et al. Neoadjuvant
+(NEOCRTEC5010): A Phase Ⅲ Multicenter, Randomized, Open- Treatment Response in Negative Nodes Is an Important
+Label Clinical Trial[J]. J Clin Oncol, 2018, 36(27):2796-2803. Prognosticator After Esophagectomy[J]. Ann Thorac Surg,
+[24] PASQUALI S, YIM G, VOHRA R S, et al. Survival After 2015, 99(1):277-283.
+Neoadjuvant and Adjuvant Treatments Compared to Surgery [35] LENG X, HE W, YANG H, et al. Prognostic Impact of
+Alone for Resectable Esophageal Carcinoma: A Network Meta- Postoperative Lymph Node Metastases After Neoadjuvant
+analysis[J]. Ann Surg, 2017, 265(3):481-491. Chemo radiotherapy for Locally Advanced Squamous Cell
+[25] SAMSON P, ROBINSON C, BRADLEY J, et al. Neoadjuvant Carcinoma of Esophagus: From the Results of NEOCRTEC5010,
+Chemotherapy versus Chemoradiation Prior to Esophagectomy: a Randomized Multicenter Study[J]. Ann Surg, 2019.
+Impact on Rate of Complete Pathologic Response and Survival [36] BRESCIA A A, BRODERICK S R, CRABTREE T D, et al.
+in Esophageal Cancer Patients[J]. J Thorac Oncol, 2016, Adjuvant Therapy for Positive Nodes After Induction Therapy
+11(12):2227-2237. and Resection of Esophageal Cancer[J]. Ann Thorac Surg,
+[26] SPICER J D, STILES B M, SUDARSHAN M, et al. Preop- 2016, 101(1):200-208.
+erative Chemoradiation Therapy Versus Chemotherapy in [37] SAUNDERS J H, BOWMAN C R, REECE-SMITH A M,
+Patients Undergoing Modified En Bloc Esophagectomy for et al. The role of adjuvant platinum-based chemotherapy in
+Locally Advanced Esophageal Adenocarcinoma: Is Radioth erapy esophagogastric cancer patients who received neoadjuvant
+Beneficial?[J]. Ann Thorac Surg, 2016, 101(4): 1262-1269. chemotherapy prior to definitive surgery[J]. J Surg Oncol,
+[27] KLEVEBRO F, VON DÖBELN G A, WANG N, et al. A 2017, 115(7):821-829.
+randomized clinical trial of neoadjuvant chemotherapy versus [38] SAEED N A, MELLON E A, MEREDITH K L, et al. Adjuvant
+neoadjuvant chemoradiotherapy for cancer of the oesophagus or chemotherapy and outcomes in esophageal carcinoma[J]. J
+gastro-oesophageal junction[J]. Ann Oncol, 2016, 27(4):660-667. Gastrointest Oncol, 2017, 8(5):816-824.
+[28] HONG M H, KIM H R, PARK S Y, et al. A phase Ⅱ trial of [39] SISIC L, BLANK S, NIENHÜSER H, et al. The postoperative
+preoperative chemoradiotherapy and pembrolizumab for locally part of perioperative chemotherapy fails to provide a survival
+advanced esophageal squamous cell carcinoma (ESCC)[J]. J benefit in completely resected esophagogastric adenocar cin-
+Clini Oncol, 2019, 37(15_suppl):4027. oma[J]. Surg Oncol, 2017:177-188.
+[29] LI C, ZHAO S, ZHENG Y, et al. Preoperative pembrolizumab [40] YAN W, ZHAO P, FU H, et al. Survival following Induction
+combined with chemoradiotherapy for oesophageal squamous Chemotherapy and Esophagectomy is not Improved by Adju-
+cell carcinoma (PALACE-1)[J]. Eur J Cancer, 2021, 144:232-241. vant Chemotherapy[J]. Ann Thorac Surg, 2019.
+[30] CHENG C, YANG W, CHEN W, et al. Neoadjuvant PD-1 [41] RONAN J, JAFFER A, JAROSLAW K, et al. Adjuvant
+blockade in combination with chemotherapy for patients with nivolumab in resected esophageal or gastroesophageal junction
+resectable esophageal squamous cell carcinoma[J]. J Clin cancer following neoadjuvant chemoradiation therapy: first
+Oncol, 2021, 39(3_suppl):220. results of the CheckMate 577 study[C]. ESMO Congress, 2020.
+[31] WANG F, QI Y, MENG X, et al. Camrelizumab in combination
+with preoperative chemotherapy for locally advanced 收稿日期：2021-01-02
+esophageal squamous cell carcinoma: A single-arm, open-label, 本文编辑：王晨
+引用本文：戴亮，陈克能．食管鳞癌围术期综合治疗现状与进展[J]．肿瘤综合治疗电子杂志，2021，7（2）：69-74．

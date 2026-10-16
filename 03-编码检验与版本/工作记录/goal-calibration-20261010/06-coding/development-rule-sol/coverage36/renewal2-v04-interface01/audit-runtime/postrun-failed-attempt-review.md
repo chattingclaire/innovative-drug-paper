@@ -1,0 +1,7 @@
+新2实际首轮执行的独立封存核验通过：本次结果为失败诊断，不能作完整可比推断。
+
+原始2条预测均保留labels/decisions=None及UnsupportedSourceGraph错误，decision数为0。全部10个维度槽原样保留为技术失败，rule_not_executed=True、rules_null=False；每槽完整source_record及所有来源字串、contexts/kinds/geometry/source_references/attachments与冻结raw对象相等。没有补0或对照新参照。
+
+读取轨迹22路径均符合白名单：15材料、5代码、1自身诊断输出、1Python标准库文件；9PNG实际读取，参照/A/B/native读取为0。首轮freeze→执行→seal顺序正确，所有产物SHA吻合。
+
+封存前316文件、旧v04的428文件、首36的532文件、旧41的81文件及3份旧外部算术文件均无SHA/字节变化；五代码未变化，三语义文件字节等封存v04。先前接口与控制失败和预冻结审查均保留。可完整封存本次失败交付；未运行evaluator或新标签比较。

@@ -1,0 +1,241 @@
+{
+  "checked_at": "2026-10-10T04:14:41.492990+08:00",
+  "official_notice_url": "https://www.nhsa.gov.cn/art/2025/7/10/art_109_17198.html",
+  "official_attachment_url": "https://www.nhsa.gov.cn/module/download/downfile.jsp?classid=0&filename=e1190c0f82f4447f86526deb111865c0.pdf",
+  "official_notice_publication_date": "2025-07-10",
+  "official_notice_and_nine_page_PDF_read_via_web_tool": true,
+  "archived_source_sha256": "d76f3d33e1ea70990992a99ae76371fcc1f99da93078e72b4376265679167a73",
+  "raw_attachment_byte_identity_verified": false,
+  "raw_attachment_byte_identity_reason": "direct local HTTPS transport errors and HTTP404 preserved; web parsed text available, not raw byte hash",
+  "source_text_comparison": "NFKC/whitespace and actual printed page footer only; no source text overwrite",
+  "resource_n": 37,
+  "literal_match_n": 37,
+  "checks": [
+    {
+      "resource_id": "RENEW25-DOC-PREFACE",
+      "text_n": 53,
+      "official_extracted_literal_match": true,
+      "text_sha256": "3a295c3b15c382ad3078257c5ca2ea93c84f79cd82bf6a8b3b7a512b22d5d3cd"
+    },
+    {
+      "resource_id": "RENEW25-RULE1-FULL",
+      "text_n": 406,
+      "official_extracted_literal_match": true,
+      "text_sha256": "743d8a95b448d852c6196255341c42890aca062329002e3a9a8e584d517a45f4"
+    },
+    {
+      "resource_id": "RENEW25-RULE2-FULL",
+      "text_n": 2669,
+      "official_extracted_literal_match": true,
+      "text_sha256": "e29b3a0ae7dee2a4095cbfed6f4110bc3767394986d0562af5fa7e7dba07728f"
+    },
+    {
+      "resource_id": "RENEW25-R1-PREDICATE",
+      "text_n": 29,
+      "official_extracted_literal_match": true,
+      "text_sha256": "a91040570be858ceab715dce4d9cd72b20013ec1451dcc84e05af45255c360cc"
+    },
+    {
+      "resource_id": "RENEW25-R1-C1",
+      "text_n": 50,
+      "official_extracted_literal_match": true,
+      "text_sha256": "a59f9451712a7e1e174b52ba685ebd67fd29d09b5fb23ee700d653a310fb098d"
+    },
+    {
+      "resource_id": "RENEW25-R1-C2",
+      "text_n": 45,
+      "official_extracted_literal_match": true,
+      "text_sha256": "e923cd35b975187e16cf45d8de9712a49e9601056e7e4ed9f38f04dbbafd747f"
+    },
+    {
+      "resource_id": "RENEW25-R1-RULES",
+      "text_n": 201,
+      "official_extracted_literal_match": true,
+      "text_sha256": "f5c1b6f0a829104fb7a9e17918b11c1da1a2ba58a2163860954a78c395126238"
+    },
+    {
+      "resource_id": "RENEW25-R1-8YEAR-INDEPENDENT-PAYMENT-GATE",
+      "text_n": 39,
+      "official_extracted_literal_match": true,
+      "text_sha256": "b0bff4a4ffa7373fef1f2d423db048c7cee82de831ce5f216884fd4da52da64c"
+    },
+    {
+      "resource_id": "RENEW25-R1-PROCEDURE",
+      "text_n": 66,
+      "official_extracted_literal_match": true,
+      "text_sha256": "9dcbb2ff10274061095850fe5017e4c30e51d53bddb69f2c967b6440376e03f7"
+    },
+    {
+      "resource_id": "RENEW25-R2-PREDICATE",
+      "text_n": 47,
+      "official_extracted_literal_match": true,
+      "text_sha256": "77d7dd4a5a46fc8e9db5daf5c1a7c9ba2dde41970ef072b6fca8f6f97c302b5c"
+    },
+    {
+      "resource_id": "RENEW25-R2-C1",
+      "text_n": 7,
+      "official_extracted_literal_match": true,
+      "text_sha256": "3c8c590281d07ffb5f0e32d8e8dbcb3d2c4ec555dd6ffd00c358d05aac1e6556"
+    },
+    {
+      "resource_id": "RENEW25-R2-C2",
+      "text_n": 73,
+      "official_extracted_literal_match": true,
+      "text_sha256": "f0f4e38fe3c07c113e7614a22943a738c9185dd82179de2aa64840cb454b9a92"
+    },
+    {
+      "resource_id": "RENEW25-R2-C3-PARENT",
+      "text_n": 25,
+      "official_extracted_literal_match": true,
+      "text_sha256": "ce7783515c0af5d2d33663c727ee51a6ddac97a44d0153fd44cff801118f1fd4"
+    },
+    {
+      "resource_id": "RENEW25-R2-C3-1",
+      "text_n": 94,
+      "official_extracted_literal_match": true,
+      "text_sha256": "ace6781282bb350477fcca539fe4164701c507cdd4aa980d85c7d74535df1906"
+    },
+    {
+      "resource_id": "RENEW25-R2-C3-2",
+      "text_n": 67,
+      "official_extracted_literal_match": true,
+      "text_sha256": "0c3f7cb7c13f122eb008ea4466b4e3025e3ce926318a4f21c3963a507d49de15"
+    },
+    {
+      "resource_id": "RENEW25-R2-C4",
+      "text_n": 101,
+      "official_extracted_literal_match": true,
+      "text_sha256": "b13e9dc02eb0897ea38ec67f9fdd7f1f70bbe2141663e50b6295a8b3c3cfe17c"
+    },
+    {
+      "resource_id": "RENEW25-R2-C5",
+      "text_n": 17,
+      "official_extracted_literal_match": true,
+      "text_sha256": "568381f92f7382ec7e091e44a8628c1d974abc2f0f67c06de758561cfc069bc6"
+    },
+    {
+      "resource_id": "RENEW25-R2-PAYMENT-RULES",
+      "text_n": 1168,
+      "official_extracted_literal_match": true,
+      "text_sha256": "94b1645a460763de4ce2afb22a917b851dc5fe64b5b74b4b04306f0b24aca83a"
+    },
+    {
+      "resource_id": "RENEW25-R2-RATIO-A-DEFINITION",
+      "text_n": 53,
+      "official_extracted_literal_match": true,
+      "text_sha256": "bdb2d72eb12dd3538cd253b10f4cf513012b1714b8e90a6e94c36cbfcb54f498"
+    },
+    {
+      "resource_id": "RENEW25-R2-RATIO-B-DEFINITION",
+      "text_n": 148,
+      "official_extracted_literal_match": true,
+      "text_sha256": "6f3b8f3e49c065713b763fea5e30084fd6edeab3a2cede0584a65b0723008ed7"
+    },
+    {
+      "resource_id": "RENEW25-R2-PROCEDURE",
+      "text_n": 241,
+      "official_extracted_literal_match": true,
+      "text_sha256": "4ec8d8b82a6d341735c8749c68b90d3ee3f14608a0d8fa2aec8b36f1a436acd8"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-1",
+      "text_n": 139,
+      "official_extracted_literal_match": true,
+      "text_sha256": "e13c9fc4ddecfbd4763dd17b513dc306c60766c98204eea2155d5893562a4b09"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-2-PREDICATE",
+      "text_n": 94,
+      "official_extracted_literal_match": true,
+      "text_sha256": "e9a58b9b404004d0874770758762b79b65d13f21e1f737e40bf9dae91378a375"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-2-C1",
+      "text_n": 8,
+      "official_extracted_literal_match": true,
+      "text_sha256": "93d6f9b18526750c9c750b6a2584035523a0096436195b3c4150426fd1552398"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-2-C2",
+      "text_n": 49,
+      "official_extracted_literal_match": true,
+      "text_sha256": "14d371da26168092191e06aee90e1b5efc6d5a51de71db04ec8bc91a77f2713d"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-2-C3",
+      "text_n": 93,
+      "official_extracted_literal_match": true,
+      "text_sha256": "cfef006543e0c3dfccd2b9fb860903137a4280582fa86e84930d78293518a613"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-3",
+      "text_n": 68,
+      "official_extracted_literal_match": true,
+      "text_sha256": "aa291959d7d6cf6e63d14a44593a20580e9bd1edfb300da9b8a3a12a2542f5f0"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-4",
+      "text_n": 81,
+      "official_extracted_literal_match": true,
+      "text_sha256": "d89faec51dbc0cbd0ad2d492219e877b73ea4bdd2d2421366e0e0b1574e77ad0"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-5",
+      "text_n": 210,
+      "official_extracted_literal_match": true,
+      "text_sha256": "d19596975cdd90d13d2d46b82fd5fe1f6d0f1b6b258cb4cd6918e89d4da696c0"
+    },
+    {
+      "resource_id": "RENEW25-R2-OTHER-6",
+      "text_n": 72,
+      "official_extracted_literal_match": true,
+      "text_sha256": "a2aecaba4c9a795667597a998d83cde51177612ea7a054c042d0d2b828ce85b1"
+    },
+    {
+      "resource_id": "RENEW25-R3-ANCHOR-PREDICATE",
+      "text_n": 26,
+      "official_extracted_literal_match": true,
+      "text_sha256": "dc3474f0b5e71926ebd68a4a4ed4df0244d68fec340f2286fdd1a00296d595f5"
+    },
+    {
+      "resource_id": "RENEW25-R3-ANCHOR-C1",
+      "text_n": 24,
+      "official_extracted_literal_match": true,
+      "text_sha256": "b9abad230b1b0cb2a2ad25394a1d2f3978d5a699531576a237fe09636e3f5162"
+    },
+    {
+      "resource_id": "RENEW25-R3-ANCHOR-C2",
+      "text_n": 80,
+      "official_extracted_literal_match": true,
+      "text_sha256": "26f1a47b357fe87bf0ef0438bdda89b22c7b5f04ffd57ddf2f09379c10ea51ee"
+    },
+    {
+      "resource_id": "RENEW25-APPENDIX-1",
+      "text_n": 19,
+      "official_extracted_literal_match": true,
+      "text_sha256": "302c32097f5c1ce60149453811f7a790a5090885a59f5f426b13b08d877d227a"
+    },
+    {
+      "resource_id": "RENEW25-APPENDIX-2",
+      "text_n": 109,
+      "official_extracted_literal_match": true,
+      "text_sha256": "56e3650a1f1be228904f64189d7c2c018a066fe36396079337c3e32e29215a08"
+    },
+    {
+      "resource_id": "RENEW25-APPENDIX-3",
+      "text_n": 165,
+      "official_extracted_literal_match": true,
+      "text_sha256": "579ef1ad8a716dc826f31706bf96b781a9099db126e3553e65b02435f6ac5e7f"
+    },
+    {
+      "resource_id": "RENEW25-APPENDIX-4",
+      "text_n": 18,
+      "official_extracted_literal_match": true,
+      "text_sha256": "016e76278a68b19ee04bb143f2dad30f4bda64aeb9ec781455520859db81e39e"
+    }
+  ],
+  "coding_inputs_or_labels_changed": false,
+  "old_packet_seals_preserved": true,
+  "notice_text_sha256": "871186fcc03619fd474de6d6656864f4b03271ad0383fb5f09c3bf82101e7816",
+  "PDF_parsed_response_sha256": "f144abea29275ccf5650dc671b8ecc9cff67ecced199c26c05f4b6c240b38f20"
+}

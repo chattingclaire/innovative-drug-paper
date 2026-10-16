@@ -1,0 +1,32 @@
+[
+  {
+    "source_root": "创新药论文.md",
+    "relative_path": "README.md",
+    "replacements": 1
+  },
+  {
+    "source_root": "创新药论文.md",
+    "relative_path": "academic_paper_analyzer.py",
+    "replacements": 1
+  },
+  {
+    "source_root": "创新药论文.md",
+    "relative_path": "framework_paper_analyzer.py",
+    "replacements": 1
+  },
+  {
+    "source_root": "创新药论文.md",
+    "relative_path": "mg.txt",
+    "replacements": 1
+  },
+  {
+    "source_root": "创新药论文.md",
+    "relative_path": "test_analyzer.py",
+    "replacements": 1
+  },
+  {
+    "source_root": "创新药论文.md",
+    "relative_path": "widget_query_optimizer.py",
+    "replacements": 1
+  }
+]

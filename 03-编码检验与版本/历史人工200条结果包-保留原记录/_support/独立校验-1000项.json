@@ -1,0 +1,7422 @@
+{
+  "identity": "只读独立校验；按用户本人核验确认及5项边界均为1推导，AI代录。不是两位真人独立首判。",
+  "records": 200,
+  "dimensions_per_record": 5,
+  "judgments": 1000,
+  "confirmed_adjudications": 18,
+  "same_AI_values_retained": 982,
+  "positive_counts": {
+    "S": 27,
+    "E": 13,
+    "Ec": 20,
+    "I": 32,
+    "F": 16
+  },
+  "positive_total": 108,
+  "zero_total": 892,
+  "pending": 0,
+  "workbook_headers": {
+    "A": {
+      "A": "材料盲号",
+      "B": "原文材料（点击打开）",
+      "C": "维度",
+      "D": "AI判定（0/1）\n待定留空",
+      "E": "AI理由与原文依据"
+    },
+    "B": {
+      "A": "材料盲号",
+      "B": "原文材料（点击打开）",
+      "C": "维度",
+      "D": "AI判定（0/1）\n待定留空",
+      "E": "AI理由与原文依据"
+    }
+  },
+  "label_changes": {
+    "A": [
+      {
+        "id": "A-126",
+        "dimension": "S",
+        "cell": "D672",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "A-126",
+        "dimension": "E",
+        "cell": "D673",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "A-117",
+        "dimension": "I",
+        "cell": "D680",
+        "old": null,
+        "new": 0
+      },
+      {
+        "id": "A-117",
+        "dimension": "F",
+        "cell": "D681",
+        "old": null,
+        "new": 0
+      },
+      {
+        "id": "A-016",
+        "dimension": "E",
+        "cell": "D573",
+        "old": 1,
+        "new": 0
+      },
+      {
+        "id": "A-036",
+        "dimension": "I",
+        "cell": "D280",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "A-120",
+        "dimension": "I",
+        "cell": "D175",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "A-178",
+        "dimension": "I",
+        "cell": "D990",
+        "old": 0,
+        "new": 1
+      }
+    ],
+    "B": [
+      {
+        "id": "B-040",
+        "dimension": "I",
+        "cell": "D700",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "B-045",
+        "dimension": "I",
+        "cell": "D730",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "B-002",
+        "dimension": "Ec",
+        "cell": "D979",
+        "old": 1,
+        "new": 0
+      },
+      {
+        "id": "B-127",
+        "dimension": "S",
+        "cell": "D857",
+        "old": 1,
+        "new": 0
+      },
+      {
+        "id": "B-131",
+        "dimension": "Ec",
+        "cell": "D244",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "B-131",
+        "dimension": "F",
+        "cell": "D246",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "B-118",
+        "dimension": "S",
+        "cell": "D17",
+        "old": 1,
+        "new": 0
+      },
+      {
+        "id": "B-200",
+        "dimension": "S",
+        "cell": "D452",
+        "old": 1,
+        "new": 0
+      },
+      {
+        "id": "B-035",
+        "dimension": "S",
+        "cell": "D262",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "id": "B-035",
+        "dimension": "E",
+        "cell": "D263",
+        "old": 0,
+        "new": 1
+      }
+    ]
+  },
+  "all_18_adjudication_cells": {
+    "A": [
+      {
+        "id": "A-126",
+        "dimension": "S",
+        "cell": "D672",
+        "final": 1
+      },
+      {
+        "id": "A-126",
+        "dimension": "E",
+        "cell": "D673",
+        "final": 1
+      },
+      {
+        "id": "A-117",
+        "dimension": "I",
+        "cell": "D680",
+        "final": 0
+      },
+      {
+        "id": "A-117",
+        "dimension": "F",
+        "cell": "D681",
+        "final": 0
+      },
+      {
+        "id": "A-105",
+        "dimension": "I",
+        "cell": "D700",
+        "final": 1
+      },
+      {
+        "id": "A-122",
+        "dimension": "I",
+        "cell": "D730",
+        "final": 1
+      },
+      {
+        "id": "A-016",
+        "dimension": "E",
+        "cell": "D573",
+        "final": 0
+      },
+      {
+        "id": "A-023",
+        "dimension": "Ec",
+        "cell": "D979",
+        "final": 0
+      },
+      {
+        "id": "A-084",
+        "dimension": "S",
+        "cell": "D857",
+        "final": 0
+      },
+      {
+        "id": "A-160",
+        "dimension": "Ec",
+        "cell": "D244",
+        "final": 1
+      },
+      {
+        "id": "A-160",
+        "dimension": "F",
+        "cell": "D246",
+        "final": 1
+      },
+      {
+        "id": "A-036",
+        "dimension": "I",
+        "cell": "D280",
+        "final": 1
+      },
+      {
+        "id": "A-120",
+        "dimension": "I",
+        "cell": "D175",
+        "final": 1
+      },
+      {
+        "id": "A-178",
+        "dimension": "I",
+        "cell": "D990",
+        "final": 1
+      },
+      {
+        "id": "A-119",
+        "dimension": "S",
+        "cell": "D17",
+        "final": 0
+      },
+      {
+        "id": "A-149",
+        "dimension": "S",
+        "cell": "D452",
+        "final": 0
+      },
+      {
+        "id": "A-088",
+        "dimension": "S",
+        "cell": "D262",
+        "final": 1
+      },
+      {
+        "id": "A-088",
+        "dimension": "E",
+        "cell": "D263",
+        "final": 1
+      }
+    ],
+    "B": [
+      {
+        "id": "B-098",
+        "dimension": "S",
+        "cell": "D672",
+        "final": 1
+      },
+      {
+        "id": "B-098",
+        "dimension": "E",
+        "cell": "D673",
+        "final": 1
+      },
+      {
+        "id": "B-197",
+        "dimension": "I",
+        "cell": "D680",
+        "final": 0
+      },
+      {
+        "id": "B-197",
+        "dimension": "F",
+        "cell": "D681",
+        "final": 0
+      },
+      {
+        "id": "B-040",
+        "dimension": "I",
+        "cell": "D700",
+        "final": 1
+      },
+      {
+        "id": "B-045",
+        "dimension": "I",
+        "cell": "D730",
+        "final": 1
+      },
+      {
+        "id": "B-168",
+        "dimension": "E",
+        "cell": "D573",
+        "final": 0
+      },
+      {
+        "id": "B-002",
+        "dimension": "Ec",
+        "cell": "D979",
+        "final": 0
+      },
+      {
+        "id": "B-127",
+        "dimension": "S",
+        "cell": "D857",
+        "final": 0
+      },
+      {
+        "id": "B-131",
+        "dimension": "Ec",
+        "cell": "D244",
+        "final": 1
+      },
+      {
+        "id": "B-131",
+        "dimension": "F",
+        "cell": "D246",
+        "final": 1
+      },
+      {
+        "id": "B-190",
+        "dimension": "I",
+        "cell": "D280",
+        "final": 1
+      },
+      {
+        "id": "B-161",
+        "dimension": "I",
+        "cell": "D175",
+        "final": 1
+      },
+      {
+        "id": "B-058",
+        "dimension": "I",
+        "cell": "D990",
+        "final": 1
+      },
+      {
+        "id": "B-118",
+        "dimension": "S",
+        "cell": "D17",
+        "final": 0
+      },
+      {
+        "id": "B-200",
+        "dimension": "S",
+        "cell": "D452",
+        "final": 0
+      },
+      {
+        "id": "B-035",
+        "dimension": "S",
+        "cell": "D262",
+        "final": 1
+      },
+      {
+        "id": "B-035",
+        "dimension": "E",
+        "cell": "D263",
+        "final": 1
+      }
+    ]
+  },
+  "source_workbook_hashes": {
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/AI复核-A-200条.xlsx": "745e2f7cc1d05943570a72912cac3b1254ccee539895c66797ca695cd27197a2",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx": "23bb0f9ab743f695d8df7825486ac52246ab5791d8f2b3f7da16b377019475a3"
+  },
+  "final_labels": [
+    {
+      "unit_id": "RECODE25-00023",
+      "A_id": "A-091",
+      "B_id": "B-153",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00023",
+      "A_id": "A-091",
+      "B_id": "B-153",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00023",
+      "A_id": "A-091",
+      "B_id": "B-153",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00023",
+      "A_id": "A-091",
+      "B_id": "B-153",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00023",
+      "A_id": "A-091",
+      "B_id": "B-153",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00027",
+      "A_id": "A-134",
+      "B_id": "B-111",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00027",
+      "A_id": "A-134",
+      "B_id": "B-111",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00027",
+      "A_id": "A-134",
+      "B_id": "B-111",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00027",
+      "A_id": "A-134",
+      "B_id": "B-111",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00027",
+      "A_id": "A-134",
+      "B_id": "B-111",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00051",
+      "A_id": "A-045",
+      "B_id": "B-072",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00051",
+      "A_id": "A-045",
+      "B_id": "B-072",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00051",
+      "A_id": "A-045",
+      "B_id": "B-072",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00051",
+      "A_id": "A-045",
+      "B_id": "B-072",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00051",
+      "A_id": "A-045",
+      "B_id": "B-072",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00084",
+      "A_id": "A-167",
+      "B_id": "B-173",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00084",
+      "A_id": "A-167",
+      "B_id": "B-173",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00084",
+      "A_id": "A-167",
+      "B_id": "B-173",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00084",
+      "A_id": "A-167",
+      "B_id": "B-173",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00084",
+      "A_id": "A-167",
+      "B_id": "B-173",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00111",
+      "A_id": "A-162",
+      "B_id": "B-166",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00111",
+      "A_id": "A-162",
+      "B_id": "B-166",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00111",
+      "A_id": "A-162",
+      "B_id": "B-166",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00111",
+      "A_id": "A-162",
+      "B_id": "B-166",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00111",
+      "A_id": "A-162",
+      "B_id": "B-166",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00113",
+      "A_id": "A-019",
+      "B_id": "B-064",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00113",
+      "A_id": "A-019",
+      "B_id": "B-064",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00113",
+      "A_id": "A-019",
+      "B_id": "B-064",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00113",
+      "A_id": "A-019",
+      "B_id": "B-064",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00113",
+      "A_id": "A-019",
+      "B_id": "B-064",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00120",
+      "A_id": "A-002",
+      "B_id": "B-094",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00120",
+      "A_id": "A-002",
+      "B_id": "B-094",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00120",
+      "A_id": "A-002",
+      "B_id": "B-094",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00120",
+      "A_id": "A-002",
+      "B_id": "B-094",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00120",
+      "A_id": "A-002",
+      "B_id": "B-094",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00123",
+      "A_id": "A-127",
+      "B_id": "B-066",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00123",
+      "A_id": "A-127",
+      "B_id": "B-066",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00123",
+      "A_id": "A-127",
+      "B_id": "B-066",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00123",
+      "A_id": "A-127",
+      "B_id": "B-066",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00123",
+      "A_id": "A-127",
+      "B_id": "B-066",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00125",
+      "A_id": "A-153",
+      "B_id": "B-003",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00125",
+      "A_id": "A-153",
+      "B_id": "B-003",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00125",
+      "A_id": "A-153",
+      "B_id": "B-003",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00125",
+      "A_id": "A-153",
+      "B_id": "B-003",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00125",
+      "A_id": "A-153",
+      "B_id": "B-003",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00127",
+      "A_id": "A-043",
+      "B_id": "B-060",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00127",
+      "A_id": "A-043",
+      "B_id": "B-060",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00127",
+      "A_id": "A-043",
+      "B_id": "B-060",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00127",
+      "A_id": "A-043",
+      "B_id": "B-060",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00127",
+      "A_id": "A-043",
+      "B_id": "B-060",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00129",
+      "A_id": "A-060",
+      "B_id": "B-185",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00129",
+      "A_id": "A-060",
+      "B_id": "B-185",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00129",
+      "A_id": "A-060",
+      "B_id": "B-185",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00129",
+      "A_id": "A-060",
+      "B_id": "B-185",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00129",
+      "A_id": "A-060",
+      "B_id": "B-185",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00132",
+      "A_id": "A-067",
+      "B_id": "B-136",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00132",
+      "A_id": "A-067",
+      "B_id": "B-136",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00132",
+      "A_id": "A-067",
+      "B_id": "B-136",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00132",
+      "A_id": "A-067",
+      "B_id": "B-136",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00132",
+      "A_id": "A-067",
+      "B_id": "B-136",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00133",
+      "A_id": "A-108",
+      "B_id": "B-159",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00133",
+      "A_id": "A-108",
+      "B_id": "B-159",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00133",
+      "A_id": "A-108",
+      "B_id": "B-159",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00133",
+      "A_id": "A-108",
+      "B_id": "B-159",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00133",
+      "A_id": "A-108",
+      "B_id": "B-159",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00134",
+      "A_id": "A-007",
+      "B_id": "B-141",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00134",
+      "A_id": "A-007",
+      "B_id": "B-141",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00134",
+      "A_id": "A-007",
+      "B_id": "B-141",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00134",
+      "A_id": "A-007",
+      "B_id": "B-141",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00134",
+      "A_id": "A-007",
+      "B_id": "B-141",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00141",
+      "A_id": "A-071",
+      "B_id": "B-132",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00141",
+      "A_id": "A-071",
+      "B_id": "B-132",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00141",
+      "A_id": "A-071",
+      "B_id": "B-132",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00141",
+      "A_id": "A-071",
+      "B_id": "B-132",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00141",
+      "A_id": "A-071",
+      "B_id": "B-132",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00143",
+      "A_id": "A-147",
+      "B_id": "B-044",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00143",
+      "A_id": "A-147",
+      "B_id": "B-044",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00143",
+      "A_id": "A-147",
+      "B_id": "B-044",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00143",
+      "A_id": "A-147",
+      "B_id": "B-044",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00143",
+      "A_id": "A-147",
+      "B_id": "B-044",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00201",
+      "A_id": "A-039",
+      "B_id": "B-038",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00201",
+      "A_id": "A-039",
+      "B_id": "B-038",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00201",
+      "A_id": "A-039",
+      "B_id": "B-038",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00201",
+      "A_id": "A-039",
+      "B_id": "B-038",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00201",
+      "A_id": "A-039",
+      "B_id": "B-038",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00206",
+      "A_id": "A-064",
+      "B_id": "B-012",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00206",
+      "A_id": "A-064",
+      "B_id": "B-012",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00206",
+      "A_id": "A-064",
+      "B_id": "B-012",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00206",
+      "A_id": "A-064",
+      "B_id": "B-012",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00206",
+      "A_id": "A-064",
+      "B_id": "B-012",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00267",
+      "A_id": "A-102",
+      "B_id": "B-122",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00267",
+      "A_id": "A-102",
+      "B_id": "B-122",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00267",
+      "A_id": "A-102",
+      "B_id": "B-122",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00267",
+      "A_id": "A-102",
+      "B_id": "B-122",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00267",
+      "A_id": "A-102",
+      "B_id": "B-122",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00275",
+      "A_id": "A-114",
+      "B_id": "B-110",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00275",
+      "A_id": "A-114",
+      "B_id": "B-110",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00275",
+      "A_id": "A-114",
+      "B_id": "B-110",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00275",
+      "A_id": "A-114",
+      "B_id": "B-110",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00275",
+      "A_id": "A-114",
+      "B_id": "B-110",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00317",
+      "A_id": "A-063",
+      "B_id": "B-052",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00317",
+      "A_id": "A-063",
+      "B_id": "B-052",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00317",
+      "A_id": "A-063",
+      "B_id": "B-052",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00317",
+      "A_id": "A-063",
+      "B_id": "B-052",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00317",
+      "A_id": "A-063",
+      "B_id": "B-052",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00416",
+      "A_id": "A-081",
+      "B_id": "B-137",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00416",
+      "A_id": "A-081",
+      "B_id": "B-137",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00416",
+      "A_id": "A-081",
+      "B_id": "B-137",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00416",
+      "A_id": "A-081",
+      "B_id": "B-137",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00416",
+      "A_id": "A-081",
+      "B_id": "B-137",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00478",
+      "A_id": "A-107",
+      "B_id": "B-187",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00478",
+      "A_id": "A-107",
+      "B_id": "B-187",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00478",
+      "A_id": "A-107",
+      "B_id": "B-187",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00478",
+      "A_id": "A-107",
+      "B_id": "B-187",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00478",
+      "A_id": "A-107",
+      "B_id": "B-187",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00493",
+      "A_id": "A-087",
+      "B_id": "B-031",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00493",
+      "A_id": "A-087",
+      "B_id": "B-031",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00493",
+      "A_id": "A-087",
+      "B_id": "B-031",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00493",
+      "A_id": "A-087",
+      "B_id": "B-031",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00493",
+      "A_id": "A-087",
+      "B_id": "B-031",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00501",
+      "A_id": "A-066",
+      "B_id": "B-065",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00501",
+      "A_id": "A-066",
+      "B_id": "B-065",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00501",
+      "A_id": "A-066",
+      "B_id": "B-065",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00501",
+      "A_id": "A-066",
+      "B_id": "B-065",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00501",
+      "A_id": "A-066",
+      "B_id": "B-065",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00606",
+      "A_id": "A-171",
+      "B_id": "B-009",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00606",
+      "A_id": "A-171",
+      "B_id": "B-009",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00606",
+      "A_id": "A-171",
+      "B_id": "B-009",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00606",
+      "A_id": "A-171",
+      "B_id": "B-009",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00606",
+      "A_id": "A-171",
+      "B_id": "B-009",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00613",
+      "A_id": "A-049",
+      "B_id": "B-029",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00613",
+      "A_id": "A-049",
+      "B_id": "B-029",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00613",
+      "A_id": "A-049",
+      "B_id": "B-029",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00613",
+      "A_id": "A-049",
+      "B_id": "B-029",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00613",
+      "A_id": "A-049",
+      "B_id": "B-029",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00710",
+      "A_id": "A-009",
+      "B_id": "B-191",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00710",
+      "A_id": "A-009",
+      "B_id": "B-191",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00710",
+      "A_id": "A-009",
+      "B_id": "B-191",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00710",
+      "A_id": "A-009",
+      "B_id": "B-191",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00710",
+      "A_id": "A-009",
+      "B_id": "B-191",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00719",
+      "A_id": "A-109",
+      "B_id": "B-010",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00719",
+      "A_id": "A-109",
+      "B_id": "B-010",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00719",
+      "A_id": "A-109",
+      "B_id": "B-010",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00719",
+      "A_id": "A-109",
+      "B_id": "B-010",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00719",
+      "A_id": "A-109",
+      "B_id": "B-010",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00724",
+      "A_id": "A-006",
+      "B_id": "B-073",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00724",
+      "A_id": "A-006",
+      "B_id": "B-073",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00724",
+      "A_id": "A-006",
+      "B_id": "B-073",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00724",
+      "A_id": "A-006",
+      "B_id": "B-073",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00724",
+      "A_id": "A-006",
+      "B_id": "B-073",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00750",
+      "A_id": "A-030",
+      "B_id": "B-196",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00750",
+      "A_id": "A-030",
+      "B_id": "B-196",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00750",
+      "A_id": "A-030",
+      "B_id": "B-196",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00750",
+      "A_id": "A-030",
+      "B_id": "B-196",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00750",
+      "A_id": "A-030",
+      "B_id": "B-196",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00770",
+      "A_id": "A-112",
+      "B_id": "B-179",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00770",
+      "A_id": "A-112",
+      "B_id": "B-179",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00770",
+      "A_id": "A-112",
+      "B_id": "B-179",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00770",
+      "A_id": "A-112",
+      "B_id": "B-179",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00770",
+      "A_id": "A-112",
+      "B_id": "B-179",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00777",
+      "A_id": "A-070",
+      "B_id": "B-087",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00777",
+      "A_id": "A-070",
+      "B_id": "B-087",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00777",
+      "A_id": "A-070",
+      "B_id": "B-087",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00777",
+      "A_id": "A-070",
+      "B_id": "B-087",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00777",
+      "A_id": "A-070",
+      "B_id": "B-087",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00849",
+      "A_id": "A-092",
+      "B_id": "B-124",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00849",
+      "A_id": "A-092",
+      "B_id": "B-124",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00849",
+      "A_id": "A-092",
+      "B_id": "B-124",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00849",
+      "A_id": "A-092",
+      "B_id": "B-124",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00849",
+      "A_id": "A-092",
+      "B_id": "B-124",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00895",
+      "A_id": "A-135",
+      "B_id": "B-069",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00895",
+      "A_id": "A-135",
+      "B_id": "B-069",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00895",
+      "A_id": "A-135",
+      "B_id": "B-069",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-00895",
+      "A_id": "A-135",
+      "B_id": "B-069",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00895",
+      "A_id": "A-135",
+      "B_id": "B-069",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00955",
+      "A_id": "A-024",
+      "B_id": "B-067",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00955",
+      "A_id": "A-024",
+      "B_id": "B-067",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00955",
+      "A_id": "A-024",
+      "B_id": "B-067",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00955",
+      "A_id": "A-024",
+      "B_id": "B-067",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00955",
+      "A_id": "A-024",
+      "B_id": "B-067",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00992",
+      "A_id": "A-078",
+      "B_id": "B-102",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00992",
+      "A_id": "A-078",
+      "B_id": "B-102",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00992",
+      "A_id": "A-078",
+      "B_id": "B-102",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00992",
+      "A_id": "A-078",
+      "B_id": "B-102",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-00992",
+      "A_id": "A-078",
+      "B_id": "B-102",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01014",
+      "A_id": "A-196",
+      "B_id": "B-106",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01014",
+      "A_id": "A-196",
+      "B_id": "B-106",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01014",
+      "A_id": "A-196",
+      "B_id": "B-106",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01014",
+      "A_id": "A-196",
+      "B_id": "B-106",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01014",
+      "A_id": "A-196",
+      "B_id": "B-106",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01075",
+      "A_id": "A-169",
+      "B_id": "B-090",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01075",
+      "A_id": "A-169",
+      "B_id": "B-090",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01075",
+      "A_id": "A-169",
+      "B_id": "B-090",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01075",
+      "A_id": "A-169",
+      "B_id": "B-090",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01075",
+      "A_id": "A-169",
+      "B_id": "B-090",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01084",
+      "A_id": "A-038",
+      "B_id": "B-115",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01084",
+      "A_id": "A-038",
+      "B_id": "B-115",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01084",
+      "A_id": "A-038",
+      "B_id": "B-115",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01084",
+      "A_id": "A-038",
+      "B_id": "B-115",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01084",
+      "A_id": "A-038",
+      "B_id": "B-115",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01088",
+      "A_id": "A-042",
+      "B_id": "B-140",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01088",
+      "A_id": "A-042",
+      "B_id": "B-140",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01088",
+      "A_id": "A-042",
+      "B_id": "B-140",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01088",
+      "A_id": "A-042",
+      "B_id": "B-140",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01088",
+      "A_id": "A-042",
+      "B_id": "B-140",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01103",
+      "A_id": "A-061",
+      "B_id": "B-121",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01103",
+      "A_id": "A-061",
+      "B_id": "B-121",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01103",
+      "A_id": "A-061",
+      "B_id": "B-121",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01103",
+      "A_id": "A-061",
+      "B_id": "B-121",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01103",
+      "A_id": "A-061",
+      "B_id": "B-121",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01117",
+      "A_id": "A-012",
+      "B_id": "B-020",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01117",
+      "A_id": "A-012",
+      "B_id": "B-020",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01117",
+      "A_id": "A-012",
+      "B_id": "B-020",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01117",
+      "A_id": "A-012",
+      "B_id": "B-020",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01117",
+      "A_id": "A-012",
+      "B_id": "B-020",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01173",
+      "A_id": "A-152",
+      "B_id": "B-160",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01173",
+      "A_id": "A-152",
+      "B_id": "B-160",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01173",
+      "A_id": "A-152",
+      "B_id": "B-160",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01173",
+      "A_id": "A-152",
+      "B_id": "B-160",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01173",
+      "A_id": "A-152",
+      "B_id": "B-160",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01212",
+      "A_id": "A-018",
+      "B_id": "B-183",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01212",
+      "A_id": "A-018",
+      "B_id": "B-183",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01212",
+      "A_id": "A-018",
+      "B_id": "B-183",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01212",
+      "A_id": "A-018",
+      "B_id": "B-183",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01212",
+      "A_id": "A-018",
+      "B_id": "B-183",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01220",
+      "A_id": "A-183",
+      "B_id": "B-107",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01220",
+      "A_id": "A-183",
+      "B_id": "B-107",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01220",
+      "A_id": "A-183",
+      "B_id": "B-107",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01220",
+      "A_id": "A-183",
+      "B_id": "B-107",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01220",
+      "A_id": "A-183",
+      "B_id": "B-107",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01228",
+      "A_id": "A-175",
+      "B_id": "B-041",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01228",
+      "A_id": "A-175",
+      "B_id": "B-041",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01228",
+      "A_id": "A-175",
+      "B_id": "B-041",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01228",
+      "A_id": "A-175",
+      "B_id": "B-041",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01228",
+      "A_id": "A-175",
+      "B_id": "B-041",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01229",
+      "A_id": "A-050",
+      "B_id": "B-182",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01229",
+      "A_id": "A-050",
+      "B_id": "B-182",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01229",
+      "A_id": "A-050",
+      "B_id": "B-182",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01229",
+      "A_id": "A-050",
+      "B_id": "B-182",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01229",
+      "A_id": "A-050",
+      "B_id": "B-182",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01235",
+      "A_id": "A-191",
+      "B_id": "B-059",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01235",
+      "A_id": "A-191",
+      "B_id": "B-059",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01235",
+      "A_id": "A-191",
+      "B_id": "B-059",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01235",
+      "A_id": "A-191",
+      "B_id": "B-059",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01235",
+      "A_id": "A-191",
+      "B_id": "B-059",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01254",
+      "A_id": "A-170",
+      "B_id": "B-119",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01254",
+      "A_id": "A-170",
+      "B_id": "B-119",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01254",
+      "A_id": "A-170",
+      "B_id": "B-119",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01254",
+      "A_id": "A-170",
+      "B_id": "B-119",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01254",
+      "A_id": "A-170",
+      "B_id": "B-119",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01381",
+      "A_id": "A-089",
+      "B_id": "B-192",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01381",
+      "A_id": "A-089",
+      "B_id": "B-192",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01381",
+      "A_id": "A-089",
+      "B_id": "B-192",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01381",
+      "A_id": "A-089",
+      "B_id": "B-192",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01381",
+      "A_id": "A-089",
+      "B_id": "B-192",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01383",
+      "A_id": "A-126",
+      "B_id": "B-098",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01383",
+      "A_id": "A-126",
+      "B_id": "B-098",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01383",
+      "A_id": "A-126",
+      "B_id": "B-098",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01383",
+      "A_id": "A-126",
+      "B_id": "B-098",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01383",
+      "A_id": "A-126",
+      "B_id": "B-098",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01408",
+      "A_id": "A-156",
+      "B_id": "B-199",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01408",
+      "A_id": "A-156",
+      "B_id": "B-199",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01408",
+      "A_id": "A-156",
+      "B_id": "B-199",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01408",
+      "A_id": "A-156",
+      "B_id": "B-199",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01408",
+      "A_id": "A-156",
+      "B_id": "B-199",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01412",
+      "A_id": "A-095",
+      "B_id": "B-047",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01412",
+      "A_id": "A-095",
+      "B_id": "B-047",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01412",
+      "A_id": "A-095",
+      "B_id": "B-047",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01412",
+      "A_id": "A-095",
+      "B_id": "B-047",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01412",
+      "A_id": "A-095",
+      "B_id": "B-047",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01415",
+      "A_id": "A-186",
+      "B_id": "B-146",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01415",
+      "A_id": "A-186",
+      "B_id": "B-146",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01415",
+      "A_id": "A-186",
+      "B_id": "B-146",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01415",
+      "A_id": "A-186",
+      "B_id": "B-146",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01415",
+      "A_id": "A-186",
+      "B_id": "B-146",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01416",
+      "A_id": "A-099",
+      "B_id": "B-189",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01416",
+      "A_id": "A-099",
+      "B_id": "B-189",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01416",
+      "A_id": "A-099",
+      "B_id": "B-189",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01416",
+      "A_id": "A-099",
+      "B_id": "B-189",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01416",
+      "A_id": "A-099",
+      "B_id": "B-189",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01440",
+      "A_id": "A-117",
+      "B_id": "B-197",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01440",
+      "A_id": "A-117",
+      "B_id": "B-197",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01440",
+      "A_id": "A-117",
+      "B_id": "B-197",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01440",
+      "A_id": "A-117",
+      "B_id": "B-197",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01440",
+      "A_id": "A-117",
+      "B_id": "B-197",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01456",
+      "A_id": "A-129",
+      "B_id": "B-081",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01456",
+      "A_id": "A-129",
+      "B_id": "B-081",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01456",
+      "A_id": "A-129",
+      "B_id": "B-081",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01456",
+      "A_id": "A-129",
+      "B_id": "B-081",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01456",
+      "A_id": "A-129",
+      "B_id": "B-081",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01483",
+      "A_id": "A-158",
+      "B_id": "B-036",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01483",
+      "A_id": "A-158",
+      "B_id": "B-036",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01483",
+      "A_id": "A-158",
+      "B_id": "B-036",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01483",
+      "A_id": "A-158",
+      "B_id": "B-036",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01483",
+      "A_id": "A-158",
+      "B_id": "B-036",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01514",
+      "A_id": "A-115",
+      "B_id": "B-138",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01514",
+      "A_id": "A-115",
+      "B_id": "B-138",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01514",
+      "A_id": "A-115",
+      "B_id": "B-138",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01514",
+      "A_id": "A-115",
+      "B_id": "B-138",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01514",
+      "A_id": "A-115",
+      "B_id": "B-138",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01568",
+      "A_id": "A-155",
+      "B_id": "B-077",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01568",
+      "A_id": "A-155",
+      "B_id": "B-077",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01568",
+      "A_id": "A-155",
+      "B_id": "B-077",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01568",
+      "A_id": "A-155",
+      "B_id": "B-077",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01568",
+      "A_id": "A-155",
+      "B_id": "B-077",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01674",
+      "A_id": "A-180",
+      "B_id": "B-019",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01674",
+      "A_id": "A-180",
+      "B_id": "B-019",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01674",
+      "A_id": "A-180",
+      "B_id": "B-019",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01674",
+      "A_id": "A-180",
+      "B_id": "B-019",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01674",
+      "A_id": "A-180",
+      "B_id": "B-019",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01703",
+      "A_id": "A-010",
+      "B_id": "B-070",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01703",
+      "A_id": "A-010",
+      "B_id": "B-070",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01703",
+      "A_id": "A-010",
+      "B_id": "B-070",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01703",
+      "A_id": "A-010",
+      "B_id": "B-070",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01703",
+      "A_id": "A-010",
+      "B_id": "B-070",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01735",
+      "A_id": "A-110",
+      "B_id": "B-033",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01735",
+      "A_id": "A-110",
+      "B_id": "B-033",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01735",
+      "A_id": "A-110",
+      "B_id": "B-033",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01735",
+      "A_id": "A-110",
+      "B_id": "B-033",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01735",
+      "A_id": "A-110",
+      "B_id": "B-033",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01744",
+      "A_id": "A-198",
+      "B_id": "B-186",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01744",
+      "A_id": "A-198",
+      "B_id": "B-186",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01744",
+      "A_id": "A-198",
+      "B_id": "B-186",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01744",
+      "A_id": "A-198",
+      "B_id": "B-186",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01744",
+      "A_id": "A-198",
+      "B_id": "B-186",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01745",
+      "A_id": "A-200",
+      "B_id": "B-055",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01745",
+      "A_id": "A-200",
+      "B_id": "B-055",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01745",
+      "A_id": "A-200",
+      "B_id": "B-055",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01745",
+      "A_id": "A-200",
+      "B_id": "B-055",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01745",
+      "A_id": "A-200",
+      "B_id": "B-055",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01753",
+      "A_id": "A-190",
+      "B_id": "B-103",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01753",
+      "A_id": "A-190",
+      "B_id": "B-103",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01753",
+      "A_id": "A-190",
+      "B_id": "B-103",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01753",
+      "A_id": "A-190",
+      "B_id": "B-103",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01753",
+      "A_id": "A-190",
+      "B_id": "B-103",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01817",
+      "A_id": "A-176",
+      "B_id": "B-151",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01817",
+      "A_id": "A-176",
+      "B_id": "B-151",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01817",
+      "A_id": "A-176",
+      "B_id": "B-151",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01817",
+      "A_id": "A-176",
+      "B_id": "B-151",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01817",
+      "A_id": "A-176",
+      "B_id": "B-151",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01946",
+      "A_id": "A-047",
+      "B_id": "B-198",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01946",
+      "A_id": "A-047",
+      "B_id": "B-198",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01946",
+      "A_id": "A-047",
+      "B_id": "B-198",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01946",
+      "A_id": "A-047",
+      "B_id": "B-198",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01946",
+      "A_id": "A-047",
+      "B_id": "B-198",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01958",
+      "A_id": "A-003",
+      "B_id": "B-030",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01958",
+      "A_id": "A-003",
+      "B_id": "B-030",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01958",
+      "A_id": "A-003",
+      "B_id": "B-030",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01958",
+      "A_id": "A-003",
+      "B_id": "B-030",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01958",
+      "A_id": "A-003",
+      "B_id": "B-030",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01962",
+      "A_id": "A-096",
+      "B_id": "B-086",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01962",
+      "A_id": "A-096",
+      "B_id": "B-086",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01962",
+      "A_id": "A-096",
+      "B_id": "B-086",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-01962",
+      "A_id": "A-096",
+      "B_id": "B-086",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01962",
+      "A_id": "A-096",
+      "B_id": "B-086",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01963",
+      "A_id": "A-037",
+      "B_id": "B-150",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01963",
+      "A_id": "A-037",
+      "B_id": "B-150",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01963",
+      "A_id": "A-037",
+      "B_id": "B-150",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01963",
+      "A_id": "A-037",
+      "B_id": "B-150",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01963",
+      "A_id": "A-037",
+      "B_id": "B-150",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01966",
+      "A_id": "A-184",
+      "B_id": "B-097",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01966",
+      "A_id": "A-184",
+      "B_id": "B-097",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01966",
+      "A_id": "A-184",
+      "B_id": "B-097",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01966",
+      "A_id": "A-184",
+      "B_id": "B-097",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-01966",
+      "A_id": "A-184",
+      "B_id": "B-097",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02034",
+      "A_id": "A-008",
+      "B_id": "B-048",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02034",
+      "A_id": "A-008",
+      "B_id": "B-048",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02034",
+      "A_id": "A-008",
+      "B_id": "B-048",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02034",
+      "A_id": "A-008",
+      "B_id": "B-048",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02034",
+      "A_id": "A-008",
+      "B_id": "B-048",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02088",
+      "A_id": "A-194",
+      "B_id": "B-188",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02088",
+      "A_id": "A-194",
+      "B_id": "B-188",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02088",
+      "A_id": "A-194",
+      "B_id": "B-188",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02088",
+      "A_id": "A-194",
+      "B_id": "B-188",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02088",
+      "A_id": "A-194",
+      "B_id": "B-188",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02106",
+      "A_id": "A-123",
+      "B_id": "B-105",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02106",
+      "A_id": "A-123",
+      "B_id": "B-105",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02106",
+      "A_id": "A-123",
+      "B_id": "B-105",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02106",
+      "A_id": "A-123",
+      "B_id": "B-105",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02106",
+      "A_id": "A-123",
+      "B_id": "B-105",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02129",
+      "A_id": "A-059",
+      "B_id": "B-163",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02129",
+      "A_id": "A-059",
+      "B_id": "B-163",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02129",
+      "A_id": "A-059",
+      "B_id": "B-163",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02129",
+      "A_id": "A-059",
+      "B_id": "B-163",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02129",
+      "A_id": "A-059",
+      "B_id": "B-163",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02210",
+      "A_id": "A-031",
+      "B_id": "B-021",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02210",
+      "A_id": "A-031",
+      "B_id": "B-021",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02210",
+      "A_id": "A-031",
+      "B_id": "B-021",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02210",
+      "A_id": "A-031",
+      "B_id": "B-021",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02210",
+      "A_id": "A-031",
+      "B_id": "B-021",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02230",
+      "A_id": "A-173",
+      "B_id": "B-005",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02230",
+      "A_id": "A-173",
+      "B_id": "B-005",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02230",
+      "A_id": "A-173",
+      "B_id": "B-005",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02230",
+      "A_id": "A-173",
+      "B_id": "B-005",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02230",
+      "A_id": "A-173",
+      "B_id": "B-005",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02232",
+      "A_id": "A-105",
+      "B_id": "B-040",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02232",
+      "A_id": "A-105",
+      "B_id": "B-040",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02232",
+      "A_id": "A-105",
+      "B_id": "B-040",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02232",
+      "A_id": "A-105",
+      "B_id": "B-040",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02232",
+      "A_id": "A-105",
+      "B_id": "B-040",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02279",
+      "A_id": "A-075",
+      "B_id": "B-049",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02279",
+      "A_id": "A-075",
+      "B_id": "B-049",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02279",
+      "A_id": "A-075",
+      "B_id": "B-049",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02279",
+      "A_id": "A-075",
+      "B_id": "B-049",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02279",
+      "A_id": "A-075",
+      "B_id": "B-049",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02375",
+      "A_id": "A-182",
+      "B_id": "B-076",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02375",
+      "A_id": "A-182",
+      "B_id": "B-076",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02375",
+      "A_id": "A-182",
+      "B_id": "B-076",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02375",
+      "A_id": "A-182",
+      "B_id": "B-076",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02375",
+      "A_id": "A-182",
+      "B_id": "B-076",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02419",
+      "A_id": "A-058",
+      "B_id": "B-172",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02419",
+      "A_id": "A-058",
+      "B_id": "B-172",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02419",
+      "A_id": "A-058",
+      "B_id": "B-172",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02419",
+      "A_id": "A-058",
+      "B_id": "B-172",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02419",
+      "A_id": "A-058",
+      "B_id": "B-172",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02451",
+      "A_id": "A-021",
+      "B_id": "B-142",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02451",
+      "A_id": "A-021",
+      "B_id": "B-142",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02451",
+      "A_id": "A-021",
+      "B_id": "B-142",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02451",
+      "A_id": "A-021",
+      "B_id": "B-142",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02451",
+      "A_id": "A-021",
+      "B_id": "B-142",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02503",
+      "A_id": "A-029",
+      "B_id": "B-134",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02503",
+      "A_id": "A-029",
+      "B_id": "B-134",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02503",
+      "A_id": "A-029",
+      "B_id": "B-134",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02503",
+      "A_id": "A-029",
+      "B_id": "B-134",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02503",
+      "A_id": "A-029",
+      "B_id": "B-134",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02507",
+      "A_id": "A-122",
+      "B_id": "B-045",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02507",
+      "A_id": "A-122",
+      "B_id": "B-045",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02507",
+      "A_id": "A-122",
+      "B_id": "B-045",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02507",
+      "A_id": "A-122",
+      "B_id": "B-045",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02507",
+      "A_id": "A-122",
+      "B_id": "B-045",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02518",
+      "A_id": "A-055",
+      "B_id": "B-014",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02518",
+      "A_id": "A-055",
+      "B_id": "B-014",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02518",
+      "A_id": "A-055",
+      "B_id": "B-014",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02518",
+      "A_id": "A-055",
+      "B_id": "B-014",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02518",
+      "A_id": "A-055",
+      "B_id": "B-014",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02531",
+      "A_id": "A-106",
+      "B_id": "B-056",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02531",
+      "A_id": "A-106",
+      "B_id": "B-056",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02531",
+      "A_id": "A-106",
+      "B_id": "B-056",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02531",
+      "A_id": "A-106",
+      "B_id": "B-056",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02531",
+      "A_id": "A-106",
+      "B_id": "B-056",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02535",
+      "A_id": "A-195",
+      "B_id": "B-120",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02535",
+      "A_id": "A-195",
+      "B_id": "B-120",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02535",
+      "A_id": "A-195",
+      "B_id": "B-120",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02535",
+      "A_id": "A-195",
+      "B_id": "B-120",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02535",
+      "A_id": "A-195",
+      "B_id": "B-120",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02564",
+      "A_id": "A-076",
+      "B_id": "B-165",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02564",
+      "A_id": "A-076",
+      "B_id": "B-165",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02564",
+      "A_id": "A-076",
+      "B_id": "B-165",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02564",
+      "A_id": "A-076",
+      "B_id": "B-165",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02564",
+      "A_id": "A-076",
+      "B_id": "B-165",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02574",
+      "A_id": "A-001",
+      "B_id": "B-015",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02574",
+      "A_id": "A-001",
+      "B_id": "B-015",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02574",
+      "A_id": "A-001",
+      "B_id": "B-015",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02574",
+      "A_id": "A-001",
+      "B_id": "B-015",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02574",
+      "A_id": "A-001",
+      "B_id": "B-015",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02591",
+      "A_id": "A-199",
+      "B_id": "B-181",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02591",
+      "A_id": "A-199",
+      "B_id": "B-181",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02591",
+      "A_id": "A-199",
+      "B_id": "B-181",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02591",
+      "A_id": "A-199",
+      "B_id": "B-181",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02591",
+      "A_id": "A-199",
+      "B_id": "B-181",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02600",
+      "A_id": "A-074",
+      "B_id": "B-080",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02600",
+      "A_id": "A-074",
+      "B_id": "B-080",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02600",
+      "A_id": "A-074",
+      "B_id": "B-080",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02600",
+      "A_id": "A-074",
+      "B_id": "B-080",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02600",
+      "A_id": "A-074",
+      "B_id": "B-080",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02785",
+      "A_id": "A-143",
+      "B_id": "B-104",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02785",
+      "A_id": "A-143",
+      "B_id": "B-104",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02785",
+      "A_id": "A-143",
+      "B_id": "B-104",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02785",
+      "A_id": "A-143",
+      "B_id": "B-104",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02785",
+      "A_id": "A-143",
+      "B_id": "B-104",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02825",
+      "A_id": "A-166",
+      "B_id": "B-043",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02825",
+      "A_id": "A-166",
+      "B_id": "B-043",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02825",
+      "A_id": "A-166",
+      "B_id": "B-043",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02825",
+      "A_id": "A-166",
+      "B_id": "B-043",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02825",
+      "A_id": "A-166",
+      "B_id": "B-043",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02836",
+      "A_id": "A-028",
+      "B_id": "B-180",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02836",
+      "A_id": "A-028",
+      "B_id": "B-180",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02836",
+      "A_id": "A-028",
+      "B_id": "B-180",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02836",
+      "A_id": "A-028",
+      "B_id": "B-180",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02836",
+      "A_id": "A-028",
+      "B_id": "B-180",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02856",
+      "A_id": "A-052",
+      "B_id": "B-169",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02856",
+      "A_id": "A-052",
+      "B_id": "B-169",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02856",
+      "A_id": "A-052",
+      "B_id": "B-169",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02856",
+      "A_id": "A-052",
+      "B_id": "B-169",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02856",
+      "A_id": "A-052",
+      "B_id": "B-169",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02877",
+      "A_id": "A-145",
+      "B_id": "B-184",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02877",
+      "A_id": "A-145",
+      "B_id": "B-184",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02877",
+      "A_id": "A-145",
+      "B_id": "B-184",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02877",
+      "A_id": "A-145",
+      "B_id": "B-184",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02877",
+      "A_id": "A-145",
+      "B_id": "B-184",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02937",
+      "A_id": "A-090",
+      "B_id": "B-116",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02937",
+      "A_id": "A-090",
+      "B_id": "B-116",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02937",
+      "A_id": "A-090",
+      "B_id": "B-116",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02937",
+      "A_id": "A-090",
+      "B_id": "B-116",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02937",
+      "A_id": "A-090",
+      "B_id": "B-116",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02969",
+      "A_id": "A-044",
+      "B_id": "B-099",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02969",
+      "A_id": "A-044",
+      "B_id": "B-099",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02969",
+      "A_id": "A-044",
+      "B_id": "B-099",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02969",
+      "A_id": "A-044",
+      "B_id": "B-099",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02969",
+      "A_id": "A-044",
+      "B_id": "B-099",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02976",
+      "A_id": "A-027",
+      "B_id": "B-162",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-02976",
+      "A_id": "A-027",
+      "B_id": "B-162",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02976",
+      "A_id": "A-027",
+      "B_id": "B-162",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02976",
+      "A_id": "A-027",
+      "B_id": "B-162",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02976",
+      "A_id": "A-027",
+      "B_id": "B-162",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02995",
+      "A_id": "A-033",
+      "B_id": "B-068",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02995",
+      "A_id": "A-033",
+      "B_id": "B-068",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02995",
+      "A_id": "A-033",
+      "B_id": "B-068",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02995",
+      "A_id": "A-033",
+      "B_id": "B-068",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-02995",
+      "A_id": "A-033",
+      "B_id": "B-068",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03018",
+      "A_id": "A-051",
+      "B_id": "B-113",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03018",
+      "A_id": "A-051",
+      "B_id": "B-113",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03018",
+      "A_id": "A-051",
+      "B_id": "B-113",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03018",
+      "A_id": "A-051",
+      "B_id": "B-113",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03018",
+      "A_id": "A-051",
+      "B_id": "B-113",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03064",
+      "A_id": "A-172",
+      "B_id": "B-022",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03064",
+      "A_id": "A-172",
+      "B_id": "B-022",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03064",
+      "A_id": "A-172",
+      "B_id": "B-022",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03064",
+      "A_id": "A-172",
+      "B_id": "B-022",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03064",
+      "A_id": "A-172",
+      "B_id": "B-022",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03072",
+      "A_id": "A-025",
+      "B_id": "B-085",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03072",
+      "A_id": "A-025",
+      "B_id": "B-085",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03072",
+      "A_id": "A-025",
+      "B_id": "B-085",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03072",
+      "A_id": "A-025",
+      "B_id": "B-085",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03072",
+      "A_id": "A-025",
+      "B_id": "B-085",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03074",
+      "A_id": "A-165",
+      "B_id": "B-126",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03074",
+      "A_id": "A-165",
+      "B_id": "B-126",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03074",
+      "A_id": "A-165",
+      "B_id": "B-126",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03074",
+      "A_id": "A-165",
+      "B_id": "B-126",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03074",
+      "A_id": "A-165",
+      "B_id": "B-126",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03079",
+      "A_id": "A-011",
+      "B_id": "B-178",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03079",
+      "A_id": "A-011",
+      "B_id": "B-178",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03079",
+      "A_id": "A-011",
+      "B_id": "B-178",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03079",
+      "A_id": "A-011",
+      "B_id": "B-178",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03079",
+      "A_id": "A-011",
+      "B_id": "B-178",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03089",
+      "A_id": "A-142",
+      "B_id": "B-164",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03089",
+      "A_id": "A-142",
+      "B_id": "B-164",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03089",
+      "A_id": "A-142",
+      "B_id": "B-164",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03089",
+      "A_id": "A-142",
+      "B_id": "B-164",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03089",
+      "A_id": "A-142",
+      "B_id": "B-164",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03098",
+      "A_id": "A-077",
+      "B_id": "B-054",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03098",
+      "A_id": "A-077",
+      "B_id": "B-054",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03098",
+      "A_id": "A-077",
+      "B_id": "B-054",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03098",
+      "A_id": "A-077",
+      "B_id": "B-054",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03098",
+      "A_id": "A-077",
+      "B_id": "B-054",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03114",
+      "A_id": "A-179",
+      "B_id": "B-023",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03114",
+      "A_id": "A-179",
+      "B_id": "B-023",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03114",
+      "A_id": "A-179",
+      "B_id": "B-023",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03114",
+      "A_id": "A-179",
+      "B_id": "B-023",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03114",
+      "A_id": "A-179",
+      "B_id": "B-023",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03156",
+      "A_id": "A-016",
+      "B_id": "B-168",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03156",
+      "A_id": "A-016",
+      "B_id": "B-168",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03156",
+      "A_id": "A-016",
+      "B_id": "B-168",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03156",
+      "A_id": "A-016",
+      "B_id": "B-168",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03156",
+      "A_id": "A-016",
+      "B_id": "B-168",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03214",
+      "A_id": "A-113",
+      "B_id": "B-078",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03214",
+      "A_id": "A-113",
+      "B_id": "B-078",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03214",
+      "A_id": "A-113",
+      "B_id": "B-078",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03214",
+      "A_id": "A-113",
+      "B_id": "B-078",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03214",
+      "A_id": "A-113",
+      "B_id": "B-078",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03289",
+      "A_id": "A-023",
+      "B_id": "B-002",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03289",
+      "A_id": "A-023",
+      "B_id": "B-002",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03289",
+      "A_id": "A-023",
+      "B_id": "B-002",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03289",
+      "A_id": "A-023",
+      "B_id": "B-002",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03289",
+      "A_id": "A-023",
+      "B_id": "B-002",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03291",
+      "A_id": "A-004",
+      "B_id": "B-034",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03291",
+      "A_id": "A-004",
+      "B_id": "B-034",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03291",
+      "A_id": "A-004",
+      "B_id": "B-034",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03291",
+      "A_id": "A-004",
+      "B_id": "B-034",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03291",
+      "A_id": "A-004",
+      "B_id": "B-034",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03423",
+      "A_id": "A-140",
+      "B_id": "B-171",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03423",
+      "A_id": "A-140",
+      "B_id": "B-171",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03423",
+      "A_id": "A-140",
+      "B_id": "B-171",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03423",
+      "A_id": "A-140",
+      "B_id": "B-171",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03423",
+      "A_id": "A-140",
+      "B_id": "B-171",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03452",
+      "A_id": "A-116",
+      "B_id": "B-109",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03452",
+      "A_id": "A-116",
+      "B_id": "B-109",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03452",
+      "A_id": "A-116",
+      "B_id": "B-109",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03452",
+      "A_id": "A-116",
+      "B_id": "B-109",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03452",
+      "A_id": "A-116",
+      "B_id": "B-109",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03458",
+      "A_id": "A-193",
+      "B_id": "B-057",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03458",
+      "A_id": "A-193",
+      "B_id": "B-057",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03458",
+      "A_id": "A-193",
+      "B_id": "B-057",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03458",
+      "A_id": "A-193",
+      "B_id": "B-057",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03458",
+      "A_id": "A-193",
+      "B_id": "B-057",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03477",
+      "A_id": "A-069",
+      "B_id": "B-117",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03477",
+      "A_id": "A-069",
+      "B_id": "B-117",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03477",
+      "A_id": "A-069",
+      "B_id": "B-117",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03477",
+      "A_id": "A-069",
+      "B_id": "B-117",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03477",
+      "A_id": "A-069",
+      "B_id": "B-117",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03486",
+      "A_id": "A-084",
+      "B_id": "B-127",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03486",
+      "A_id": "A-084",
+      "B_id": "B-127",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03486",
+      "A_id": "A-084",
+      "B_id": "B-127",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03486",
+      "A_id": "A-084",
+      "B_id": "B-127",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03486",
+      "A_id": "A-084",
+      "B_id": "B-127",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03503",
+      "A_id": "A-085",
+      "B_id": "B-176",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03503",
+      "A_id": "A-085",
+      "B_id": "B-176",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03503",
+      "A_id": "A-085",
+      "B_id": "B-176",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03503",
+      "A_id": "A-085",
+      "B_id": "B-176",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03503",
+      "A_id": "A-085",
+      "B_id": "B-176",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03508",
+      "A_id": "A-131",
+      "B_id": "B-148",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03508",
+      "A_id": "A-131",
+      "B_id": "B-148",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03508",
+      "A_id": "A-131",
+      "B_id": "B-148",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03508",
+      "A_id": "A-131",
+      "B_id": "B-148",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03508",
+      "A_id": "A-131",
+      "B_id": "B-148",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03514",
+      "A_id": "A-057",
+      "B_id": "B-100",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03514",
+      "A_id": "A-057",
+      "B_id": "B-100",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03514",
+      "A_id": "A-057",
+      "B_id": "B-100",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03514",
+      "A_id": "A-057",
+      "B_id": "B-100",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03514",
+      "A_id": "A-057",
+      "B_id": "B-100",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03526",
+      "A_id": "A-022",
+      "B_id": "B-039",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03526",
+      "A_id": "A-022",
+      "B_id": "B-039",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03526",
+      "A_id": "A-022",
+      "B_id": "B-039",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03526",
+      "A_id": "A-022",
+      "B_id": "B-039",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03526",
+      "A_id": "A-022",
+      "B_id": "B-039",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03660",
+      "A_id": "A-161",
+      "B_id": "B-125",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03660",
+      "A_id": "A-161",
+      "B_id": "B-125",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03660",
+      "A_id": "A-161",
+      "B_id": "B-125",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03660",
+      "A_id": "A-161",
+      "B_id": "B-125",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03660",
+      "A_id": "A-161",
+      "B_id": "B-125",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03711",
+      "A_id": "A-073",
+      "B_id": "B-061",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03711",
+      "A_id": "A-073",
+      "B_id": "B-061",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03711",
+      "A_id": "A-073",
+      "B_id": "B-061",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03711",
+      "A_id": "A-073",
+      "B_id": "B-061",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03711",
+      "A_id": "A-073",
+      "B_id": "B-061",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03714",
+      "A_id": "A-040",
+      "B_id": "B-135",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03714",
+      "A_id": "A-040",
+      "B_id": "B-135",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03714",
+      "A_id": "A-040",
+      "B_id": "B-135",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03714",
+      "A_id": "A-040",
+      "B_id": "B-135",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03714",
+      "A_id": "A-040",
+      "B_id": "B-135",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03779",
+      "A_id": "A-053",
+      "B_id": "B-074",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03779",
+      "A_id": "A-053",
+      "B_id": "B-074",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03779",
+      "A_id": "A-053",
+      "B_id": "B-074",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03779",
+      "A_id": "A-053",
+      "B_id": "B-074",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03779",
+      "A_id": "A-053",
+      "B_id": "B-074",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03780",
+      "A_id": "A-160",
+      "B_id": "B-131",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03780",
+      "A_id": "A-160",
+      "B_id": "B-131",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03780",
+      "A_id": "A-160",
+      "B_id": "B-131",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03780",
+      "A_id": "A-160",
+      "B_id": "B-131",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03780",
+      "A_id": "A-160",
+      "B_id": "B-131",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03789",
+      "A_id": "A-062",
+      "B_id": "B-079",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03789",
+      "A_id": "A-062",
+      "B_id": "B-079",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03789",
+      "A_id": "A-062",
+      "B_id": "B-079",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03789",
+      "A_id": "A-062",
+      "B_id": "B-079",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03789",
+      "A_id": "A-062",
+      "B_id": "B-079",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03792",
+      "A_id": "A-056",
+      "B_id": "B-013",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03792",
+      "A_id": "A-056",
+      "B_id": "B-013",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03792",
+      "A_id": "A-056",
+      "B_id": "B-013",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03792",
+      "A_id": "A-056",
+      "B_id": "B-013",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03792",
+      "A_id": "A-056",
+      "B_id": "B-013",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03793",
+      "A_id": "A-141",
+      "B_id": "B-082",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03793",
+      "A_id": "A-141",
+      "B_id": "B-082",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03793",
+      "A_id": "A-141",
+      "B_id": "B-082",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03793",
+      "A_id": "A-141",
+      "B_id": "B-082",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03793",
+      "A_id": "A-141",
+      "B_id": "B-082",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03794",
+      "A_id": "A-189",
+      "B_id": "B-091",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03794",
+      "A_id": "A-189",
+      "B_id": "B-091",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03794",
+      "A_id": "A-189",
+      "B_id": "B-091",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03794",
+      "A_id": "A-189",
+      "B_id": "B-091",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03794",
+      "A_id": "A-189",
+      "B_id": "B-091",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03796",
+      "A_id": "A-036",
+      "B_id": "B-190",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03796",
+      "A_id": "A-036",
+      "B_id": "B-190",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03796",
+      "A_id": "A-036",
+      "B_id": "B-190",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03796",
+      "A_id": "A-036",
+      "B_id": "B-190",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03796",
+      "A_id": "A-036",
+      "B_id": "B-190",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03798",
+      "A_id": "A-120",
+      "B_id": "B-161",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03798",
+      "A_id": "A-120",
+      "B_id": "B-161",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03798",
+      "A_id": "A-120",
+      "B_id": "B-161",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03798",
+      "A_id": "A-120",
+      "B_id": "B-161",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03798",
+      "A_id": "A-120",
+      "B_id": "B-161",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03799",
+      "A_id": "A-178",
+      "B_id": "B-058",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03799",
+      "A_id": "A-178",
+      "B_id": "B-058",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03799",
+      "A_id": "A-178",
+      "B_id": "B-058",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03799",
+      "A_id": "A-178",
+      "B_id": "B-058",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03799",
+      "A_id": "A-178",
+      "B_id": "B-058",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03826",
+      "A_id": "A-151",
+      "B_id": "B-129",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03826",
+      "A_id": "A-151",
+      "B_id": "B-129",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03826",
+      "A_id": "A-151",
+      "B_id": "B-129",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03826",
+      "A_id": "A-151",
+      "B_id": "B-129",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03826",
+      "A_id": "A-151",
+      "B_id": "B-129",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03829",
+      "A_id": "A-133",
+      "B_id": "B-170",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03829",
+      "A_id": "A-133",
+      "B_id": "B-170",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03829",
+      "A_id": "A-133",
+      "B_id": "B-170",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03829",
+      "A_id": "A-133",
+      "B_id": "B-170",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03829",
+      "A_id": "A-133",
+      "B_id": "B-170",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03840",
+      "A_id": "A-197",
+      "B_id": "B-167",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03840",
+      "A_id": "A-197",
+      "B_id": "B-167",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03840",
+      "A_id": "A-197",
+      "B_id": "B-167",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03840",
+      "A_id": "A-197",
+      "B_id": "B-167",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03840",
+      "A_id": "A-197",
+      "B_id": "B-167",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03854",
+      "A_id": "A-138",
+      "B_id": "B-152",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03854",
+      "A_id": "A-138",
+      "B_id": "B-152",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03854",
+      "A_id": "A-138",
+      "B_id": "B-152",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03854",
+      "A_id": "A-138",
+      "B_id": "B-152",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03854",
+      "A_id": "A-138",
+      "B_id": "B-152",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03855",
+      "A_id": "A-125",
+      "B_id": "B-096",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03855",
+      "A_id": "A-125",
+      "B_id": "B-096",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03855",
+      "A_id": "A-125",
+      "B_id": "B-096",
+      "dimension": "Ec",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03855",
+      "A_id": "A-125",
+      "B_id": "B-096",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03855",
+      "A_id": "A-125",
+      "B_id": "B-096",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03883",
+      "A_id": "A-048",
+      "B_id": "B-194",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03883",
+      "A_id": "A-048",
+      "B_id": "B-194",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03883",
+      "A_id": "A-048",
+      "B_id": "B-194",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03883",
+      "A_id": "A-048",
+      "B_id": "B-194",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03883",
+      "A_id": "A-048",
+      "B_id": "B-194",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03892",
+      "A_id": "A-174",
+      "B_id": "B-108",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03892",
+      "A_id": "A-174",
+      "B_id": "B-108",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03892",
+      "A_id": "A-174",
+      "B_id": "B-108",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03892",
+      "A_id": "A-174",
+      "B_id": "B-108",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03892",
+      "A_id": "A-174",
+      "B_id": "B-108",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03919",
+      "A_id": "A-054",
+      "B_id": "B-144",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-03919",
+      "A_id": "A-054",
+      "B_id": "B-144",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03919",
+      "A_id": "A-054",
+      "B_id": "B-144",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03919",
+      "A_id": "A-054",
+      "B_id": "B-144",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03919",
+      "A_id": "A-054",
+      "B_id": "B-144",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03938",
+      "A_id": "A-098",
+      "B_id": "B-037",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03938",
+      "A_id": "A-098",
+      "B_id": "B-037",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03938",
+      "A_id": "A-098",
+      "B_id": "B-037",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03938",
+      "A_id": "A-098",
+      "B_id": "B-037",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03938",
+      "A_id": "A-098",
+      "B_id": "B-037",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03940",
+      "A_id": "A-119",
+      "B_id": "B-118",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03940",
+      "A_id": "A-119",
+      "B_id": "B-118",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03940",
+      "A_id": "A-119",
+      "B_id": "B-118",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03940",
+      "A_id": "A-119",
+      "B_id": "B-118",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03940",
+      "A_id": "A-119",
+      "B_id": "B-118",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03944",
+      "A_id": "A-159",
+      "B_id": "B-083",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03944",
+      "A_id": "A-159",
+      "B_id": "B-083",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03944",
+      "A_id": "A-159",
+      "B_id": "B-083",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03944",
+      "A_id": "A-159",
+      "B_id": "B-083",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03944",
+      "A_id": "A-159",
+      "B_id": "B-083",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03967",
+      "A_id": "A-124",
+      "B_id": "B-149",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03967",
+      "A_id": "A-124",
+      "B_id": "B-149",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03967",
+      "A_id": "A-124",
+      "B_id": "B-149",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03967",
+      "A_id": "A-124",
+      "B_id": "B-149",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03967",
+      "A_id": "A-124",
+      "B_id": "B-149",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03970",
+      "A_id": "A-083",
+      "B_id": "B-024",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03970",
+      "A_id": "A-083",
+      "B_id": "B-024",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03970",
+      "A_id": "A-083",
+      "B_id": "B-024",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03970",
+      "A_id": "A-083",
+      "B_id": "B-024",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03970",
+      "A_id": "A-083",
+      "B_id": "B-024",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03971",
+      "A_id": "A-130",
+      "B_id": "B-130",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03971",
+      "A_id": "A-130",
+      "B_id": "B-130",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03971",
+      "A_id": "A-130",
+      "B_id": "B-130",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03971",
+      "A_id": "A-130",
+      "B_id": "B-130",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-03971",
+      "A_id": "A-130",
+      "B_id": "B-130",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04025",
+      "A_id": "A-086",
+      "B_id": "B-145",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04025",
+      "A_id": "A-086",
+      "B_id": "B-145",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04025",
+      "A_id": "A-086",
+      "B_id": "B-145",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04025",
+      "A_id": "A-086",
+      "B_id": "B-145",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04025",
+      "A_id": "A-086",
+      "B_id": "B-145",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04055",
+      "A_id": "A-032",
+      "B_id": "B-084",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04055",
+      "A_id": "A-032",
+      "B_id": "B-084",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04055",
+      "A_id": "A-032",
+      "B_id": "B-084",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04055",
+      "A_id": "A-032",
+      "B_id": "B-084",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04055",
+      "A_id": "A-032",
+      "B_id": "B-084",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04056",
+      "A_id": "A-148",
+      "B_id": "B-112",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04056",
+      "A_id": "A-148",
+      "B_id": "B-112",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04056",
+      "A_id": "A-148",
+      "B_id": "B-112",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04056",
+      "A_id": "A-148",
+      "B_id": "B-112",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04056",
+      "A_id": "A-148",
+      "B_id": "B-112",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04059",
+      "A_id": "A-121",
+      "B_id": "B-157",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04059",
+      "A_id": "A-121",
+      "B_id": "B-157",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04059",
+      "A_id": "A-121",
+      "B_id": "B-157",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04059",
+      "A_id": "A-121",
+      "B_id": "B-157",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04059",
+      "A_id": "A-121",
+      "B_id": "B-157",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04067",
+      "A_id": "A-188",
+      "B_id": "B-095",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04067",
+      "A_id": "A-188",
+      "B_id": "B-095",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04067",
+      "A_id": "A-188",
+      "B_id": "B-095",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04067",
+      "A_id": "A-188",
+      "B_id": "B-095",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04067",
+      "A_id": "A-188",
+      "B_id": "B-095",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04071",
+      "A_id": "A-128",
+      "B_id": "B-053",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04071",
+      "A_id": "A-128",
+      "B_id": "B-053",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04071",
+      "A_id": "A-128",
+      "B_id": "B-053",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04071",
+      "A_id": "A-128",
+      "B_id": "B-053",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04071",
+      "A_id": "A-128",
+      "B_id": "B-053",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04111",
+      "A_id": "A-137",
+      "B_id": "B-018",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04111",
+      "A_id": "A-137",
+      "B_id": "B-018",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04111",
+      "A_id": "A-137",
+      "B_id": "B-018",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04111",
+      "A_id": "A-137",
+      "B_id": "B-018",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04111",
+      "A_id": "A-137",
+      "B_id": "B-018",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04113",
+      "A_id": "A-118",
+      "B_id": "B-017",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04113",
+      "A_id": "A-118",
+      "B_id": "B-017",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04113",
+      "A_id": "A-118",
+      "B_id": "B-017",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04113",
+      "A_id": "A-118",
+      "B_id": "B-017",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04113",
+      "A_id": "A-118",
+      "B_id": "B-017",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04118",
+      "A_id": "A-097",
+      "B_id": "B-154",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04118",
+      "A_id": "A-097",
+      "B_id": "B-154",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04118",
+      "A_id": "A-097",
+      "B_id": "B-154",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04118",
+      "A_id": "A-097",
+      "B_id": "B-154",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04118",
+      "A_id": "A-097",
+      "B_id": "B-154",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04125",
+      "A_id": "A-035",
+      "B_id": "B-011",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04125",
+      "A_id": "A-035",
+      "B_id": "B-011",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04125",
+      "A_id": "A-035",
+      "B_id": "B-011",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04125",
+      "A_id": "A-035",
+      "B_id": "B-011",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04125",
+      "A_id": "A-035",
+      "B_id": "B-011",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04142",
+      "A_id": "A-111",
+      "B_id": "B-027",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04142",
+      "A_id": "A-111",
+      "B_id": "B-027",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04142",
+      "A_id": "A-111",
+      "B_id": "B-027",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04142",
+      "A_id": "A-111",
+      "B_id": "B-027",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04142",
+      "A_id": "A-111",
+      "B_id": "B-027",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04145",
+      "A_id": "A-149",
+      "B_id": "B-200",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04145",
+      "A_id": "A-149",
+      "B_id": "B-200",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04145",
+      "A_id": "A-149",
+      "B_id": "B-200",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04145",
+      "A_id": "A-149",
+      "B_id": "B-200",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04145",
+      "A_id": "A-149",
+      "B_id": "B-200",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04169",
+      "A_id": "A-017",
+      "B_id": "B-114",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04169",
+      "A_id": "A-017",
+      "B_id": "B-114",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04169",
+      "A_id": "A-017",
+      "B_id": "B-114",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04169",
+      "A_id": "A-017",
+      "B_id": "B-114",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04169",
+      "A_id": "A-017",
+      "B_id": "B-114",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04174",
+      "A_id": "A-177",
+      "B_id": "B-050",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04174",
+      "A_id": "A-177",
+      "B_id": "B-050",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04174",
+      "A_id": "A-177",
+      "B_id": "B-050",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04174",
+      "A_id": "A-177",
+      "B_id": "B-050",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04174",
+      "A_id": "A-177",
+      "B_id": "B-050",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04189",
+      "A_id": "A-136",
+      "B_id": "B-001",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04189",
+      "A_id": "A-136",
+      "B_id": "B-001",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04189",
+      "A_id": "A-136",
+      "B_id": "B-001",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04189",
+      "A_id": "A-136",
+      "B_id": "B-001",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04189",
+      "A_id": "A-136",
+      "B_id": "B-001",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04197",
+      "A_id": "A-181",
+      "B_id": "B-088",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04197",
+      "A_id": "A-181",
+      "B_id": "B-088",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04197",
+      "A_id": "A-181",
+      "B_id": "B-088",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04197",
+      "A_id": "A-181",
+      "B_id": "B-088",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04197",
+      "A_id": "A-181",
+      "B_id": "B-088",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04230",
+      "A_id": "A-101",
+      "B_id": "B-062",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04230",
+      "A_id": "A-101",
+      "B_id": "B-062",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04230",
+      "A_id": "A-101",
+      "B_id": "B-062",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04230",
+      "A_id": "A-101",
+      "B_id": "B-062",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04230",
+      "A_id": "A-101",
+      "B_id": "B-062",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04239",
+      "A_id": "A-068",
+      "B_id": "B-156",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04239",
+      "A_id": "A-068",
+      "B_id": "B-156",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04239",
+      "A_id": "A-068",
+      "B_id": "B-156",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04239",
+      "A_id": "A-068",
+      "B_id": "B-156",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04239",
+      "A_id": "A-068",
+      "B_id": "B-156",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04261",
+      "A_id": "A-080",
+      "B_id": "B-195",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04261",
+      "A_id": "A-080",
+      "B_id": "B-195",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04261",
+      "A_id": "A-080",
+      "B_id": "B-195",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04261",
+      "A_id": "A-080",
+      "B_id": "B-195",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04261",
+      "A_id": "A-080",
+      "B_id": "B-195",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04266",
+      "A_id": "A-144",
+      "B_id": "B-143",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04266",
+      "A_id": "A-144",
+      "B_id": "B-143",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04266",
+      "A_id": "A-144",
+      "B_id": "B-143",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04266",
+      "A_id": "A-144",
+      "B_id": "B-143",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04266",
+      "A_id": "A-144",
+      "B_id": "B-143",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04274",
+      "A_id": "A-082",
+      "B_id": "B-051",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04274",
+      "A_id": "A-082",
+      "B_id": "B-051",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04274",
+      "A_id": "A-082",
+      "B_id": "B-051",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04274",
+      "A_id": "A-082",
+      "B_id": "B-051",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04274",
+      "A_id": "A-082",
+      "B_id": "B-051",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04285",
+      "A_id": "A-150",
+      "B_id": "B-175",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04285",
+      "A_id": "A-150",
+      "B_id": "B-175",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04285",
+      "A_id": "A-150",
+      "B_id": "B-175",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04285",
+      "A_id": "A-150",
+      "B_id": "B-175",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04285",
+      "A_id": "A-150",
+      "B_id": "B-175",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04362",
+      "A_id": "A-020",
+      "B_id": "B-158",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04362",
+      "A_id": "A-020",
+      "B_id": "B-158",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04362",
+      "A_id": "A-020",
+      "B_id": "B-158",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04362",
+      "A_id": "A-020",
+      "B_id": "B-158",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04362",
+      "A_id": "A-020",
+      "B_id": "B-158",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04377",
+      "A_id": "A-157",
+      "B_id": "B-028",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04377",
+      "A_id": "A-157",
+      "B_id": "B-028",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04377",
+      "A_id": "A-157",
+      "B_id": "B-028",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04377",
+      "A_id": "A-157",
+      "B_id": "B-028",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04377",
+      "A_id": "A-157",
+      "B_id": "B-028",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04397",
+      "A_id": "A-041",
+      "B_id": "B-063",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04397",
+      "A_id": "A-041",
+      "B_id": "B-063",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04397",
+      "A_id": "A-041",
+      "B_id": "B-063",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04397",
+      "A_id": "A-041",
+      "B_id": "B-063",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04397",
+      "A_id": "A-041",
+      "B_id": "B-063",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04460",
+      "A_id": "A-005",
+      "B_id": "B-123",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04460",
+      "A_id": "A-005",
+      "B_id": "B-123",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04460",
+      "A_id": "A-005",
+      "B_id": "B-123",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04460",
+      "A_id": "A-005",
+      "B_id": "B-123",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04460",
+      "A_id": "A-005",
+      "B_id": "B-123",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04467",
+      "A_id": "A-046",
+      "B_id": "B-128",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04467",
+      "A_id": "A-046",
+      "B_id": "B-128",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04467",
+      "A_id": "A-046",
+      "B_id": "B-128",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04467",
+      "A_id": "A-046",
+      "B_id": "B-128",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04467",
+      "A_id": "A-046",
+      "B_id": "B-128",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04474",
+      "A_id": "A-146",
+      "B_id": "B-093",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04474",
+      "A_id": "A-146",
+      "B_id": "B-093",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04474",
+      "A_id": "A-146",
+      "B_id": "B-093",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04474",
+      "A_id": "A-146",
+      "B_id": "B-093",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04474",
+      "A_id": "A-146",
+      "B_id": "B-093",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04490",
+      "A_id": "A-072",
+      "B_id": "B-007",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04490",
+      "A_id": "A-072",
+      "B_id": "B-007",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04490",
+      "A_id": "A-072",
+      "B_id": "B-007",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04490",
+      "A_id": "A-072",
+      "B_id": "B-007",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04490",
+      "A_id": "A-072",
+      "B_id": "B-007",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04495",
+      "A_id": "A-094",
+      "B_id": "B-032",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04495",
+      "A_id": "A-094",
+      "B_id": "B-032",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04495",
+      "A_id": "A-094",
+      "B_id": "B-032",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04495",
+      "A_id": "A-094",
+      "B_id": "B-032",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04495",
+      "A_id": "A-094",
+      "B_id": "B-032",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04503",
+      "A_id": "A-192",
+      "B_id": "B-071",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04503",
+      "A_id": "A-192",
+      "B_id": "B-071",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04503",
+      "A_id": "A-192",
+      "B_id": "B-071",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04503",
+      "A_id": "A-192",
+      "B_id": "B-071",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04503",
+      "A_id": "A-192",
+      "B_id": "B-071",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04506",
+      "A_id": "A-104",
+      "B_id": "B-092",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04506",
+      "A_id": "A-104",
+      "B_id": "B-092",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04506",
+      "A_id": "A-104",
+      "B_id": "B-092",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04506",
+      "A_id": "A-104",
+      "B_id": "B-092",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04506",
+      "A_id": "A-104",
+      "B_id": "B-092",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04525",
+      "A_id": "A-093",
+      "B_id": "B-089",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04525",
+      "A_id": "A-093",
+      "B_id": "B-089",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04525",
+      "A_id": "A-093",
+      "B_id": "B-089",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04525",
+      "A_id": "A-093",
+      "B_id": "B-089",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04525",
+      "A_id": "A-093",
+      "B_id": "B-089",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04526",
+      "A_id": "A-088",
+      "B_id": "B-035",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04526",
+      "A_id": "A-088",
+      "B_id": "B-035",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04526",
+      "A_id": "A-088",
+      "B_id": "B-035",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04526",
+      "A_id": "A-088",
+      "B_id": "B-035",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04526",
+      "A_id": "A-088",
+      "B_id": "B-035",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04531",
+      "A_id": "A-065",
+      "B_id": "B-016",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04531",
+      "A_id": "A-065",
+      "B_id": "B-016",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04531",
+      "A_id": "A-065",
+      "B_id": "B-016",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04531",
+      "A_id": "A-065",
+      "B_id": "B-016",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04531",
+      "A_id": "A-065",
+      "B_id": "B-016",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04550",
+      "A_id": "A-154",
+      "B_id": "B-042",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04550",
+      "A_id": "A-154",
+      "B_id": "B-042",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04550",
+      "A_id": "A-154",
+      "B_id": "B-042",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04550",
+      "A_id": "A-154",
+      "B_id": "B-042",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04550",
+      "A_id": "A-154",
+      "B_id": "B-042",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04552",
+      "A_id": "A-185",
+      "B_id": "B-155",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04552",
+      "A_id": "A-185",
+      "B_id": "B-155",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04552",
+      "A_id": "A-185",
+      "B_id": "B-155",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04552",
+      "A_id": "A-185",
+      "B_id": "B-155",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04552",
+      "A_id": "A-185",
+      "B_id": "B-155",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04556",
+      "A_id": "A-013",
+      "B_id": "B-177",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04556",
+      "A_id": "A-013",
+      "B_id": "B-177",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04556",
+      "A_id": "A-013",
+      "B_id": "B-177",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04556",
+      "A_id": "A-013",
+      "B_id": "B-177",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04556",
+      "A_id": "A-013",
+      "B_id": "B-177",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04589",
+      "A_id": "A-014",
+      "B_id": "B-193",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04589",
+      "A_id": "A-014",
+      "B_id": "B-193",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04589",
+      "A_id": "A-014",
+      "B_id": "B-193",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04589",
+      "A_id": "A-014",
+      "B_id": "B-193",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04589",
+      "A_id": "A-014",
+      "B_id": "B-193",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04614",
+      "A_id": "A-034",
+      "B_id": "B-133",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04614",
+      "A_id": "A-034",
+      "B_id": "B-133",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04614",
+      "A_id": "A-034",
+      "B_id": "B-133",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04614",
+      "A_id": "A-034",
+      "B_id": "B-133",
+      "dimension": "I",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04614",
+      "A_id": "A-034",
+      "B_id": "B-133",
+      "dimension": "F",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04626",
+      "A_id": "A-139",
+      "B_id": "B-004",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04626",
+      "A_id": "A-139",
+      "B_id": "B-004",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04626",
+      "A_id": "A-139",
+      "B_id": "B-004",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04626",
+      "A_id": "A-139",
+      "B_id": "B-004",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04626",
+      "A_id": "A-139",
+      "B_id": "B-004",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04633",
+      "A_id": "A-100",
+      "B_id": "B-006",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04633",
+      "A_id": "A-100",
+      "B_id": "B-006",
+      "dimension": "E",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04633",
+      "A_id": "A-100",
+      "B_id": "B-006",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04633",
+      "A_id": "A-100",
+      "B_id": "B-006",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04633",
+      "A_id": "A-100",
+      "B_id": "B-006",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04649",
+      "A_id": "A-015",
+      "B_id": "B-026",
+      "dimension": "S",
+      "value": 1
+    },
+    {
+      "unit_id": "RECODE25-04649",
+      "A_id": "A-015",
+      "B_id": "B-026",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04649",
+      "A_id": "A-015",
+      "B_id": "B-026",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04649",
+      "A_id": "A-015",
+      "B_id": "B-026",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04649",
+      "A_id": "A-015",
+      "B_id": "B-026",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04691",
+      "A_id": "A-079",
+      "B_id": "B-101",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04691",
+      "A_id": "A-079",
+      "B_id": "B-101",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04691",
+      "A_id": "A-079",
+      "B_id": "B-101",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04691",
+      "A_id": "A-079",
+      "B_id": "B-101",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04691",
+      "A_id": "A-079",
+      "B_id": "B-101",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04694",
+      "A_id": "A-164",
+      "B_id": "B-147",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04694",
+      "A_id": "A-164",
+      "B_id": "B-147",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04694",
+      "A_id": "A-164",
+      "B_id": "B-147",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04694",
+      "A_id": "A-164",
+      "B_id": "B-147",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04694",
+      "A_id": "A-164",
+      "B_id": "B-147",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04699",
+      "A_id": "A-187",
+      "B_id": "B-174",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04699",
+      "A_id": "A-187",
+      "B_id": "B-174",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04699",
+      "A_id": "A-187",
+      "B_id": "B-174",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04699",
+      "A_id": "A-187",
+      "B_id": "B-174",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04699",
+      "A_id": "A-187",
+      "B_id": "B-174",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04713",
+      "A_id": "A-168",
+      "B_id": "B-046",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04713",
+      "A_id": "A-168",
+      "B_id": "B-046",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04713",
+      "A_id": "A-168",
+      "B_id": "B-046",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04713",
+      "A_id": "A-168",
+      "B_id": "B-046",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04713",
+      "A_id": "A-168",
+      "B_id": "B-046",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04716",
+      "A_id": "A-163",
+      "B_id": "B-139",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04716",
+      "A_id": "A-163",
+      "B_id": "B-139",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04716",
+      "A_id": "A-163",
+      "B_id": "B-139",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04716",
+      "A_id": "A-163",
+      "B_id": "B-139",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04716",
+      "A_id": "A-163",
+      "B_id": "B-139",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04717",
+      "A_id": "A-026",
+      "B_id": "B-075",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04717",
+      "A_id": "A-026",
+      "B_id": "B-075",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04717",
+      "A_id": "A-026",
+      "B_id": "B-075",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04717",
+      "A_id": "A-026",
+      "B_id": "B-075",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04717",
+      "A_id": "A-026",
+      "B_id": "B-075",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04736",
+      "A_id": "A-132",
+      "B_id": "B-008",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04736",
+      "A_id": "A-132",
+      "B_id": "B-008",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04736",
+      "A_id": "A-132",
+      "B_id": "B-008",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04736",
+      "A_id": "A-132",
+      "B_id": "B-008",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04736",
+      "A_id": "A-132",
+      "B_id": "B-008",
+      "dimension": "F",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04763",
+      "A_id": "A-103",
+      "B_id": "B-025",
+      "dimension": "S",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04763",
+      "A_id": "A-103",
+      "B_id": "B-025",
+      "dimension": "E",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04763",
+      "A_id": "A-103",
+      "B_id": "B-025",
+      "dimension": "Ec",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04763",
+      "A_id": "A-103",
+      "B_id": "B-025",
+      "dimension": "I",
+      "value": 0
+    },
+    {
+      "unit_id": "RECODE25-04763",
+      "A_id": "A-103",
+      "B_id": "B-025",
+      "dimension": "F",
+      "value": 0
+    }
+  ],
+  "original_blank_template_check": {
+    "A": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/发给编码者A/独立判读-A-200条.xlsx",
+      "header": {
+        "A": "材料盲号",
+        "B": "原文材料（点击打开）",
+        "C": "维度",
+        "D": "判定（填0或1）",
+        "E": "理由与原文依据（待定请说明缺失内容）"
+      },
+      "data_rows": 1000,
+      "D_E_blank": true,
+      "row_order_equals_AI_workbook": true
+    },
+    "B": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/发给编码者B/独立判读-B-200条.xlsx",
+      "header": {
+        "A": "材料盲号",
+        "B": "原文材料（点击打开）",
+        "C": "维度",
+        "D": "判定（填0或1）",
+        "E": "理由与原文依据（待定请说明缺失内容）"
+      },
+      "data_rows": 1000,
+      "D_E_blank": true,
+      "row_order_equals_AI_workbook": true
+    }
+  }
+}

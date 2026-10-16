@@ -1,0 +1,37 @@
+{
+  "reports": [
+    {
+      "coder": "A",
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/编码者A结果/真人核验确认-A-200条.xlsx",
+      "judgments": 1000,
+      "pending": 0,
+      "counts": {
+        "S": 27,
+        "E": 13,
+        "Ec": 20,
+        "I": 32,
+        "F": 16
+      },
+      "saved_file_reimported": true
+    },
+    {
+      "coder": "B",
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/编码者B结果/真人核验确认-B-200条.xlsx",
+      "judgments": 1000,
+      "pending": 0,
+      "counts": {
+        "S": 27,
+        "E": 13,
+        "Ec": 20,
+        "I": 32,
+        "F": 16
+      },
+      "saved_file_reimported": true
+    }
+  ],
+  "originalHashes": {
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验确认-200条.xlsx": "08dfc0b8c21bc591f171567c43b5206f4719468b3e71549cddd0b2a6120469d0",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx": "23bb0f9ab743f695d8df7825486ac52246ab5791d8f2b3f7da16b377019475a3",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验结果.json": "882b355ccc26a983a609eace8d3193ee046a654642473a0dfa5450afb95a6b88"
+  }
+}

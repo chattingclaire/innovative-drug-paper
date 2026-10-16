@@ -1,0 +1,11 @@
+# StageA实际技术审查
+
+PASS_ACTUAL_STAGEA_TECHNICAL_AUDIT_ONLY。118/118项技术检查通过。
+
+原11输入全部字段、实际packet/request与离线packet/request逐字节或完整类型化JSON一致；唯一完成agent_message的JSON等于raw及aggregate，JSONL rows与其一致。A schema、逐字引文和路径恰好一次覆盖检查通过，原冻结闭包和原运行文件未修改。
+
+本次运行记录为gpt-5.6-sol/medium，CLI codex-cli 0.160.1，1逻辑请求、1首次有效attempt、0工具。stderr仅2条state db路径回退警告及小/大图标路径警告各1条，共4条；不把这推成provider内部无异常。B明确NOT_RUN。
+
+技术审查者为候选提示/runner作者；本报告不作原文或A理由语义判读，不读私有期待，不生成语义PASS或B准入门禁。本审计新增CLI/模型调用均0。
+
+原JSON SHA：8f87de605448a7e4295d6deb166ae99b94a46437e1c954934c60432374625ef5。JSONL SHA：baa6e8f136af9af01d0a5f58dfaebfdee6d5ae3231cf85b8f03d4ac478279fbf。完整绑定见同目录JSON。

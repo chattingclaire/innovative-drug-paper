@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "checked_file": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验确认-200条.xlsx",
+  "sha256": "08dfc0b8c21bc591f171567c43b5206f4719468b3e71549cddd0b2a6120469d0",
+  "sheets": [
+    "真人核验结果",
+    "核验确认记录"
+  ],
+  "main_judgments": 1000,
+  "all_labels_match_independent_reference": true,
+  "D_E_complete": true,
+  "positive_counts": {
+    "S": 27,
+    "E": 13,
+    "Ec": 20,
+    "I": 32,
+    "F": 16
+  },
+  "positive_total": 108,
+  "zero_total": 892,
+  "pending": 0,
+  "18_adjudication_values_and_A_B_mapping_match": true,
+  "18_adjudication_original_values_match": true,
+  "A_B_C_retained": true,
+  "hyperlinks_retained": 1000,
+  "hyperlinks_local_files_exist": true,
+  "data_validation_retained": true,
+  "sheet_views_and_freeze_panes_retained": true,
+  "provenance_note_accurate": true,
+  "result_file_modified_by_verifier": false
+}

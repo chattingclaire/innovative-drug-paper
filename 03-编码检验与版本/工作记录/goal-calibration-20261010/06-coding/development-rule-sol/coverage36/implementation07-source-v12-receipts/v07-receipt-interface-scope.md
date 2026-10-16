@@ -1,0 +1,11 @@
+# v07来源收据身份别名修复
+
+v06四个范围的首次真实输出已封存，103文件master SHA为a0700e55fd44b0aeb30cb927b289d01656642aa583ea2d6f84b228163246d58f。本版只修复实际出现的全文库存source_sha字段别名不一致。v06的三个失败记录、15个技术槽和候选决定不改写、不重跑。
+
+source_packet、relations、evidence、dimensions逐字节等v06；来源正文、CTX、完整bundle、手册和106项材料依赖均相同。新source_receipts层只处理消费侧出处身份，不修改来源库存原列表，不把真实PDF SHA退写为null，不参与五维构念判断。
+
+仅在原全文payload唯一匹配、显式source_pdf_sha256与SOURCE身份一致、冻结的源snapshot和文本payload文件均SHA/内容核等、FULLSOURCE资源ID与原view SHA完整重算相等时，补齐消费侧inventory副本缺失的source_sha。任何既有SHA冲突、缺失证据或不唯一关系继续技术停止。原producer inventory、原空值、解析值和所有绑定依据单独留在实际日志中；source role、可用状态与阅读状态不改。
+
+统一协议的有限facade使用明确解析后的消费侧inventory；关系消费者仍实际扫描text/geometry/结构JSON。图像字节校验不证明像素阅读。新增两项必要身份桥正负对照，再只对原三处真实失败做来源收据集成，不调用judge、不增加其他toy。其后冻结新版本，仍对41/36/2/4各一次执行，83次记录执行但77个不同ID。新的2/4参照、A/B/native及剩余1444不读；旧参照诊断只能在实际输出全部封存后进行。
+
+v06把确指条件与编号结构加入有效关系，是语义输入/关系规则变更。本版不追加该语义规则，只修复收据契约；两者分别声明，均不隐藏历史失败。

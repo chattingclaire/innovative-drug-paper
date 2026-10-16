@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>全球法规网-中国商务法规</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit">
+    <meta name="keywords" content="your keywords">
+    <meta name="description" content="your description">
+    <meta name="author" content="hl,haolei@ec.com.cn">
+    <meta name="robots" content="index,follow">
+    <link rel="stylesheet" href="css/style.css" />
+	<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+    <!--[if IE]>
+    	<script src="js/html5.js"></script>
+    <![endif]-->
+</head>
+<body class="laws">
+	<header class="header">
+		<nav class="nav blank clearfix">
+	<!--div class="u-logo1"><img src="img/logo1.png" alt=""></div-->
+	
+	<ul class="nav01_ul">
+		<li>
+			<a href="/claw/index.shtml">中国法规</a>|
+			<ul class="nav02_ul">
+				<li><a href="/claw/index.shtml">商务法规</a></li>
+				<li><a href="/pact/index.shtml">中外条约</a></li>
+			</ul>
+		</li>
+		<li><a href="/page/list/nations.html">各国法规</a>|
+			<ul class="nav02_ul">
+				<li><a href="/page/list/nations.html">境外法规</a></li>
+				<li><a href="/page/list/organizations.html">国际条约</a></li>
+			</ul>
+		</li>
+		<li><a href="/jwfg/index.shtml">境外法规检索</a>|
+		</li>
+		<li><a href="http://www.mofcom.gov.cn/article/ckzn/index.shtml">出口指南</a><!-- | -->
+		</li>
+<!-- 		<li><a href="/tsfy/index.shtml">图说方圆</a></li> -->
+		<li class="last"><a href="/">首页</a></li>
+	</ul>
+</nav>
+
+<!-- Matomo -->
+<script type="text/javascript">
+//If used is logged-in then call 'setUserId'
+//$userId variable must be set by the server when the user has successfully authenticated to your app.
+var _paq = window._paq || [];
+	
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['enableHeartBeatTimer']);
+  (function() { 
+    var u="https://analysis.mofcom.gov.cn/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '137']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+	</header>
+	
+
+
+
+
+
+<script type="text/javascript">
+$(function(){
+	setReviseToolBar();
+	setAssociateToolbar();
+});
+function setReviseToolBar(){
+	$.ajax({
+		url:"/nflaw/front/www/claw/reviseCount?id=103179",
+		type:"get",
+		success:function(result){
+			if(!!result&&result>0){
+				$("#reviseToolbar").show();
+			}
+		}
+	});
+}
+
+function setAssociateToolbar(){
+	$.ajax({
+		url:"/nflaw/front/www/claw/associateCount?id=103179",
+		type:"get",
+		success:function(result){
+			if(!!result&&result>0){
+				$("#associateToolbar").show();
+			}
+		}
+	});
+}
+/* function doSubmitReviseForm(){
+	$("#clawForm").attr("action","/claw/clawRevise.shtml");
+	$("#clawForm").submit();
+}
+function doSubmitAssociateForm(){
+	$("#clawForm").attr("action","/claw/clawAssociate.shtml");
+	$("#clawForm").submit();
+} */
+function doSubmitKeySearch(){
+	if($("#keyword").val()==''){
+		alert("请输入关键字！");
+		$("#keyword").focus();
+		return false;
+	}else if($("#keyword").val().length>100){
+		alert("关键字 不能超过100位字符！");
+		$("#keyword").focus();
+		return false;
+	}else{
+		$("#keySearchForm").submit();
+	}
+}
+</script>
+<section class="search blank">
+	<div class="mt20 mb30 clearfix">
+		<div class="logo fl">
+			<img src="img/logo.png" alt="" />
+		</div>
+		<div class="search_box fr">
+			<div class="clearfix">
+				<form id="keySearchForm" name="keySearchForm" method="get" action="/claw/keySearchList.shtml">
+					<span class="btn_search_show fl">中国商务法规</span>
+					<input class="txt_search fl" type="text" name="keyword" id="keyword">
+					<input class="btn_search fl" type="button" value="搜索" onclick="doSubmitKeySearch()">
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+<nav class="navMain blank">
+	<a class="a1" href="http://policy.mofcom.gov.cn/">首页</a>&gt;<a href="/claw/index.shtml"><i>中国商务法规</i></a>&gt;<span class="s1">法规详情</span>
+</nav>
+<section class="main blank">
+	<div class="content mt18 posr">
+		<div class="conBox_01">
+			<h2 class="tit_08">国家医保局 国家卫生健康委关于印发《支持创新药高质量发展的若干措施》的通知</h2>
+			<section class="con">
+				<h3 class="tit_09">
+					【信息来源：<em>
+					
+					     
+					     国家卫生健康委
+					   
+					   
+					
+					</em>】
+				</h3>
+				<div class="tableBox">
+					<table class="table_01" width="100%">
+						<tr>
+							<td width="50%"><span>【发布部门】</span>国家医保局;国家卫生健康委</td>
+							<td width="50%"><span>【发布文号】</span>医保发〔2025〕16号</td>
+						</tr>
+						<tr>
+							<td><span>【效力级别】</span>部门规范性文件</td>
+							<td><span>【时效状态】</span>
+								现行有效
+								
+								
+								
+								
+							</td>
+						</tr>
+						<tr>
+							<td><span>【发布日期】</span>
+								
+									2025-06-30
+								
+							</td>
+							<td><span>【实施日期】</span>
+								
+									2025-06-30
+								
+							</td>
+						</tr>
+						<tr>
+							<td><span>【法律话题】</span>
+								
+									
+									医疗卫生
+								
+							</td>
+							<td><span>【产业领域】</span>
+								
+								
+									食品药品
+								
+							</td>
+						</tr>
+						
+						<tr>
+							<td colspan="1"><span>【法规热词】</span>
+							
+								
+								
+								    
+									<a href="/claw/keySearchMore.shtml?sortName=新质生产力&sortId=866&fg=14"  >新质生产力</a>
+								  
+								
+							</td>
+						</tr>
+							
+					</table>
+				</div>
+				<div class="article">
+					<p style="text-align:center;">国家医保局&nbsp;国家卫生健康委关于印发《支持创新药高质量发展的若干措施》的通知</p><p><br /></p><p style="text-align:center;">医保发〔2025〕16号</p><p><br /></p><p>各省、自治区、直辖市及新疆生产建设兵团医保局、卫生健康委：</p><p><br /></p><p>　　为贯彻落实党中央、国务院决策部署，全链条支持创新药发展，我们研究制定了《支持创新药高质量发展的若干措施》，经国务院同意，现印发给你们，请结合实际认真贯彻落实。</p><p><br /></p><p style="text-align:right;">　　国家医保局</p><p style="text-align:right;">　　国家卫生健康委</p><p><br /></p><p style="text-align:right;">　　2025年6月30日</p><p><br /></p><p style="text-align:center;">支持创新药高质量发展的若干措施</p><p><br /></p><p>　　为进一步完善全链条支持创新药发展举措，推动创新药高质量发展，更好满足人民群众多元化就医用药需求，现提出以下措施。</p><p><br /></p><p>　　一、加大创新药研发支持力度</p><p><br /></p><p>　　（一）支持医保数据用于创新药研发。加强医疗、医保、医药三方信息互通与协同，做好医保数据资源管理，推动医保领域公共数据资源利用。在确保数据安全、合法合规的基础上，探索为创新药研发提供必要的医保数据服务。依托全国统一的医保信息平台，做好疾病谱、临床用药需求等数据归集和分析，开发适配创新药研发需求的数据产品，支持医药企业、科研院所、医疗机构等合理确定研发方向、布局研发管线，提升创新效率。</p><p><br /></p><p>　　（二）鼓励商业健康保险扩大创新药投资规模。鼓励商业健康保险公司通过创新药投资基金等多种方式，为创新药研发提供稳定的长期投资，培育支持创新药的耐心资本。</p><p><br /></p><p>　　（三）加强药品目录准入政策指导。优化医保部门企业接待机制，畅通医保部门与创新药企业沟通交流渠道，有针对性加强创新药在药品目录准入方面的政策指导。上市申请获得国家药品监管部门受理的创新药，企业可同步申请医保部门给予点对点政策指导。医保部门与企业可围绕药品目录准入涉及的主规格、参照药、支付范围等开展交流。</p><p><br /></p><p>　　（四）统筹推动创新药研发。组织实施创新药物研发国家科技重大专项，聚焦重大传染病、高发重大慢性病、儿童用药、罕见病等重点领域，推动药物研发相关任务落地实施并完善多部门联动的支持机制。发挥国家医学中心和国家临床医学研究中心作用，依托国家科技重大专项、重点研发计划等，支持医药企业、科研院所、医疗机构等开展以创新药研发为导向的科研攻关。</p><p><br /></p><p>　　二、支持创新药进入基本医保药品目录和商业健康保险创新药品目录</p><p><br /></p><p>　　（五）健全基本医保药品目录动态调整机制。立足医保基金承受能力、群众基本医疗需求、临床技术进步，定期调整优化基本医保药品目录（以下称医保目录）。在坚持“保基本”的基础上，按程序将符合条件的创新药纳入医保目录。应对重大公共卫生事件等特殊情况必需的创新药，可商有关部门研究临时纳入医保支付范围的可行路径。</p><p><br /></p><p>　　（六）合理确定创新药医保支付标准。充分运用药物经济学、卫生技术评估等技术方法，综合考虑医保基金承受能力、临床需求、患者获益、市场竞争、研发投入等因素，由医保部门与创新药企业谈判形成与中国国情和市场地位相匹配、符合药品临床价值的医保支付标准。提高医保谈判测算专业化能力水平，完善测算方法，更好体现药品的临床价值。优化续约规则，允许医保目录内创新药在销售超出预期、增加适应症等触发降价的情况下，通过谈判合理调整医保支付标准，可不高于简易续约规定的降幅，稳定企业预期。医药企业向非医保定点医药机构供应药品不受医保支付标准限制。</p><p><br /></p><p>　　（七）增设商业健康保险创新药品目录。适应多层次医疗保障体系发展需要，增设商业健康保险创新药品目录（以下称商保创新药目录），重点纳入创新程度高、临床价值大、患者获益显著且超出基本医保保障范围的创新药，推荐商业健康保险和医疗互助等多层次医疗保障体系参考使用。通过协商合理确定商保创新药目录内药品结算价，探索更严格的价格保密机制。商保创新药目录内药品不计入基本医保自费率指标和集采中选可替代品种监测的范围。统筹做好商保创新药目录与医保目录的衔接。</p><p><br /></p><p>　　（八）强化创新药真实世界研究。探索建立科学的真实世界研究方法，鼓励创新药开展真实世界研究，推动研究结果与药品目录准入、续约、调整医保支付范围等挂钩。研究制定创新药临床综合评价技术指南，推动评价结果拓展应用，不断提升医疗机构创新药配备使用能力。</p><p><br /></p><p>　　三、支持创新药临床应用</p><p><br /></p><p>　　（九）优化药品挂网程序。企业可自行选择创新药挂网首发受理省份，做好创新质量层次评价，自主合理定价，受理地按规则办理并承担管理责任。纳入医保目录和商保创新药目录的创新药，可按规定实行直接挂网，落实联审通办，采取申报沟通前置、简化资料要求、缩短办理流程、省域间快速协同等支持措施。省级集采机构按照“高效办成一件事”要求，受理核验挂网申请、纳入平台、开通网上采购资格，提高挂网环节全流程服务效率。</p><p><br /></p><p>　　（十）推动创新药加快进入定点医药机构。鼓励医保定点医疗机构于药品目录更新公布后3个月内召开药事会，根据需要及时调整药品配备或设立临时采购绿色通道，保障临床诊疗需求和患者合理用药权益。不得以医疗机构用药目录数量、药占比等为由影响创新药配备使用。医保目录内谈判药品和商保创新药目录内药品可不受“一品两规”限制。</p><p><br /></p><p>　　（十一）提高临床使用创新药的能力。指导医疗机构加强创新药使用能力建设。鼓励行业学（协）会、医疗机构总结创新药使用经验，开展创新药临床使用培训，指导医师合理使用。统筹考虑药学服务产出等因素，研究编制药学类医疗服务价格项目立项指南。</p><p><br /></p><p>　　（十二）完善创新药医保支付管理。对合理使用医保目录内创新药的病例，不适合按病种标准支付的，支持医疗机构自主申报特例单议。医保部门应简化程序、优化流程，按季度或月组织专家对特例单议病例进行评议，并根据评议结果，对相关病例实行按项目付费或调整该病例支付标准。</p><p><br /></p><p>　　（十三）做好供需双方医保服务。完善“双通道”管理机制，加强创新药供应保障。推进“医保药品云平台”建设应用，为医疗机构和患者提供药品需求快速响应、信息便捷查询等服务。未按要求配备、供应的药品按程序调出医保目录。统筹实施医保基金预付政策和即时结算政策，提高医保基金结算效率。医疗机构应当按照合同约定及时与企业结清款项。</p><p><br /></p><p>　　四、提高创新药多元支付能力</p><p><br /></p><p>　　（十四）发挥多层次医疗保障制度体系功能。鼓励商业健康保险、医疗互助等将创新药纳入保障范围，推动企业和个人通过慈善捐赠等方式，支持困难群众使用创新药。医保部门对符合条件的商业健康保险给予数据共享、结算清分等方面的合作支持，相关商业健康保险保障范围内的创新药应用病例可不纳入按病种付费范围，经审核评议程序后支付。</p><p><br /></p><p>　　（十五）促进创新药全球市场发展。发挥我国巨大产能、超大市场和丰富经验的优势，在国际交流合作中主动宣传推介中国创新药发展成果。鼓励引导有条件的地区探索面向东南亚、中亚和其他共建“一带一路”国家搭建全球创新药交易平台，加强国际推广。支持创新药企业借助香港、澳门相关优势，促进中国创新药走向世界。鼓励更多创新药进入中国市场，更好满足群众用药需求。</p><p><br /></p><p>　　五、强化保障措施</p><p><br /></p><p>　　（十六）加强组织领导。强化医保与卫生健康部门的工作协同，落实行业管理责任，形成从需求端拉动创新药发展的合力。加强政策实施效果评估，及时调整完善相关政策举措，并与相关改革试点工作做好政策衔接配套。积极开展政策宣传，营造支持创新药发展的良好氛围。强化医保基金监管，全面落实药品追溯码医保监管应用，加强处方流转全流程监管，将创新药支付纳入基金监管重点范围。</p><p style="text-align:justify;"><br /></p>
+						
+						<br/>
+						<font color="#B22222">免责声明：本网站提供的法规来源于数据提供单位或网络，网站不对法规内容的准确性负责，请务必与正式文本核对后使用。网站访问者因使用或无法使用本网站提供的法规所造成的直接或间接损失，本网站不承担任何责任。禁止用户对本网站信息进行自动化采集。</font>
+						</div>
+				</div>
+			</section>
+		
+		</div>
+	</div>
+</section>
+<form action="" method="get" id="clawForm">
+	<input type="hidden" name="id" value="103179"/>
+	<input type="hidden" name="title" value="国家医保局 国家卫生健康委关于印发《支持创新药高质量发展的若干措施》的通知"/>
+	<input type="hidden" name="clawUrl" value=""/>
+</form>
+<div id="global-toolbar">
+  <div class="toolbar-wrap wrap">
+	<div class="toolbar">
+	  <div class="toolbar-tabs tab">
+		<!-- div class="toolbar-tab tbar-tab-word" onclick=""><i class="tab-ico"></i><em class="tab-text">修订对照<br />下载</em></div 
+		-->
+	  </div>
+	  <div class="toolbar-footer">
+		<div class="toolbar-tab tbar-tab-top">
+			<a href="#"><i class="tab-ico"></i><em class="footer-tab-text">顶部</em></a>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+	<footer class="footer mt30">
+				<section class="blank clearfix">
+			<dl class="nav_03 clearfix">
+				<dd>主办单位：中华人民共和国商务部</dd>
+				<dd>技术支持：中国国际电子商务中心</dd>
+				<dd>邮箱：global-law@ec.com.cn</dd>
+				<dd>客户服务：010-67801039</dd>
+				
+			</dl>
+			<dl class="nav_03 clearfix">
+				<dd>网站管理：商务部电子商务和信息化司</dd>
+			
+					<dd>网站标识码bm22000001</dd>
+					<dd><a href="https://beian.miit.gov.cn/" target="_blank"  onclick="if(confirm('您访问的链接即将离开“中华人民共和国商务部”政府网站，是否继续？')==false)return false;">京ICP备05004093号-1</a><br><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700091" target="_blank"  onclick="if(confirm('您访问的链接即将离开“中华人民共和国商务部”政府网站，是否继续？')==false)return false;"><img src="/law/img/footer-img03.png">京公网安备11040102700091号</a></dd>
+					
+			</dl>
+			<dl class="nav_03 cur clearfix">
+			
+				<dd style="width:200px">
+					<span id="_span_jiucuo" style="display: inline-block; margin-top: 13px;">
+						<!-- <script id="_jiucuo_" sitecode='bm22000001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script> -->
+					<a class="ft-jiucuo-link ediAssetsTextCon" href="https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm22000001&amp;url=http%3A%2F%2Fwww.mofcom.gov.cn/" target="_blank"><img style="margin: 0px; border: 0px currentColor; border-image: none; cursor: pointer;" src="https://zfwzgl.www.gov.cn/exposure/images/jiucuo.png?v=bm22000001"></a>
+					</span>
+					<a href="//bszs.conac.cn/sitename?method=show&id=0726B28348831856E053012819AC9312" target="_blank" onclick="if(confirm('您访问的链接即将离开“中华人民共和国商务部”政府网站，是否继续？')==false)return false;">
+						<img src="http://dcs.conac.cn/image/red.png">
+					</a>
+				</dd>
+			</dl>
+			
+		</section>
+	</footer>
+	<script type="text/javascript">
+	
+	$(function(){
+		var article = $(".article").html();
+		if(null==article||''==article||article.length<20){
+			window.location.href="/index.shtml"
+		}
+	})
+	
+		/** scroll 浮层
+		$(window).scroll(function(){
+			var ht = $(this).scrollTop();
+			if(ht>210){
+				boxLeft();
+				$(".conBox_01,#toolbar_box").addClass("cur");
+			}else{
+				$(".conBox_01,#toolbar_box").removeClass("cur").removeAttr("style");
+			}
+		});***/
+	</script>
+</body>
+</html>

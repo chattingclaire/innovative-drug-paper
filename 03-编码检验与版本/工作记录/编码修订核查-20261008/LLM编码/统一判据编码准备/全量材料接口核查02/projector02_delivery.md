@@ -1,0 +1,9 @@
+projector02 已另存并停止修改，等待独立复核。原01源码、13项结果、交付和独立失败报告均按原SHA核对未改。
+
+已修复独立复现的5项接口错误：显式残缺来源/候选对不能继承父身份；图像路径与SHA成对更新；表格父节点及全部单格只使用非负整数行号（排除bool）；已声明家族中的title/unit_text/definition逐字保留或明确报材料问题；空及纯空白当前文本不能达到完整状态。表格原有序数组、重复单格位置、真实行列配对及validator可引用的单格text发生位置继续保留。
+
+view结构完整、来源身份元数据完整及外部manifest绑定完整分开报告。即使构造外部registry满足review-only的binding_complete_for_review，actual_source_authentication_verified与formal_model_input_ready仍固定false，正式输入访问函数明确拒绝。本模块没有真实全量读入/导出CLI。
+
+回归结果：作者13项、原独立6项及新增12项构造全部通过。独立6项只替换预期实现SHA和目标模块/路径，原fixture正文及文件未改。新增检查覆盖path-only/hash-only配对、合法子来源、非法行号、空白current、title/unit_text/definition引文、结构/边界未映射报issue、表格拼接证书隔离、当前表格行表示保持及正式输入拒绝。真实临时TXT和candidate文件SHA相等/不等检查只验证字节，不声称来源leaf认证。
+
+后续binder设计补记：当前分析单位若本来就是候选JSON的确定性表格行表示，应保留当前text，以原表grid与candidate row/cell一一对应证据另行绑定为“表格行结构表示”；不能因整行字符串不在PDF连续出现就认材料无效，也不能冒称自然原句。一般证书拼接说明不因此获准作为政策原文。此格式契约尚未实现，本轮没有真实全量绑定、模型或规则调用。

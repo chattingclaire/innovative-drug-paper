@@ -1,0 +1,16 @@
+封存v4在本次有限独立AI规则工程/语义审查中通过：原固定37个自造TOY案例，加6个仅针对具名宗旨修复的必要对照，43/43案例、237/237项检查通过。候选版本为rule-v19-human4-general-repair-development-candidate-4；候选seal SHA为f0f44903953632aa5ae365ab229f4e57c858cc91cea1ce8d20f057d2c0363c37。构造范围内未发现尚未处理的阻断缺陷，真实77是否启动由ROOT另行授权。
+
+此次先验基于共同手册和ROOT明确边界，使用自定义海舟/青岚/槐序程序、山海/远汀目录、TOY IDs和新造source SHA。37个原文链与先验在实际候选执行前保存；6个新增宗旨对照在v3导入前保存。没有读取真实77、800、4481正文、A/B/ref/Gold、score或机器预测；实际77/800/4481推断运行均为0。已知四项真人开发标签已披露的背景未被改称盲评，独立指另一个AI代理的有限工程/语义复核，不能称独立真人或正式验证。
+
+有限证明覆盖以下关系：
+
+- 当前有界临床优势申请条件消费完整同版并列定义，明确药物安全优势分支可S；疾病严重、名称、纯宗旨不S。限制语句保留完整否定，而不把申请资格称为已满足。
+- 纳入后的I3对象—真实技术支持—直接关系独立于F：只有技术资料反馈无优先时I=1/F=0；只有缺口与同一实际技术审评沟通优先、没有创新对象或技术资料反馈时I=0/F=1。无真实支持、一般形式、申报前机制、另一对象/程序/错版和全文其他主题不继承。
+- FULLSOURCE+paragraphs的同源药品/目录对象—当前价格节点—评估价—实际磋商链可Ec=1。纯阶段、单独成功或目录结果不自行产生定价；必要定义缺失只Ec=null，已有独立S=1不被清空。目录结果没有被称为医保支付或实际商保承保。
+- v12原始正文、连续v14 textleaf和FULLSOURCE正常形状实际进入语义路径。已有同源坐标矛盾/重叠和伪造snapshot叶分别成为技术失败；缺完整程序/不唯一当前位置正常请求具体材料。价格路由拒绝非法S消费者。完整当前锚点、source引文、关系角色及输出槽位保留原文与来源身份。
+
+执行真实调用semantic_unit、RelationView、judge、validate_decisions和_units；从封存driver提取的原字节dependency guard在TOY上执行；实际调用actual_reading_log（合成ToyProtocol）、dimension_slots、literal_leaf_integrity、source_receipts.resolve_inventory、capture_exception_source_audit和write_json。最终92条read receipts、39条use receipts绑定构造inventory、source SHA、view SHA与已有read。来源和证据模块与旧route候选完整字节一致，原通用词常量、_generic实质body与通用门槛未扩大，source/exception helper AST及dependency guard字节保持。AST只用于不变性核对，未替代形状的实际语义运行。具名边界由通用形态和同源坐标处理，改名后的独立TOY程序仍通过；没有项目IDs或题名白名单。
+
+执行历史与缺陷原输出完整分开保留：attempt01是审查harness自身新建first-preservation文件未在exact-read allowlist中的错误；原错误及首个探针文件未覆盖，未返回的内存案例结果不重构。attempt02对封存v2运行同37，36/37、212/213，发现S04纯具名制定宗旨误S；原reproducer与v2审查seal保留。attempt03对封存v3运行同37+先验6，42/43、227/228，发现P03把“需要评价药物安全性”独立当前要求分句删除；原reproducer与v3审查seal保留。v4只在该modal分句门槛加入“需要/需”，实际P03 Unit现保留评价要求，attempt04-v4同43全部通过。原先验、v2/v3review seal和全部所绑定文件当前字节均未变。
+
+限制：未执行driver.main或原native source protocol；ToyProtocol只核对构造receipt关系，不是实际队列来源协议验收。错源文字叶S07/IF09是语义SHA门禁控制，未宣称其通过真实snapshot预检；ENG03/ENG06明确调用真实literal_leaf_integrity，FULLSOURCE Ec控制明确调用原identity resolver。first preservation实际检查driver.write_json独占创建，main入口guard另作静态字节检查。当前结论只证明这43个有限反例和相应不变性；不证明真实机器准确率、κ、效度、真人初判独立性或部门目标占比。

@@ -1,0 +1,17 @@
+独立接收意见：封存 status bridge 可以作为候选字段转换器。它不是来源接收器，也不提供恢复GO。本次没有重新执行18项合成检查、桥函数、旧协议或任何分类调用；只接收原执行摘要并核代码、契约、字节绑定和已暴露历史三条的既有保存物。
+
+status_bridge.py 第27–44行对 resolved/stopped/unresolved 使用精确字符串白名单。两键冲突、缺失、未知、null和非字符串拒绝整份所选列表；resolved不能由其他请求、证据或标签推断。stopped/unresolved保留原意义。dependency_status保留，status已存在时要求相同，仅缺失时补入。deepcopy与非status字段等值断言保留材料、引文、范围、闭合proof及请求顺序，不删除真实停止依赖。
+
+第67–94行先核传入原 bytes SHA，再严格解析UTF8/JSON，拒绝重复键及非有限值。逐请求保存原对象、原键值、指针、原请求与canonical请求SHA；文档canonical SHA和CLI输出文件含换行的字节SHA分开。CLI第101–113行保存原字节并把转换失败单列。SHA只证明传入字节完整性；ROOT授权、首轮producer身份/最终seal、行位置及具体请求数组选择仍须由未来接收器验证。
+
+有一个明确的调用者范围依赖：_locate 第46–65行允许任意存在的JSON指针，bridge_json_bytes 第82–92行只要求所选对象为list，没有验证目标字段必须是source_requests。因而纯helper不能独立保证调用者未指向material_requests、needed_material、reference_resolution或closure proof中的列表；符合状态形状的错误目标也可被转换。这不是已发生的三条数据改动，也不是恢复绕过实测。未来接收器应冻结可允许的具体source_requests路径并拒绝其他目标；保留整个原raw对象，核改变仅限这些请求数组内status别名。不能开放由调用参数自行决定的接收范围。
+
+历史三条没有必须重构semantic unit的真实数据缺口。冻结 rule_driver.py 第358行先judge，第359行调用evidence.validate_decisions(view.unit, decisions)，第360行才保存完整candidate_decisions_diagnostic_only，第362行开始receipt检查；三条既有异常在第373行。故诊断存在且异常/日志stage为returned，可在已核冻结控制流中确证原证据验证已先成功。第386行只在接收通过后保存view.unit，第409–410行才写effective-semantic-units；失败条没有独立unit是入口留存策略所致，不能由此宣称原件缺失或要求再调用source adapter。
+
+桥报告把saved semantic unit/contexts列为未来材料要求，宜由未来receiver合同明确两个替代路径，而非默默放松：有原已验证unit时消费原unit；没有它时，仅允许已绑定首轮冻结driver控制流及原证据验证成功的完整诊断，配合同一原字节bundle、引用、source_relation_traces、库存、读用回执、scope note、reference resolution及有限closure proof进行机械核验。后一条路径不重新推断或重构语义，不冒充重新执行原evidence validator。原candidate决策不得改值，完整原raw请求和材料请求不得筛选。
+
+已有三条保存完整五维诊断、current原文、原件包、来源日志/关系及闭合proof；请求数组在prediction、log和live_view_source_audit相等，原技术失败/NULL标签保持。前一只读审计已逐项核304处嵌套引文位置、45读回执/49使用回执及同版有限下一边界；本轮接收该审计17成员及原17静态输入完整字节绑定，不重跑它的检查。这里只为这3条支持替代数据路径，不证明所有全域失败都有完整诊断。缺诊断、验证前异常、构造失败、来源/quote不符、其他停止或proof不足，仍须保持失败。
+
+仍需未来明确接收：首轮终止与最终seal、ROOT精确准入、整份原JSONL/行字节绑定、准许路径、重复请求数组一致性、canonical数组在protocol及driver等价停止检查中一致消费、其他错误保留、新接收输出与首轮失败逐项关联。纯bridge不检查necessary_dependency的布尔类型或引用是否必要，只保留原字段；未来receiver不能因字符串转换而改变必要性判断。
+
+结论为候选代码/契约接收意见，未直接放行恢复。原18/18仅是owner已封存合成字段检查结果，不能称完整协议或来源接收通过。实际新真人、正式指标、全域恢复、分类器调用均为0；owner所有文件不变。

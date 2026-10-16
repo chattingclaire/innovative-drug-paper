@@ -1,0 +1,13 @@
+# 异常审计保存修复 v2
+
+新驱动已完成机械修复，SHA256 `2e900a207266dec6453851712aeb3d5bc15b1a02cd79ed8483b65b872e2d43c8`（28,207 B）。仅新增异常当时的数据快照与局部log/check可用状态；真实cohort执行0，尚未产生研究标签或scope。
+
+live view的source_requests、material_requests、source_view_events、source_relation_traces保留原值；exception携带字段独立存储，空error属性不能覆盖live数据。已返回的uniform log/check原值保存；调用尚未开始标not_produced，调用失败未返回标not_returned_to_driver，不声称恢复未保存的内部局部字节。
+
+20项有限控制全部通过，包含纯构造stub、精确原guard/异常分支/失败遮罩执行、静态守卫和实际文件绑定。五个v17模块未导入或运行；TOPICS和affected dimensions未改。dependency guard原字节、dimension_slots原AST、一次scope限制、材料白名单、无Gold和首件禁止覆盖保持。实际diff与可逆编辑登记在本目录。
+
+旧800首件仍failed_execution_attempt：800记录/4000slots，10维technical failure及3合法null保留；旧predictions、consumption、slots与execution实际SHA/bytes仍与其seal一致。没有读取源政策正文、Gold或评分；没有重跑或更改旧首件。
+
+本修复不处理请求分维路由，所以同样未分配请求仍会触发原guard。后续真实scope/执行须由ROOT另行登记；旧首件未落盘的log/check/material_requests字节继续unknown，不回填，不把此代码seal当作研究通过或重试授权。
+
+AI执行身份：GPT-6.1 Sol / ultra（请求设置）；本次工作非真人编码或验收。

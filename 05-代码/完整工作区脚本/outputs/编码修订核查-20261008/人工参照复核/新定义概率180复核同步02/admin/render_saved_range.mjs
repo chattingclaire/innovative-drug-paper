@@ -1,0 +1,16 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { FileBlob, SpreadsheetFile } from '@oai/artifact-tool';
+const admin=path.dirname(fileURLToPath(import.meta.url));
+const out=path.dirname(admin);
+const file=path.join(out,'A','编码员A-新定义180条待填-同步02.xlsx');
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load(file));
+const rows=wb.worksheets.getItem('必要语境').getRange('A6:H776').values;
+const index=rows.findIndex(r=>String(r[2]).includes('source_fragment'));
+if(index<0)throw Error('Expected current source fragment not found');
+const first=index+6;
+const range=`A${first}:E${first+1}`;
+const preview=await wb.render({sheetName:'必要语境',range,scale:1,format:'png'});
+await fs.writeFile(path.join(admin,'previews','A_新增来源片段.png'),new Uint8Array(await preview.arrayBuffer()));
+console.log(JSON.stringify({file,sheet:'必要语境',range,anonymous_id:rows[index][0],node_id:rows[index][1]}));

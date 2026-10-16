@@ -1,0 +1,7 @@
+冻结审查通过范围：仅允许按声明执行新2的失败诊断尝试。当前材料的原始来源与资源校验通过，冻结语义接口仍不支持恢复来源图；不支持完整可比标签或参照评估。
+
+三份语义代码与封存v04字节完全相同。reader严格保留原fields、两种新kind、geometry和已有37段资源正文，仅核验已供给图；semantic_unit在RelationView/judge之前明确拒绝两条记录。旧ordered_list可以沿旧边消费任意成员文本，但本批恢复正文没有进入这些旧边，新增geometry也不是旧容器，source_references无旧消费入口。8项预声明构造契约对照全部通过。
+
+最终reader48项、runner13项、独立来源197项、独立reader13项及fallback7项控制全部通过。root runner保留原失败预测及10个技术失败维度槽、完整raw来源和rule_not_executed；不补0、不把未执行规则解释为判定null、不运行evaluator。原问题、候选代码与日志保留。
+
+核验原v04的428文件、首36的532文件、旧41的81文件及3份外部算术文件均无SHA/字节变化。最终5代码和15材料路径已绑定，reader恰读13材料路径，runner另核验原PDF与来源seal。当前run01尚不存在。审计未读取新参照、A/B/native，未运行实际新2判定或对照。

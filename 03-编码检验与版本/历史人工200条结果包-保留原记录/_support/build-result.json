@@ -1,0 +1,133 @@
+{
+  "output": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验确认-200条.xlsx",
+  "positive_counts": {
+    "S": 27,
+    "E": 13,
+    "Ec": 20,
+    "I": 32,
+    "F": 16
+  },
+  "records": 200,
+  "judgments": 1000,
+  "pending": 0,
+  "confirmed_cases": 18,
+  "prior_boundaries_confirmed": 5,
+  "changedRows": [
+    {
+      "row": 17,
+      "id": "A-119",
+      "dimension": "S",
+      "height": 86
+    },
+    {
+      "row": 175,
+      "id": "A-120",
+      "dimension": "I",
+      "height": 104
+    },
+    {
+      "row": 244,
+      "id": "A-160",
+      "dimension": "Ec",
+      "height": 104
+    },
+    {
+      "row": 246,
+      "id": "A-160",
+      "dimension": "F",
+      "height": 122
+    },
+    {
+      "row": 262,
+      "id": "A-088",
+      "dimension": "S",
+      "height": 104
+    },
+    {
+      "row": 263,
+      "id": "A-088",
+      "dimension": "E",
+      "height": 104
+    },
+    {
+      "row": 280,
+      "id": "A-036",
+      "dimension": "I",
+      "height": 104
+    },
+    {
+      "row": 452,
+      "id": "A-149",
+      "dimension": "S",
+      "height": 104
+    },
+    {
+      "row": 573,
+      "id": "A-016",
+      "dimension": "E",
+      "height": 122
+    },
+    {
+      "row": 672,
+      "id": "A-126",
+      "dimension": "S",
+      "height": 140
+    },
+    {
+      "row": 673,
+      "id": "A-126",
+      "dimension": "E",
+      "height": 140
+    },
+    {
+      "row": 680,
+      "id": "A-117",
+      "dimension": "I",
+      "height": 93
+    },
+    {
+      "row": 681,
+      "id": "A-117",
+      "dimension": "F",
+      "height": 93
+    },
+    {
+      "row": 700,
+      "id": "A-105",
+      "dimension": "I",
+      "height": 122
+    },
+    {
+      "row": 730,
+      "id": "A-122",
+      "dimension": "I",
+      "height": 122
+    },
+    {
+      "row": 857,
+      "id": "A-084",
+      "dimension": "S",
+      "height": 140
+    },
+    {
+      "row": 979,
+      "id": "A-023",
+      "dimension": "Ec",
+      "height": 68
+    },
+    {
+      "row": 990,
+      "id": "A-178",
+      "dimension": "I",
+      "height": 104
+    }
+  ],
+  "protectedHashes": {
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/AI复核-A-200条.xlsx": "745e2f7cc1d05943570a72912cac3b1254ccee539895c66797ca695cd27197a2",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx": "23bb0f9ab743f695d8df7825486ac52246ab5791d8f2b3f7da16b377019475a3",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/predictions.json": "83dfe22f82683c717576d620843f556518c5c357ddc9f2f5e19fc3e90a0c3670",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/predictions.json": "129e280fd460ba3bc4c1704dbc097cd97f1b36cc86d5f9a510c41fa3fd9deb9b",
+    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/分歧复核-20261013/分歧复核建议.json": "e45c2684b7d7c18142c876cb2e59ab70e2458b37ff22aa5d7de0a501c9d1202e"
+  },
+  "formulaInspection": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}
