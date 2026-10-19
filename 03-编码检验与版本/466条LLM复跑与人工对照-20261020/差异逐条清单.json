@@ -1,0 +1,1096 @@
+{
+  "artifact_type": "record_level_old_new_llm_differences",
+  "run_id": "repeat466-20261019-run-01",
+  "provenance": {
+    "new_answers_sealed_at_utc": "2026-10-19T17:08:36.276173+00:00",
+    "new_answer_seal_binding": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/新答案封存.json",
+      "bytes": 538798,
+      "sha256": "20a75448cc3e03db3dd9588db7578ff3eac2a9af7f9fd203bb2595299295291d"
+    },
+    "new_seal_and_all_result_files_verified_at_utc": "2026-10-19T17:08:42.840597+00:00",
+    "verified_new_result_file_bindings": [
+      {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.jsonl",
+        "bytes": 1310006,
+        "sha256": "fae526d2fb6e4de4fac63bc857ac29c2888d52fed8be6d52f59159d0f6dfcbcd"
+      },
+      {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.json",
+        "bytes": 1672253,
+        "sha256": "a75f39fff8045b597d6be1893f0363fcc7621cab53d15e13717d3025b0a9d7bc"
+      },
+      {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/逐条结果与依据.md",
+        "bytes": 1070727,
+        "sha256": "f17df33df7ec7278f8785fd6b45a47622a3b55868aff07e9e8dae6c3ea133241"
+      },
+      {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/完整性核查.json",
+        "bytes": 198979,
+        "sha256": "ae2393b370ff46fff87322ce01727de551e79f95949d28bc26829370fa0efd15"
+      }
+    ],
+    "verified_amended_provenance_bindings": {
+      "technical_metadata_amendment": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/amendment.json",
+        "bytes": 4458,
+        "sha256": "83a0833ff7d4b47a733997b3eeac8de97de82e9f3e7dbecc4b70a5d66b655137"
+      },
+      "technical_metadata_amendment_independent_audit": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/independent-audit.json",
+        "bytes": 20872,
+        "sha256": "2237001b01f46a9f5a30069d9854024fa8aed6562426f69894755bf021c02552"
+      },
+      "authoritative_selection_index": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/authoritative-selections.json",
+        "bytes": 304230,
+        "sha256": "3aafbd15b2d5fdd9f1de038c5afd9c022160c1c211f4576b549f16a66651afc2"
+      },
+      "amended_terminal_progress": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/progress.json",
+        "bytes": 12933,
+        "sha256": "b1c0202b978738b84deaaf4f0267bebce39bac259ae8db639ad66a1017921b1d"
+      },
+      "collector_code": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v3.py",
+        "bytes": 64374,
+        "sha256": "f7466d26604485b862387cb91226da3467953721a3df4c8872e848d84ae0248e"
+      },
+      "comparison_code": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v3.py",
+        "bytes": 35728,
+        "sha256": "9f7a13e09328cab0ca00d85596463e31da4026f015794c09d115399f8737eefb"
+      },
+      "postrun_collector_code_audit": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v3.json",
+        "bytes": 16025,
+        "sha256": "a80f8d23555f5935494517a3ccd74410b980f714db81a8f1ec2b8a7aa7c237cc"
+      }
+    },
+    "verified_actual_process_attempt_N": 55,
+    "verified_postrun_code_versions": {
+      "v1": {
+        "collector": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers.py",
+          "bytes": 30954,
+          "sha256": "3cb65e4634aa1ebf80f5c33f0d0fdb3c3e13a215cdaa613a9eff7e3cdbbc0e47"
+        },
+        "comparison": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm.py",
+          "bytes": 27990,
+          "sha256": "c33abf2a9893cead9235dca61cc769ce5085649bfdbd7d790f3131366c43561f"
+        },
+        "audit": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit.json",
+          "bytes": 11202,
+          "sha256": "201bfd2464d65ef99c7ea9f6fde0d8e18f0c6204631af9b4ee1609b32cb2a071"
+        }
+      },
+      "v2": {
+        "collector": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v2.py",
+          "bytes": 49958,
+          "sha256": "bbab8f8f15400d7ec95c2f181f615eaca665545eb1af07a53df789c38fc4e5fa"
+        },
+        "comparison": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v2.py",
+          "bytes": 30735,
+          "sha256": "4258c601260e00015920ccd8d7e14cba38cb32856d3f9b566104f53ae162c514"
+        },
+        "audit": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v2.json",
+          "bytes": 16179,
+          "sha256": "1bc6092a1e38c1b3f031ee8806b2585dcee1769a8967df6df5d15f7b7c3fc37f"
+        }
+      },
+      "v3": {
+        "collector": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v3.py",
+          "bytes": 64374,
+          "sha256": "f7466d26604485b862387cb91226da3467953721a3df4c8872e848d84ae0248e"
+        },
+        "comparison": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v3.py",
+          "bytes": 35728,
+          "sha256": "9f7a13e09328cab0ca00d85596463e31da4026f015794c09d115399f8737eefb"
+        },
+        "audit": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v3.json",
+          "bytes": 16025,
+          "sha256": "a80f8d23555f5935494517a3ccd74410b980f714db81a8f1ec2b8a7aa7c237cc"
+        }
+      }
+    },
+    "verified_capacity_scheduling_evidence": {
+      "capacity_amendment": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/amendment.json",
+        "bytes": 6887,
+        "sha256": "910d736932e5a6004e2d328f898e46d3410bffc05ff4e765c19cbfb2ae930a25"
+      },
+      "user_authorization": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/user-authorization.json",
+        "bytes": 929,
+        "sha256": "b740f79db82e446c8de4384a74d9b3c5c95cb4fa0fe38274cc83067eed9cb7d7"
+      },
+      "independent_audit": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/independent-audit.json",
+        "bytes": 68499,
+        "sha256": "bac46de34d6d671b3c6dcb3a429aa2dd9ceb8a8868ca87e8a58565ccbe09526d"
+      },
+      "controller_profile": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-profile.json",
+        "bytes": 2036,
+        "sha256": "4347e37f904a17fc572749e93e01e474d1a85de7187569834899ff6ac316ca9c"
+      },
+      "pre_resume_seal": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/pre-resume-seal.json",
+        "bytes": 2771,
+        "sha256": "d8757281b5bc709e24c40db5de880166878de9d1b9598e369948ec0a7d4f0f97"
+      },
+      "predecessor_drained_terminal_progress": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/progress.json",
+        "bytes": 8657,
+        "sha256": "6241844d738a4cc465913cac484cbd5e6b5dd24a6f6dbbfefef4e0f17e3a7fc6"
+      },
+      "predecessor_drained_authoritative_index": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/authoritative-selections.json",
+        "bytes": 25844,
+        "sha256": "597aa73d573e4ca449c0460464e5cbee9e948630169114d2b4630f7613f52a90"
+      },
+      "takeover_inventory": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/takeover-inventory.json",
+        "bytes": 28980,
+        "sha256": "ea6c79be89e70192614546b98e6cb7d4444572e62e8edd6d43b766437af46f2c"
+      },
+      "controller_segments_index": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-segments.json",
+        "bytes": 2236,
+        "sha256": "34d456f93131f6312a44dccfe6bfb542685b5b6b5b20a2368bb3eb8b4cfa434a"
+      },
+      "phase_boundary_capacity_effective_artifact": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/capacity-effective-20261019T161257Z-4a37bb4f.json",
+        "bytes": 2225,
+        "sha256": "348ae340f574871c9ea300c210ee8ea075be6857962f73f86d8e55db4891895f"
+      },
+      "immutable_segment_evidence": [
+        {
+          "segment_id": "20261019T161257Z-4a37bb4f",
+          "actual_max_concurrent": 6,
+          "start": {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-segment-20261019T161257Z-4a37bb4f-start.json",
+            "bytes": 2662,
+            "sha256": "81f5b47c70508e26d7295866a0d90aff1abfbfa26f2f6629325eeb0fe2a9b315"
+          },
+          "terminal": {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-segment-20261019T161257Z-4a37bb4f-terminal.json",
+            "bytes": 10977,
+            "sha256": "064d7a552835e9831d57050a6bac764cbe4c90be88eab8f98e7ba09fd677b793"
+          },
+          "controller_events": {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-events-20261019T161257Z-4a37bb4f.jsonl",
+            "bytes": 149903,
+            "sha256": "ab456212ab6cbc7f8e671545fd3f7827338c81dc5313f45a278a770f24259943"
+          },
+          "capacity_effective_artifact": {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/capacity-effective-20261019T161257Z-4a37bb4f.json",
+            "bytes": 2225,
+            "sha256": "348ae340f574871c9ea300c210ee8ea075be6857962f73f86d8e55db4891895f"
+          },
+          "terminal_mutable_progress_index_hashes_are_historical_only": true
+        }
+      ],
+      "concurrency_policy": {
+        "policy": "Before the user-authorized effective boundary <=3; afterwards <=6; each drained segment also obeys its explicit actual cap.",
+        "concurrency_effective_at_utc": "2026-10-19T16:12:58.156832+00:00",
+        "before_limit": 3,
+        "after_authorized_limit": 6,
+        "observed_peak_before_boundary": 3,
+        "observed_peak_after_boundary": 6,
+        "observed_peak_overall": 6,
+        "segment_peaks": [
+          {
+            "segment_id": "20261019T161257Z-4a37bb4f",
+            "actual_max_concurrent": 6,
+            "observed_peak_conservative_cli_envelopes": 6,
+            "effective_at_utc": "2026-10-19T16:12:58.156832+00:00"
+          }
+        ],
+        "overlap_measure": "ROOT dispatch-start receipt to actual process-completion receipt, a conservative execution envelope.",
+        "actual_concurrency_same_as_original_full_run_claimed": false
+      },
+      "actual_concurrency_same_as_original_full_run_claimed": false
+    },
+    "verified_postrun_technical_evidence": {
+      "amendment": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/amendment.json",
+        "bytes": 4854,
+        "sha256": "8a6ac4e88dda10278547442f7ba8d35e7c29333a3049f19f65e46a0511ab8f28"
+      },
+      "independent_audit": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/independent-audit.json",
+        "bytes": 9222,
+        "sha256": "78e672a01104fca1db83178b9842b5ae0db65b056796e0906eaa4edb3a370ae7"
+      },
+      "pre_execution_seal": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/pre-execution-seal.json",
+        "bytes": 2519,
+        "sha256": "e67e5574cc282bb17076cd6da119aa170f1c0b54af91b87fc1613379b67f3bce"
+      },
+      "immutable_coding_progress_snapshot": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/controller-status-at-technical-audit-freeze.json",
+        "bytes": 12867,
+        "sha256": "af57afbdc42d29580a3fdbf8b0c117141c5f432d7756fcbad93d5fa8d444a976"
+      },
+      "diagnosis": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/technical-format-failure-diagnosis.json",
+        "bytes": 61701,
+        "sha256": "128241adb5fcb7cdcf2f5be5fae08d796f64b6867100ffa1fa3ebdcb9d7fcede"
+      },
+      "additional_postfreeze_diagnosis": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/technical-format-failure-diagnosis-round2.json",
+        "bytes": 57963,
+        "sha256": "88c7f174b1910376e2364b5734150aecbfb0fcc2432475bffd538f517749b2ae"
+      },
+      "authoritative_index": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/authoritative-selections.json",
+        "bytes": 304230,
+        "sha256": "3aafbd15b2d5fdd9f1de038c5afd9c022160c1c211f4576b549f16a66651afc2"
+      },
+      "prior_capacity_authoritative_index": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/authoritative-selections.json",
+        "bytes": 77369,
+        "sha256": "cfd8b2fffc61ec049cf5c0d2529a163f6d00bf359864fac9e7b83fbf80bae6bb"
+      },
+      "models_called": 0,
+      "additional_sampling": false,
+      "labels_or_reference_scores_used": false
+    },
+    "verified_technical_counts": {
+      "pre_postrun_receiver_technical_failure_N": 8,
+      "current_receiver_format_rejection_N": 5,
+      "receiver_format_false_rejection_corrected_N": 5,
+      "postrun03_true_technical_failed_attempt_N": 3,
+      "retained_later_inflight_attempt_not_selected_N": 6,
+      "prior_capacity_technical_exhausted_batch_N": 0
+    },
+    "postrun03_model_calls": 0,
+    "postrun03_additional_sampling": false,
+    "actual_concurrency_same_as_original_full_run_claimed": false,
+    "old_file_first_read_by_this_process_started_at_utc": "2026-10-19T17:08:42.845654+00:00",
+    "old_file_first_read_by_this_process_completed_at_utc": "2026-10-19T17:08:42.852678+00:00",
+    "first_read_time_scope": "This comparison process; not a claim about all historical filesystem accesses",
+    "old_prediction_file_reads_by_this_process": 1,
+    "old_file_binding": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/selected-records.jsonl",
+      "bytes": 20556918,
+      "sha256": "e5c0b8ac3c5b4b76f9e8a019d2b4e87a8930cb0f91d9234d9d537215b982fbb8"
+    },
+    "old_archived_seal_binding": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/seal.json",
+      "bytes": 1593,
+      "sha256": "1184d15307a234920149e7ecb00048e54af357719595acdcb33f87ce0b26d710"
+    },
+    "old_file_archived_seal_binding_matched": true,
+    "old_full_delivery_record_N": 4481,
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning_effort": "ultra",
+    "actual_service_model_snapshot_independently_verified": false,
+    "provider_wire_capture_claimed": false,
+    "human_answers_read_or_compared": false,
+    "new_or_old_answers_modified": false,
+    "comparison_generated_at_utc": "2026-10-19T17:08:43.096793+00:00"
+  },
+  "record_N": 466,
+  "changed_record_N": 28,
+  "changed_dimension_decision_N": 33,
+  "unchanged_record_N": 438,
+  "records": [
+    {
+      "source_id": "RECODE25-00105",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 1,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 1,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "F",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00202",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 1
+      },
+      "changed_dimension_N": 2,
+      "changes": [
+        {
+          "dimension": "E",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        },
+        {
+          "dimension": "F",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00266",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 1
+      },
+      "changed_dimension_N": 2,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        },
+        {
+          "dimension": "F",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00308",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00543",
+      "department": "NHC",
+      "old_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00544",
+      "department": "NHC",
+      "old_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00588",
+      "department": "NHSA",
+      "old_labels": {
+        "S": null,
+        "E": null,
+        "Ec": 1,
+        "I": 1,
+        "F": 1
+      },
+      "new_labels": {
+        "S": null,
+        "E": null,
+        "Ec": 1,
+        "I": 1,
+        "F": null
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "F",
+          "old": 1,
+          "new": null,
+          "transition": "1->null"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00782",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-00918",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 1,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 1,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "F",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-01138",
+      "department": "NHC",
+      "old_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "E",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-01373",
+      "department": "NHC",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-01637",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-02139",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-02376",
+      "department": "NHC",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-02383",
+      "department": "NHC",
+      "old_labels": {
+        "S": 1,
+        "E": 1,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 2,
+      "changes": [
+        {
+          "dimension": "E",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        },
+        {
+          "dimension": "Ec",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-02519",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 1,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 1,
+        "I": 1,
+        "F": 1
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03050",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03160",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "E",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03218",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03219",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03282",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03290",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 1,
+        "E": 1,
+        "Ec": 1,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 3,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        },
+        {
+          "dimension": "E",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        },
+        {
+          "dimension": "Ec",
+          "old": 0,
+          "new": 1,
+          "transition": "0->1"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03500",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 1,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "S",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03717",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "F",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03825",
+      "department": "NHSA",
+      "old_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 1,
+        "I": 1,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 1,
+        "Ec": 0,
+        "I": 1,
+        "F": 1
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-03894",
+      "department": "NMPA",
+      "old_labels": {
+        "S": 1,
+        "E": null,
+        "Ec": null,
+        "I": null,
+        "F": null
+      },
+      "new_labels": {
+        "S": 1,
+        "E": null,
+        "Ec": 0,
+        "I": null,
+        "F": null
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "Ec",
+          "old": null,
+          "new": 0,
+          "transition": "null->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-04905",
+      "department": "NHC",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "F",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    },
+    {
+      "source_id": "RECODE25-04908",
+      "department": "NHC",
+      "old_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 1
+      },
+      "new_labels": {
+        "S": 0,
+        "E": 0,
+        "Ec": 0,
+        "I": 0,
+        "F": 0
+      },
+      "changed_dimension_N": 1,
+      "changes": [
+        {
+          "dimension": "F",
+          "old": 1,
+          "new": 0,
+          "transition": "1->0"
+        }
+      ]
+    }
+  ]
+}

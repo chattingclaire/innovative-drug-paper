@@ -1,0 +1,92 @@
+[
+  {
+    "file": "466条人工与两次LLM逐项对照.csv",
+    "bytes": 76751,
+    "sha256": "ac4190a58073165691afc3f68944ce587ffcc1b24ab03b761f78b1be0e65f5ba"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2352,
+    "sha256": "cc4d36cc9c35d7cc7375b7d92487c3a2d3bbdddcb40f5d0a15ebf88c1ac317b9"
+  },
+  {
+    "file": "final-independent-execution-audit.json",
+    "bytes": 964502,
+    "sha256": "f21e529c4a84878ad1155f768ed1cdd124597d6374ac387268655c35465a933e"
+  },
+  {
+    "file": "final-independent-numerical-audit.json",
+    "bytes": 695671,
+    "sha256": "dc69fd87a2390c29d354d677b3bde34802aa47312409f527da70002f7bfcfb4d"
+  },
+  {
+    "file": "network-reconnection-audit-v2.json",
+    "bytes": 133950,
+    "sha256": "5935ea6781e3c0f7a53c6e1c00afb4f3ce46e2618168e7a055dafc9a2bed2050"
+  },
+  {
+    "file": "与旧LLM五维比较.json",
+    "bytes": 29015,
+    "sha256": "c9b3ca8fd7521605f906099b15c0f7446b75e25f2ae87790d0612315f9a574c1"
+  },
+  {
+    "file": "与最终人工编码比较.json",
+    "bytes": 28390,
+    "sha256": "fcdfe7669b566715c0c7300439125e6e1008d08ebdfe6b186c47f7aabbf1e059"
+  },
+  {
+    "file": "与最终人工编码比较.md",
+    "bytes": 1200,
+    "sha256": "704b92f681112600b391b1aa1cbd9a5856700f72b85c924abd0959606dfdf897"
+  },
+  {
+    "file": "五维比较说明.md",
+    "bytes": 4691,
+    "sha256": "62994df0154ad5d1c74599e7e476b39d66af699ac624d4c80c7c3c7fe6331c1a"
+  },
+  {
+    "file": "交付封存.json",
+    "bytes": 6411,
+    "sha256": "83f4111aadd3a395ff67c05efd339fad1d87458df9c26cfd0b054b0acefe604d"
+  },
+  {
+    "file": "复跑总结.md",
+    "bytes": 5752,
+    "sha256": "0722eaa82f9d2f4fcab2fddc9811ca587dc5466218d8fc0cfec4282ca4c18063"
+  },
+  {
+    "file": "复跑结果-466条.json",
+    "bytes": 1672253,
+    "sha256": "a75f39fff8045b597d6be1893f0363fcc7621cab53d15e13717d3025b0a9d7bc"
+  },
+  {
+    "file": "复跑结果-466条.jsonl",
+    "bytes": 1310006,
+    "sha256": "fae526d2fb6e4de4fac63bc857ac29c2888d52fed8be6d52f59159d0f6dfcbcd"
+  },
+  {
+    "file": "完整性核查.json",
+    "bytes": 198979,
+    "sha256": "ae2393b370ff46fff87322ce01727de551e79f95949d28bc26829370fa0efd15"
+  },
+  {
+    "file": "差异逐条清单.json",
+    "bytes": 32378,
+    "sha256": "88ca988e3390671d1e61ba6aea16e9ba853132a2463826ac37470547a015400d"
+  },
+  {
+    "file": "差异逐条清单.md",
+    "bytes": 1743,
+    "sha256": "5d8275cbadfec994abb47ea1f0022c83257e2005de7c55eb0f0ec7f9bab8cf8f"
+  },
+  {
+    "file": "新答案封存.json",
+    "bytes": 538798,
+    "sha256": "20a75448cc3e03db3dd9588db7578ff3eac2a9af7f9fd203bb2595299295291d"
+  },
+  {
+    "file": "逐条结果与依据.md",
+    "bytes": 1070727,
+    "sha256": "f17df33df7ec7278f8785fd6b45a47622a3b55868aff07e9e8dae6c3ea133241"
+  }
+]

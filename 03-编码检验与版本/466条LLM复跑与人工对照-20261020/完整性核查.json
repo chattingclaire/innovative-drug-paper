@@ -1,0 +1,3702 @@
+{
+  "run_id": "repeat466-20261019-run-01",
+  "verified_at_utc": "2026-10-19T17:08:36.270605+00:00",
+  "complete": true,
+  "record_N": 466,
+  "unique_record_N": 466,
+  "expected_dimension_N": 2330,
+  "actual_dimension_N": 2330,
+  "binary_decision_N": 2322,
+  "semantic_undetermined_N": 8,
+  "semantic_undetermined_items": [
+    {
+      "source_id": "RECODE25-00588",
+      "dimension": "S",
+      "reason": "完整流程图的调出分支以《暂行办法》第九、十条规定为条件，属于确指的操作性标准援引，但这两条同版原文未在本次实际呈现材料中提供，无法核明其药物风险条件。已读图示的其余分支不补足该缺失，因此安全性保留null。"
+    },
+    {
+      "source_id": "RECODE25-00588",
+      "dimension": "E",
+      "reason": "调出分支直接援引《暂行办法》第九、十条作为药品条件，但该同版完整标准未实际呈现，不能核实是否涉及疗效不足或其他药物效果标准。不能由图中的适应症变化或评审名称替代缺失原文，故有效性保留null。"
+    },
+    {
+      "source_id": "RECODE25-00588",
+      "dimension": "F",
+      "reason": "图中普通目录申请、供药和支付分支未单独明确患者可负担或按需保障关系，但调出条件还确指了未提供同版原文的《暂行办法》第九、十条。该操作性标准分支的完整内容无法核实，不能把全图公平关系的未知填为0，故保留null。"
+    },
+    {
+      "source_id": "RECODE25-03875",
+      "dimension": "E",
+      "reason": "当前图中已核分支未明确药物效果要求，但“其他：《暂行办法》中第九、十条规定的药品”被实质用作调出标准。本批未提供、亦未能核明这两条同版完整条件，无法排除其中的效果标准，故保留E待定，需补该条文原文。"
+    },
+    {
+      "source_id": "RECODE25-03875",
+      "dimension": "F",
+      "reason": "已核图中罕见病身份、一般供应与价格支付分支本身不充分构成患者公平关系；但图内另以《暂行办法》第九、十条作为实质调出标准，其完整同版原文在本批未核明。无法完成对全部当前条件是否涉及按需保障的判断，需补这两条原文，保留F待定。"
+    },
+    {
+      "source_id": "RECODE25-03894",
+      "dimension": "E",
+      "reason": "当前将1.3.9的资料要求用于中药，其中明确要求提供符合《优化创新药临床试验审评审批有关事项的公告》条件的说明和证明，但本批未提供该同版公告的完整资格条件。现有处方对比、研发计划和一般试验资料本身不足以记E；对被实质要求核验的条件是否含效果标准尚不能核明，需补原文。"
+    },
+    {
+      "source_id": "RECODE25-03894",
+      "dimension": "I",
+      "reason": "当前所援引1.3.9实质要求证明符合具名公告条件，适用语境是创新药30日通道，但本批缺少该同版公告的完整资格标准。创新药身份、同步研发计划和处方对比不能单独证明创新或改良资格—待遇关系；需补通道条件原文后判I，不能用身份填1或把未知填0。"
+    },
+    {
+      "source_id": "RECODE25-03894",
+      "dimension": "F",
+      "reason": "现有机构、风险计划及处方对比要求没有直接的患者保障缺口关系；但当前通过1.3.9要求核验具名公告的资格条件，而本批未提供这些同版完整条件。不能核明所要求证明的通道条件是否包含按治疗缺口配置机会的标准，需补公告条件原文，保留F待定。"
+    }
+  ],
+  "technical_failed_attempt_N": 3,
+  "pre_postrun_receiver_technical_failure_N": 8,
+  "receiver_format_false_rejection_corrected_N": 5,
+  "current_receiver_format_rejection_N": 5,
+  "postrun03_true_technical_failed_attempt_N": 3,
+  "prior_capacity_technical_exhausted_batch_N": 0,
+  "postrun03_models_called": 0,
+  "postrun03_additional_sampling": false,
+  "initial_validator_failure_before_metadata_correction_N": 2,
+  "historical_original_technical_reception_N": 7,
+  "retained_later_inflight_attempt_not_selected_N": 6,
+  "technical_metadata_correction": {
+    "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/amendment.json",
+    "bytes": 4458,
+    "sha256": "83a0833ff7d4b47a733997b3eeac8de97de82e9f3e7dbecc4b70a5d66b655137"
+  },
+  "technical_exhausted_batch_N": 0,
+  "technical_missing_record_N": 0,
+  "total_actual_policy_attempt_N": 55,
+  "actual_model_context_N": 55,
+  "selected_batch_N": 46,
+  "dimension_value_counts": {
+    "S": {
+      "1": 144,
+      "0": 321,
+      "null": 1
+    },
+    "E": {
+      "1": 97,
+      "0": 366,
+      "null": 3
+    },
+    "Ec": {
+      "0": 342,
+      "1": 124
+    },
+    "I": {
+      "1": 37,
+      "0": 428,
+      "null": 1
+    },
+    "F": {
+      "1": 52,
+      "0": 411,
+      "null": 3
+    }
+  },
+  "original_inputs_still_match_pre_execution_seal": true,
+  "actual_execution_time_and_contexts": {
+    "first_actual_policy_process_started_at_utc": "2026-10-19T15:19:35.723784+00:00",
+    "last_actual_policy_process_terminal_at_utc": "2026-10-19T17:07:15.222852+00:00",
+    "elapsed_wall_seconds": 6459.499068,
+    "observed_peak_concurrent_cli": 6,
+    "process_attempt_N": 55,
+    "earliest_ROOT_dispatch_start_at_utc": "2026-10-19T15:19:35.717471+00:00",
+    "concurrency_policy": {
+      "policy": "Before the user-authorized effective boundary <=3; afterwards <=6; each drained segment also obeys its explicit actual cap.",
+      "concurrency_effective_at_utc": "2026-10-19T16:12:58.156832+00:00",
+      "before_limit": 3,
+      "after_authorized_limit": 6,
+      "observed_peak_before_boundary": 3,
+      "observed_peak_after_boundary": 6,
+      "observed_peak_overall": 6,
+      "segment_peaks": [
+        {
+          "segment_id": "20261019T161257Z-4a37bb4f",
+          "actual_max_concurrent": 6,
+          "observed_peak_conservative_cli_envelopes": 6,
+          "effective_at_utc": "2026-10-19T16:12:58.156832+00:00"
+        }
+      ],
+      "overlap_measure": "ROOT dispatch-start receipt to actual process-completion receipt, a conservative execution envelope.",
+      "actual_concurrency_same_as_original_full_run_claimed": false
+    },
+    "actual_concurrency_same_as_original_full_run_claimed": false,
+    "actual_model_context_N": 55,
+    "distinct_cli_thread_N": 55,
+    "actual_cli_thread_ids": [
+      "01a154bf-2722-7430-93d3-1e364127ff24",
+      "01a154c9-a0a3-7db1-8e7f-d139c0a5b7fb",
+      "01a154bf-2723-7ee3-b7f7-bce91a56eaff",
+      "01a154bf-271c-7f80-b7cc-7f503d3d7f50",
+      "01a154c4-d7d3-7f22-8d6a-f47dad0f19bb",
+      "01a154c5-1fb6-72b1-9594-bed09f9fd33c",
+      "01a154ca-e750-7bb0-bc1e-ca87b1bba8af",
+      "01a154d4-d884-7b62-a244-ad5e9289d216",
+      "01a154d4-d8b4-73e3-a3d4-60af9b7cfe87",
+      "01a154d4-d880-7293-832c-ee281b93e8ba",
+      "01a154d9-51d1-7ed0-83f5-68be954a70ce",
+      "01a154d9-855d-7321-a642-db4618cc4e23",
+      "01a154db-36f1-7041-bfad-d278aec453c5",
+      "01a154e0-a99a-7b11-b0f0-0651067459a3",
+      "01a154e1-3e5b-7ee0-9f34-9b55ac9478d0",
+      "01a154e1-52b8-7663-9b48-488e18d14ac8",
+      "01a154e5-90d9-7c10-a194-1456d24bd16d",
+      "01a154e7-01c2-7ab0-beaa-d23d7aa8a3b8",
+      "01a154f0-0581-7ee2-ade8-8c118701fbcb",
+      "01a154f6-daaa-7242-b48e-70f1c15abc68",
+      "01a154f0-0587-7192-bbf7-d0b055e623d3",
+      "01a154f5-bc3b-7d91-9608-4dc338c16c20",
+      "01a154f0-0586-7712-a10d-965c3a600f45",
+      "01a154f0-0584-7e01-8ce9-7655cfd77d70",
+      "01a154f0-058a-70c3-9246-d82defacb512",
+      "01a154f0-0588-75d3-b24c-ebfe85cf602e",
+      "01a154f5-5a17-7473-9b90-ecd658839880",
+      "01a154f5-62f5-7901-82b3-c85f8d842358",
+      "01a154f5-8eb9-7a03-b8c6-4b1cf0b5d2de",
+      "01a154f5-964a-7bd3-b36b-05a1f1e4ecf9",
+      "01a154fa-5765-7c41-9150-04d4a7aa5185",
+      "01a154ff-7b57-71c2-a589-6e963ccdc560",
+      "01a15504-8586-74f2-9195-d9a53914a685",
+      "01a154fb-5d9e-7dc0-ad02-157f4afb618c",
+      "01a154fb-bf8f-7872-bdef-ece9db442c86",
+      "01a15503-5098-7150-a6b7-8477bea0fa7d",
+      "01a154fb-c892-7201-ba84-41bcb5ebb8d5",
+      "01a15500-d96d-7941-bc5d-e57174b4faa9",
+      "01a154fb-f95b-7923-bc7b-a5462b5912ff",
+      "01a154fe-484a-7f40-b085-59681a4e9a85",
+      "01a15506-897c-75e0-a2cd-614191aed8c0",
+      "01a1550d-3f5c-7062-bc74-ae8ccb901b0b",
+      "01a15501-a93b-7302-a79e-8ee407af9d22",
+      "01a15502-d62f-7a12-b699-37f7f06018b3",
+      "01a15506-175f-74d0-b14e-b9c3db210d1c",
+      "01a15506-a0e7-7742-80c9-7432ed6549df",
+      "01a15509-b380-7681-ba2e-6cd84cf92fb4",
+      "01a15509-c391-7c20-99e9-4efb0c296f68",
+      "01a1550a-06ea-70a1-8953-c41e5dea8894",
+      "01a1550a-10ed-79c3-b9c7-683aedc85cd2",
+      "01a1550b-359f-7dd3-ad2d-717cee07ef8d",
+      "01a1550c-c8cc-7e62-a7ff-8191e637d78e",
+      "01a1550d-88a2-7380-8a9c-5359b6569c53",
+      "01a1550e-51c3-77f2-b99b-19bcbb9acb2c",
+      "01a1550f-b2f5-7b93-9824-a00f6a82f611"
+    ],
+    "technical_process_attempt_without_exposed_model_context_N": 0,
+    "actual_attempt_count_is_process_count_not_model_context_count": true,
+    "failed_attempt_unparseable_event_line_N": 0,
+    "transport_event_issue_N": 0,
+    "usage_telemetry_complete_for_all_process_attempts": true,
+    "observed_completed_turn_usage_sums": {
+      "output_tokens": 1012484,
+      "input_tokens": 159344053,
+      "cached_input_tokens": 151654272,
+      "reasoning_output_tokens": 313678,
+      "cache_write_input_tokens": 0
+    },
+    "usage_is_reported_cli_telemetry_not_provider_wire_or_independent_model_identity_verification": true
+  },
+  "reference_access_or_comparison_performed": false,
+  "binary_asset_reading_claims": [
+    {
+      "source_id": "RECODE25-00503",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00503",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00503",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00503",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00503",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00504",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00504",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00504",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00504",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00504",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+      "page": "完整原始图像：专项行动之五“织网”行动",
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-assets/SOURCEIMAGE-7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4.png",
+        "bytes": 38269,
+        "sha256": "7c74dc852434f34c0a6d418349530d8734155b1dcc12782d0fb711b6dba862b4",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete original image at original resolution",
+            "presentation_event": "functions.exec view_image original SOURCEIMAGE-7c74dc852434f34c full image; RECODE25-00503 and RECODE25-00504"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; complete policy image visually opened and read",
+        "source_ids": [
+          "RECODE25-00503",
+          "RECODE25-00504"
+        ],
+        "not_truncated": true,
+        "full_file_read_claimed": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00588",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/pages/7f5b1829d0030b34-physical-009.png",
+      "page": 9,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/pages/7f5b1829d0030b34-physical-009.png",
+        "bytes": 574497,
+        "sha256": "dbc9a659af8b9f383448f86926e8eac5b2ce81b00d64875bada1daa3f80d030e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image as displayed by tools.view_image(detail=original)",
+            "presentation_event": "tool:VIEW FAQ physical page 9"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; image forwarded and visually read",
+        "source_ids": [
+          "RECODE25-00588"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00588",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq25-renewal.png",
+      "page": 9,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq25-renewal.png",
+        "bytes": 482695,
+        "sha256": "bf1461bc49424636bfb8a9d933713731e17ac9109f7deedad2600365742fa028",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image as displayed by tools.view_image(detail=original)",
+            "presentation_event": "tool:VIEW FAQ physical page 9 crops, membership then renewal; second image"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; image forwarded and visually read",
+        "source_ids": [
+          "RECODE25-00588"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00655",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/literal-review-v2/pages/7f5b1829d0030b34-p12.png",
+      "page": 12,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/literal-review-v2/pages/7f5b1829d0030b34-p12.png",
+        "bytes": 611403,
+        "sha256": "443cc0e1a9d153144a0a2401cf96a9cd2d14ec922881c883e71c4e8f27d42fef",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image as displayed by tools.view_image(detail=original)",
+            "presentation_event": "tool:VIEW FAQ physical pages 11 and 12; second image"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; image forwarded and visually read",
+        "source_ids": [
+          "RECODE25-00655"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00861",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/renewal-reference-source-sol/pages/d76f3d33e1ea7099-physical-003.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/renewal-reference-source-sol/pages/d76f3d33e1ea7099-physical-003.png",
+        "bytes": 622554,
+        "sha256": "85c0b698525e06d43fb5ac1cbd665702a85e7f481b890052a17772a2eae1dab7",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "functions.exec -> tools.view_image -> image; first source image call; 完整图页呈现，核对比值A定义及四个支付档位。",
+            "range_kind": "full_image",
+            "range_basis": "complete image of the identified physical page"
+          }
+        ],
+        "physical_pages": [
+          3
+        ],
+        "not_truncated": true,
+        "read_method": "tools.view_image with image output actually viewed",
+        "source_ids": [
+          "RECODE25-00861"
+        ],
+        "coverage": "complete_image"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00861",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/renewal-reference-source-sol/pages/d76f3d33e1ea7099-physical-004.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/renewal-reference-source-sol/pages/d76f3d33e1ea7099-physical-004.png",
+        "bytes": 688539,
+        "sha256": "9e1115cb1ffbefb201fa4431048ef99b00651ebe3a524bed503e3d9d2391e983",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "functions.exec -> tools.view_image -> image; second source image call; 完整图页呈现，核对当前段与前页以上规则的连接。",
+            "range_kind": "full_image",
+            "range_basis": "complete image of the identified physical page"
+          }
+        ],
+        "physical_pages": [
+          4
+        ],
+        "not_truncated": true,
+        "read_method": "tools.view_image with image output actually viewed",
+        "source_ids": [
+          "RECODE25-00861"
+        ],
+        "coverage": "complete_image"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-00918",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v10/pages/workscheme2025-2.png",
+      "page": 2,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v10/pages/workscheme2025-2.png",
+        "bytes": 367636,
+        "sha256": "ffb27e728011cea3cacc42b5fea309c0b4bc96f39fae41649b854b425e84abfa",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "functions.exec -> tools.view_image -> image; third source image call; 完整图页呈现，核对当前商保目录定位命题在第2页的续文。",
+            "range_kind": "full_image",
+            "range_basis": "complete image of the identified physical page"
+          }
+        ],
+        "physical_pages": [
+          2
+        ],
+        "not_truncated": true,
+        "read_method": "tools.view_image with image output actually viewed",
+        "source_ids": [
+          "RECODE25-00918"
+        ],
+        "coverage": "complete_image"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01006",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "source_ids": [
+          "RECODE25-01006"
+        ],
+        "read_method": "tools.view_image; full source page image actually opened and read to verify Article 7 and all Article 8 branches",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image of physical page 4",
+            "presentation_event": "view_image:85457d52b1522f5c:4"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01055",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/570d1c1b735da7cb-NHSA-非独家药品竞价规则-2026-正式版.pdf",
+      "page": 2,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/570d1c1b735da7cb-NHSA-非独家药品竞价规则-2026-正式版.pdf",
+        "bytes": 107095,
+        "sha256": "570d1c1b735da7cb342ba66a1650d2594247ecce869def42949be72c63893df2",
+        "source_ids": [
+          "RECODE25-01055",
+          "RECODE25-01061"
+        ],
+        "read_method": "PyMuPDF deterministic render then tools.view_image; actual full page images read; only same-arrangement price formation and validity mechanisms used",
+        "not_truncated": true,
+        "full_file_read": false,
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; full rendered page opened",
+            "presentation_event": "view_rendered_pdf:570d1c1b735da7cb:1"
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; full rendered page opened",
+            "presentation_event": "view_rendered_pdf:570d1c1b735da7cb:2"
+          }
+        ],
+        "derived_page_paths": [
+          "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/context-570d1c1b-page-1.png",
+          "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/context-570d1c1b-page-2.png"
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01061",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/570d1c1b735da7cb-NHSA-非独家药品竞价规则-2026-正式版.pdf",
+      "page": 1,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/570d1c1b735da7cb-NHSA-非独家药品竞价规则-2026-正式版.pdf",
+        "bytes": 107095,
+        "sha256": "570d1c1b735da7cb342ba66a1650d2594247ecce869def42949be72c63893df2",
+        "source_ids": [
+          "RECODE25-01055",
+          "RECODE25-01061"
+        ],
+        "read_method": "PyMuPDF deterministic render then tools.view_image; actual full page images read; only same-arrangement price formation and validity mechanisms used",
+        "not_truncated": true,
+        "full_file_read": false,
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; full rendered page opened",
+            "presentation_event": "view_rendered_pdf:570d1c1b735da7cb:1"
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; full rendered page opened",
+            "presentation_event": "view_rendered_pdf:570d1c1b735da7cb:2"
+          }
+        ],
+        "derived_page_paths": [
+          "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/context-570d1c1b-page-1.png",
+          "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/context-570d1c1b-page-2.png"
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01061",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/570d1c1b735da7cb-NHSA-非独家药品竞价规则-2026-正式版.pdf",
+      "page": 2,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/570d1c1b735da7cb-NHSA-非独家药品竞价规则-2026-正式版.pdf",
+        "bytes": 107095,
+        "sha256": "570d1c1b735da7cb342ba66a1650d2594247ecce869def42949be72c63893df2",
+        "source_ids": [
+          "RECODE25-01055",
+          "RECODE25-01061"
+        ],
+        "read_method": "PyMuPDF deterministic render then tools.view_image; actual full page images read; only same-arrangement price formation and validity mechanisms used",
+        "not_truncated": true,
+        "full_file_read": false,
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; full rendered page opened",
+            "presentation_event": "view_rendered_pdf:570d1c1b735da7cb:1"
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; full rendered page opened",
+            "presentation_event": "view_rendered_pdf:570d1c1b735da7cb:2"
+          }
+        ],
+        "derived_page_paths": [
+          "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/context-570d1c1b-page-1.png",
+          "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/context-570d1c1b-page-2.png"
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01281",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+      "page": 5,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+        "bytes": 179930,
+        "sha256": "6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae",
+        "actual_presented_ranges": [
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:4:unicode:0:527",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 527
+            },
+            "source_ids": [
+              "RECODE25-01258"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:5:unicode:0:496",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 496
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:6:unicode:0:444",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 444
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:8:unicode:0:205",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 205
+            },
+            "source_ids": [
+              "RECODE25-01289"
+            ]
+          }
+        ],
+        "source_ids": [
+          "RECODE25-01258",
+          "RECODE25-01281",
+          "RECODE25-01289"
+        ],
+        "read_method": "PyMuPDF get_text on physical pages 4, 5, 6, 8; complete page text actually presented and read, each under 6500 characters. Frozen presentation_helper decodes UTF-8 only and cannot present binary PDF; no helper PRESENTATION event is claimed for these pages.",
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01281",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+      "page": 5,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+        "bytes": 179930,
+        "sha256": "6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae",
+        "actual_presented_ranges": [
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:4:unicode:0:527",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 527
+            },
+            "source_ids": [
+              "RECODE25-01258"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:5:unicode:0:496",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 496
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:6:unicode:0:444",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 444
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:8:unicode:0:205",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 205
+            },
+            "source_ids": [
+              "RECODE25-01289"
+            ]
+          }
+        ],
+        "source_ids": [
+          "RECODE25-01258",
+          "RECODE25-01281",
+          "RECODE25-01289"
+        ],
+        "read_method": "PyMuPDF get_text on physical pages 4, 5, 6, 8; complete page text actually presented and read, each under 6500 characters. Frozen presentation_helper decodes UTF-8 only and cannot present binary PDF; no helper PRESENTATION event is claimed for these pages.",
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01289",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+        "bytes": 179930,
+        "sha256": "6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae",
+        "actual_presented_ranges": [
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:4:unicode:0:527",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 527
+            },
+            "source_ids": [
+              "RECODE25-01258"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:5:unicode:0:496",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 496
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:6:unicode:0:444",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 444
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:8:unicode:0:205",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 205
+            },
+            "source_ids": [
+              "RECODE25-01289"
+            ]
+          }
+        ],
+        "source_ids": [
+          "RECODE25-01258",
+          "RECODE25-01281",
+          "RECODE25-01289"
+        ],
+        "read_method": "PyMuPDF get_text on physical pages 4, 5, 6, 8; complete page text actually presented and read, each under 6500 characters. Frozen presentation_helper decodes UTF-8 only and cannot present binary PDF; no helper PRESENTATION event is claimed for these pages.",
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01289",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+        "bytes": 179930,
+        "sha256": "6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae",
+        "actual_presented_ranges": [
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:4:unicode:0:527",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 527
+            },
+            "source_ids": [
+              "RECODE25-01258"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:5:unicode:0:496",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 496
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:6:unicode:0:444",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 444
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:8:unicode:0:205",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 205
+            },
+            "source_ids": [
+              "RECODE25-01289"
+            ]
+          }
+        ],
+        "source_ids": [
+          "RECODE25-01258",
+          "RECODE25-01281",
+          "RECODE25-01289"
+        ],
+        "read_method": "PyMuPDF get_text on physical pages 4, 5, 6, 8; complete page text actually presented and read, each under 6500 characters. Frozen presentation_helper decodes UTF-8 only and cannot present binary PDF; no helper PRESENTATION event is claimed for these pages.",
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01289",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/6254faa98540ffcc-NHSA-医保药品目录调整工作方案-2021.pdf",
+        "bytes": 179930,
+        "sha256": "6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae",
+        "actual_presented_ranges": [
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:4:unicode:0:527",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 527
+            },
+            "source_ids": [
+              "RECODE25-01258"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:5:unicode:0:496",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 496
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:6:unicode:0:444",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 444
+            },
+            "source_ids": [
+              "RECODE25-01281"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF page; complete extracted text presented with page-local zero-based half-open Unicode interval",
+            "presentation_event": "pdf-text:6254faa98540ffcc445c6f5bbc877b0da6a07b5a05e3b3c3e9d209c297ce33ae:physical-page:8:unicode:0:205",
+            "page_local_presented_unicode_range": {
+              "start": 0,
+              "end": 205
+            },
+            "source_ids": [
+              "RECODE25-01289"
+            ]
+          }
+        ],
+        "source_ids": [
+          "RECODE25-01258",
+          "RECODE25-01281",
+          "RECODE25-01289"
+        ],
+        "read_method": "PyMuPDF get_text on physical pages 4, 5, 6, 8; complete page text actually presented and read, each under 6500 characters. Frozen presentation_helper decodes UTF-8 only and cannot present binary PDF; no helper PRESENTATION event is claimed for these pages.",
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01465",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v8/pages/cde-care-06.png",
+      "page": 6,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v8/pages/cde-care-06.png",
+        "bytes": 802818,
+        "sha256": "41ce54048160851e48920f80f52be6fb73d1eb087f5bbf9fb07fd88c948586c2",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "view:RECODE25-01465:cde-care-06",
+            "range_kind": "full_image",
+            "range_basis": "complete image opened by tools.view_image and displayed in functions.exec"
+          }
+        ],
+        "read_method": "tools.view_image full image display",
+        "source_ids": [
+          "RECODE25-01465"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01465",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v8/pages/cde-care-06.png",
+      "page": 6,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v8/pages/cde-care-06.png",
+        "bytes": 802818,
+        "sha256": "41ce54048160851e48920f80f52be6fb73d1eb087f5bbf9fb07fd88c948586c2",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "view:RECODE25-01465:cde-care-06",
+            "range_kind": "full_image",
+            "range_basis": "complete image opened by tools.view_image and displayed in functions.exec"
+          }
+        ],
+        "read_method": "tools.view_image full image display",
+        "source_ids": [
+          "RECODE25-01465"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01521",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v8/pages/cde-care-16.png",
+      "page": 16,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v8/pages/cde-care-16.png",
+        "bytes": 910874,
+        "sha256": "27e185ea49f10e0540d5159dfd28b798f038681a2e5c3c2aae9f9fe07c91fe2e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete rendered source page image",
+            "presentation_event": "view-care-16"
+          }
+        ],
+        "read_method": "tools.view_image, full source page image actually opened and read",
+        "source_ids": [
+          "RECODE25-01521"
+        ],
+        "not_truncated": true,
+        "physical_page": 16
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01581",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+        "bytes": 163945,
+        "sha256": "dec73b87b4d8fafa389fbe439f826583a9f47230b856008f921294121469eda2",
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p1",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p01.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p2",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p02.png",
+            "source_ids": [
+              "RECODE25-01559",
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p3",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p03.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p4",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p04.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p5",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p05.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p8",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p08.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          }
+        ],
+        "read_method": "bound original PDF page rendered with PyMuPDF, then tools.view_image; actual bounded visual reading",
+        "source_ids": [
+          "RECODE25-01559",
+          "RECODE25-01581",
+          "RECODE25-01590",
+          "RECODE25-01604",
+          "RECODE25-01618"
+        ],
+        "not_truncated": true,
+        "limited_context_use": "Only the current explicit conditions, calculation references and their necessary direct definitions; no inheritance of unrelated clauses."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01581",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+      "page": 5,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+        "bytes": 163945,
+        "sha256": "dec73b87b4d8fafa389fbe439f826583a9f47230b856008f921294121469eda2",
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p1",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p01.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p2",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p02.png",
+            "source_ids": [
+              "RECODE25-01559",
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p3",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p03.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p4",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p04.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p5",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p05.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p8",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p08.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          }
+        ],
+        "read_method": "bound original PDF page rendered with PyMuPDF, then tools.view_image; actual bounded visual reading",
+        "source_ids": [
+          "RECODE25-01559",
+          "RECODE25-01581",
+          "RECODE25-01590",
+          "RECODE25-01604",
+          "RECODE25-01618"
+        ],
+        "not_truncated": true,
+        "limited_context_use": "Only the current explicit conditions, calculation references and their necessary direct definitions; no inheritance of unrelated clauses."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01604",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+        "bytes": 163945,
+        "sha256": "dec73b87b4d8fafa389fbe439f826583a9f47230b856008f921294121469eda2",
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p1",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p01.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p2",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p02.png",
+            "source_ids": [
+              "RECODE25-01559",
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p3",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p03.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p4",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p04.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p5",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p05.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p8",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p08.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          }
+        ],
+        "read_method": "bound original PDF page rendered with PyMuPDF, then tools.view_image; actual bounded visual reading",
+        "source_ids": [
+          "RECODE25-01559",
+          "RECODE25-01581",
+          "RECODE25-01590",
+          "RECODE25-01604",
+          "RECODE25-01618"
+        ],
+        "not_truncated": true,
+        "limited_context_use": "Only the current explicit conditions, calculation references and their necessary direct definitions; no inheritance of unrelated clauses."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01618",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+        "bytes": 163945,
+        "sha256": "dec73b87b4d8fafa389fbe439f826583a9f47230b856008f921294121469eda2",
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p1",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p01.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p2",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p02.png",
+            "source_ids": [
+              "RECODE25-01559",
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p3",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p03.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p4",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p04.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p5",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p05.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p8",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p08.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          }
+        ],
+        "read_method": "bound original PDF page rendered with PyMuPDF, then tools.view_image; actual bounded visual reading",
+        "source_ids": [
+          "RECODE25-01559",
+          "RECODE25-01581",
+          "RECODE25-01590",
+          "RECODE25-01604",
+          "RECODE25-01618"
+        ],
+        "not_truncated": true,
+        "limited_context_use": "Only the current explicit conditions, calculation references and their necessary direct definitions; no inheritance of unrelated clauses."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01618",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+      "page": 2,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/dec73b87b4d8fafa-NHSA-谈判药品续约规则-2024.pdf",
+        "bytes": 163945,
+        "sha256": "dec73b87b4d8fafa389fbe439f826583a9f47230b856008f921294121469eda2",
+        "actual_presented_ranges": [
+          {
+            "start": 1,
+            "end": 1,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p1",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p01.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 2,
+            "end": 2,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p2",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p02.png",
+            "source_ids": [
+              "RECODE25-01559",
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p3",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p03.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p4",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p04.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p5",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p05.png",
+            "source_ids": [
+              "RECODE25-01581",
+              "RECODE25-01590",
+              "RECODE25-01604"
+            ]
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2024-p8",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2024-p08.png",
+            "source_ids": [
+              "RECODE25-01618"
+            ]
+          }
+        ],
+        "read_method": "bound original PDF page rendered with PyMuPDF, then tools.view_image; actual bounded visual reading",
+        "source_ids": [
+          "RECODE25-01559",
+          "RECODE25-01581",
+          "RECODE25-01590",
+          "RECODE25-01604",
+          "RECODE25-01618"
+        ],
+        "not_truncated": true,
+        "limited_context_use": "Only the current explicit conditions, calculation references and their necessary direct definitions; no inheritance of unrelated clauses."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-01707",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/c3c24a85ab94498d-NHSA-谈判药品续约规则-2023.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/c3c24a85ab94498d-NHSA-谈判药品续约规则-2023.pdf",
+        "bytes": 164841,
+        "sha256": "c3c24a85ab94498d0b50fb89ed574abc90e71600e73326ddace21c55663a01f4",
+        "actual_presented_ranges": [
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2023-p3",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2023-p03.png",
+            "source_ids": [
+              "RECODE25-01707"
+            ]
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2023-p4",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2023-p04.png",
+            "source_ids": [
+              "RECODE25-01707"
+            ]
+          },
+          {
+            "start": 5,
+            "end": 5,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2023-p5",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2023-p05.png",
+            "source_ids": [
+              "RECODE25-01707"
+            ]
+          },
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "one-based inclusive physical PDF pages",
+            "presentation_event": "view-renewal-2023-p7",
+            "derived_image_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/context-2023-p07.png",
+            "source_ids": [
+              "RECODE25-01707"
+            ]
+          }
+        ],
+        "read_method": "bound original PDF page rendered with PyMuPDF, then tools.view_image; actual bounded visual reading",
+        "source_ids": [
+          "RECODE25-01707"
+        ],
+        "not_truncated": true,
+        "limited_context_use": "Only the current explicit conditions, calculation references and their necessary direct definitions; no inheritance of unrelated clauses."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02148",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png",
+        "bytes": 404974,
+        "sha256": "e3ef537a3b3ae88097f039889c2fda4358d858056d9c6535a45ef327a4638b4b",
+        "source_ids": [
+          "RECODE25-02148"
+        ],
+        "read_method": "tools.view_image; displayed complete original rendered physical page 3 actually inspected",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end not applicable",
+            "presentation_event": "functions.exec image output image_index=1 path=/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02148",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "source_ids": [
+          "RECODE25-02148"
+        ],
+        "read_method": "tools.view_image; displayed complete original rendered physical page 4 actually inspected",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end not applicable",
+            "presentation_event": "functions.exec image output image_index=2 path=/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02148",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png",
+        "bytes": 404974,
+        "sha256": "e3ef537a3b3ae88097f039889c2fda4358d858056d9c6535a45ef327a4638b4b",
+        "source_ids": [
+          "RECODE25-02148"
+        ],
+        "read_method": "tools.view_image; displayed complete original rendered physical page 3 actually inspected",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end not applicable",
+            "presentation_event": "functions.exec image output image_index=1 path=/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02148",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "source_ids": [
+          "RECODE25-02148"
+        ],
+        "read_method": "tools.view_image; displayed complete original rendered physical page 4 actually inspected",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end not applicable",
+            "presentation_event": "functions.exec image output image_index=2 path=/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02148",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "source_ids": [
+          "RECODE25-02148"
+        ],
+        "read_method": "tools.view_image; displayed complete original rendered physical page 4 actually inspected",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end not applicable",
+            "presentation_event": "functions.exec image output image_index=2 path=/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02415",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/41fd5850064ce8c3-47.png",
+      "page": 47,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/41fd5850064ce8c3-47.png",
+        "bytes": 601508,
+        "sha256": "a004560a32b55ab6945e9431142ac8e297ed2b7f8a95185b55fee5fd7c5556b0",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete rendered image; physical page 47",
+            "presentation_event": "functions.exec / tools.view_image: /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/41fd5850064ce8c3-47.png"
+          }
+        ],
+        "read_method": "tools.view_image; actual full rendered source page opened and visually read",
+        "not_truncated": true,
+        "source_ids": [
+          "RECODE25-02415"
+        ],
+        "physical_page": 47,
+        "semantic_use_scope": "p0021 current sentence only"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02436",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png",
+        "bytes": 404974,
+        "sha256": "e3ef537a3b3ae88097f039889c2fda4358d858056d9c6535a45ef327a4638b4b",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete rendered image; physical page 3",
+            "presentation_event": "functions.exec / tools.view_image: /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-3.png"
+          }
+        ],
+        "read_method": "tools.view_image; actual full rendered source page opened and visually read",
+        "not_truncated": true,
+        "source_ids": [
+          "RECODE25-02436"
+        ],
+        "physical_page": 3,
+        "semantic_use_scope": "article 7 opening only; limited cited condition"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02436",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete rendered image; physical page 4",
+            "presentation_event": "functions.exec / tools.view_image: /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png"
+          }
+        ],
+        "read_method": "tools.view_image; actual full rendered source page opened and visually read",
+        "not_truncated": true,
+        "source_ids": [
+          "RECODE25-02436"
+        ],
+        "physical_page": 4,
+        "semantic_use_scope": "article 7 continuation and full article 8 only"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02436",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete rendered image; physical page 4",
+            "presentation_event": "functions.exec / tools.view_image: /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png"
+          }
+        ],
+        "read_method": "tools.view_image; actual full rendered source page opened and visually read",
+        "not_truncated": true,
+        "source_ids": [
+          "RECODE25-02436"
+        ],
+        "physical_page": 4,
+        "semantic_use_scope": "article 7 continuation and full article 8 only"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02445",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/coverage01/source-review-parent/pages/54e5947a67620192-p03.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/coverage01/source-review-parent/pages/54e5947a67620192-p03.png",
+        "bytes": 436550,
+        "sha256": "ea37a69b65aa70c2e81d6ed0c54a8f3be835f2df6588fc45d2ea940b971af4f1",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete rendered image; physical page 3",
+            "presentation_event": "functions.exec / tools.view_image: /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/coverage01/source-review-parent/pages/54e5947a67620192-p03.png"
+          }
+        ],
+        "read_method": "tools.view_image; actual full rendered source page opened and visually read",
+        "not_truncated": true,
+        "source_ids": [
+          "RECODE25-02445"
+        ],
+        "physical_page": 3,
+        "semantic_use_scope": "p0015-p0019 full three-member list and agreement-period definition only"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02490",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+        "bytes": 265910,
+        "sha256": "54e5947a67620192f33c1b5ed016c95ef25737f896d7c66020a379d85a265446",
+        "source_ids": [
+          "RECODE25-02490"
+        ],
+        "read_method": "PyMuPDF rendered physical pages 7 and 8; tools.view_image opened each complete page image; visual reading actually completed",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-7.png, full page image"
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-8.png, full page image"
+          }
+        ],
+        "rendered_image_bindings": [
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-7.png",
+            "bytes": 209517,
+            "sha256": "820f2583656188bf5d7a89959fcdc2bfcdddb237042d76241c254deb0c795857"
+          },
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-8.png",
+            "bytes": 250910,
+            "sha256": "3cb5e3f5e3504e1abade77e5ef6515e0f4f81134636788f3873ad1303b96b7dd"
+          }
+        ],
+        "actual_semantic_use": "Limited to identifying the RECODE25-02490 list as required application-summary slide content; no labels inherited from parallel S/E/Ec/F sections."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02490",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+        "bytes": 265910,
+        "sha256": "54e5947a67620192f33c1b5ed016c95ef25737f896d7c66020a379d85a265446",
+        "source_ids": [
+          "RECODE25-02490"
+        ],
+        "read_method": "PyMuPDF rendered physical pages 7 and 8; tools.view_image opened each complete page image; visual reading actually completed",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-7.png, full page image"
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-8.png, full page image"
+          }
+        ],
+        "rendered_image_bindings": [
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-7.png",
+            "bytes": 209517,
+            "sha256": "820f2583656188bf5d7a89959fcdc2bfcdddb237042d76241c254deb0c795857"
+          },
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-8.png",
+            "bytes": 250910,
+            "sha256": "3cb5e3f5e3504e1abade77e5ef6515e0f4f81134636788f3873ad1303b96b7dd"
+          }
+        ],
+        "actual_semantic_use": "Limited to identifying the RECODE25-02490 list as required application-summary slide content; no labels inherited from parallel S/E/Ec/F sections."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02490",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+        "bytes": 265910,
+        "sha256": "54e5947a67620192f33c1b5ed016c95ef25737f896d7c66020a379d85a265446",
+        "source_ids": [
+          "RECODE25-02490"
+        ],
+        "read_method": "PyMuPDF rendered physical pages 7 and 8; tools.view_image opened each complete page image; visual reading actually completed",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-7.png, full page image"
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-8.png, full page image"
+          }
+        ],
+        "rendered_image_bindings": [
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-7.png",
+            "bytes": 209517,
+            "sha256": "820f2583656188bf5d7a89959fcdc2bfcdddb237042d76241c254deb0c795857"
+          },
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-8.png",
+            "bytes": 250910,
+            "sha256": "3cb5e3f5e3504e1abade77e5ef6515e0f4f81134636788f3873ad1303b96b7dd"
+          }
+        ],
+        "actual_semantic_use": "Limited to identifying the RECODE25-02490 list as required application-summary slide content; no labels inherited from parallel S/E/Ec/F sections."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02490",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+        "bytes": 265910,
+        "sha256": "54e5947a67620192f33c1b5ed016c95ef25737f896d7c66020a379d85a265446",
+        "source_ids": [
+          "RECODE25-02490"
+        ],
+        "read_method": "PyMuPDF rendered physical pages 7 and 8; tools.view_image opened each complete page image; visual reading actually completed",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-7.png, full page image"
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-8.png, full page image"
+          }
+        ],
+        "rendered_image_bindings": [
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-7.png",
+            "bytes": 209517,
+            "sha256": "820f2583656188bf5d7a89959fcdc2bfcdddb237042d76241c254deb0c795857"
+          },
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-8.png",
+            "bytes": 250910,
+            "sha256": "3cb5e3f5e3504e1abade77e5ef6515e0f4f81134636788f3873ad1303b96b7dd"
+          }
+        ],
+        "actual_semantic_use": "Limited to identifying the RECODE25-02490 list as required application-summary slide content; no labels inherited from parallel S/E/Ec/F sections."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02490",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+        "bytes": 265910,
+        "sha256": "54e5947a67620192f33c1b5ed016c95ef25737f896d7c66020a379d85a265446",
+        "source_ids": [
+          "RECODE25-02490"
+        ],
+        "read_method": "PyMuPDF rendered physical pages 7 and 8; tools.view_image opened each complete page image; visual reading actually completed",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-7.png, full page image"
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-8.png, full page image"
+          }
+        ],
+        "rendered_image_bindings": [
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-7.png",
+            "bytes": 209517,
+            "sha256": "820f2583656188bf5d7a89959fcdc2bfcdddb237042d76241c254deb0c795857"
+          },
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-8.png",
+            "bytes": 250910,
+            "sha256": "3cb5e3f5e3504e1abade77e5ef6515e0f4f81134636788f3873ad1303b96b7dd"
+          }
+        ],
+        "actual_semantic_use": "Limited to identifying the RECODE25-02490 list as required application-summary slide content; no labels inherited from parallel S/E/Ec/F sections."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-02490",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/54e5947a67620192-NHSA-目录调整申报指南-2026-正式版.pdf",
+        "bytes": 265910,
+        "sha256": "54e5947a67620192f33c1b5ed016c95ef25737f896d7c66020a379d85a265446",
+        "source_ids": [
+          "RECODE25-02490"
+        ],
+        "read_method": "PyMuPDF rendered physical pages 7 and 8; tools.view_image opened each complete page image; visual reading actually completed",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-7.png, full page image"
+          },
+          {
+            "start": 8,
+            "end": 8,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages",
+            "presentation_event": "functions.exec tools.view_image source-54e5947a-page-8.png, full page image"
+          }
+        ],
+        "rendered_image_bindings": [
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-7.png",
+            "bytes": 209517,
+            "sha256": "820f2583656188bf5d7a89959fcdc2bfcdddb237042d76241c254deb0c795857"
+          },
+          {
+            "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/source-54e5947a-page-8.png",
+            "bytes": 250910,
+            "sha256": "3cb5e3f5e3504e1abade77e5ef6515e0f4f81134636788f3873ad1303b96b7dd"
+          }
+        ],
+        "actual_semantic_use": "Limited to identifying the RECODE25-02490 list as required application-summary slide content; no labels inherited from parallel S/E/Ec/F sections."
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03215",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "view:85457d52b1522f5c:physical-page-4:original",
+            "range_kind": "full_image",
+            "range_basis": "complete original-resolution image; physical source page 4"
+          }
+        ],
+        "read_method": "tools.view_image(detail=original); complete image visually read; use limited to article 7 and its cross-page conditions",
+        "source_ids": [
+          "RECODE25-03215",
+          "RECODE25-03216"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03216",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "view:85457d52b1522f5c:physical-page-4:original",
+            "range_kind": "full_image",
+            "range_basis": "complete original-resolution image; physical source page 4"
+          }
+        ],
+        "read_method": "tools.view_image(detail=original); complete image visually read; use limited to article 7 and its cross-page conditions",
+        "source_ids": [
+          "RECODE25-03215",
+          "RECODE25-03216"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03216",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "view:85457d52b1522f5c:physical-page-4:original",
+            "range_kind": "full_image",
+            "range_basis": "complete original-resolution image; physical source page 4"
+          }
+        ],
+        "read_method": "tools.view_image(detail=original); complete image visually read; use limited to article 7 and its cross-page conditions",
+        "source_ids": [
+          "RECODE25-03215",
+          "RECODE25-03216"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03216",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-4.png",
+        "bytes": 308488,
+        "sha256": "77c050487bb5f679bc9743d2c8a62b59aef9e60eb2e898c93993c04d259eba70",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "view:85457d52b1522f5c:physical-page-4:original",
+            "range_kind": "full_image",
+            "range_basis": "complete original-resolution image; physical source page 4"
+          }
+        ],
+        "read_method": "tools.view_image(detail=original); complete image visually read; use limited to article 7 and its cross-page conditions",
+        "source_ids": [
+          "RECODE25-03215",
+          "RECODE25-03216"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03282",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-10.png",
+      "page": 10,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-10.png",
+        "bytes": 358488,
+        "sha256": "f406d0b5ea3605649328da5da4085ac2f522deb0da316d644363f213921370f4",
+        "source_ids": [
+          "RECODE25-03273",
+          "RECODE25-03282"
+        ],
+        "read_method": "tools.view_image via functions.exec; actual complete bound PNG opened and read",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image; source PDF physical page 10",
+            "presentation_event": "functions.exec/tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/85457d52b1522f5c-10.png"
+          }
+        ],
+        "use_scope": "RECODE25-03273: article 23 and its complete conditions on page 9; RECODE25-03282: current article 24 management clause and same-version article 25 direct payment mechanism; no other page content inherited"
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03321",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+        "bytes": 155649,
+        "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603",
+        "source_ids": [
+          "RECODE25-03321",
+          "RECODE25-03345"
+        ],
+        "read_method": "PyMuPDF rendering from bound PDF; tools.view_image opened full physical pages 6,7,3,4; no PDF text extraction counted as model reading",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p6.png"
+          },
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p7.png"
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p3.png"
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p4.png"
+          }
+        ],
+        "limited_context_use": [
+          {
+            "source_id": "RECODE25-03321",
+            "physical_pages": [
+              6,
+              7
+            ],
+            "used_scope": "规则二、一、条件完整引导及两个条件；不继承规则二后续支付规则"
+          },
+          {
+            "source_id": "RECODE25-03345",
+            "physical_pages": [
+              3,
+              4
+            ],
+            "used_scope": "比值B定义、同一预算年均增加值与支付标准下调的完整分档；不向其他记录移植"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03321",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+        "bytes": 155649,
+        "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603",
+        "source_ids": [
+          "RECODE25-03321",
+          "RECODE25-03345"
+        ],
+        "read_method": "PyMuPDF rendering from bound PDF; tools.view_image opened full physical pages 6,7,3,4; no PDF text extraction counted as model reading",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p6.png"
+          },
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p7.png"
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p3.png"
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p4.png"
+          }
+        ],
+        "limited_context_use": [
+          {
+            "source_id": "RECODE25-03321",
+            "physical_pages": [
+              6,
+              7
+            ],
+            "used_scope": "规则二、一、条件完整引导及两个条件；不继承规则二后续支付规则"
+          },
+          {
+            "source_id": "RECODE25-03345",
+            "physical_pages": [
+              3,
+              4
+            ],
+            "used_scope": "比值B定义、同一预算年均增加值与支付标准下调的完整分档；不向其他记录移植"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03321",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+        "bytes": 155649,
+        "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603",
+        "source_ids": [
+          "RECODE25-03321",
+          "RECODE25-03345"
+        ],
+        "read_method": "PyMuPDF rendering from bound PDF; tools.view_image opened full physical pages 6,7,3,4; no PDF text extraction counted as model reading",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p6.png"
+          },
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p7.png"
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p3.png"
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p4.png"
+          }
+        ],
+        "limited_context_use": [
+          {
+            "source_id": "RECODE25-03321",
+            "physical_pages": [
+              6,
+              7
+            ],
+            "used_scope": "规则二、一、条件完整引导及两个条件；不继承规则二后续支付规则"
+          },
+          {
+            "source_id": "RECODE25-03345",
+            "physical_pages": [
+              3,
+              4
+            ],
+            "used_scope": "比值B定义、同一预算年均增加值与支付标准下调的完整分档；不向其他记录移植"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03321",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+        "bytes": 155649,
+        "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603",
+        "source_ids": [
+          "RECODE25-03321",
+          "RECODE25-03345"
+        ],
+        "read_method": "PyMuPDF rendering from bound PDF; tools.view_image opened full physical pages 6,7,3,4; no PDF text extraction counted as model reading",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p6.png"
+          },
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p7.png"
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p3.png"
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p4.png"
+          }
+        ],
+        "limited_context_use": [
+          {
+            "source_id": "RECODE25-03321",
+            "physical_pages": [
+              6,
+              7
+            ],
+            "used_scope": "规则二、一、条件完整引导及两个条件；不继承规则二后续支付规则"
+          },
+          {
+            "source_id": "RECODE25-03345",
+            "physical_pages": [
+              3,
+              4
+            ],
+            "used_scope": "比值B定义、同一预算年均增加值与支付标准下调的完整分档；不向其他记录移植"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03321",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/32846e26963778ef-NHSA-谈判药品续约规则-2026-正式版.pdf",
+        "bytes": 155649,
+        "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603",
+        "source_ids": [
+          "RECODE25-03321",
+          "RECODE25-03345"
+        ],
+        "read_method": "PyMuPDF rendering from bound PDF; tools.view_image opened full physical pages 6,7,3,4; no PDF text extraction counted as model reading",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": 6,
+            "end": 6,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p6.png"
+          },
+          {
+            "start": 7,
+            "end": 7,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p7.png"
+          },
+          {
+            "start": 3,
+            "end": 3,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p3.png"
+          },
+          {
+            "start": 4,
+            "end": 4,
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical PDF pages; complete page rendered and opened as image",
+            "presentation_event": "functions.exec/tools.view_image:/private/tmp/repeat466_b0030_a02-renewal-p4.png"
+          }
+        ],
+        "limited_context_use": [
+          {
+            "source_id": "RECODE25-03321",
+            "physical_pages": [
+              6,
+              7
+            ],
+            "used_scope": "规则二、一、条件完整引导及两个条件；不继承规则二后续支付规则"
+          },
+          {
+            "source_id": "RECODE25-03345",
+            "physical_pages": [
+              3,
+              4
+            ],
+            "used_scope": "比值B定义、同一预算年均增加值与支付标准下调的完整分档；不向其他记录移植"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03738",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/64ac48e587537802-16.png",
+      "page": 16,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/64ac48e587537802-16.png",
+        "bytes": 524688,
+        "sha256": "026c56e71e6c51bf2427dd6c355f01969affceba7539e260fbdea53400b5a22c",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/64ac48e587537802-16.png (after complete RECODE25-03738 presentation)",
+            "range_kind": "full_image",
+            "range_basis": "entire image opened by tools.view_image; no character interval"
+          }
+        ],
+        "read_method": "tools.view_image of assignment-bound PNG, entire physical page 16; both formula fractions and right multipliers visually read",
+        "source_ids": [
+          "RECODE25-03738"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03762",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/64ac48e587537802-NHSA-常用问答-2026版.pdf",
+      "page": 18,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/64ac48e587537802-NHSA-常用问答-2026版.pdf",
+        "bytes": 4021449,
+        "sha256": "64ac48e58753780279df45a96c595f6415e84fef087a316b66f26def2cd5658c",
+        "actual_presented_ranges": [
+          {
+            "start": 18,
+            "end": 18,
+            "presentation_event": "tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0032/attempt-0001/source-physical-page-18.png",
+            "range_kind": "physical_pages",
+            "range_basis": "1-based inclusive physical pages"
+          }
+        ],
+        "read_method": "PyMuPDF rendered only physical page 18 to an xb-created PNG in own slot, then entire image opened with tools.view_image and actually read; no claim of full PDF reading",
+        "source_ids": [
+          "RECODE25-03762"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03875",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/pages/64ac48e587537802-physical-010.png",
+      "page": 10,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/pages/64ac48e587537802-physical-010.png",
+        "bytes": 859757,
+        "sha256": "12b5998d294ecb882d19c6358fe07a41a621d260964135e85fa85d15eec44e01",
+        "source_ids": [
+          "RECODE25-03875"
+        ],
+        "read_method": "actual tools.view_image full bound image, physical page 10; visually read",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "actual-tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/pages/64ac48e587537802-physical-010.png",
+            "range_kind": "full_image",
+            "range_basis": "full image; no character-range claim"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03875",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq26-renewal.png",
+      "page": 10,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq26-renewal.png",
+        "bytes": 713992,
+        "sha256": "52e24b11df324dc6c507d56ad27a646ea6696d116056cfb0951f52cb7df97288",
+        "source_ids": [
+          "RECODE25-03875"
+        ],
+        "read_method": "actual tools.view_image full bound image, physical page 10; visually read",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "actual-tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq26-renewal.png",
+            "range_kind": "full_image",
+            "range_basis": "full image; no character-range claim"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-03875",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq26-renewal.png",
+      "page": 10,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq26-renewal.png",
+        "bytes": 713992,
+        "sha256": "52e24b11df324dc6c507d56ad27a646ea6696d116056cfb0951f52cb7df97288",
+        "source_ids": [
+          "RECODE25-03875"
+        ],
+        "read_method": "actual tools.view_image full bound image, physical page 10; visually read",
+        "not_truncated": true,
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "actual-tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/crops/faq26-renewal.png",
+            "range_kind": "full_image",
+            "range_basis": "full image; no character-range claim"
+          }
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04201",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-3.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-3.png",
+        "bytes": 338290,
+        "sha256": "1ac8786c92524b857f984fb04be0dce457def071c710c76de2d2b77799fd2dec",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "entire assigned rendered physical page image; original-resolution view",
+            "presentation_event": "tools.view_image:1be84453158f1e92-3.png:original:physical_page_3"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; image actually opened and visually read",
+        "source_ids": [
+          "RECODE25-04201"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04205",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-4.png",
+        "bytes": 448197,
+        "sha256": "28b53d9c97e37a02dc4255613a5cfd0a995e8b5ca90f49eba7758095dcbf51c3",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "tools.view_image original / functions.exec image presentation: 1be84453158f1e92-4.png, physical page 4, 2250x3000",
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end null; physical PDF page 4"
+          }
+        ],
+        "not_truncated": true,
+        "read_method": "tools.view_image detail=original; complete image displayed and visually read; lower instruction region used to verify current text and layout",
+        "source_ids": [
+          "RECODE25-04205"
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04205",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-4.png",
+        "bytes": 448197,
+        "sha256": "28b53d9c97e37a02dc4255613a5cfd0a995e8b5ca90f49eba7758095dcbf51c3",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "tools.view_image original / functions.exec image presentation: 1be84453158f1e92-4.png, physical page 4, 2250x3000",
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end null; physical PDF page 4"
+          }
+        ],
+        "not_truncated": true,
+        "read_method": "tools.view_image detail=original; complete image displayed and visually read; lower instruction region used to verify current text and layout",
+        "source_ids": [
+          "RECODE25-04205"
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04205",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-4.png",
+        "bytes": 448197,
+        "sha256": "28b53d9c97e37a02dc4255613a5cfd0a995e8b5ca90f49eba7758095dcbf51c3",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "tools.view_image original / functions.exec image presentation: 1be84453158f1e92-4.png, physical page 4, 2250x3000",
+            "range_kind": "full_image",
+            "range_basis": "full image; start/end null; physical PDF page 4"
+          }
+        ],
+        "not_truncated": true,
+        "read_method": "tools.view_image detail=original; complete image displayed and visually read; lower instruction region used to verify current text and layout",
+        "source_ids": [
+          "RECODE25-04205"
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04206",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-5.png",
+      "page": 5,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-5.png",
+        "bytes": 165479,
+        "sha256": "69c6646c976f4cd5703d986021cca944e573975c2e8b970e1855814ad739e95f",
+        "actual_presented_ranges": [
+          {
+            "range_kind": "full_image",
+            "range_basis": "complete returned image; physical page is 1-based inclusive",
+            "start": null,
+            "end": null,
+            "presentation_event": "functions.exec/tools.view_image:/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/1be84453158f1e92-5.png:physical-page-5"
+          }
+        ],
+        "read_method": "tools.view_image returned complete image; image visually inspected in functions.exec output",
+        "source_ids": [
+          "RECODE25-04206"
+        ],
+        "not_truncated": true,
+        "physical_page": 5,
+        "image_dimensions": [
+          2250,
+          3000
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04208",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/da218af12c655b8b-3.png",
+      "page": 3,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/da218af12c655b8b-3.png",
+        "bytes": 338290,
+        "sha256": "5c0e7ead168f5373335c73a2e2e28ea6c99dc72ceb7bd1b432e1a3a7e4a47816",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image; source PDF physical page 3",
+            "presentation_event": "functions.exec tools.view_image path=source-slide-example-sol/pages/da218af12c655b8b-3.png detail=original; full image displayed at 2250x3000"
+          }
+        ],
+        "read_method": "view_image detail=original; actual visual reading of complete physical page 3; instruction/example layout verified",
+        "source_ids": [
+          "RECODE25-04208"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04210",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/da218af12c655b8b-4.png",
+      "page": 4,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/da218af12c655b8b-4.png",
+        "bytes": 391713,
+        "sha256": "9229f29bf80be0dc415458b1522957ed6549c4f71cee43854b1ea25c65396396",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "presentation_event": "tools.view_image(path=/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/pages/da218af12c655b8b-4.png,detail=original); complete 2250x3000 image emitted by image() and visually read",
+            "range_kind": "full_image",
+            "range_basis": "complete image of source PDF physical page 4"
+          }
+        ],
+        "read_method": "tools.view_image detail=original; full source page visually inspected",
+        "source_ids": [
+          "RECODE25-04210"
+        ],
+        "not_truncated": true,
+        "physical_pages": [
+          4
+        ]
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+        "bytes": 678690,
+        "sha256": "8ee34fc13bb63e8893ac77619398208463fffab295f1b117c3f6d0d1dc50a97e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 7",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+        "bytes": 284373,
+        "sha256": "79b604689d7ff1468d2dd2616b46c860abb934ca20ad338443e50cd53200fb28",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 8",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+        "bytes": 678690,
+        "sha256": "8ee34fc13bb63e8893ac77619398208463fffab295f1b117c3f6d0d1dc50a97e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 7",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+        "bytes": 284373,
+        "sha256": "79b604689d7ff1468d2dd2616b46c860abb934ca20ad338443e50cd53200fb28",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 8",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+        "bytes": 678690,
+        "sha256": "8ee34fc13bb63e8893ac77619398208463fffab295f1b117c3f6d0d1dc50a97e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 7",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+        "bytes": 284373,
+        "sha256": "79b604689d7ff1468d2dd2616b46c860abb934ca20ad338443e50cd53200fb28",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 8",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+        "bytes": 678690,
+        "sha256": "8ee34fc13bb63e8893ac77619398208463fffab295f1b117c3f6d0d1dc50a97e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 7",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+        "bytes": 284373,
+        "sha256": "79b604689d7ff1468d2dd2616b46c860abb934ca20ad338443e50cd53200fb28",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 8",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+      "page": 7,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png",
+        "bytes": 678690,
+        "sha256": "8ee34fc13bb63e8893ac77619398208463fffab295f1b117c3f6d0d1dc50a97e",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 7",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-7.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    },
+    {
+      "source_id": "RECODE25-04919",
+      "asset_path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+      "page": 8,
+      "actor_read_manifest_entry": {
+        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png",
+        "bytes": 284373,
+        "sha256": "79b604689d7ff1468d2dd2616b46c860abb934ca20ad338443e50cd53200fb28",
+        "actual_presented_ranges": [
+          {
+            "start": null,
+            "end": null,
+            "range_kind": "full_image",
+            "range_basis": "complete image corresponding to physical PDF page 8",
+            "presentation_event": "functions.exec tools.view_image detail=original; /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight/source-visual-v9/pages/b5f4e415ff277022-8.png"
+          }
+        ],
+        "read_method": "tools.view_image opened at original resolution; full image actually inspected",
+        "source_ids": [
+          "RECODE25-04919"
+        ],
+        "not_truncated": true
+      },
+      "independent_image_tool_presentation_verified": false,
+      "numeric_page_declaration_matched": true,
+      "nonnumeric_page_locator_independently_matched": null,
+      "limitation": "CLI JSON event stream omits image tool events; image/page reading is actor-declared and raw source bound, not independently observed."
+    }
+  ],
+  "binary_image_tool_events_independently_observed": false,
+  "postrun_technical_evidence": {
+    "amendment": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/amendment.json",
+      "bytes": 4854,
+      "sha256": "8a6ac4e88dda10278547442f7ba8d35e7c29333a3049f19f65e46a0511ab8f28"
+    },
+    "independent_audit": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/independent-audit.json",
+      "bytes": 9222,
+      "sha256": "78e672a01104fca1db83178b9842b5ae0db65b056796e0906eaa4edb3a370ae7"
+    },
+    "pre_execution_seal": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/pre-execution-seal.json",
+      "bytes": 2519,
+      "sha256": "e67e5574cc282bb17076cd6da119aa170f1c0b54af91b87fc1613379b67f3bce"
+    },
+    "immutable_coding_progress_snapshot": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/controller-status-at-technical-audit-freeze.json",
+      "bytes": 12867,
+      "sha256": "af57afbdc42d29580a3fdbf8b0c117141c5f432d7756fcbad93d5fa8d444a976"
+    },
+    "diagnosis": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/technical-format-failure-diagnosis.json",
+      "bytes": 61701,
+      "sha256": "128241adb5fcb7cdcf2f5be5fae08d796f64b6867100ffa1fa3ebdcb9d7fcede"
+    },
+    "additional_postfreeze_diagnosis": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/technical-format-failure-diagnosis-round2.json",
+      "bytes": 57963,
+      "sha256": "88c7f174b1910376e2364b5734150aecbfb0fcc2432475bffd538f517749b2ae"
+    },
+    "authoritative_index": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-03/authoritative-selections.json",
+      "bytes": 304230,
+      "sha256": "3aafbd15b2d5fdd9f1de038c5afd9c022160c1c211f4576b549f16a66651afc2"
+    },
+    "prior_capacity_authoritative_index": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/authoritative-selections.json",
+      "bytes": 77369,
+      "sha256": "cfd8b2fffc61ec049cf5c0d2529a163f6d00bf359864fac9e7b83fbf80bae6bb"
+    },
+    "models_called": 0,
+    "additional_sampling": false,
+    "labels_or_reference_scores_used": false
+  },
+  "capacity_scheduling_evidence": {
+    "capacity_amendment": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/amendment.json",
+      "bytes": 6887,
+      "sha256": "910d736932e5a6004e2d328f898e46d3410bffc05ff4e765c19cbfb2ae930a25"
+    },
+    "user_authorization": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/user-authorization.json",
+      "bytes": 929,
+      "sha256": "b740f79db82e446c8de4384a74d9b3c5c95cb4fa0fe38274cc83067eed9cb7d7"
+    },
+    "independent_audit": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/independent-audit.json",
+      "bytes": 68499,
+      "sha256": "bac46de34d6d671b3c6dcb3a429aa2dd9ceb8a8868ca87e8a58565ccbe09526d"
+    },
+    "controller_profile": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-profile.json",
+      "bytes": 2036,
+      "sha256": "4347e37f904a17fc572749e93e01e474d1a85de7187569834899ff6ac316ca9c"
+    },
+    "pre_resume_seal": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/pre-resume-seal.json",
+      "bytes": 2771,
+      "sha256": "d8757281b5bc709e24c40db5de880166878de9d1b9598e369948ec0a7d4f0f97"
+    },
+    "predecessor_drained_terminal_progress": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/progress.json",
+      "bytes": 8657,
+      "sha256": "6241844d738a4cc465913cac484cbd5e6b5dd24a6f6dbbfefef4e0f17e3a7fc6"
+    },
+    "predecessor_drained_authoritative_index": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-01/authoritative-selections.json",
+      "bytes": 25844,
+      "sha256": "597aa73d573e4ca449c0460464e5cbee9e948630169114d2b4630f7613f52a90"
+    },
+    "takeover_inventory": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/takeover-inventory.json",
+      "bytes": 28980,
+      "sha256": "ea6c79be89e70192614546b98e6cb7d4444572e62e8edd6d43b766437af46f2c"
+    },
+    "controller_segments_index": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-segments.json",
+      "bytes": 2236,
+      "sha256": "34d456f93131f6312a44dccfe6bfb542685b5b6b5b20a2368bb3eb8b4cfa434a"
+    },
+    "phase_boundary_capacity_effective_artifact": {
+      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/capacity-effective-20261019T161257Z-4a37bb4f.json",
+      "bytes": 2225,
+      "sha256": "348ae340f574871c9ea300c210ee8ea075be6857962f73f86d8e55db4891895f"
+    },
+    "immutable_segment_evidence": [
+      {
+        "segment_id": "20261019T161257Z-4a37bb4f",
+        "actual_max_concurrent": 6,
+        "start": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-segment-20261019T161257Z-4a37bb4f-start.json",
+          "bytes": 2662,
+          "sha256": "81f5b47c70508e26d7295866a0d90aff1abfbfa26f2f6629325eeb0fe2a9b315"
+        },
+        "terminal": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-segment-20261019T161257Z-4a37bb4f-terminal.json",
+          "bytes": 10977,
+          "sha256": "064d7a552835e9831d57050a6bac764cbe4c90be88eab8f98e7ba09fd677b793"
+        },
+        "controller_events": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/controller-events-20261019T161257Z-4a37bb4f.jsonl",
+          "bytes": 149903,
+          "sha256": "ab456212ab6cbc7f8e671545fd3f7827338c81dc5313f45a278a770f24259943"
+        },
+        "capacity_effective_artifact": {
+          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/technical-amendment-02/capacity-effective-20261019T161257Z-4a37bb4f.json",
+          "bytes": 2225,
+          "sha256": "348ae340f574871c9ea300c210ee8ea075be6857962f73f86d8e55db4891895f"
+        },
+        "terminal_mutable_progress_index_hashes_are_historical_only": true
+      }
+    ],
+    "concurrency_policy": {
+      "policy": "Before the user-authorized effective boundary <=3; afterwards <=6; each drained segment also obeys its explicit actual cap.",
+      "concurrency_effective_at_utc": "2026-10-19T16:12:58.156832+00:00",
+      "before_limit": 3,
+      "after_authorized_limit": 6,
+      "observed_peak_before_boundary": 3,
+      "observed_peak_after_boundary": 6,
+      "observed_peak_overall": 6,
+      "segment_peaks": [
+        {
+          "segment_id": "20261019T161257Z-4a37bb4f",
+          "actual_max_concurrent": 6,
+          "observed_peak_conservative_cli_envelopes": 6,
+          "effective_at_utc": "2026-10-19T16:12:58.156832+00:00"
+        }
+      ],
+      "overlap_measure": "ROOT dispatch-start receipt to actual process-completion receipt, a conservative execution envelope.",
+      "actual_concurrency_same_as_original_full_run_claimed": false
+    },
+    "actual_concurrency_same_as_original_full_run_claimed": false
+  },
+  "actual_concurrency_same_as_original_full_run_claimed": false,
+  "actual_service_model_snapshot_independently_verified": false,
+  "provider_wire_capture_claimed": false
+}
