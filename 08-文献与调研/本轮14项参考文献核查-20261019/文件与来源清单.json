@@ -10,6 +10,11 @@
         "path": "08-吕倩鹏等-创新药物研发政策量化研究/原件.pdf",
         "bytes": 1331478,
         "sha256": "0da1339bff86a6df0b4874136fdc53b0be1cc3c02662ac166b8dbaebd0f5fc76"
+      },
+      {
+        "path": "08-吕倩鹏等-创新药物研发政策量化研究/原件文字提取.txt",
+        "bytes": 61397,
+        "sha256": "bf5d66620b23846cb2af5942ba5c913f3129d834f241d29669161cfafb91ab86"
       }
     ]
   },
@@ -24,6 +29,11 @@
         "path": "09-Casilli2023-Added-Therapeutic-Value/原件.pdf",
         "bytes": 587791,
         "sha256": "5ea477e23c4619ec5d4a4f98bb6d65387f614ffbd2101e51228c68311376e089"
+      },
+      {
+        "path": "09-Casilli2023-Added-Therapeutic-Value/原件文字提取.txt",
+        "bytes": 51063,
+        "sha256": "1d458bfe1b8f449bba835645f4be355a5155d49b3b2407c9c4bf16166e24f9a7"
       }
     ]
   },
@@ -38,6 +48,11 @@
         "path": "14-He2022-Active-Stewardship/原件.pdf",
         "bytes": 2163336,
         "sha256": "261df0f6409255b570618c013a969efc86c6144a6bab97f2f51b1fb49bab83eb"
+      },
+      {
+        "path": "14-He2022-Active-Stewardship/原件文字提取.txt",
+        "bytes": 70777,
+        "sha256": "7904feb653b9f27e876dcaf22b0ee10f05f5e9aa77a7486c2eb7109b48a6a325"
       }
     ]
   },
@@ -52,6 +67,11 @@
         "path": "15-Guo2023-HTA-China/原件.pdf",
         "bytes": 899702,
         "sha256": "94134dd2f60f382d5dc463c8362d4329cbf308c127f0ba2ee1490b49a475ba4f"
+      },
+      {
+        "path": "15-Guo2023-HTA-China/原件文字提取.txt",
+        "bytes": 60235,
+        "sha256": "76bf31c654311d007fb6aca54c9bb9b4fe80d389c3714c7c16e1374f70ab3cbe"
       }
     ]
   },
@@ -66,6 +86,16 @@
         "path": "18-陈星平等-科技人才注意力测量/原件.pdf",
         "bytes": 1088498,
         "sha256": "86c28eda299f7b64286fbf65f3eb54a8749b1c5329fc29a0ea7437c1d20543a6"
+      },
+      {
+        "path": "18-陈星平等-科技人才注意力测量/原件文字提取.txt",
+        "bytes": 73645,
+        "sha256": "9abbd9c14e21816e643f7bef8a1d3e4dfc4f750952add83fde79a86b770123ed"
+      },
+      {
+        "path": "18-陈星平等-科技人才注意力测量/首页-作者与DOI.png",
+        "bytes": 528797,
+        "sha256": "af7f90739ed81b644b0b82bfc7a14aec90a0d627e6cf030939e9f96f0928402d"
       }
     ]
   },
@@ -80,6 +110,11 @@
         "path": "19-练宏2015-注意力分配/原件.pdf",
         "bytes": 2046333,
         "sha256": "7c7d39481831cfc3855c50b4935afc44bc13482d628bb072bf2e5a162498c28b"
+      },
+      {
+        "path": "19-练宏2015-注意力分配/原件文字提取.txt",
+        "bytes": 957006,
+        "sha256": "f1ca4b80e6c0c4db4025fe29185febf8e9c5e89592c33156c94c89d729d8c612"
       }
     ]
   },
@@ -99,6 +134,11 @@
         "path": "20-Thornton-Ocasio2008-Institutional-Logics/SAGE登记元数据-Crossref.json",
         "bytes": 1744,
         "sha256": "18d75429109540dcbea0b3cb577804f144465a62ad7d9484bccf2dc1c4d858ee"
+      },
+      {
+        "path": "20-Thornton-Ocasio2008-Institutional-Logics/原件文字提取.txt",
+        "bytes": 165039,
+        "sha256": "9f00b0a2067958ef4a894f98d945f1599cc2894b881094c1310f3663412da8f0"
       }
     ]
   },
@@ -113,6 +153,11 @@
         "path": "31-Halterman-Keith2026-Codebook-LLMs/原件.pdf",
         "bytes": 1187067,
         "sha256": "74b889a8f9d2320e46297d4136b7cc0d027b71a1171b645911189825b0c9deed"
+      },
+      {
+        "path": "31-Halterman-Keith2026-Codebook-LLMs/原件文字提取.txt",
+        "bytes": 244525,
+        "sha256": "53c0a20b812ed869c262db08e015e52705ccba68e9e55ea69e1b23be624478f5"
       }
     ]
   },
@@ -127,6 +172,11 @@
         "path": "32-Grimmer-Stewart2013-Text-as-Data/原件.pdf",
         "bytes": 972383,
         "sha256": "329b88773b6d4c1c82bba37f7f83b995add6f2e188f380eb332081da53ddd390"
+      },
+      {
+        "path": "32-Grimmer-Stewart2013-Text-as-Data/原件文字提取.txt",
+        "bytes": 139564,
+        "sha256": "d1819917aba06e2559cff908d868bdd92a8e2aa644057ed2b749e50b6fc24f3e"
       }
     ]
   },
@@ -146,6 +196,11 @@
         "path": "36-真实世界证据指导原则-2020/官方发布页面.html",
         "bytes": 18859,
         "sha256": "9f87f85c688a4a5dc8a03f74306718304867700b60c0c466e94f21eb1d11dfb8"
+      },
+      {
+        "path": "36-真实世界证据指导原则-2020/原件文字提取.txt",
+        "bytes": 53282,
+        "sha256": "fbaa25e2fa22e5b16981246297e2beea7f3cfbc8970e221c6f3c249002a1233b"
       }
     ]
   },
@@ -165,6 +220,11 @@
         "path": "37-药物临床试验质量管理规范-2026/官方发布页面.html",
         "bytes": 15089,
         "sha256": "407c6846c045e31ba4d4ef6b7e55b706fee3da8d5d1aaddaeec032e04ad977f6"
+      },
+      {
+        "path": "37-药物临床试验质量管理规范-2026/原件文字提取.txt",
+        "bytes": 39189,
+        "sha256": "94f3f3e87d9dba19951c6188bb112fc0a6ba86e1cd58f6ff5e6a7b0681554d50"
       }
     ]
   },
@@ -179,6 +239,11 @@
         "path": "38-谈判药品续约规则-2026/原件.pdf",
         "bytes": 155649,
         "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603"
+      },
+      {
+        "path": "38-谈判药品续约规则-2026/原件文字提取.txt",
+        "bytes": 13768,
+        "sha256": "cc675b40cd910cbff3445f1ed2739cafd1ae2e76228886a38ed33c62d585c3e9"
       }
     ]
   },
@@ -193,6 +258,11 @@
         "path": "39-目录调整常用问答-2025/原件.pdf",
         "bytes": 5245913,
         "sha256": "7f5b1829d0030b3402f85d288edf764bc3195bb99ca1c419dd8605342eb70d68"
+      },
+      {
+        "path": "39-目录调整常用问答-2025/原件文字提取.txt",
+        "bytes": 33102,
+        "sha256": "dfa222b6227143449690c5c0f24acf0c22d457a70529d25de1270b811690fcde"
       }
     ]
   },

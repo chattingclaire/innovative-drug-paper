@@ -1,0 +1,736 @@
+原件文字提取（仅供检索）
+
+来源：同目录的原件.pdf。自动提取可能存在字符间距、断行、表格错位；准确内容以原件为准。本文件不是新的人工转写或修订版本。
+
+===== PDF文件第1页（不是印刷页码） =====
+
+      Health Systems & Reform
+
+
+
+
+      ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/khsr20
+
+
+
+
+Health Technology Assessment in China’s Health
+Care Sector: Development and Applications
+
+Wudong Guo, Peimeng Wang, Yuzheng Zhang, Xue Li, Yaoling Wang, Kun
+Zhao, Francis Ruiz, Rui Li, Feiyi Xiao, Xuefei Gu, Mao You & Qiang Fu
+
+To cite this article: Wudong Guo, Peimeng Wang, Yuzheng Zhang, Xue Li, Yaoling Wang, Kun
+Zhao, Francis Ruiz, Rui Li, Feiyi Xiao, Xuefei Gu, Mao You & Qiang Fu (2023) Health Technology
+Assessment in China’s Health Care Sector: Development and Applications, Health Systems &
+Reform, 9:3, 2327099, DOI: 10.1080/23288604.2024.2327099
+
+To link to this article: https://doi.org/10.1080/23288604.2024.2327099
+
+
+
+
+       © 2024 The Author(s). Published with
+       license by Taylor & Francis Group, LLC.
+
+
+       View supplementary material
+
+
+
+       Published online: 08 May 2024.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 837
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+       Citing articles: 1 View citing articles
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=khsr20
+
+
+===== PDF文件第2页（不是印刷页码） =====
+
+HEALTH SYSTEMS & REFORM
+2023, VOL. 9, NO. 3, 2327099
+https://doi.org/10.1080/23288604.2024.2327099
+
+
+RESEARCH ARTICLE
+
+Health Technology Assessment in China’s Health Care Sector: Development and
+Applications
+Wudong Guoa, Peimeng Wanga, Yuzheng Zhanga, Xue Lia, Yaoling Wanga, Kun Zhaoa, Francis Ruizb, Rui Lia,
+Feiyi Xiaoa, Xuefei Gua, Mao Youa, and Qiang Fua
+a
+Department of Health Technology Assessment, China National Health Development Research Center, Beijing, China; bDepartment of Global
+Health & Development, Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine, London, UK
+
+
+    ABSTRACT                                                                                                                                       ARTICLE HISTORY
+    China’s health system is facing severe challenges from social transition and the double burden of                                              Received 17 July 2023
+    population aging and non-communicable diseases. Addressing the tension between the public’s                                                    Revised 11 February 2024
+    increasing demand for health services and the limited availability of medical resources has become                                             Accepted 2 March 2024
+    a critical issue for health care policymakers and medical insurance fund administrators. In promot­                                            KEYWORDS
+    ing its medical insurance system reform, China is actively developing health technology assess­                                                China health technology
+    ment (HTA) with principles and applications adapted to the Chinese context. This study aims to                                                 assessment; health care
+    analyze the evolution of HTA in China with a focus on context, actors, process, content, and                                                   policy making; medical
+    challenges encountered through applying a modified verson of Walt and Gilson’s policy triangle                                                 insurance; National
+    framework. Currently, HTA plays an indispensable part in the reform of China’s health care and                                                 Reimbursement Drug List
+    medical insurance system, especially in the formulation and adjustment of the National
+    Reimbursement Drug List (NRDL). While HTA is increasingly used in China, there remain challenges,
+    such as the slow development of HTA related disciplines, lack of an independent national HTA
+    authority, and limited scope in the use of HTA. Despite the identified challenges, HTA has the
+    potential to support a wide range of applications in China’s health care sector, building on the
+    progress achieved over the last three decades.
+
+
+
+Introduction                                                                                    In accordance with international experiences,
+                                                                                             health technology assessment (HTA) represents
+China is undergoing significant economic and social tran­                                    a valuable tool to support effective priority-setting
+sition, with its health system facing critical challenges such                               and value-based decision-making, including value-
+as an aging population and an increase in non-                                               based purchasing strategies. The International
+communicable diseases.1,2 The prominent feature of                                           Network of Agencies for Health Technology
+China’s state-sponsored medical insurance system is its                                      Assessment (INAHTA) has defined HTA as
+commitment to “broad coverage and basic protection,”                                         a multidisciplinary assessment process designed to
+aiming to cover over 95% of citizens and fulfill their funda­                                assess the value of health technologies at various
+mental health care needs.3,4 Currently, China’s basic health                                 stages of their lifecycle. This process aims to guide
+care insurance framework is divided into two main com­                                       decision-making and promote health systems that are
+ponents: Urban Employees Basic Medical Insurance                                             equitable, efficient, and high-quality.7 HTA was intro­
+(UEBMI) and Urban and Rural Residents Basic Medical                                          duced in China in the early 1990s and steadily became
+Insurance (URRBMI).5,6 Addressing the tension between                                        an important decision-making tool in the health care
+the public’s increasing health care demands and the limited                                  sector.8 The present study aims to examine the devel­
+medical resources available has become a critical concern                                    opment and current applications of HTA in China
+for health care insurance policymakers in China.                                             with a focus on context, actors, processes, and con­
+Implementing value-based purchasing of medical services                                      tent. It also aims to outline the current HTA applica­
+is one important aspect to ensure appropriate and equitable                                  tion challenges in China and propose strategic
+use of medical insurance funds, improving insurance cov­                                     recommendations. This study also seeks to draw
+erage for the broader Chinese population, and solidifying                                    insights to support the further reform of China’s
+the state’s negotiating capacity as a strategic purchaser.                                   health care insurance system.
+
+CONTACT Wudong Guo          guowudong@hotmail.com; Qiang Fu            fuqiang@nhei.cn      Director-General of China National Health Development Research
+Center, NO.9, Chegongzhuang Street, Xicheng District, Beijing 100044, China
+   Supplemental material for this article can be accessed online at https://doi.org/10.1080/23288604.2024.2327099.
+© 2024 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted
+Manuscript in a repository by the author(s) or with their consent.
+
+
+===== PDF文件第3页（不是印刷页码） =====
+
+2      W. GUO ET AL.
+
+
+Methods                                                                         In addition, wide searches on Baidu, a dominant search
+                                                                                engine in China, were conducted to identify relevant
+Using a modified version of Walt and Gilson’s policy
+                                                                                gray literature.
+triangle framework, this study aims to provide
+a comprehensive qualitative analysis of the evolution
+of HTA in China. The policy triangle framework is                               Eligibility Criteria
+a tool for analyzing policies originating from health
+care departments.9 In contrast to earlier policy analysis                       Policy documents or gray literature were included that
+frameworks that predominantly concentrated on the                               met the following three inclusion criteria: (1) the policy
+examination of policy content, Walt and Gilson’s policy                         documents or gray literature were published from
+triangle framework encompasses an analysis of policy                            January 2016 to July 2023, reflecting the period when
+content in conjunction with the roles of actors, the                            HTA activities became more integrated with policy-
+contextual background, and processes used, providing                            making units, with the government clearly indicating
+a holistic perspective for policy analysis.10                                   an objective of building an HTA system to promote
+   The exploration of HTA’s development in China                                dissemination and policy transformation in this
+encompasses various dimensions: context, actors, pro­                           space11; (2) the issuing institution or author was either
+cess, content, and challenges encountered. A core focus                         a national-level government department or an indepen­
+is the application of HTA in the adjustment of the                              dent third-party consulting agency, as the document
+National Reimbursement Drug List (NRDL), leveraging                             review of the study predominantly concentrates on poli­
+HTA evidence to inform decisions on the inclusion or                            cies and regulations; and (3) the body of the policy
+exclusion of drugs in the coverage provided by China’s                          documents or literature covered any information on
+basic health insurance.                                                         context, actors, processes, or content of HTA in China,
+                                                                                as the study aimed to use a modified version of Walt and
+                                                                                Gilson’s policy triangle framework. Overall, eight iden­
+Documents Sources and Search Strategy                                           tified documents met the predefined inclusion criteria.
+                                                                                The list of these materials is presented in Supplementary
+Officially released policy documents and related gray
+                                                                                File 1.
+literature were used as key data sources. The informa­
+tion was obtained through a manual online search of
+government web portals including Chinese official web­
+                                                                                Results
+site of the State Council, the National Health
+Commission, and the National Healthcare Security                                The health policy triangle framework was used to ana­
+Administration. The search terms include health tech­                           lyze the content of the selected policy documents and
+nology assessment, health system reform, National                               other items of gray literature. Key findings are summar­
+Reimbursement Drug List, and combinations thereof.                              ized in Figure 1. The results are discussed within four
+
+
+
+                                                                       Context
+                                                     Growing emphasis on evidence-based decision
+                                                     making
+                                                     Establishment of HTA-related research institutes
+                                                     Establishment of the NHSA
+                                                     Evidence needs for NRDL adjustment
+
+
+
+
+                                                                        Actors
+                            Process                                   Policy makers                                Content
+                 Reviewing dossiers and evaluating                      Industry
+                                                                   Research institutions                NRDL adjustment
+                 value for NRDL adjustment by
+                                                                                                        Access to drugs for rare diseases
+                 experts
+
+
+Figure 1. Policy triangle framework of HTA development and application in China. Figure prepared by authors. HTA, Health
+Technology Assessment. NHSA, National Healthcare Security Administration. NRDL, National Reimbursement Drug List.
+
+
+===== PDF文件第4页（不是印刷页码） =====
+
+                                                                                                   HEALTH SYSTEMS & REFORM    3
+
+
+
+
+               HTA-related                               The NHSA was                                    The NHSA has
+              theoretical and                            established, and                                carried out the
+              applied research                          organized special                                adjustment of
+              was carried out                            negotiation for                                 the the NRDL
+              at the academic                           anti-cancer drugs                                 for six years
+                   level           Beginning of              access
+                                      the 21st
+                                      century                                        2020
+
+                  1990s                                       2018                                            2023
+                                                                                   The NHSA
+                                   HTA-related
+                                                                                  proposed to
+                                     research
+                                                                                  improve the
+                                    institutions
+                                                                                 dynamic annual
+                                   were set up in
+                                                                                   adjustment
+                                   some regions
+                                                                                mechanism of the
+                                  and universities
+                                                                                     NRDL
+
+
+Figure 2. Milestones in HTA development in China. Figure prepared by authors. HTA, Health Technology Assessment. NHSA, National
+Healthcare Security Administration. NRDL, National Reimbursement Drug List.
+
+
+
+main areas: the context of HTA development in China;               a national think tank providing technical advice on
+the actors involved in policy design and implementa­               HTA to policymakers.12
+tion; the process of value-based drug evaluation; and the             HTA has become an integral part of the reform of
+content of the HTA application.                                    China’s medical and health system, particularly in
+                                                                   updating the NRDL. The NRDL includes drugs eligible
+                                                                   for reimbursement through China’s basic health care
+Context
+                                                                   insurance schemes.13 Since 2018, the National
+During the 1990s, theoretical and applied HTA research             Healthcare Security Administration (NHSA) was
+was conducted in academic settings in China. This work             established under the State Council of China and con­
+laid the foundations for developing an institutional               ducted annual negotiations with pharmaceutical com­
+HTA framework to inform decision-making, including                 panies to support adjustments to the NRDL.
+by policy makers. Since the beginning of the 21st cen­             Simultaneously, the regulatory framework for updat­
+tury, fueled by a growing appreciation of the role of              ing the NRDL evolved. In July 2020, the NHSA pro­
+evidence-based decision-making, several regions and                posed improvements to the dynamic adjustment
+universities established research institutions focusing            mechanism of the NRDL and the approach to drug
+on HTA. Over time, HTA-related research transitioned               access negotiations with the drug manufacturers.14 As
+from purely academic settings to applied work addres­              a result, this mechanism currently involves an annual
+sing specific policy questions. An early example of an             update of the NRDL based on the NHSA’s evaluation
+HTA research institution was the Research Center for               of a drug’s value. The drug access negotiation system
+Medical Technology Assessment at Shanghai Medical                  involves NHSA organizing on-site discussions with
+University in 1994, which subsequently became the                  drug manufacturers to determine the listing price
+“National Key Laboratory of HTA” at Fudan                          within the basic medical insurance system. Figure 2
+University in 2004. Another key milestone was the                  summarizes the major milestones of HTA develop­
+establishment of the HTA Division at the China                     ment in China, especially its role in supporting
+National Health Development Research Center                        NRDL decision-making.
+(CNHDRC) in 2007, affiliated with the National
+Health Commission of China (NHC), akin to
+                                                                   Actors
+a Ministry of Health in other countries. In 2018, the
+CNHDRC was selected to host the National Center for                In 2018, the NHSA was established, integrating
+Medicine and Health Technology Assessment, acting as               responsibilities that were previously held in several
+
+
+===== PDF文件第5页（不是印刷页码） =====
+
+4      W. GUO ET AL.
+
+
+different ministries and reporting directly to the                        Process
+State Council (Figure 3). The NHSA is responsible
+                                                                          HTA plays a key supporting role during the negotiation of
+for formulating and overseeing the implementation
+                                                                          drug’s listing price and access arrangements, integral to the
+of laws, regulations, and policies for the Chinese
+                                                                          NRDL’s dynamic annual adjustment.16 By introducing the
+health care insurance system.15 Given the complex
+factors that affected drug prices, public interest in                     concept of HTA and adhering to value-based evaluations,
+health services, and broader societal impacts, HTA-                       drugs with significant value benefits are included in the
+based research played a critical role to support deci­                    NRDL, while those lacking are excluded. The NRDL
+sion-making within the NHSA.                                              adjustment process involves five stages: preparation, appli­
+   Currently, the participants in this HTA process                        cation, expert review, negotiation, and results announce­
+consist of mainly supply-side stakeholders repre­                         ment (Figure 4). At the preparation stage, the NHSA
+sented by pharmaceutical companies, and demand-                           updates the expert database, the annual adjustment prin­
+side stakeholders represented by the NHSA, acting                         ciples, such as declaration conditions, and upgrade of
+as the third-party medical services purchaser.                            information system. During the application stage, manu­
+Although active patient engagement in HTA is con­                         facturers submit brief value dossiers to the NHSA.
+sidered to be best practice for capturing the per­                        Technical HTA methods are then applied during the
+spectives of those directly affected by healthcare                        expert review and negotiation stages to assess the value
+decisions, currently they are less involved in the                        claims and estimate prices.17,18 The annual negotiation
+process compared to pharmaceutical companies                              results are generally announced and implemented at the
+and the NHSA.                                                             beginning of the following year, usually in January.
+
+
+
+
+                                                               State Council
+                                                                    of China
+
+
+
+
+                                                             National Healthcare
+                                                                    Security
+                                                          Administration, NHSA
+
+
+
+
+                               Integrated from four Chinese government institutions' responsibilities in 2018
+
+
+               Ministry of Human              National Health and              National Development       Ministry of Civil
+              Resources and Social                  Family                         and Reform                   Affairs
+                    Security                 Planning Commission                   Commission
+
+
+
+
+                  Basic medical
+             insurance and maternity              New Rural                    Price management of
+                                              Cooperative Medical                                           Medical Aid
+               insurance for urban                                              drugs and medical
+
+              workers and residents                Insurance                         services
+
+
+
+
+Figure 3. Establishment of the National Healthcare Security Administration in 2018. Figure prepared by authors.
+
+
+===== PDF文件第6页（不是印刷页码） =====
+
+                                                                                                                     HEALTH SYSTEMS & REFORM                  5
+
+
+
+                Improving experts database;      2022.5-6
+                                                                   Preparation stage
+                  Determining adjustment
+                                                                                                                 Receiving the brief value dossiers
+              principles, scope and procedures
+                                                                                                 2022.7-8
+                                                                                                                    submitted by the applicants
+                                                                   Application stage
+
+
+                   Undertaking an initial
+                                                 2022.9-10
+              comprehensive value evaluation                       Expert review stage
+
+                 based on the brief dossier                                                                       Receiving pharmacoeconomic
+
+                                                                                                                  documents from the applicants;
+                                                                                              2022.10-2023.1
+                                                                     Negotiation stage                           Estimating the reimbursed price;
+
+                 Announcing final results;                                                                        Conducting on-site negotiations
+
+                 Releasing new version of                                                                             and signing agreements
+                                                   2023.1         Result announcement
+                           NRDL
+                                                                          stage
+
+
+
+                                                                   Organized by NHSA
+
+
+Figure 4. Process of adjusting the NRDL in 2022. Figure prepared by authors. NRDL, National Reimbursement Drug List. NHSA, National
+Healthcare Security Administration.
+
+
+Content                                                                           involves defining drug use indications, available com­
+                                                                                  parators, and the restrictions of the medical insurance
+Application of HTA in the adjustment of the NRDL
+                                                                                  payment, all of which will be used to inform the nego­
+During the adjustment of the NRDL, HTA-informed
+                                                                                  tiation stage.
+methods are prominently used during the expert review
+and negotiation stages.
+                                                                                  Negotiation Stage. The negotiation stage includes three
+                                                                                  sub-phases. Initially, manufacturers who passed the pre­
+Expert Review Stage. During this stage, experts from
+various fields, including clinical medicine, pharmacy,                            ceding expert review stage submit detailed dossiers,
+pharmacoeconomics, medical insurance management,                                  including cost-effectiveness and budget impact analyses.
+and work-related injury, are convened by the NHSA to                              The expert group then estimates an appropriate listing
+conduct a comprehensive value evaluation based on                                 price for each drug, considering cost-effectiveness and
+brief dossiers submitted by manufacturers. The evalua­                            affordability from the healthcare insurance fund’s
+tion covers five dimensions: safety, efficacy, economy,                           perspective.20 This estimation process involves the
+innovation, and equity (Table 1). The expert team scores                          implementation of what has been described as
+each drug against these dimensions and considers the                              a “double back-to-back” mechanism, where parallel esti­
+views from drug manufacturer representatives. The                                 mations by pharmacoeconomics and medical insurance
+expert team then develops preliminary recommenda­                                 fund expert sub-groups occur. In addition, two experts
+tions on whether the medicine can be included directly                            from the pharmacoeconomics sub-group independently
+into the NRDL without conditions, conditionally                                   estimate prices to minimize bias and enhance the pro­
+included following a negotiation with the manufacturer,                           cess’s credibility and fairness. Table 2 summarizes the
+or else rejected directly.12 The expert review stage also                         principles followed by the NHSA in this price
+
+Table 1. Five dimensions of comprehensive value evaluation of expert review stage.
+ Dimensions                                                                          Description
+ Safety            A review of safety information from pre-market randomized controlled trials (RCTs) and adverse event reports sourced from realworld data
+ Efficacy          A comparison of clinical effectiveness of the applicant drug with that of its comparator
+ Economy           There is a need for a cost-effectiveness analysis, including identifying the most likely expected incremental cost-effectiveness ratio.
+                      Alongside this, a budget impact analysis model should be developed to predict the financial impact on health care insurance funds
+ Innovation        This is based on whether the technology can improve adherence or enhance clinical applicability
+ Equity            An assessment of whether the cost of the drug is considered affordable from the perspective of the Chinese medical insurance system, and
+                      whether it can effectively address any gaps in the current provision of medicines
+Referred from.19
+
+
+===== PDF文件第7页（不是印刷页码） =====
+
+6           W. GUO ET AL.
+
+
+Table 2. Principles followed in the price calculation process of negotiation stage.
+    Principles                                                                                   Description
+    Enhancing the quality of evidence The evidence for the reviewed drugs follows the principles of the Evidence Pyramid, which supports an assessment of
+                                         reliability.21 In addition, priority is given to evidence-based studies involving Chinese populations.
+    Emphasizing authoritative clinical The availability of authoritative guidelines (domestic or foreign) that can help contextualize the appropriate use of the
+       guidelines                        medicines.
+    Uniform parameter selection        Key parameters that influence the establishment of negotiated prices, such as the incremental cost-effectiveness ratio
+                                         (ICER) threshold, have been standardized to mitigate the potential for expert subjective bias.
+Adapted from.22
+
+
+
+calculation process. Based on these estimated prices,                               80%, depending on provincial-level decisions.27 Many life-
+representatives of the NHSA lead negotiations with                                  saving drugs for rare diseases were included in the NRDL
+drug manufacturers that lead to the drug’s inclusion in                             list, which dramatically reduced the financial burden on
+the NRDL and determination of its listing price in                                  patients and their families.
+Chinese market.
+    Application of HTA in the evaluation of medicines for
+rare disease drugs and their inclusion of the NRDL                                  Discussion
+    In China, there are at least 16.8 million patients with                         Current HTA research in China primarily supports
+rare diseases. The majority of these diseases are geneti­                           the NRDL decision-making process, with medical
+cally inherited, which can negatively impact quality of                             insurance as a significant driver for HTA’s develop­
+life and lead to substantial economic burden for both                               ment in the country. Although HTA is increasingly
+affected individuals and their communities.23 In                                    applied in China, previous work has highlighted
+May 2018, the NHC issued China’s First List of Rare                                 important challenges, including issues related to low-
+Diseases, including 121 rare diseases, marking the first                            quality reporting and fragmented application of
+time the Chinese government has defined the scope of                                HTA in the Chinese health policy making process.­
+rare diseases.24                                                                    12,28
+                                                                                          There are additional factors that are impacting
+    The conduct of HTA can be challenging with respect                              on its future development as set out below.
+to the evaluation of interventions for rare diseases. The
+relatively limited number of patients affected by such
+conditions poses challenges for undertaking conven­
+                                                                                    Context
+tional clinical trials and accurately evaluating long-
+term efficacy and costs. Nevertheless, there remains                                The Slow Development of HTA-Related Disciplines
+a need to provide comprehensive assessments of treat­                               With the increasing demand for HTA approaches to
+ments for rare diseases that consider broader social                                support decision-making, expertise in China con­
+values and ethics, unmet treatment needs, as well as                                tinues to grow, and context-specific assessment meth­
+standard evaluations of clinical and cost-effectiveness.                            ods and tools are gradually being developed.
+In 2019, the Expert Consensus on Health Technology                                  However, there is a concern about the slow pace of
+Assessment of Rare Disease Drugs (2019), a report                                   capacity building and training for the next generation
+initiated by the China Rare Disease Alliance and jointly                            of HTA practitioners and users.28 At present, only
+formulated by the Peking Union Medical College                                      one university independently grants master’s level
+Hospital and the CNHDRC, was released at the China                                  and doctoral degrees in pharmacoeconomics. Most
+Rare Disease Conference.25,26 The research team forma­                              researchers engaged in HTA research are majoring
+lized definitions of research questions when applying                               in health economics, health management, or pharma­
+HTA approaches for rare disease medicines in the con­                               ceutical management, while HTA may be a minor
+text of safety, efficacy, and cost-effectiveness, in addition                       component of their curricula. As such, the number
+to ethical and social value considerations.                                         of domestic experts in more applied methods, espe­
+    As of 2022, among the 121 rare diseases defined by the                          cially in the field of modeling and econometrics is
+NHC, 103 drugs for 47 rare diseases were approved in                                still relatively small, and urgent attention is needed in
+China, and 73 drugs for 31 rare diseases were evaluated                             support skills development in HTA-related disci­
+and subsequently included in the NRDL. Of the 73 drugs                              plines. There is a need to expand the availability of
+covered by the Chinese national reimbursement program,                              HTA-related courses or programs at universities and
+17 are fully reimbursed, and 56 drugs are partially reim­                           offer continuing education and training to foster
+bursed, with reimbursement rates varying between 70% to                             domestic HTA expertise.
+
+
+===== PDF文件第8页（不是印刷页码） =====
+
+                                                                                       HEALTH SYSTEMS & REFORM       7
+
+
+Actors                                                       different stakeholders should be integrated in the devel­
+                                                             opment of HTA evidence.
+Lack of an Independent National HTA Authority
+There is currently no fully independent HTA institution
+at the national level. Annually, when the NRDL adjust­       Process and Content
+ment work begins, NHSA recalls and selects qualified
+                                                             Limited Scope in the Use of HTA
+experts to conduct the expert review and negotiation
+                                                             Currently, most HTA activities in China are focused
+stage involving the application of HTA ideas and meth­
+                                                             on generating evidence to support pharmaceutical
+ods. This process typically takes place in a centralized,
+                                                             reimbursement decisions. HTA-based evaluations
+closed setting, followed by the dissolution of the expert
+                                                             of non-drug medical technologies, such as assisted
+panel after the evaluation. In other words, the plausible
+                                                             reproductive technology, cervical cancer screening,
+institutionalized mechanism carries the potential risk of
+                                                             gamma knife, robot-assisted surgery, and diagnostic
+expert annual turnover, inconsistency of evaluation
+                                                             imaging modalities, are still at an early stage of
+standards, and unconvincing endorsement. Thus, estab­
+                                                             development. The assessment and appraisal of non-
+lishing an HTA regulatory authority is essential for
+                                                             drug interventions, such as medical devices and
+standardizing its conduct and supporting consistent
+                                                             medical disposables, are a challenge in many
+decision-making. Existing HTA research and policy
+                                                             settings.32 Gathering the necessary local evidence
+platforms are distributed among national and local gov­
+                                                             and developing dedicated skills may require addi­
+ernment bodies and universities, including the
+                                                             tional resources. In the longer term, it is critical to
+CNHDRC,         Fudan      University,     and    Peking
+                                                             expand HTA processes to include the routine assess­
+University.28,29 National authorities should consider
+                                                             ment of non-drug interventions. This expansion is
+establishing a UK National Institute for Health and
+                                                             important for addressing a key gap in evidence-
+Care Excellence-like independent and government-
+                                                             informed decision making, especially with the
+supported third-party assessment agency. Such an entity
+                                                             increasing use of advanced medical technologies.
+could have a pivotal role in setting nationally applicable
+technical standards, ensuring assessment quality, and
+                                                             Reassessment and Updating Prices
+supervising regional HTA agencies.
+                                                             Currently, HTA in China lacks a formal mechanism to
+                                                             support reassessment. Although the price of a drug
+Insufficient Patient Engagement in HTA                       included on the NRDL is renegotiated with the NHSA
+Arguably, a key element of an effective HTA system is        every two years, that renegotiation is mainly based on
+the incorporation of multi-stakeholder participation         the manufacturer sales volume instead of an evaluation
+within the evidence-to-policy decision-making                of the drug’s actual performance based on real-world
+process.30 In the United Kingdom, NICE identifies            evidence. The concept of life-cycle HTA could bring
+patients and their organizations as main stakeholders        insights to the China setting, as this framework builds
+in the HTA process, and their treatment needs as             on standard HTA methods and contains a systematic
+important considerations in the assessment process.31        process from the preassessment to the reassessment
+   In China, patient and consumer organizations are          stage for informing adoption decisions of medical
+notably less involved in the HTA process, limiting the       products.33
+insights and perspectives available to decision makers
+regarding the impact of new technologies on the target       Insufficient Context Relevant HTA Data
+populations. The lack of patient or public involvement       Limited availability of quality data that reflects the
+may also affect the perceived fairness and legitimacy of     Chinese context is a key challenge affecting the conduct
+the HTA process. Currently, despite being the ultimate       of HTA and its future development in the country. This
+user of health care technologies, patients do not directly   issue can be explored further by noting that HTA
+participate in the HTA process in China. Instead, their      usually requires three main types of data:
+interests are often represented by health policy makers
+or health care institutions that act as their agents.          (1) Epidemiologic information. Due to the hetero­
+A broader range of stakeholder groups, especially                  geneity of epidemiologic research in China, there
+patients, should be encouraged to participate in HTA               are inconsistencies in reported evidence on pre­
+processes. Patients and their representatives should               valence and incidence. Consequently, HTA
+additionally be invited to communicate directly with               research in China has often relied on national
+other stakeholders (e.g., health care providers, health            survey data or patient registry data for key epi­
+insurance payers, and manufacturers), and the views of             demiological inputs, but update frequency to
+
+
+===== PDF文件第9页（不是印刷页码） =====
+
+8       W. GUO ET AL.
+
+
+        national survey databases may affect data              decision criteria that align with the goal of “broad cover­
+        availability.                                          age and basic protection.”
+    (2) Effectiveness data on short- and long-term                Another area of ongoing debate relates to valuing
+        health outcomes. On the one hand, there is             health outcomes, specifically, the use of utility values
+        a lack of locally relevant trial-based evidence,       in cost-effectiveness analysis and the role of standard
+        especially from randomized controlled                  generic questionnaires such as EQ-5D and SF-6D.
+        trials.34 On the other hand, there is limited          Sociocultural differences may affect individuals’ inter­
+        patient self-reported health outcomes data             pretation of these tools, even when appropriately trans­
+        including the use of health-related quality of         lated, given that they were designed originally for use in
+        life measurement tools. Clinicians in China            high-income European or North American settings.
+        do not emphasize the importance of collect­            Given these concerns and the potential impact on the
+        ing data on patient-reported health outcomes,          validity of any utility estimates obtained using those
+        and data conversion between disease-specific           tools in a Chinese setting, efforts have been made to
+        scales and general utility scales can be               develop a generic-preference based measures more sui­
+        challenging.35,36                                      table for Chinese populations.41
+    (3) Resource use and cost data. These can be difficult        In brief, it will be important for authorities in China
+        to obtain despite the existence of relatively          to validate existing studies aiming to estimate a locally
+        advanced electronic health records and data sys­       relevant cost-effectiveness threshold so that one can be
+        tems. The difficulty in obtaining cost data is         established that is suitable for China’s health insurance
+        mainly because of data silo problems. There are        reimbursement decisions. In addition, there remains
+        weak linkages between various information sys­         a need for further development of disease-specific
+        tems; for example, if a patient visits multiple        health-related quality of life measurement tools suitable
+        medical service providers during a given period,       for the Chinese population.
+        the doctors and other clinical providers may not
+        be able to access information from different med­
+        ical institutions.37
+                                                               Conclusion
+                                                               Following three decades of development and success in
+To address these informational gaps, efforts should be         implementation, particularly for drug reimbursement
+expedited to establish a comprehensive medical data            decisions, HTA in China holds the potential to support
+platform in China with standardized patient data.              broader applications in the health care sector. Further
+Additionally, it is crucial to improve national-level          progress is needed in developing the institutional con­
+patient registry databases and link them with medical          text of HTA, including improving procedural aspects
+claims data and electronic health records.                     such as better stakeholder engagement and ongoing
+                                                               strengthening of methods and capacity.
+Lack of Technical Standards for Conducting HTA
+Typically, judgments of cost-effectiveness can be made
+with reference to a willingness to pay threshold that          Disclosure Statement
+aims to quantify the maximum amount of money that              No potential conflict of interest was reported by the author(s).
+an individual or society is willing to pay for a specific
+health care intervention or technology to achieve
+a certain health outcome.38 There is currently no uni­         Funding
+formly applied cost-effectiveness threshold in China to        The contribution of Francis Ruiz is supported by the
+support decision making on relative value and the              International Decision Support Initiative, which is funded by
+opportunity costs of adoption. Studies, however, have          the Bill and Melinda Gates Foundation (OPP1202541) and the
+estimated a threshold equivalent to 0.44–1.5 times GDP         funders had no role in study design, data collection and
+                                                               analysis, decision to publish, or preparation of the manu­
+per capita for the Chinese setting.39,40 Thresholds can be
+                                                               script. The guest editors of this special issue reported funding
+established in various ways, although it is usually critical   from the Bill and Melinda Gates Foundation (OPP1202541).
+that a threshold appropriately reflects the opportunity
+costs of new health investments. Some countries, such as
+the UK, have well-established thresholds that are used as      References
+part of HTA and guideline development. There is an                1. Han Y, He Y, Lyu J, Yu C, Bian M, Lee L. Aging in
+urgent need to establish a threshold that is relevant for            China: perspectives on public health. Glob Health J.
+the medical insurance systems in China, with linked                  2020;4(1):11–17. doi:10.1016/j.glohj.2020.01.002.
+
+
+===== PDF文件第10页（不是印刷页码） =====
+
+                                                                                           HEALTH SYSTEMS & REFORM           9
+
+
+ 2. Sun L, Zhou Y, Zhang M, Li C, Qu M, Cai Q, Meng J,            and efficiency. Health Policy OPEN. 2020;1:100021.
+    Fan H, Zhao Y, Hu D. Association of major chronic             doi:10.1016/j.hpopen.2020.100021.
+    noncommunicable diseases and life expectancy in           16. Mao W, Jiang H, Mossialos E, Chen W. Improving
+    China, 2019. Healthcare (Basel). 2022;10(2):296.              access to medicines: lessons from 10 years of drug
+    doi:10.3390/healthcare10020296.                               reforms in China, 2009–2020. BMJ Glob Health.
+ 3. Chinese National Healthcare Security Administration.          2022;7(11):e009916. doi:10.1136/bmjgh-2022-009916.
+    2021 National Healthcare Security development statis­     17. Si L, Xu L, Chen M, Jan S. Using strategic price negotia­
+    tical bulletin. National Healthcare Security                  tions to contain costs and expand access to medicines in
+    Administration; 2022 Jun 8. http://www.nhsa.gov.              China. BMJ Glob Health. 2020;5(1):e002256. doi:10.
+    cn:8000/art/2022/6/8/art_7_8276.html .                        1136/bmjgh-2019-002256.
+ 4. Yip W, Fu H, Chen AT, Zhai T, Jian W, Xu R, Pan J,        18. Guo W, Wu J, Xie X, Liu M, Yuan N, Lv L, Wang H.
+    Hu M, Zhou Z, Chen Q. et al. Years of health-care             Discussion of applying health technology assessment in
+    reform in China: progress and gaps in universal health        healthcare security decision-making in China. China Med
+    coverage.     Lancet     (London,     Engl).    2019;10       Secur. n.d. doi:10.19546/j.issn.1674-3830.2022.4.002.
+    (10204):1192–204. doi:10.1016/S0140-6736(19)32136-1.      19. Chen W, Zhang L, Hu M, Hu S. Use of health technol­
+ 5. Li Q, Zhang L, Jian W. The impact of integrated urban         ogy assessment in drug reimbursement decisions in
+    and rural resident basic medical insurance on health          China. BMJ (Clin Res Ed). 2023;381:e068915. doi:10.
+    service equity: evidence from China. Front Public             1136/bmj-2021-068915.
+    Health. 2023;11:1106166. doi:10.3389/fpubh.2023.          20. Mingge X, Jingyu W, Qi L, Zhe Z, Qing R. Promoting
+    1106166.                                                      access to innovative anticancer medicines: a review of
+ 6. Li L, Fu H. China’s health care system reform: progress       drug price and national reimbursement negotiation in
+    and prospects. Int J Health Plann Manage. 2017;32             China. Inquiry. 2023;60:469580231170729. doi:10.
+    (3):240–53. doi:10.1002/hpm.2424.                             1177/00469580231170729.
+ 7. INAHTA. The international network of agencies for         21. Murad MH, Asi N, Alsawas M, Alahdab F. New evi­
+    health technology assessment. INAHTA; 2023 May 17.            dence pyramid. Evidence-Based Med (English Ed).
+    https://www.inahta.org/.                                      2016;21(4):125–27. doi:10.1136/ebmed-2016-110401.
+ 8. Wang H, Jin C, Bai F, Lin X, Fang L, Sun H, Cheng W,      22. Guo W, Liu M. Review and reflection on the amend­
+    Song P. Driving factors and mode transformation               ment of national medical insurance drug reimburse­
+    regarding health technology assessment (HTA) in               ment list. Chin Health Qual Manage. 30:(182). doi:10.
+    China: problems and recommendations. Biosci                   13912/j.cnki.chqm.2023.30.1.20.
+    Trends. 2019;13(2):110–16. doi:10.5582/bst.2019.01100.    23. Li X, Zhang X, Zhang S, Lu Z, Zhang J, Zhou J, Li B, Ou L.
+ 9. Mueller D. Addressing the challenges of implementing          Rare disease awareness and perspectives of physicians in
+    a health technology assessment policy framework in            China: a questionnaire-based study. Orphanet J Rare Dis.
+    South Africa. Int J Technol Assess Health Care.               2021;16(1):171. doi:10.1186/s13023-021-01788-3.
+    2020;36(4):453–58. doi:10.1017/S0266462320000562.         24. National Health Commission of the People’s Republic
+10. O’Brien GL, Sinnott SJ, Walshe V, Mulcahy M, Byrne S.         of China. Notice on the release of the first batch of rare
+    Health policy triangle framework: narrative review of         disease list. Chinese Government Website; 2018 Jul 11.
+    the recent literature. Health Policy OPEN.                    https://www.gov.cn/zhengce/zhengceku/2018-12/31/
+    2020;1:100016. doi:10.1016/j.hpopen.2020.100016.              content_5435167.htm.
+11. Chinese Government. Guiding opinions on strengthen­       25. Yan X, He S, Dong D. Determining how far an adult rare
+    ing the transformation of health science and technology       disease patient needs to travel for a definitive diagnosis: a
+    achievements. Chinese Government Website; 2016 Oct            cross-sectional examination of the 2018 National rare
+    12. https://www.gov.cn/xinwen/2016-10/12/content_             disease survey in China. Int J Environ Res Public
+    5117948.htm .                                                 Health. 2020;17(5):1757. doi:10.3390/ijerph17051757.
+12. Chen Y, Zhao K, Liu G, Chen W. Health technology          26. China Alliance for Rare Disease. The “Expert consensus
+    assessment to inform decision making in China: pro­           on health technology assessment of rare disease drugs
+    gress, challenges, and sustainability. BMJ (Online).          (2019)” was released at the 2019 China rare disease con­
+    2023;381:e068910. doi:10.1136/bmj-2021-068910.                ference. China Alliance For Rare Disease; 2019 Oct 20.
+13. Macabeo B, Wilson L, Xuan J, Guo R, Atanasov P,               https://www.chard.org.cn/#/news/news1/detail/290.
+    Zheng L, François C, Laramée P. Access to innovative      27. Frost S. (Rep.). 2023 China rare disease industry trend
+    drugs and the National Reimbursement Drug List in             report; 2023.
+    China: changing dynamics and future trends in pricing     28. Chen Y, He Y, Chi X, Wei Y, Shi L. Development of
+    and reimbursement. J Mark Access Health Policy. 2023;11       health technology assessment in China: new challenges.
+    (1):2218633. doi:10.1080/20016689.2023.2218633.               Biosci Trends. 2018;12(2):102–08. doi:10.5582/bst.
+14. National Healthcare Security Administration. Interim          2018.01038.
+    measures for administration of drugs in basic medical     29. Liu G, Wu EQ, Ahn J, Kamae I, Xie J, Yang H. The
+    insurance. Chinese Government Website; 2020 Jul 30.           development of health technology assessment in Asia:
+    https://www.gov.cn/zhengce/zhengceku/2020-08/04/              current status and future trends. Value Health Reg
+    content_5532409.htm.                                          Issues. 2020;21:39–44. doi:10.1016/j.vhri.2019.08.472.
+15. Wang Y, Castelli A, Cao Q, Liu D. Assessing the design    30. Oortwijn W, Jansen M, Baltussen R. Evidence-
+    of China’s complex health system - concerns on equity         informed deliberative processes. A practical Guide for
+
+
+===== PDF文件第11页（不是印刷页码） =====
+
+10         W. GUO ET AL.
+
+
+         HTA bodies for legitimate benefit package design.         37. Jin F, Yao C, Yan X, Dong C, Lai J, Li L, Wang B, Tan Y,
+         Nijmegen: Radboud university medical center; 2021.            Zhu S. Gap between real-world data and clinical
+     31. Norburn L, Thomas L. Expertise, experience, and excel­        research within hospitals in China: a qualitative study.
+         lence. Twenty years of patient involvement in health          BMJ Open. 2020;10(12):e038375. doi:10.1136/bmjo
+         technology assessment at NICE: an evolving story.             pen-2020-038375.
+         Int J Technol Assess Health Care. 2020;37:e15. doi:10.    38. Turner       HC,     Archer     RA,      Downey      LE,
+         1017/S0266462320000860.                                       Isaranuwatchai W, Chalkidou K, Jit M,
+     32. Ming J, He Y, Yang Y, Hu M, Zhao X, Liu J, Xie Y,             Teerawattananon Y. An introduction to the main
+         Wei Y, Chen Y. Health technology assessment of med­           types of economic evaluations used for informing
+         ical devices: current landscape, challenges, and a way        priority setting and resource allocation in healthcare:
+         forward. Cost Eff Resour Alloc. 2022;20(1):54. doi:10.        key features, uses, and limitations. Front Public
+         1186/s12962-022-00389-6.                                      Health. 2021;9:722927. doi:10.3389/fpubh.2021.
+     33. Kirwin E, Round J, Bond K, McCabe C. A conceptual             722927 .
+         framework for life-cycle health technology assessment.    39. Ochalek J, Wang H, Gu Y, Lomas J, Cutler H, Jin C.
+         Value Health. 2022;25(7):1116–23. doi:10.1016/j.jval.         Informing a cost-effectiveness threshold for health
+         2021.11.1373.                                                 technology assessment in China: a marginal productiv­
+     34. Wang W, Tan J, Wu J, Huang S, Huang Y, Xie F, Sun X.          ity     approach.     PharmacoEconomics.         2020;38
+         Use of real world data to improve drug coverage deci­         (12):1319–31. doi:10.1007/s40273-020-00954-y.
+         sions in China. BMJ (Clin Res Ed). 2023;381:e068911.      40. Cai D, Shi S, Jiang S, Si L, Wu J, Jiang Y. Estimation of
+         doi:10.1136/bmj-2021-068911.                                  the cost-effective threshold of a quality-adjusted
+     35. Zhou H, Yao M, Gu X, Liu M, Zeng R, Li Q, Chen T,             life year in China based on the value of statistical life.
+         He W, Chen X, Yuan G. Application of patient-reported         Eur J Health Econ. 2022;23(4):607–15. doi:10.1007/
+         outcome measurements in clinical trials in China. JAMA        s10198-021-01384-z.
+         Netw Open. 2022;5(5):e2211644. doi:10.1001/jamanetwor     41. Wu J, He X, Chen P, Xie S, Li X, Hu H, Zhao K,
+         kopen.2022.11644.                                             Xie F. China health related outcomes measures
+     36. Whittal A, Meregaglia M, Nicod E. The use of                  (CHROME): development of a new generic
+         patient-reported outcome measures in rare diseases and        preference-based measure for the Chinese
+         implications for health technology assessment. Patient.       population.        PharmacoEconomics.            2022;40
+         2021;14(5):485–503. doi:10.1007/s40271-020-00493-w.           (10):957–69. doi:10.1007/s40273-022-01151-9.

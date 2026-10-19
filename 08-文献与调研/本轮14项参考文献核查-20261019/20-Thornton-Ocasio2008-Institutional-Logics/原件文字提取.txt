@@ -1,0 +1,1927 @@
+原件文字提取（仅供检索）
+
+来源：同目录的原件.pdf。自动提取可能存在字符间距、断行、表格错位；准确内容以原件为准。本文件不是新的人工转写或修订版本。
+
+===== PDF文件第1页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM    Page 99
+
+
+
+
+                                                                                                3
+                                                   Institutional Logics
+                                            Patricia H. Thornton and William Ocasio
+
+
+
+
+           INTRODUCTION                                      findings. Last, we critique the literature on
+                                                             institutional logics and suggest how the
+           The phrase, ‘institutional logic’ has become      approach can be used to further advance the
+           somewhat of a buzz-word. Buzz words are           study of organizations and institutions.
+           over used; as a result their meanings often get      The research on institutional logics repre-
+           distorted and overextended and they burn-out      sents an impressive variety of empirical con-
+           of existence. Mizruchi and Fein (1999)            texts, from thrifts (Haveman and Rao, 1997),
+           showed in the institutional theory literature     higher education publishing (Thornton and
+           how meanings get distorted and then taken         Ocasio, 1999), health care organizations
+           for granted. To avoid misunderstandings of        (Scott et al., 2000), colleges and universities
+           the institutional logic concept and to build on   (Gumport, 2000), consumer research
+           research in this genre, now is the time to        (Moorman, 2002), mutual funds (Lounsbury,
+           reflect on definitions and the theoretical and    2002), French cuisine (Rao, Monin, and
+           methodological contributions this perspec-        Durand, 2003), equity markets (Zajac and
+           tive brings to the analysis of institutions.      Westphal, 2004), accounting firms (Thornton,
+              We begin by defining the concept of an         Jones, and Kury, 2005), occupational prestige
+           institutional logic and how it emerged as part    rankings (Zhou, 2005), and architects (Jones
+           of the development of institutional theory        and Livne-Tarandach (Forthcoming), among
+           since the 1970s. Second, we illustrate the        others. Given the incredible diversity of
+           institutional logics approach as both a meta-     research topics, what are institutional logics?
+           theory and a method of analysis. Third, we
+           present a select review of the literature
+           emphasizing how the institutional logics
+           approach makes headway in addressing sev-         DEVELOPMENT OF INSTITUTIONAL
+           eral limitations and tensions identified by       THEORY
+           scholars of institutional analysis. In this
+           review we focus on an analysis of the             To understand the concept of institutional
+           implicit and explicit social mechanisms           logics we must first place it within the con-
+           employed in these studies, not on the             text of institutional theory and institutional
+           description or strength of their empirical        analysis. The study of institutions has a long
+
+
+===== PDF文件第2页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM    Page 100
+
+
+
+
+          100               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          history in organizational analysis, beginning      legitimacy rather than efficiency as an
+          with Selznick’s (1948, 1949, 1957) empirical       explanation for the success and survival of
+          analyses of organizations and the institu-         organizations (Tolbert and Zucker, 1983).
+          tional environment, and Parson’s (1956)               Friedland and Alford’s (1991) seminal
+          theorizing, which emphasized how institu-          essay, together with empirical work by
+          tions function to integrate organizations with     Haveman and Rao (1997), Thornton and
+          other organizations in society through uni-        Ocasio (1999), and Scott et al. (2000),
+          versalistic rules, contracts, and authority.       created a new approach to institutional analy-
+             In the 1970s a new approach to institu-         sis which posited institutional logics as
+          tional analysis emerged with Meyer and             defining the content and meaning of institu-
+          Rowan (1977) and Zucker (1977), who high-          tions. While the institutional logics approach
+          lighted the role of culture and cognition in       shares with Meyer and Rowan (1977),
+          institutional analysis. From a macro perspec-      Zucker (1977), and DiMaggio and Powell
+          tive, Meyer and Rowan (1977) emphasized            (1983, 1991) a concern with how cultural
+          the role of modernization in rationalizing         rules and cognitive structures shape
+          taken-for-granted rules, leading to isomor-        organizational structures, it differs from them
+          phism in the formal structures of organiza-        in significant ways. The focus is no longer on
+          tions. Organizations had to conform to the         isomorphism, whether in the world system,
+          requirements of external environments for          society, or organizational fields, but on the
+          legitimacy, meaning that parts of organiza-        effects of differentiated institutional logics
+          tions had to be loosely coupled from their         on individuals and organizations in a larger
+          technical core. Meyer and his colleagues           variety of contexts, including markets, indus-
+          were concerned with the importance of              tries, and populations of organizational
+          rationality in the account of western culture,     forms. Institutional logics shape rational,
+          and viewed the development of formal orga-         mindful behavior, and individual and organi-
+          nizational structures as part of world society     zational actors have some hand in shaping
+          and its cultural system (Meyer, Boli, and          and changing institutional logics (Thornton,
+          Thomas, 1987; Meyer, Boli, Thomas, and             2004). By providing a link between
+          Ramirez, 1997). From a micro perspective,          institutions and action, the institutional
+          Zucker (1977) also emphasized the taken-           logics approach provides a bridge between
+          for-granted nature of institutions, and the role   the macro, structural perspectives of Meyer
+          of cultural persistence as a measure of insti-     and Rowan (1977) and DiMaggio and Powell
+          tutionalization.                                   (1983) and Zucker’s more micro, process
+             DiMaggio and Powell (1983) extended             approaches. Situated forms of organizing are
+          Meyer and Rowan’s (1977) focus on isomor-          linked with beliefs and practices in wider
+          phism from the societal level to the level of      institutional environments in ways that
+          organizational fields. With their emphasis on      address the critique of isomorphism and
+          coercive, normative, and mimetic sources of        diffusion studies (Hasselbladh and
+          isomorphism, DiMaggio and Powell’s                 Kallinikos, 2000).
+          approach led to an explosion of empirical
+          analysis. In DiMaggio and Powell (1983),
+          the effects of cognition are mainly viewed
+          through mimetic isomorphism – focusing on          DEFINITIONS OF INSTITUTIONAL
+          mindless behavior in response to cultural          LOGICS
+          rationalization. Subsequently, what they
+          termed ‘the new institutionalism’ also             We present definitions of the institutional
+          became largely identified with a rejection         logics approach and then return to how it dif-
+          of rationality as an explanation for organiza-     fers from the new institutionalism. The term
+          tional structure, and an emphasis on               institutional logics was introduced by Alford
+
+
+===== PDF文件第3页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM     Page 101
+
+
+
+
+                                                  INSTITUTIONAL LOGICS                                   101
+
+
+           and Friedland (1985) to describe the contra-        thereby contingent set of rules, premiums
+           dictory practices and beliefs inherent in the       and sanctions that men and women in partic-
+           institutions of modern western societies.           ular contexts create and recreate in such a
+           They describe capitalism, state bureaucracy,        way that their behavior and accompanying
+           and political democracy as three contending         perspective are to some extent regularized
+           institutional orders which have different           and predictable. Put succinctly, an institu-
+           practices and beliefs that shape how individ-       tional logic is the way a particular social
+           uals engage political struggles.                    world works.’ Jackall, like Friedland and
+              Friedland and Alford (1991) further devel-       Alford, views institutional logics as embod-
+           oped the concept in the context of exploring        ied in practices, sustained and reproduced by
+           the interrelationships between individuals,         cultural assumptions and political struggles.
+           organizations, and society. They view               But the emphasis for Jackall is on the norma-
+           institutions as supraorganizational patterns of     tive dimensions of institutions and the
+           activity rooted in material practices and           intra-institutional contradictions of contem-
+           symbolic systems by which individuals and           porary forms of organization; in contrast the
+           organizations produce and reproduce their           focus for Friedland and Alford is on
+           material lives and render their experiences         symbolic resources and the inter-institutional
+           meaningful. Rejecting both individualistic,         contradictions of the inter-institutional
+           rational choice theories and macro structural       system, for example between the market and
+           perspectives, they posited that each of the         the family and the professions and the
+           institutional orders has a central logic that       corporation.
+           guides its organizing principles and provides          Building on the developments of the
+           social actors with vocabularies of motive and       concept by both Jackall (1988) and Friedland
+           a sense of self (i.e., identity). These practices   and Alford (1991), Thornton and Ocasio
+           and symbols are available to individuals,           (1999: 804) defined institutional logics as
+           groups, and organizations to further elabo-         ‘the socially constructed, historical patterns
+           rate, manipulate, and use to their own advan-       of material practices, assumptions, values,
+           tage (Friedland and Alford, 1991: 232, 248,         beliefs, and rules by which individuals
+           251–252).                                           produce and reproduce their material subsis-
+              For Friedland and Alford (1991) the core         tence, organize time and space, and provide
+           institutions of society – the capitalist market,    meaning to their social reality.’ According to
+           the bureaucratic state, families, democracy,        this definition institutional logics provide a
+           and religion – each has a central logic that        link between individual agency and
+           constrain both the means and ends of individ-       cognition and socially constructed institu-
+           ual behavior and are constitutive of individu-      tional practices and rule structures. While
+           als, organizations, and society. However,           Friedland and Alford’s approach is both
+           while institutions constrain action they also       structural and symbolic, and Jackall’s is both
+           provide sources of agency and change. The           structural and normative, Thornton and
+           contradictions inherent in the differentiated       Ocasio’s (1999) approach to institutional
+           set of institutional logics provide individuals,    logics integrates the structural, normative,
+           groups, and organizations with cultural             and symbolic as three necessary and comple-
+           resources for transforming individual identi-       mentary dimensions of institutions, rather
+           ties, organizations, and society.                   than separable structural (coercive), norma-
+              A separate, albeit related, conception of        tive, and symbolic (cognitive) carriers, as
+           institutional logics was developed by Jackall       suggested by alternative approaches
+           (1988). In his ethnographic analysis of ethi-       (e.g., Scott, [1995] 2001).
+           cal conflicts in corporations, Jackall (1988:          While varying in their emphasis, the vari-
+           112) defines institutional logic as ‘the            ous definitions of institutional logics all
+           complicated, experientially constructed, and        presuppose a core meta-theory: to understand
+
+
+===== PDF文件第4页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 102
+
+
+
+
+          102              THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          individual and organizational behavior, it        The eventual result was that first manufactur-
+          must be located in a social and institutional     ing, then marketing succumb in power and
+          context, and this institutional context both      control to those in finance. Updating his data
+          regularizes behavior and provides opportu-        on corporate control, Fligstein (2001) devel-
+          nity for agency and change. The various           oped a shareholder value conception of
+          dimensions of the meta-theory are further         control as distinct from the earlier finance
+          elaborated in Section IV.                         conception – shifting influences away from
+                                                            the corporate venue to that of the market.
+                                                               For Fligstein (1985, 1987, 1990), individ-
+          Precursors                                        ual executives are the primary carriers of the
+                                                            contending conceptions of control. However,
+          Research sometimes referred to as logics of       these conceptions may not be explicitly
+          action provides precursors to the institutional   institutionalized. For example, Ocasio and
+          logics approach – similarly being based on        Kim (1999) suggest that the alternative
+          an interdependent set of logics that provide      conceptions of control were never institu-
+          some context for social influence on actors’      tionalized in the organizational field, as none
+          actions in a domain. We highlight the exam-       of them became dominant. While Fligstein’s
+          ples that illustrate different logics of action   work is similar to the institutional logics
+          operating either within or between institu-       approach because of its implicit interplay of
+          tional orders – Fligstein’s (1987, 1990) three    institutional sectors – the professions, the
+          conceptions of control within corporate gov-      corporation, and the State, the emphasis on
+          ernance, DiMaggio’s (1991) two conflicting        the utilitarian individual and the power-
+          models to organize the field of art museums,      oriented organization motivated subsequent
+          and Boltanski and Thevenot’s ([1986] 1991)        work leading to the institutional logics
+          multiple modes of justification to evaluate       approach that more systematically integrated
+          agreements situated between six different         conflict and cultural perspectives.
+          worlds. In reviewing these examples note the         In another example of logics of action,
+          relatively early and similar dates of publica-    DiMaggio (1991) develops ideal types of
+          tion and that all the examples involve an         organizing the organizational field of art
+          analysis of conflicting logics without focus-     museums, the Gilman and the Data models,
+          ing on isomorphism.                               to understand how competing cultural
+             Fligstein (1990) identified three competing    models formed the basis of a power struggle
+          conceptions of control that guide the gover-      to redefine the field; a struggle between the
+          nance of large industrial firms: the manufac-     elite upper classes and their social circle of
+          turing, marketing, and finance conceptions.       collectors and curators and the new class of
+          For Fligstein, both intra-organizational power    museum professionals fueled by the expan-
+          struggles (Fligstein, 1987) and field-level       sion of higher education in the fine arts. The
+          struggles to control market competition and       case reveals the structuration of organiza-
+          contest state legislation shaped the formation    tional fields is a contested process between
+          of these competing conceptions, or logics of      these two cultural models. However, there is
+          action. Executives’ views on how to best run      an evolutionary ordering with the creation of
+          the corporation were selectively influenced       a standardized body of knowledge, the
+          by their experience in the corporation.           organization of professional associations,
+          Employees’ ability to fight it out among each     and the collective definition of a field, being
+          other in the rise to the top of the corporation   historically prior to the diffusion of the Data
+          occurs in a Chandlerian (Chandler, 1962)          Model.
+          world of significant economic and industrial         Boltanski and Thevenot (1991) apply a
+          change, organizational and professional inno-     taxonomy of cultural repertoires that present
+          vation, coupled with a powerful State.            different justifications of worth to understand
+
+
+===== PDF文件第5页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM     Page 103
+
+
+
+
+                                                   INSTITUTIONAL LOGICS                                     103
+
+
+           how people disagree, compromise, and                 on the role of institutions and institutional-
+           conclude more or less lasting agreements.            ization in shaping logics than the approaches
+           Identified with the tool kit school, they view       of Friedland and Alford (1991) or Jackall
+           culture as a social resource that individuals use    (1988). While sharing with the institutional
+           strategically, culture is more than motivating       logics perspective a focus on culture as a
+           action – it also justifies it. Boltanski and         source of agency (Swidler, 1986; DiMaggio,
+           Thevenot illustrate in a variety of scenarios of     1997), these precursors differ from an institu-
+           interactions that what is legitimate changes         tional logics approach by deemphasizing the
+           depending on the context in which it is negoti-      structural and normative constraints imposed
+           ated and evaluated, the ideal types being six        by institutional logics.
+           different worlds – the inspired, domestic, fame,
+           civic, market, and industrial. Compromises are
+           less fragile when there is groundwork to
+           embed them in the specific arrangements of           META-THEORY OF INSTITUTIONAL
+           these worlds assuming that the embedding is          LOGICS
+           congruent with the worlds. Transposing or
+           putting together elements extracted from the         The institutional logics approach incorpo-
+           descriptions of the various worlds of worth can      rates a broad meta-theory on how institu-
+           cause actors to be placed in incongruent or          tions, through their underlying logics of
+           compromising situations, depending on the            action, shape heterogeneity, stability and
+           particular scenario. An intuitively awkward          change in individuals and organizations. Not
+           example illustrates their point. ‘At home, to get    all aspects of the meta-theory have been
+           his children’s attention, a father presents a        incorporated into every application of the
+           glowing picture of his ability to direct a project   institutional logics perspective, due to differ-
+           at work …. The first combines elements bor-          ences among authors in emphasis, and par-
+           rowed from the domestic world (a father and          tially to the limitations of the journal
+           his children), from the world of fame (attract       publication process. Here we propose five
+           attention, present a glowing picture), and from      principles that in our judgment underlie the
+           the industrial world (ability to direct a project)   meta-theory and provide opportunities for
+           (Boltanski and Thevenot, 1991: 227). This is an      theoretical development and refinement.
+           incongruous transfer of worth from different
+           worlds since fathers do not receive attention
+           based on industrial worth through the eyes of
+                                                                Embedded agency
+           their children.
+              Fligstein’s      (1985,     1987,       1990),    Perhaps the core assumption of the institu-
+           DiMaggio’s (1991) and Boltanksi and                  tional logics approach is that the interests,
+           Thevenot’s ([1986] 1991) approaches all              identities, values, and assumptions of indi-
+           posit the existence of conceptions, models, or       viduals and organizations are embedded
+           logics at a supraorganizational level, and           within prevailing institutional logics.
+           either implicitly or explicitly emphasize the        Decisions and outcomes are a result of the
+           role of culture in shaping and interpreting          interplay between individual agency and
+           individual and organizational activities.            institutional structure (Jackall, 1988;
+           These examples also illustrate the interrela-        Friedland and Alford, 1991; Thornton and
+           tionship between individuals, organizations,         Ocasio, 1999). While individual and organi-
+           and the environment and how logics                   zational actors may seek power, status, and
+           interpenetrate multiple levels of analysis           economic advantage, the means and ends of
+           from the social psychological to the levels of       their interests and agency are both enabled
+           the organizational field and societal sector.        and constrained by prevailing institutional
+           These approaches are less focused, however,          logics (Giddens, 1984; Sewell, 1992).
+
+
+===== PDF文件第6页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM    Page 104
+
+
+
+
+          104               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+             This assumption, which over time has            levels as an important mechanism for organi-
+          become known as embedded agency (Seo               zational and institutional change.
+          and Creed, 2002; Battilana, 2006;
+          Greenwood and Suddaby, 2006), distin-
+          guishes an institutional logics approach from      Society as an inter-institutional
+          rational choice perspectives on institutions       system
+          (North, 1990; Ingram and Klay, 2000) which
+          presume individualistic interests. This            The main innovation of Friedland and Alford
+          assumption also distinguishes an institutional     (1991) is to conceptualize society as an inter-
+          logics approach from macro structural              institutional system. To locate behavior in a
+          perspectives which emphasize the primacy of        context requires theorizing an inter-institu-
+          structure over action (DiMaggio and Powell,        tional system of societal sectors in which
+          1983; Meyer et al., 1987; Meyer et al., 1997;      each sector represents a different set of
+          Schneiberg and Clemens, 2006) and                  expectations for social relations and human
+          Parsonian (Parsons 1956) perspectives on           and organizational behavior. In Friedland
+          institutions, which posit a separation of insti-   and Alford’s words, the capitalist market,
+          tutional from economic or technical sectors        bureaucratic state, democracy, nuclear
+          (e.g., Meyer and Scott, 1983).                     family, and Christian religion are key institu-
+             The embeddedness of agency presupposes          tional sectors, each with its own distinct logic.
+          the partial autonomy of individuals, organi-       Thornton (2004: 44–45) elaborated this
+          zations, and the institutions in society in any    typology in a review of a series of empirical
+          explanation of social structure or action          studies to include six sectors – markets,
+          (Friedland and Alford, 1991). Society              corporations, professions, states, families,
+          consists of three levels – individuals compet-     and religions.
+          ing and negotiating, organizations in conflict        Viewing society as an inter-institutional
+          and coordination, and institutions in contra-      system allows sources of heterogeneity and
+          diction and interdependency. All three levels      agency to be theorized and to be observed
+          are necessary to adequately understand soci-       from the contradictions between the logics of
+          ety; the three levels are nested (embedded)        different institutional orders. There is not just
+          when organizations and institutions specify        one source of rationality, as in world systems
+          progressively higher levels of constraint and      approaches (Meyer et al., 1997), but multiple
+          opportunity for individual action.                 sources. Rather than positing homogeneity
+             Rather than privileging one level over          and isomorphism in organizational fields, the
+          another, this perspective suggests that while      institutional logics approach views any con-
+          individual and organizational action is            text as potentially influenced by contending
+          embedded within institutions, institutions are     logics of different societal sectors. For exam-
+          socially constructed and therefore consti-         ple, the health care field is shaped by the
+          tuted by the actions of individuals and organ-     institutional logics of the market, the logic of
+          izations (Berger and Luckmann, 1967). This         the democratic state, and the professional
+          suggests that cross-level effects are critical.    logic of medical care (Scott et al., 2000).
+          One limitation, however, is that most                 The inter-institutional system enables two
+          research, whether theoretical or empirical,        advances in institutional analysis. First, it is
+          tends to emphasize one level over another.         non-deterministic, that is no institutional
+          Friedland and Alford (1991), despite their         order with its accompanying principles of
+          direct call for multiple levels, emphasized the    organization and logics of action is accorded
+          role of the societal level. Recent work on         causal primacy a priori. Second, the inter-
+          institutional entrepreneurship (Battilana,         institutional system provides researchers
+          2006; Greenwood and Hinnings, 2006)                with an understanding of the institutional
+          has incorporated the relationship between          foundations of categories of knowledge.
+
+
+===== PDF文件第7页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM     Page 105
+
+
+
+
+                                                  INSTITUTIONAL LOGICS                                     105
+
+
+           Key constructs in the analysis of organiza-         utilities – and these values and utilities cannot
+           tion, such as efficiency, rationality, participa-   be traded off as simple economic alternatives.
+           tion, and values are not neutral, but are           Thus, an important underlying assumption is
+           themselves shaped by the logics of                  not whether motivation and action are rational
+           inter-institutional system. As posited by           or irrational; instead the argument is how the
+           Friedland and Alford (1991: 260) ‘Categories        comparative conflict and conformity of insti-
+           of knowledge contribute to and yet depend           tutional logics (which are both material and
+           upon the power of institutions which make           cultural) influence human and organizational
+           them possible. Without understanding the            behavior (Thornton, 2002).
+           historical and institutional specificity of the        This assumption reflects a cultural turn in
+           primary categories of analysis, social scien-       the study of conflict and agency. This
+           tists run the risk of elaborating the rationality   cultural turn is motivated by the thorny ques-
+           of institutions they study, and as a result         tion of how individual agents know they have
+           become actors in their reproduction.’               economic or political struggles on their
+                                                               hands and what is an appropriate way to
+                                                               respond to them. For example, Thornton and
+           The material and cultural                           Ocasio (1999) and Thornton (2004) showed
+           foundations of institutions                         that resource competition was actually
+                                                               greater in higher education publishing in the
+           A key assumption of an institutional logics         era of the editorial logic – but this competi-
+           perspective is that each of the institutional       tion was interpreted differently and
+           orders in society has both material and cul-        responded to in a non-conflictual manner.
+           tural characteristics (Friedland and Alford,        With the rise of a market logic, resource
+           1991). For example, both the family and reli-       competition, although less significant, had
+           gion, while typically not considered part of        greater effects on organizational actions and
+           the economic sphere, are directly involved in       decisions. Stinchcombe (2002: 429) has
+           the production, distribution, and consump-          commented around this issue – needing
+           tion of goods and services (Becker, 1976).          culture to define the meaning of power and
+           Similarly, markets, while often not consid-         competition – viewing it as a causal sequenc-
+           ered part of the cultural sphere, are directly      ing problem. His argument is that if power is
+           shaped by culture and social structure,             theorized as a first-order construct in
+           including networks of social relationships as       explaining change, independently of culture,
+           well as structures of power, status, and dom-       two problems need to be addressed. First,
+           ination (Granovetter, 1985). Rather than            power is created in the course of action: it
+           privileging material or cultural explanations       does not occur prior to the action that it
+           of institutions, an institutional logics per-       explains. Second, the decision to use power
+           spective recognizes that institutions develop       is an intentional, strategic choice; however, it
+           and change as a result of the interplay             is not always possible for actors to know the
+           between both of these forces.                       cultural framing or menus of available
+              In explaining human behavior and organi-         options in advance of any action. Thus,
+           zational structure, Friedland and Alford            instrumental political theories of action may
+           (1991) argued that theories which ‘retreat          be incomplete explanations because the
+           from society,’ – emphasizing market mecha-          necessary sequence of events is unlikely
+           nisms to aggregate individual utilities and         to occur. Consequently, cultural explana-
+           preferences, organizational competition,            tions are necessary adjuncts to structural
+           technology, and resource dependence – begin         explanations.
+           to fail. Instead, institutional sectors, for           In making way for the role of culture
+           example families, professions, states, and          in shaping action, institutional logics
+           religions locate the origins of values and          incorporate both the symbolic and the
+
+
+===== PDF文件第8页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM    Page 106
+
+
+
+
+          106              THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          normative components of culture. Following       on resource dependencies and political
+          Geertz (1973) and Douglas (1986),                interests.
+          DiMaggio and Powell (1991) and Friedland            An institutional logics approach views
+          and Alford (1991) highlighted the symbolic       norms as drawn from experience and exem-
+          and cognitive dimensions of institutions and     plars of the institution (Jackall, 1988; Ocasio,
+          institutional logics. But symbolic and cogni-    1999). Norms imply ambivalence about uni-
+          tive explanations of institutions and institu-   versalistic principles, with both dominant and
+          tional logics are incomplete without also        subsidiary norms co-existing. This suggests a
+          incorporating the normative dimensions           probabilistic, rather than a deterministic view
+          (Hirsch, 1997; Mizruchi and Fein, 1999).         of adherence to dominant norms of behavior,
+          Sociologists, rejecting the strong view of       and the identification of specific contingen-
+          internalization of universalistic values and     cies where subsidiary norms prevail.
+          cultural norms proposed by Parsons (1951)
+          and early Merton (1957), have been reluctant
+          to rely on social norms as an explanation for
+                                                           Institutions at multiple levels
+          behavior. Even DiMaggio and Powell (1983),
+          in discussing the normative forces driving       The institutional logics approach as meta-
+          isomorphism, emphasized the role of formal       theory provides tremendous capacity to
+          education, legitimating authorities, and         develop theory and research across multiple
+          professional networks, with an unclear role      levels of analysis. For Friedland and Alford
+          for social norms, per se. An institutional       (1991) the focus was on societal-level logics
+          logics approach, in contrast, emphasizes how     and their effects on individuals and organiza-
+          institutions provide social actors with a        tions. But the meta-theory that has emerged
+          highly contingent set of social norms            is broader, and institutional logics may
+          (Jackall, 1988), where behavior is driven        develop at a variety of different levels, for
+          not by a logic of consequences but by a          example organizations, markets, industries,
+          logic of appropriateness (March and              inter-organizational networks, geographic
+          Olsen, 1989).                                    communities, and organizational fields. This
+             The requirement of norms as a critical        flexibility allows for a wide variety of mech-
+          dimension of institutions and their underly-     anisms to be emphasized in research and
+          ing logics does not imply universalism,          theoretical development and may be one
+          moral behavior by individuals, nor deeply        reason the term institutional logics has
+          internalized values, all part of Parson’s        caught on among scholars (Kuhn, 1962).
+          (1951) conceptions of norms. An institu-            Theoretical mechanisms are elements of
+          tional logics approach shares with               theory that operate at a different level of
+          Granovetter (1985) and others the over-          analysis (e.g., individuals or organizational
+          socialized critique of Parsons, while at the     fields), than the main phenomenon being the-
+          same time suggesting that ignoring norms         orized about (e.g., organizations or groups).
+          implies an under-socialized view of individ-     To identify the effects of mechanisms across
+          ual and organizational behavior. A focus on      levels of analysis makes the theory more pre-
+          identification (see below) as the mechanism      cise as well as more general (Stinchcombe,
+          by which cultural norms exert their effects      1991). Therefore, to apply the institutional
+          over individuals and organizations               logics meta-theory it is critical that the level
+          (Kelman, 1956, 2006; O’Reilly and                of analysis at which institutionalization
+          Chatman, 1996) distinguishes an institutional    occurs be clearly specified, whether at a
+          logics approach from an over-socialized          societal level (Friedland and Alford, 1991),
+          conception of institutions that focuses on       or at other levels.
+          internalization and value commitments and           For example, Haveman and Rao (1997), in
+          an under-socialized conception that focuses      their study of the coevolution of institutions
+
+
+===== PDF文件第9页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 107
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                     107
+
+
+           and organizations in the California thrift         societal level. Jackall argues that the formal
+           industry, studied how with the rise of             bureaucratic logic, as characterized by Weber
+           Progressivism, changes in institutional logics     ([1922] 1978), had little affinity with
+           at the societal level affected the formation of    American individualistic affinities and
+           distinct organizational forms at the industry      cultural values, with the hybrid logic of
+           level. In particular, their analysis shows how     patrimonial bureaucracy thereby emerging.
+           plans that embodied bureaucratic logics and           Thornton and Ocasio (1999) focus on the
+           rational decision making were more likely to       formation of industry-level institutional
+           thrive than those that embodied a community        logics in higher education publishing. They
+           logic and mutual cooperation among actors.         propose that industries are a relevant bound-
+           The emphasis here is on institutional logics       ary for establishing institutional logics
+           at the societal level affecting the selection of   because producers in an industry establish a
+           alternative forms at the organizational level.     common identity through social compar-
+           A secondary, and less developed, aspect of         isons, status competition, and structurally
+           the coevolutionary process in the paper sug-       equivalent network positions (White, 1992).
+           gests that as organizational forms that            Their analysis and the subsequent research
+           embody a particular institutional logic evolve     by Thornton (2001, 2002) focus on the
+           and become institutionalized at the industry       effects of shifts, at the industry level, from an
+           level, the corresponding societal-level insti-     editorial logic to a market logic. While focus-
+           tutional logics further evolves and becomes        ing on industry-level logics that both emerge
+           further institutionalized.                         from and sustain market competition, these
+              The emphasis on societal-level institutions     logics do not emerge in the industry de novo,
+           is illustrated by the work of Bhappu (2000),       but are shaped by higher-order societal
+           which draws on anthropological analysis of         professional and market logics. The link
+           the ancient Japanese family system to argue        between industry-level logics and the logics
+           how the institutional order of the family is       of the inter-institutional system is further
+           the origin of the institutional logic of           developed by Thornton (2004).
+           Japanese corporate networks. Scott et al.             Research on institutional logics adopting a
+           (2000) examine how societal-level profes-          field-level perspective has emphasized the
+           sional, government, and managerial-market          existence of competing logics within the
+           logics shape the transformation of the health      field. For example, in a qualitative analysis
+           care organizational field, from one domi-          of U.S. academic health centers, Kitchener
+           nated by professional logics to one where          (2002) explores the effects of competing
+           the three logics co-exist and no single one        managerial and professional logics on the
+           dominates.                                         responses to merger initiatives. Reay and
+              In Jackall’s (1988) ethnographic analysis,      Hinings (2005) adopt a similar approach in
+           the emphasis is on institutionalization at the     their analysis of structural change in
+           organizational level. Here the focus in on the     Canadian health care organizations.
+           structures of managerial careers and how           Greenwood and Suddaby (2006) focus
+           they shape the formation of a managerial           instead on contradictions between institu-
+           ethos that shapes decision making and action       tional logics in organizational fields and
+           in organizations. The formal structures of the     suggest that boundary bridging organiza-
+           organizations combine with institutionalized       tions are sources of change in institutional
+           practices of fealty and patronage to create an     logics (see below). Lounsbury (2007)
+           institutional logic termed patrimonial             examines competing trustee and professional
+           bureaucracy. While clearly focusing on orga-       logics in the mutual fund industry. In his
+           nizational-level institutionalized practices,      analysis geographic communities are also a
+           Jackall’s analysis suggests how these              source of institutionalization of logic, as
+           practices also reflect cultural forces at the      Boston and New York are centers of the
+
+
+===== PDF文件第10页（不是印刷页码） =====
+
+9781412931236-Ch03    1/11/08     5:27 PM     Page 108
+
+
+
+
+          108               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          trustee and professional logics respectively,           Zajac and Westphal’s analysis of historical
+          leading to different patterns of organizational      contingency in financial markets (2004) is
+          change in the two areas.                             notable in viewing markets themselves as
+             The variety of levels of analysis studied         shaped by institutional forces. The paper
+          suggests the fecundity of the institutional          finds that the emergence of an agency
+          logics perspective. The breadth of the meta-         perspective in the 1980s led to historical
+          theory may have encouraged imprecision in            shifts in stock market response to stock
+          research, and it could be inferred that any          repurchases, from an unfavorable reaction,
+          logic or interpretive scheme, at any level of        consistent with a professional logic, to a
+          analysis, may be characterized as an institu-        favorable one, consistent with an agency
+          tional logic. We suggest otherwise.                  logic. The paper suggests that the market’s
+          Institutional logics are more than strategies        reaction to particular corporate practices are
+          or logics of action as they are sources of           not, as financial economists contend, simply
+          legitimacy and provide a sense of order and          a function of the inherent efficiency of such
+          ontological security (Giddens, 1984: Seo and         practices, but are influenced by the prevail-
+          Creed, 2002). Research on competing                  ing institutional logic.
+          institutional logics, as some of the work on            However, note with the current rise of reli-
+          organizational fields described above, often is      gion in world discourse that institutional
+          not precise on the level of which logics             logics, both in their elaboration and relative
+          become institutionalized, or whether they            pattern of dominance between institutional
+          should be considered institutional logics at all.    orders, are not simply an evolutionary or
+                                                               linear model of development driven by scien-
+                                                               tific progress or market rationalization. Here
+                                                               the institutional logics approach departs dis-
+          Historical contingency
+                                                               tinctly from Meyer and his colleagues’ work
+          Historical contingency is a key meta-theoret-        noted earlier on modern rationalization. For
+          ical assumption of the institutional logics          example, Thornton, Jones, and Kury (2005)
+          approach. In general this assumption is con-         illustrate other models of the historical
+          sistent with institutional theory, which focuses     contingency of institutional logics that show
+          attention on how larger environments affect          cyclical or punctuated equilibrium functional
+          individual and organizational behavior. While        forms in their comparison of the cases of
+          the six institutional orders of the inter-institu-   accounting and architecture.
+          tional system in western societies previously           Many studies reveal findings that are valid
+          identified have remained influential, empiri-        in one historical time period but not in others.
+          cal observation also informs us that they            Thornton (2004: 127) presents a meta-analy-
+          differed in development and importance over          sis partitioning the findings on the higher
+          time. For example, modern societies have             education publishing studies by universal
+          greater emphasis on corporate and state influ-       and particular effects. Founder and owner-
+          ences and earlier societies in general empha-        ship effects were found to be universal across
+          sized family and religion to a larger extent. In     time, whereas relational and structural effects
+          particular, during the last 30 years the promi-      were particular to a historical period in which
+          nence of market logics has been found in             an institutional logic prevailed. Many find-
+          multiple studies in various contexts, including      ings typically predicted by resource depend-
+          Thornton and Ocasio (1999) in higher educa-          ence and economic theories are found to be
+          tion publishing, Scott et al. (2000) in health       historically contingent. Note that the models
+          care, Lounsbury (2002) in financial interme-         in this meta-analysis controlled for differ-
+          diation, Zajac and Westphal (2004) in equity         ences in organization age, size, and resource
+          markets, and Meyer and Hammerschmidt                 competition and other macro economic
+          (2004) in public management.                         variables. Note also that the meta-analysis
+
+
+===== PDF文件第11页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 109
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                      109
+
+
+           design controls for differences in industry,       contingency is a focus of the analysis
+           product market, data set, population and           (Thornton, 2004: 126–127). They also can
+           sampling methods, and statistical modeling         accommodate data at multiple levels of
+           procedures. The universal founder effect           analysis, for example at the individual, orga-
+           suggests the persistence of individual entre-      nizational, and environmental – making it
+           preneurs or leaders to hang tough on a logic       possible to partition material from cultural
+           of action, regardless of contradictory logics      effects (DiMaggio, 1994). The challenge of
+           prevailing in their surrounding environment.       measuring cultural effects is often
+              The objective of recognizing historical         approached by examining how one or more
+           contingency as a meta-theoretical assump-          of the institutional orders of the inter-institu-
+           tion is to explore if the effects of economic,     tional system are changing in its strength of
+           political, structural, and normative forces        influence on individual and organizational
+           affecting individuals and organizations are        behavior. These types of studies require
+           indeed historically contingent. Moreover, the      identifying a scientific boundary to draw a
+           goal is not to develop universal theories of       population or sample for hypothesis testing –
+           organizational behavior and structure but to       such as an industry, market, or profession.
+           examine whether such theories, often               Note that the organizational field concept is
+           assumed to be universal through time and           problematic in this sense, unless it can be
+           space, are instead particular to historical time   defined, for example as a geographic
+           and cultural environments (Thornton, 2004:         community, positional community, i.e. CEOs
+           130–133).                                          of Fortune 500, or inter-organizational
+                                                              network.
+                                                                 The development of interpretive methods
+                                                              enriches the possibilities of the types of data
+           INSTITUTIONAL LOGICS AS                            and data gathering methods available for
+           METHOD OF ANALYSIS                                 researchers to examine the content and
+                                                              meaning of institutions. Scott et al. (2000),
+           Theory and methods go hand-in-hand and the         for example. used content analysis of publi-
+           meta-theoretical principles reviewed in the        cations to identify the key terms important to
+           preceding section have been examined               the actors of the professions and corporate
+           through the creative development of meth-          institutional orders of the health care system
+           ods. While many social science researchers         and then measured the frequency of vocabu-
+           have been skeptical of cultural effects            laries associated with the institutional orders,
+           (DiMaggio, 1994), in our view researchers          signaling the emergence and decline of these
+           are rising to the challenges of measuring the      alternative institutional logics.
+           effects of content, meaning, and change in            Phillips and Hardy (2002: 55) define
+           institutions using the institutional logics        methods from discourse theory and describe
+           perspective. In this endeavor, we comment          how they have been borrowed to further
+           on the use of event history analysis, interpre-    develop institutional theory and methods.
+           tive methods, triangulation, and ideal types.      Data sources include, for example, inter-
+              Foundational studies have combined event        views, focus groups, archival documents and
+           history (Tuma and Hannan, 1984) and inter-         records, naturally occurring conversations,
+           pretive methods, for example from archival         political speeches, newspaper articles,
+           records (Haveman and Rao, 1997), personal          novels, stories, cartoons, and photographs.
+           interviews (Thornton and Ocasio, 1999), and        Methods of analysis include, for example,
+           content analysis of professional journals          genealogy, ethnography, conversation analy-
+           (Scott et al., 2000). Event history models typ-    sis, content analysis, narrative analysis,
+           ically use historical time (not organization       critical discourse analysis, and rhetorical
+           age) as the clock, particularly when historical    analysis that make use of a variety of ‘texts,’
+
+
+===== PDF文件第12页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM    Page 110
+
+
+
+
+          110               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          including spoken words, pictures, symbols,            Swedberg (2005: 3), in drawing from
+          and cultural artifacts among others. Suddaby       Weber, gives an example. ‘When the wood-
+          and Greenwood (2005), for example, used            cutter brings down his axe on the wood, it
+          rhetorical analysis of vocabularies (words) to     can be a case of wage labor, provision for
+          expose contradictory institutional logics          one’s household, or form of recreation – and
+          embedded        in    historically     different   which one it is depends on the meaning with
+          understandings of professionalism to explain       which the action is invested.’ In the Appendix
+          the multidisciplinary partnership as a new         we include examples of ideal types devel-
+          organizational form.                               oped from the analysis of the effects of insti-
+             While this vibrant resurrection and devel-      tutional logics in three industries, higher
+          opment of qualitative methods strengthens          education publishing, accounting, and
+          the capacity to interpret meanings, we             architecture.
+          caution that the strength of the foundational         DiMaggio’s (1991: 271) analysis of the
+          studies of the institutional logics perspective    two models of organizing art museums is a
+          has been on triangulation of types of data and     precursor to bringing back the use of ideal
+          methods of analysis – being reliant on both        types in institutional analysis. His categories
+          qualitative and quantitative methods. One          on the Y axis focused on the mission, defini-
+          method that integrates interpretive and            tion of art, legitimate perception, education,
+          hypothesis testing approaches is the use of        major publics, control, strategy, building, and
+          ideal types.                                       living artists – showing how the X axis spec-
+             Ideal types are a method of interpretive        ifies the Gilman and Data models varied on
+          analysis for understanding the meaning that        these universal dimensions. Rao et al. (2003)
+          actors invest their actions with. They were        also used ideal types in their characterization
+          first developed by the classic theorists as a      of classical and nouvelle French cuisine to
+          theoretical tool to facilitate intelligible        understand how new logics displaced old and
+          comparisons (Weber, 1922). Researchers             ushered in new role identities. Their
+          have further developed this method of analy-       categories on the Y axis examine the dimen-
+          sis to suggest testable hypotheses (Thornton       sions of culinary rhetoric, rules of cooking,
+          and Ocasio, 1999).                                 archetypal ingredients, role of the chef, and
+             In theory building, ideal types require the     organization of the menu – showing how the
+          development of formal typologies composed          X axis defined the two characteristics of
+          of two parts: (a) the description of ideal types   classical and nouvelle cuisines. However,
+          and (b) the set of assertions that relate the      what is the causal connection between
+          ideal types to the dependent variable (Dotty       DiMaggio’s and Rao et al.’s ideal types and
+          and Glick, 1994). While often derived from         the inter-institutional system? Should we, for
+          empirical observation, ideal types are not for     example, intuit that the Gilman Model was
+          describing an organizational field, but            influenced by the institutional logics of the
+          instead are theoretical models for comparing       family and the Data Model by the logics of
+          the effects of various meanings in a location      the professions and the state?
+          with a definable boundary. They do not                Thornton and Ocasio (1999: 808–809) and
+          precisely conform to reality because of            Thornton (2004) explicitly anchor the higher
+          deliberate simplification to afford compara-       education publishing ideal types in the
+          tive analysis and multidimensional classifi-       domains (orders) of the inter-institutional
+          cation of phenomena not restricted by the          system – revealing their origins. Their
+          events of the selected cases. Ideal types          categories on the Y axis examined form of
+          assign a hypothetical meaning that can be          capitalism, organizational identity, legiti-
+          used as a yardstick to compare and contrast        macy, authority structures, mission, focus of
+          hypothesized and actual meaning and                attention, strategy, logics of investment, and
+          behavior.                                          rules of succession – showing how the X axis
+
+
+===== PDF文件第13页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 111
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                    111
+
+
+           specifying the editorial and market logic          1991). Collective identities also emerge
+           varied on these general elements.                  among populations of organizational
+           Once derived from interview and archival           forms (Haveman and Rao, 1997; Carroll
+           data they pushed the standards further             and Hannan, 2000), market competitors
+           by externally validating the ideal types           (Porac et al., 1989; White, 1992; Peteraf
+           with publishers’ experiences and their use         and Shanley, 1997; Thornton and
+           in the Stanford University Publishers              Ocasio, 1999), and industry associations
+           College.1                                          (Aldrich and Fiol, 1994; King and Lenox,
+                                                              2000).
+                                                                 As collective identities become institution-
+                                                              alized, they develop their own distinct insti-
+           HOW LOGICS SHAPE INDIVIDUAL                        tutional logic, and these logics prevail within
+           AND ORGANIZATIONAL ACTION                          the social group (Jackall, 1998). These
+                                                              effects of institutional logics are emphasized,
+           Collective identities and identification           among others, in the work of Haveman and
+           A mechanism by which institutional logics          Rao (1997), on the theory of moral senti-
+           exert their effects on individuals and organi-     ments embodied in the collective identities of
+           zations is when they identify with the collec-     organizational forms; in Thornton and
+           tive identities of an institutionalized group,     Ocasio (1999)’s shift from an editorial logic
+           organization, profession, industry or popula-      to a market logic in the collective identity of
+           tion (Tajfel and Turner, 1979; March and           competitors in the higher education
+           Olsen, 1989). A collective identity is the         publishing market; in Jones and Livne
+           cognitive, normative, and emotional connec-        Tarandach’s (Forthcoming) rhetorical
+           tion experienced by members of a social            strategies of architects based in the institu-
+           group because of their perceived common            tional logics of business, profession, and
+           status with other members of the social group      state that focus attention on distinct
+           (Polleta and Jasper, 2001). Collective             competencies – servicing clients, building
+           identities emerge out of social interactions       great architecture, or managing facilities, and
+           and communications between members of              in Lounsbury’s (2002) analysis of collective
+           the social group (White, 1992). As individu-       identities embodied in professional
+           als identify with the collective iden-             associations in the field of finance. In
+           tity of the social groups they belong to           all of these cases, albeit at different
+           they are likely to cooperate with the              levels of analysis, identification with the
+           social group (Tyler, 1999; Brickson, 2000),        respective institutional logics occurs
+           abide by its norms and prescriptions               directly, as the identification with the
+           (March and Olsen, 1989; Kelman, 2006),             collective is equivalent to the identifi-
+           and seek to protect the interests of the collec-   cation with the institutional logic prevailing
+           tive and its members against contending            in the collective, whether they are organiza-
+           identities (Tajfel and Turner, 1979;               tional forms, market competitors, or profes-
+           White, 1992).                                      sional associations, or any other social
+              Individuals are members of multiple social      grouping.
+           groups with a collective identity, including
+           professions and occupations (Abbott, 1988;         Contests for status and power
+           Fine, 1996; Glynn, 2000), gender, racial and       The contests for status and power are rela-
+           ethnic groups (Cerulo, 1997; Lamont and            tively universal mechanisms for individual
+           Molnar, 2002), social movements (Benford           and organizational actions. However, an
+           and Snow, 2000; Rao et al., 2003), and indi-       institutional logics perspective suggests that
+           vidual organizations (Selznick, 1957; Albert       these mechanisms are conditioned by pre-
+           and Whetten, 1985; Dutton and Dukerich,            vailing institutions (Fligstein, 1996;
+
+
+===== PDF文件第14页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 112
+
+
+
+
+          112              THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          Thornton and Ocasio, 1999; Lounsbury and          a market logic created a shift from status
+          Ventresca, 2003). While power and status          driven by reputation within business practice
+          differences are present in all organizations,     to reputation driven by normative conformity
+          researchers can identify the sources of power     to increasingly mathematical economics.
+          and status, their meaning and consequences        Professional finance associations led the
+          by understanding how these power and status       transformation to a market logic in this field.
+          differences are associated with the prevailing    New professions such as money management
+          institutional logic. Institutional logics shape   and securities analysis helped diffuse
+          and create the rules of the game, the means-      new financial theories such as portfolio and
+          ends relationships by which power and status      risk management, and status within the
+          are gained, maintained, and lost in organiza-     field became increasingly determined by
+          tions (Jackall, 1988; Ocasio, 1999;               familiarity and expertise with new financial
+          Lounsbury and Ventresca, 2003). Social            theories. As social actors gained status and
+          actors rely on their understandings of institu-   position by their reliance on financial theo-
+          tional logics in the competition for power        ries, the market logic gained prominence in
+          and status and in doing so generate the           the field.
+          conditions for the reproduction of prevailing        Zhou (2005) relies on an institutional logic
+          logics.                                           perspective to explain occupational prestige
+             For Jackall (1988), competition for power,     ranking. Building on Weber’s argument that
+          status, and position in organizations shapes      social statuses or social honors are related,
+          the creation and reproduction of a patrimo-       but distinct from one’s economic resources
+          nial bureaucratic logic in U.S. corporations.     or structural positions, Zhou is searching for
+          Managers, driven by career concerns, estab-       an explanation of how a hierarchical ordering
+          lish and maintain a system of patronage and       of occupations must be recognized through a
+          fealty, where strong social ties to those in      meaning system shared by members of the
+          position of authority determine power and         same community. He proposes an institu-
+          privilege in organizations. Achieving career      tional logic of social recognition to explicate
+          success requires social actors to play by the     the causal mechanisms. What is appropriate
+          rules, with language use and symbolic             and legitimate must be seen as transcend-
+          management serving to reproduce the formal        ing self-interests and group boundaries, and
+          structure, while promotion patterns parallel      be accepted by a large audience. Overall,
+          the patrimonial structure, serving to             occupation prestige should vary system-
+          reproduce the informal status hierarchies and     atically with the basis for making legitimate
+          power structures.                                 claims and with group membership
+             Thornton and Ocasio (1999) focus on the        as a function of their inclusion into the
+          link between institutional logics and power       realm of a shared institutional logic (Zhou,
+          structures. They find that under an editorial     2005: 98).
+          logic, publishers’ means and ends are shaped
+          by author-editor relationships, and power         Classification and categorization
+          structures are determined by organization         A key mechanism by which institutional
+          size and structure. Under a market logic,         logics shapes individual cognition is through
+          publishers’ means - end relationships are         social classification and categorization
+          shaped by resource competition and acquisi-       (DiMaggio, 1997). Cognitive psychologists
+          tions, and power structures are determined by     emphasize the importance of categories in
+          competition in the product market and the         shaping individual cognition (e.g., Rosch,
+          market for corporate control.                     1975; Medin, 1989). While psychologists
+             Lounsbury (2002) focuses on status             who study categories typically emphasize the
+          competition and status mobility in the field      study of categories of objects occurring in
+          of finance. A shift from a regulatory logic to    nature, the classification and categorization
+
+
+===== PDF文件第15页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 113
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                    113
+
+
+           of social and organizational categories is            Categorization processes have been partic-
+           determined by social institutions (Douglas,        ularly central to work on institutional logics
+           1986; Searle, 1995). Given the institutional-      that focuses on logics residing in competing
+           ization of categories, individuals take for        organizational forms (Haveman and Rao,
+           granted that the categories of organizing          1997; Rao et al., 2003). Distinct categories of
+           activity such as CEO, return on assets,            forms are shaped by changes in societal level
+           human resources, corporate governance,             institutional logics (Haveman and Rao,
+           multidivisional       structures,      patents,    1997). At the organizational field level,
+           restaurants, to name but a few common sub-         Rao et al. (2003) explore how changes in
+           jects of study, are not categories that exist in   the categories of French cuisine led to
+           nature but socially constructed, institutional     self-categorization by industry entrepreneurs
+           categories (Berger and Luckmann, 1967).            and triggered institutional transformation.
+              Institutional logics provide agents within      Rao et al. (2005) explored how organiza-
+           organizations with socially constructed            tional change occurs through bricolage
+           systems of classifications that constitute         among categories of organizational products
+           categories of social actors (Mohr and              associated with alternative institutional
+           Duquenne, 1997), organizational forms              logics.
+           (Haveman and Rao, 1997), products                     Research has also explored how changing
+           (Lounsbury and Rao, 2004), and organiza-           logics lead to changes in the meaning of
+           tional agendas (Ocasio and Joseph, 2005).          existing categories. Ruef (1999) explores the
+           Changes in institutional logics lead to the        shift to a market logic in the heath care field
+           creation of new categories (Rao et al., 2003)      by examining the changing systems of
+           and to changes in meaning of existing cate-        categories that underlie discourse among
+           gories (Ruef, 1999; Ocasio and Joseph,             technical, managerial, and policy-oriented
+           2005). Categories, as a basic unit of cogni-       health care professionals. Ruef’s analysis
+           tion, do not imply mindless cognition, as do       focuses on the relationships among linguistic
+           schemas and scripts, but are a necessary           categories and finds that a historical shift
+           component of all mindful, agentive behavior.       in logics results in changes in the meaning
+              Mohr and his collaborators have                 of underlying categories of organ-
+           emphasized the link between systems of             izational forms. With the rise of a market
+           categories and institutional logics. Mohr and      logic there is increased integration of
+           Duquenne (1997) analyze the changing insti-        issues of financing and risk bearing across
+           tutional logics in poverty relief by examining     the various forms in the organizational field,
+           how they provide a different system of             and less focus across the spectrum on
+           classification of the poor (distressed, desti-     issues of access. With the rise of a market
+           tute, fallen, deserving, homeless, indigent,       logic the meaning of a hospital or a
+           misfortunate, needy, poor, stranger, and           health maintenance organization shifts, as do
+           worthy) and the categorization of organiza-        other organizational forms, with less differ-
+           tional practices (giving advice, giving food,      entiation among forms in their focus on
+           giving money, paying a person to chop wood,        financing.
+           placing a relief applicant in an asylum,
+           and so on). Mohr and Guerra-Pearson                Attention
+           (Forthcoming) studied how categories of            Contemporary perspectives on organiza-
+           actors, organizational forms, and organizing       tional attention emphasize how organiza-
+           activities varied by competing institutional       tional responses to economic and social
+           logics. Breiger and Mohr (2004) develop            factors are mediated by the attention of
+           network methodologies among systems of             organizational decision makers (Ocasio,
+           categories to empirically measure institu-         1995, 1997). Theoretical and empirical
+           tional logics.                                     research provides key mechanisms to explain
+
+
+===== PDF文件第16页（不是印刷页码） =====
+
+9781412931236-Ch03    1/11/08    5:27 PM     Page 114
+
+
+
+
+          114               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          how institutions moderate organizational            organizational attention to market forces that
+          attention.                                          are salient under a market logic, but not
+             In a theoretical analysis of how organiza-       under an editorial logic. Thornton (2004:
+          tions respond to economic adversity, Ocasio         44–45) further developed the role of institu-
+          (1995) proposed that institutional logics           tional logics in structuring attention by
+          affect the allocation of attention to alternative   linking these organization and industry level
+          schemas for perceiving, interpreting, evaluat-      analyses to societal-level institutional logics.
+          ing, and responding to environmental                Relying on content analysis, Glynn and
+          situations. According to theory of allocation       Lounsbury (2005) examine the shifts in focus
+          of attention, institutional logics provide indi-    of attention by newspaper critics of the
+          viduals and organizations with a set of rules       Atlantic Symphony Orchestra from an
+          and conventions – for deciding which prob-          aesthetic logic prior to a strike at the orches-
+          lems get attended to, which solutions get           tra to a market logic post-strike. Consistent
+          considered, and which solutions get linked to       with the effects of institutional logics on
+          which situtations (March and Olsen, 1976).          attention, they find that pre-strike newspaper
+          Ocasio (1997) suggests two mechanisms by            critics, in their reviews, focus attention on the
+          which institutions structure attention: (1) by      virtuosity and musical interpretation (associ-
+          generating a set of values that order the legit-    ated with an aesthetic logic) and post-strike
+          imacy, importance, and relevance of issues          critics increased their attention to ticket
+          and solutions; and (2) by providing decision        sales, production of recordings, and audience
+          makers with an understanding of their               reactions (consistent with a market logic).
+          interests and identities. These interests and       The ascendancy of the market logic did not
+          identities generate in turn a set of decision       imply, however, a rejection of aesthetic con-
+          premises and motivation for action.                 cerns, but the blending of the two logics.
+             Thornton and Ocasio (1999) developed the            In his study of competing logics in the
+          role of industry-level institutional logics in      mutual funds industry, Lounsbury (2007)
+          structuring attention in organizational             relies on attention as a mechanism to show
+          decisions on executive succession. The              how non-growth funds and Boston-based
+          theory was further developed in application         funds focus attention on the issue of product
+          to decisions on acquisitions (Thornton,             costs, while growth funds and New York-
+          2001), and the rise of multidivisional              based funds focus attention on the issue of
+          structures (Thornton, 2002) in the higher           fund performance. The empirical results sup-
+          education publishing industry. The core of          port this argument, demonstrating how the
+          the argument in these empirical studies is          effects of market forces are contingent on
+          that institutional logics focus the attention of    prevailing organizational logics, as mediated
+          decision makers on issues and solutions that        through processes of attention.
+          are consistent with prevailing logics.
+          Institutional logics focus attention on issues
+          and solutions through a variety of mecha-
+          nisms, including determining their appropri-        CHANGE IN INSTITUTIONAL
+          ateness and legitimacy, rewarding certain           LOGICS
+          forms of political behavior in organizations,
+          shaping the availability of alternatives, and       ‘How can actors change institutions if their
+          selectively focusing attention on environ-          actions, intentions, and rationality are all
+          mental and organizational determinants of           conditioned by the very institution they wish
+          change. A key finding of these empirical            to change’ (Holm, 1995: 398). The institu-
+          analyses is that the effects of resource            tional logics approach sheds light on this
+          competition and resource dependencies are           problem of embedded agency by conceptual-
+          not universal effects, but are contingent on        izing society as an inter-institutional system
+
+
+===== PDF文件第17页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM    Page 115
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                   115
+
+
+           in which logics are characterized by cultural     also symbolic. To use an analogy to the
+           differentiation, fragmentation, and contradic-    bricoler (Levi-Strauss, 1966), institutional
+           tion (DiMaggio, 1997). This differentiation,      entrepreneurs creatively manipulate social
+           fragmentation, and contradiction is               relationships by importing and exporting
+           evident both within and between institu-          cultural symbols and practices from one
+           tional orders (Friedland and Alford, 1991).       institutional order to another. In theory, the
+           We focus on three mechanisms of change:           different social locations of the institutional
+           institutional     entrepreneurs,    structural    orders bring to light different cultural tools
+           overlap, event sequencing, and a fourth           for institutional entrepreneurs (Thornton,
+           topic, often an antedecent or conse-              2004). Note the focus on cultural resources
+           quence of change – competing institutional        as distinct from material resources; culture
+           logics.                                           being something people strategically use,
+                                                             deploy, and mobilize. This focus is consistent
+           Institutional entrepreneurs                       with the meta-theory of the institutional
+           Institutional entrepreneurs are the agents that   logics approach which views culture as both
+           create new and modify old institutions            a motivation as well as a justification of
+           because they have access to resources that        action.
+           support their self-interests (DiMaggio,              There are several mechanisms that institu-
+           1988). By definition, institutional entrepre-     tional entrepreneurs use to manipulate cul-
+           neurs can play a critical role in perceiving      tural symbols and practices, for example
+           institutional differentiation, fragmentation,     story telling (Zilber, 2006), rhetorical
+           and contradiction by virtue of the different      strategies (Suddaby and Greenwood 2005;
+           social locations they may occupy in the inter-    Jones and Livne-Tarandach, forthcoming),
+           institutional system and in taking advantage      and tool kit approaches (Swidler 1986;
+           of the opportunities it presents for institu-     Boltanski and Thevenot 1991).
+           tional change (Thornton, 2004). Fligstein            Suddaby and Greenwood (2005) showed,
+           (1997), for example, describes how entrepre-      for example, in their study of organizational
+           neurs perceive and exploit contradictions in      forms in the accounting industry, how institu-
+           institutional logics to further their self-       tional entrepreneurs used ‘rhetorical strate-
+           interest. DiMaggio (1988: 14–15) argues that      gies’ to reinterpret and manipulate prevailing
+           the creation of institutions requires an          symbols and practices. Rhetorical strategies
+           institutionalization project in which the         or ‘institutional vocabularies’ were used by
+           claims of institutional entrepreneurs are sup-    entrepreneurs to affirm or discredit the dom-
+           ported by existing or newly mobilized actors      inant institutional logic which defined the
+           who stand to gain from the success of the         legitimacy of organizational forms. To
+           institutionalization project (DiMaggio,           discredit an institutional logic and bring
+           1991). The challenge for the institutional        about institutional change, entrepreneurs
+           entrepreneur is to create an environ-             exposed the contradictions or ameliorated the
+           ment to successfully enact the claims of a        contradictions by associating them with
+           new public theory. Sometimes this involves        broader cultural analogies (Douglas, 1986;
+           institutional entrepreneurs organizing from       Strang and Meyer, 1994).
+           the center of an established environment             In returning to Holm’s (1995) concern
+           (Suddaby and Greenwood, 2005) and at              with embedded agency, Leca and Naccache
+           other times it may stem from the periphery        (2006) argue from a critical realist
+           of emerging fields (Maguire, Hardy, and           perspective that the concept of institutional
+           Lawrence, 2004).                                  entrepreneur does not completely address
+              However, the environments that institu-        the paradox of embedded agency because the
+           tional entrepreneurs enact to garner control      concept by definition does not take
+           of resources are not just material, they are      into account the interrelated sequencing of
+
+
+===== PDF文件第18页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM    Page 116
+
+
+
+
+          116               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          structures and actions and the causal emer-        interesting because it is inconsistent with
+          gent properties of both structures and             extant theory which would predict
+          actions. They argue for a critical realist         change from the periphery, not the center
+          approach in which actors use the causal            of the field. They argue that contact
+          powers of pre-existing structures to               with institutional logics in multiple and
+          create new institutions or challenge exist-        different organizational fields increases
+          ing ones. We highlight their important             the awareness of and experiences with
+          insight as it motivates our subsequent discus-     contradictions in logics, which lowers con-
+          sion of structural overlap and event               straints and embeddedness of actors and
+          sequencing.                                        enables central actors to become institutional
+                                                             entrepreneurs.
+          Structural overlap
+          Structural overlap occurs when individual          Event sequencing
+          roles and organizational structures and func-      Event sequencing is defined as the temporal
+          tions that were previously distinct are forced     and sequential unfolding of unique events
+          into association (Thornton, 2004). Mergers         that dislocate, rearticulate, and transform the
+          and acquisitions are an example of structural      interpretation and meaning of cultural sym-
+          overlap when organizational actors from            bols and social and economic structures
+          divergent cultures are forced into associat-       (Sewell, 1996: 844). For example, this can be
+          ion, triggering a change in institutional          changes in cultural schemas, shifts of
+          logics guiding the firm. Structural over-          resources, and the emergence of new sources
+          lap across systems with differentiated             of power. As noted above, because structures
+          logics creates contradiction in organiza-          are often overlapping, any rupture has the
+          tions and organizational fields, creating          potential of cascading into multiple changes,
+          entrepreneurial opportunities for institutional    particularly when the events are character-
+          change.                                            ized by heightened emotion, collective
+             For example, Stovel and Savage (2005)           creativity, and ritual. The accumulation
+          showed how a merger wave exposed compet-           of events can result in a path-dependent
+          ing institutional logics and triggered the elab-   process in which shifts in the symbolic inter-
+          oration of the modern, mobile, bureaucratic        pretation of events are locked in place by
+          career in the financial sector. Thornton,          simultaneous shifts in resources. Such
+          Jones, and Kury (2005) illustrated how the         sequencing produces more events that
+          structural overlap when accounting firms           reinforce or erode the dominance of the
+          incorporated management consultants into           incumbent logic.
+          their organizations brought professional and          Event sequencing has been used as an ana-
+          market logics head to head and conflicted the      lytical method to address the problem of
+          focus of attention of accountants from over-       embedded agency or what Barley and Tolbert
+          seeing the accuracy of client’s books to using     (1997) term conflation and the problem of
+          exposure to accounting ledgers to identify         reducing structure to action or action to
+          consulting clients. Greenwood and Suddaby          structure. (How such event sequences inter-
+          (2006), in their analysis of a pioneering new      sect to reveal causation has been extensively
+          organizational form, the multidisciplinary         examined in the literature on historical com-
+          practice (MDP) within the field of business        parative methods of analysis (Abbott, 1990;
+          services, theorize a case of structural overlap    Griffin, 1992; Sewell, 1992, 1996)). There
+          in which elite organizations are more likely       are several ways to assess the impact of event
+          to come into contact with competing and            sequencing on institutional change –
+          contradictory logics because they bridge           for example, nominal and ordinal compar-
+          different organizational fields. They point        isons and narrative analysis (Mahoney,
+          out that this case of institutional change is      1999). These are different strategies of
+
+
+===== PDF文件第19页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM     Page 117
+
+
+
+
+                                                  INSTITUTIONAL LOGICS                                      117
+
+
+           macro-causal analysis – ways that                   culture a monolithic and coherent influence on
+           researchers iterate between theory and his-         actors that results from socialization (Parsons,
+           tory in identifying the causes of an outcome.       1951). Instead, conceptualizing society as an
+           The narrative analysis method is used to            inter-institutional system implies that the insti-
+           understand the ordering of circumstantial           tutional orders have modularity and decom-
+           detail in searching for analogies that are the      posable elements. The decomposable nature
+           foundation for new and convincing accounts.         of institutional logics allows for theorizing the
+           In the institutional logics literature, it is the   fragmented and contradicted nature of cultural
+           institutional orders of the inter-institutional     influences, revealing this not only at different
+           system that provide the meta-theory which           levels of analysis, for example individuals and
+           points to these analogies and that prevent the      organizations, but also in specific contexts in
+           analysis from getting bogged down in the            which individuals actively import and export
+           minutia of historical details.                      elements of institutional logics across institu-
+              For example, the case of the change in           tional orders (Thornton, 2004). Thus, the
+           institutional logics in higher education            decomposability of the elements of the inter-
+           publishing from 1958 to 1990, from an               institutional system makes it possible to
+           editorial (based in the logics of the family        observe the influence of cultural institutions
+           and the professions) to a market logic,             from the standpoint of the vertical coherence
+           reveals the causally linked events that inter-      and fragmentation of different levels of
+           acted to produce a shift in the prevail-            analysis, not only bottom up or top down
+           ing institutional logic (Thornton, 2004).           (Schneiberg and Clemens, 2006), but also
+           Event sequencing is also shown to play              from the horizontal blending and segregating
+           a role in institutional change in the account-      of the elements of different orders of the
+           ing profession (Thornton, Jones, and                inter-institutional system. This, for example,
+           Kury, 2005). Hoffman and Ocasio (2001)              enables theorizing institutional change
+           theorize what determines public attent-             processes such as bricolage, which is the
+           ion to events that trigger institutional            creation of new practices and institutions
+           change.                                             from different elements of existing institutions
+              So what are the implications of individuals      (Levi-Strauss, 1966). Thus, in returning to the
+           and organizations in a sea of cultural fragmen-     question of embedded agency, the institutional
+           tation and contradiction? It means that to          entrepreneur does not disembed from the
+           study cultural institutions researchers need a      social world to create change – structures and
+           theoretical framework that can accommodate          actions are separable (Leca and Naccache,
+           how individuals’ norms may deviate from             2006), allowing institutional entrepreneurs to
+           norms at higher levels of analysis, for example     hop and bridge from one social world to
+           at the level of individuals as distinct from cor-   another. Our review leads us to be encouraged
+           porate management or professional associa-          that literatures on organizations and culture
+           tions (DiMaggio, 1997: 265). This multi-level       are converging, creating these fresh views on
+           and multi-contextual requirement calls for a        the topic of agency.
+           theory that conceptualizes how to partition
+           ‘units of cultural analysis’ and the relations      Competing logics
+           among them (Holm, 1995). We argue that the          A focus on competition between alternative
+           inter-institutional system is well suited to this   institutional logics has guided research on
+           task because each institutional order has dis-      institutional change. This diverse literature
+           tinct organizing principles, cultural symbols,      encompasses a wide variety of mechanisms
+           and logics of action that clarify how to define     to explain the effects of competing logics on
+           units of cultural analysis. Culture is not just     change, including environmental selection
+           amorphously out there in ‘thin air’ as per the      pressures, political contestation, and social
+           critique of culture as a world system, nor is       movements. We emphasize that competing
+
+
+===== PDF文件第20页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 118
+
+
+
+
+          118              THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          logics are not, by themselves, an explanation        Other studies on competing institutional
+          for change in institutional logics but an         logics highlight power struggles among pro-
+          antecedent or a consequence. Moreover,            ponents of alternative logics. Reay and
+          competing logics can facilitate resistance to     Hinings’ (2005: 375) description of the
+          institutional change as in the case of the con-   Alberta Canada case of health care services
+          test between the institutional logics of global   bears similarities. Their lens focuses on a
+          corporate and local professional banking          recomposition of an organizational field in
+          (Marquis and Lounsbury, 2007). The causal         which competing institutional logics of med-
+          mechanisms for institutional change reside        ical professionalism versus business-like
+          not in competition per se, but on a combina-      health care is driving a radical change
+          tion of the effects of market selection pres-     process. They conceptualize the organiza-
+          sures, power of institutional actors,             tional field as a battlefield where power
+          and changes in the relative prevalence of         struggles motivated by competing institu-
+          societal-level institutional logics, which        tional logics get played out. The structure of
+          unfortunately in many studies is typically        the field and the dominant institutional logic
+          unspecified.                                      changed, but the previously dominant logic
+             Much work has utilized both case and           of medical professionalism was only sub-
+          quantitative studies of competing logics in       dued rather than eliminated. The power
+          professional and occupational domains, for        ended up being distributed between the two
+          example finance, health care, accounting,         powerful actors – the physicians and the gov-
+          and culinary. Comparing and contrasting           ernment – creating a countervailing or stabi-
+          studies across professional and occupational      lizing tension.
+          contexts reveals the vibrant ecology of              Meyer and Hammerschmid (2006: 1012)
+          competing institutional logics of the inter-      analyze to what extent an old administrative
+          institutional system.                             orientation is being replaced with a new
+             Early research by Haveman and Rao              managerial logic in the Austrian public
+          (1997) on mutual funds, described above,          sector. They trace institutional change by
+          adopted a selection meta-theory, positing         observing how state bureaucrats make use of
+          how environmental selection pressures             social identities that are derived from com-
+          favored organizational forms more congruent       peting institutional logics. They have found
+          with their institutional environments.            evidence of the formation of a new manage-
+          Similarly, the Scott et al. (2000) historical     rial identity created by individuals who
+          account of the Bay Area health care system is     mixed a new orientation with more orthodox
+          exemplary in describing institutional change      beliefs on public administration.
+          from a setting once dominated by the institu-        Research on competing logics has also
+          tional logics of the medical professions to       incorporated a social movement perspective.
+          one greatly influenced by the logics of the       For example, Rao, Monin, and Durand
+          state, the corporation, and the market. Their     (2003) show how social identity movements
+          study shows how the logics of the state in        underpin reinstitutionalization in the culinary
+          terms of new regulatory systems disempow-         professions by contrasting the institutional
+          ered those of the professions, in particular      logics of the classic and nouvelle cuisine
+          the more powerful and higher priced MDs,          movements. Change in logics and change in
+          creating an avenue for managers of corporate      the adherence to a logic take place through
+          logics in the form of managed care and new        four mechanisms, the sociopolitical legiti-
+          organizational forms such as Health               macy of food critics as activists, the theoriza-
+          Maintenance Organizations (HMOs), Point           tion of new roles, prior defections by peers
+          of Provider Organizations (PPOs), and surgi-      and gains to peers, and gains to defectors as
+          centers to become commonplace in the              identity-discrepant cues. In essence, institu-
+          health care system.                               tional logics and professions undergo change
+
+
+===== PDF文件第21页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 119
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                            119
+
+
+           when activists gain control of professional        A market in one historical and cultural con-
+           societies, critique the traditional logic, and     text is not the same as a market in another
+           proffer a solution hinging on a new institu-       (Fligstein, 1996). Similarly non-market
+           tional logic. Note, the theory doesn’t fore-       institutions, such as professions, the family,
+           shadow why critic activists chose to engage        and religion are also economic structures and
+           in an institutional deconstruction project.        are not independent from market forces
+           One can surmise the influence of other social      of demand and supply (Friedland and Alford,
+           movements that are supported by other              1991).
+           domains in the professions and even other             Second, institutional logics do not emerge
+           institutional orders, for example the more         from organizational fields – they are locally
+           generic health movement.                           instantiated and enacted in organizational
+              Overall, the studies of competing institu-      fields as in other places such as markets,
+           tional logics focus either on strategies of        industries, and organizations. Institutional
+           action at a lower level of analysis, for exam-     logics stem from the institutional orders of
+           ple an organizational field, for example Reay      the inter-institutional system (Friedland and
+           and Hinings (2005), or on how a higher-            Alford, 1991), not as commonly miscon-
+           level institutional logic at the societal-sector   strued from an organizational field (Scott,
+           level transforms strategies of action in a         2001: 139). Institutional logics through
+           lower-level domain, for example Haveman            various mechanisms may get reshaped and
+           and Rao (1997) and Meyer and                       customized in an organizational field.
+           Hammerschmid (2006). This difference may           However, an organizational field is a level of
+           be partly reflected in the research design, for    analysis; it is a place where institutional
+           example the qualitative study of a case versus     logics get played out, but not by itself a
+           the quantitative analysis of a specific instan-    theoretical mechanism. Friedland and Alford
+           tiation of an institutional order. These differ-   (1991: 244) have commented around this
+           ences may also be reflected in how the             issue:
+           camera lens is focused. That is, if you get
+                                                                defining the boundaries of an organizational field,
+           close to the action as qualitative researchers       within which there are strong pressures for
+           are able to do, one is more likely to interpret      conformity, is difficult and potentially tautological.
+           the action as a power struggle when indeed it        The approach seems to assume that formal
+           may also reflect the operation of higher-level       attributes of organizational fields can be specified
+                                                                independently of the institutional arena in which
+           institutional forces.
+                                                                they are located. But, we would argue, it is the
+                                                                content of an institutional order that shapes the
+                                                                mechanisms by which organizations are able to
+                                                                conform or deviate from established patterns.
+           MISCONCEPTIONS REGARDING                             These institutional orders, and the specific relations
+           INSTITUTIONAL LOGICS                                 between them, delimit types of organizational
+                                                                fields.
+
+           With respect to the institutional logics           Third, ideal types are not a description of
+           approach there are several misconceptions in       what happens in an organizational field. Ideal
+           our view that we feel compelled to comment         types are formal analytical models by which
+           on. One is a continued juxtaposition between       to compare empirical observations across
+           institutional and market structures (e.g.,         institutions. Therefore, ideal types are best
+           Greenwood and Suddaby, 2006). While mar-           developed at least in pairs, if not multiple
+           kets are economic structures – they are also       characterizations. Instead, often what are
+           institutions. They function because of a set of    often mischaracterized as ideal types are a
+           formal laws and normative expectations             description of a particular case study rather
+           about them and these normative expectations        than a set of findings that can be refuted or
+           have changed through time and space.               generalized and aggregated.
+
+
+===== PDF文件第22页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08     5:27 PM    Page 120
+
+
+
+
+          120               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+             Fourth, most studies of institutional logics    theory requires increased attention to its
+          do not in some way tie their analyses back to      microfoundations. DiMaggio’s (1997) paper
+          the institutional orders of the inter-             on culture and cognition is a start, providing
+          institutional system. This is partly due to        a link between the microfoundations of
+          page limitation requirements of the journals       cognitive processes and the cultural
+          and a focus on other alternative units of          structures inherent in institutional logics. But
+          analysis. In other cases it appears due to the     cognitive theory is only part of the story. The
+          authors who do not focus on causal relation-       Carnegie School is another source and the
+          ships both up and down stream. To simply           recent call for a neo-Carnegie perspective
+          and briefly recognize these multi-level            may also yield answers (Gavetti, Levinthal,
+          relationships is important to further the          and Ocasio, 2007). Given the rejection of
+          development of the institutional logics            rational choice theory, how embedded inter-
+          approach as it systematically advances and         ests, identity and commitments play a role is
+          foreshadows questions for future study. For        an important topic for further theoretical
+          example, why do culinary critics, the lynch        development and empirical research.
+          pin of the four mechanisms that begin the             New methodologies that make use of
+          shift in chef identities, decide to favor          web-based experiments show promise in
+          nouvelle over classic cuisine? Are these           research linking levels of analysis and also in
+          critics, for example, increasingly under           partitioning causes and effects by level of
+          market pressures or have professional pres-        analysis, helping to specify the underlying
+          sures changed in some way?                         theoretical mechanisms (Thornton, 2004).
+                                                             For example, Salganik, Dodds, and Watts
+                                                             (2006) show the micro-macro linkages in
+          SUGGESTIONS FOR FUTURE                             how people select songs. This partitioning
+          RESEARCH                                           also should address the meta-theoretical
+                                                             assumption of incorporating both the
+          The main intellectual hurdle in institutional      material and cultural. However, incorporating
+          analysis is in many respects the same as it is     both is not enough – what is needed is theory
+          for sociological theory more generally. We         and methods to partition these effects – that is
+          need to better understand how macro-level          to understand the autonomy of culture from
+          states at one point in time influence individ-     economy (DiMaggio, 1994).
+          uals’ orientations to their actions, prefer-          Future research needs to move beyond
+          ences, beliefs; how these orientations to          implicit assumptions and to engage explicit
+          action influence how individuals act; and          discussion of the underlying theoretical
+          how the actions of individuals constitute the      mechanisms, that is the clear identification of
+          macro-level outcomes that we seek to               the ‘gears and ball bearings behind the statis-
+          explain. Moreover, how does the stability of       tical models’ (Davis and Marquis, 2005).
+          institutional logics change systematically by      Without formalization of the theory and
+          level of analysis – is it more stable or change-   methods, studies of institutions cannot build
+          able at the top or bottom, macro- or micro-        upon or invalidate one another and the social
+          level of analysis? This is a big theoretical       science of institutions cannot grow systemat-
+          question.                                          ically (Pfeffer, 1993). Instead, it will be
+             We need more work on the microfounda-           forgotten as it was in the past (Hughes, 1939;
+          tions of institutional logics. Work on institu-    Selznick, 1949, 1957).
+          tional logics is inherently cross-level,              Most research on institutional analysis has
+          highlighting the interplay between individu-       revealed the effects of market rationalization
+          als, organizations, and institutions. While the    or state regulation; the latter is more about
+          embedded agency of actors is a key meta-           resource dependence than institutional analy-
+          theoretical assumption, as discussed above, a      sis. In theory, other underlying patterns of
+          fully developed perspective on institutional       institutional change should exist. Given the
+
+
+===== PDF文件第23页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 121
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                     121
+
+
+           interpenetration of institutions across levels     in institutional change, we need work on
+           this raises the question of what implications      institutional logics, at various levels, organi-
+           this has for the rise of market logics in soci-    zations, industries, fields, societies, and
+           etal sectors where you would not expect to         world systems can themselves be institution-
+           see markets operating, such as in the case of      alized and deinstitutionalized. In examining
+           families and the rising salience of religions in   this issue it is important to distinguish
+           a world system.                                    between changes in logics and changes in
+              Institutional change occurring in the           practices. What constitutes an institution
+           global multi-national context provides fertile     remains an unresolved conceptual issue
+           ground for new research. Contrary to               for the field. How and why actors manipulate
+           Friedland and Alford's (1991) formulation,         and switch institutional logics and in
+           the institutional logics perspective and in        particular cases in which manipulations and
+           particular the inter-institutional system is an    switches are not supported by cultural
+           analytical tool not limited to expectations of     analogy are important empirical papers to
+           Western culture. It is also useful in analyses     anticipate.
+           of international contexts as evidenced by
+           recent applications examining the influence
+           of cross-national institutional logics on          CONCLUSION
+           employee training (Luo, 2007) and business
+           group restructuring in emerging economies          With the exception of DiMaggio and
+           (Chung and Luo, forthcoming).                      Powell’s (1983) theory of isomorphism,
+              We think there is a healthy growth of           institutional theory has lacked coherence.
+           measurement strategies of institutional logics     Subsequently, two papers have affected the
+           on the horizon. Most quantitative research on      abandonment of isomorphism theory and the
+           institutional logics has relied on indirect        cognitive meta-theory espoused by
+           measures of institutional logics, attempting       DiMaggio and Powell (1991), namely that of
+           to bolster this approach by combining              Kraatz and Zajac (1996) and Hirsch’s (1997)
+           research methodologies and triangulating           (in our judgment inaccurate) critique of
+           historical and interview methodologies with        Scott’s ([1995] 2001) emphasis on the cogni-
+           quantitative methodologies. Content analytic       tive perspective. The impact of these papers
+           methodologies by Scott et al. have been            left institutional theory adrift with Scott’s
+           attempted, albeit these have not been              ‘carriers’ perspective. As a result, much of
+           incorporated directly into the literature.         what is called institutional theory these days
+           Research on vocabularies and cultural              is not very institutional at all. Instead it is
+           structures provide opportunities in this area      about resource dependencies, political strug-
+           and the use of techniques employed in mar-         gles, social movements, and other mecha-
+           keting such as focus groups and the field test-    nisms which, while important, are really
+           ing of ideal types. More cross-over research       about non-institutional forces driving institu-
+           is needed between network and institutional        tional change. Within this political sociolog-
+           scholars as network methodologies offer a          ical vein, culture is relegated to the narrower
+           well-established set of methods that can be        topic of how groups and social movements
+           used for direct measurement of the meaning         make use of rhetoric and framing to be
+           of cultural categories (Breiger and                persuasive (Suddaby and Greenwood, 2005).
+           Mohr, 2004).                                       The institutional logics approach provides an
+              How institutional logics become institu-        important remedy to this theoretical drift
+           tionalized and deinstitutionalized continues       away from institutional effects, by highlight-
+           to be a vibrant vein of work. Synthesis of the     ing how the cultural dimensions of institu-
+           state of what we know in this realm is             tions both enable and constrain social action.
+           needed. While work on institutional change            We review how the institutional logics
+           has focused on the role of competing logics        approach is a systematic way to theorize and
+
+
+===== PDF文件第24页（不是印刷页码） =====
+
+9781412931236-Ch03    1/11/08     5:27 PM     Page 122
+
+
+
+
+          122               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          measure the influence of institutions on indi-       REFERENCES
+          vidual and organizational behavior. Without
+          positing isomorphism or organizational sta-          Abbott, A. 1988. The System of Professions:
+          bility, the institutional logics approach offers        An Essay on the Division of Expert Labor.
+          precision in understanding how individual               Chicago: University of Chicago Press.
+          and organizational behavior is located in a          Albert, S. and D. Whetten. 1985.
+          social context and the social mechanisms that           ‘Organizational Identity,’ Research on
+          influence that behavior. By categorizing soci-          Organizational Behavior, Vol. 7, 263–295.
+                                                                  JAI Press.
+          etal influences as an inter-institutional
+                                                               Aldrich, H., and C. M. Fiol, 1994. ‘Fools Rush
+          system, previously tractable issues such as
+                                                                  in? The Institutional Context of Industry
+          embedded agency and institutional change                Creation,’ Academy of Management Review
+          can be better addressed. Through the use of             19 (4): 645–670.
+          increasingly sophisticated methods of inter-         Alford, R. R. and R. Friedland, 1985. Powers of
+          pretive analysis, most notably the use of ideal         Theory: Capitalism, the State, and
+          types and discourse analysis coupled with               Democracy.          Cambridge:       Cambridge
+          quantitative modeling techniques, the institu-          University Press.
+          tional logics approach is well positioned to         Barley, S. R. and Tolbert, P. S. 1997.
+          continue to address the questions of the cog-           ‘Institutionalization and Structuration: Studying
+          nitive meaning of culture and institutions.             the Links Between Action and Institution,’
+                                                                  Organization Studies 18 (1): 93–117.
+             An important advantage of the institu-
+                                                               Battilana, J. 2006. ‘Agency and Institutions:
+          tional logics approach as meta-theory is its
+                                                                  The Enabling Role of Individuals’ Social
+          systematic means to associate various theo-             Position,’ Organization, Forthcoming.
+          ries (explanations) of organization and action       Becker, Gary, S. 1976. ‘On the Relevance of the
+          in which institutions and their effects and             New Economics of the Family,’ The American
+          how actors constitute institutions can be               Economic Review, August.
+          understood and measured objectively – they           Benford, R. D. and D. A. Snow, 2000. ‘Framing
+          can be heard, recorded, classified, and asso-           Processes and Social Movements: An
+          ciated with a set of actors and strategic               Overview and Assessment,’ Annual Review
+          actions.                                                of Sociology, Vol. 26, 611–639.
+             In this review we focused on an analysis of       Berger, P. and Thomas Luckmann. 1967. The
+                                                                  Social Construction of Reality. New York:
+          the implicit and explicit social mechanisms
+                                                                  Doubleday Anchor.
+          in a variety of studies, not on the description
+                                                               Bhappu, Anita D. 2000. ‘The Japanese Family:
+          or strength of their empirical findings. Our            An Institutional Logic for Japanese
+          approach was guided by believing that the               Corporate        Networks      and     Japanese
+          advancement of institutional analysis in the            Management,’ Academy of Management
+          social sciences requires an analytic, not a             Review 25 (2): 409–515.
+          descriptive approach, that ‘explains’                Boltanski, Luc and Laurent Thevenot. [1986]
+          observed associations between individuals,              1991. On Justification: Economies of Worth.
+          organizations, and societies.                           Princeton, NJ: Princeton University Press.
+                                                               Breiger, Ronald and John Mohr. 2004.
+                                                                  ‘Institutional Logics from the Aggregation of
+          NOTES                                                   Organizational Networks,’ Computational
+                                                                  and Mathematical Organization Theory 10:
+                                                                  17–43. Kluwer Academic.
+             1 Publishers included among others, Len
+          Louchow, former CEO of Jossey-Bass, and John
+                                                               Brickson, Shelley. 2000. ‘The Impact of Identity
+          Davis, former head of the Prentice-Hall College         Orientation on Individual and Organizational
+          Division. Louchow used the ideal types in teaching      Outcomes in Demographically Diverse
+          the leadership course for the Stanford University       Settings,’ Academy of Management Review,
+          Publishers College.                                     25 (1): 82–101.
+
+
+===== PDF文件第25页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08      5:27 PM     Page 123
+
+
+
+
+                                                    INSTITUTIONAL LOGICS                                         123
+
+
+
+           Carroll, Glenn and Michael Hannan. 2000. The          Dutton, Jane E. and J. Dukerich. 1991. ‘Keeping
+             Demography of Corporations and Industries.             an Eye on the Mirror: Image and Identity in
+             Princeton, NJ: Princeton University Press. P. 43.      Organizational Adaptation,’ Academy of
+           Cerulo, Karen. 1997. ‘Identity Construction:             Management Journal 34 (3): 517–554.
+             New Issue, New Directions,’ Annual Review           Fine, Gary Alan. 1996. Difficult Reputations:
+             of Sociology, vol. 23, 385–409.                        Collective Memories of Evil, Inept, and
+           Chandler, Alfred D. 1962. Strategy and                   Controversial. University of Chicago Press.
+             Structure. New York: Doubleday.                     Fligstein, Neil. 1985. ‘The Spread of the
+           Chung, Chi-Nien, and Xiaowei Luo forthcom-               Multidivisional Form among Large Firms,
+             ing. 'Institutional Logics or Agency Costs:            1919–1979,’ American Sociological Review
+             The Influence of Corporate Governance                  50 (3): 377–391.
+             Models on Business Group Restructuring in           Fligstein, Neil. 1987. ‘The Interorganizational
+             Emerging Economies,' Organization Science.             Power Struggle: The Rise of Finance
+           Davis, Gerald F., and Christopher Marquis.               Personnel to Top Leadership in Large
+             2005. ‘Prospects for Organization Theory in            Corporations, 1919–1979,’ American
+             the Early Twenty-First Century: Institutional          Sociological Review 52: 44–58.
+             Fields and Mechanisms,’ Organization                Fligstein, Neil. 1990. The Transformation of
+             Science 16 (4): 332–343.                               Corporate Control. Cambridge, MA: Harvard
+           DiMaggio, Paul J. 1988. ‘Interest and agency             University Press.
+             in institutional theory,’ in Institutional          Fligstein, Neil. 1996. ‘Market as Politics: A
+             Patterns and Organizations: Culture and                Political-Cultural Approach to Market
+             Environment, ed. Lynne G. Zucker, 3–21.                Institutions,’ American Sociological Review
+             Cambridge, MA: Ballinger.                              61 (4): 656–673.
+           DiMaggio, Paul J. 1991. ‘Constructing an orga-        Fligstein, Neil. 2001. The Architecture of
+             nizational field as a professional project: U.S.       Markets: An Economic Sociology of Twenty-
+             art museums, 1920–1940,’ in The New                    First-Century Capitalist Societies. Princeton,
+             Institutionalism in Organizational Analysis,           NJ: Princeton University Press.
+             ed. Walter W. Powell and Paul J. DiMaggio,          Friedland, Roger and Alford, R. Robert. 1991.
+             267–292. Chicago: University of Chicago Press.         ‘Bringing society back in: Symbols, practices,
+           DiMaggio, Paul. 1994. ‘The challenge of com-             and institutional contradictions,’ in The New
+             munity evolution,’ in Evolutionary Dynamics            Institutionalism in Organizational Analysis,
+             of Organizations, ed. Joel A. C. Baum and              ed. Walter W. Powell and Paul J. DiMaggio,
+             Jitendra V. Singh, pp. 444–456. New York:              pp. 232–263. Chicago: University of Chicago
+             Oxford University Press.                               Press.
+           DiMaggio, Paul. 1997. ‘Culture and Cognition,’        Gavetti, Daniel Levinthal, and William Ocasio.
+             Annual Review of Sociology 23: 263–287.                (2007). ‘Neo-Carnegie: The Carnegie School’s
+           DiMaggio, Paul J. and Walter W. Powell. 1983.            Past, Present, and Reconstructing for the
+             ‘The Iron Cage Revisited: Institutional                Future.’ Organization Science 20: 523–536.
+             Isomorphism and Collective Rationality in           Geertz, Clifford. 1973. The Interpretation of
+             Organizational Fields,’ American Sociological          Cultures: Selected Essays. New York: Basic
+             Review 48: 147–160.                                    Books.
+           DiMaggio, Paul and Walter W. Powell. 1991.            Giddens, Anthony. 1984. The Constitution of
+             ‘Introduction,’ in The New Institutionalism in         Society. Berkeley: University of California Press.
+             Organizational Analysis, ed. Walter W.              Glynn, Mary Ann. 2000. ‘When cymbals
+             Powell and Paul J. DiMaggio, pp.1–38.                  become symbols: Conflict over organiza-
+             Chicago: University of Chicago Press.                  tional identity within a symphony orchestra.
+           Dotty and Glick. 1994. ‘Typologies as a Unique           Organization Science 11 (3): 285–298.
+             Form of Theory Building: Toward Improved            Glynn, Mary Ann and Michael Lounsbury. 2005.
+             Understanding and Modeling,’ Academy of                ‘From the Critics’ Corner: Logic Blending,
+             Management Review 19 (2): 230–251.                     Discursive Change and Authencity in a
+           Douglas, Mary. 1986. How Institutions Think.             Cultural Production System,’ Journal of
+             Syracuse, NY: Syracuse University Press.               Management Studies 42 (5): 1031–1055.
+
+
+===== PDF文件第26页（不是印刷页码） =====
+
+9781412931236-Ch03    1/11/08    5:27 PM     Page 124
+
+
+
+
+          124               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+          Granovetter, Mark. 1985. ‘Economic Action           Jackall, Robert. 1988. Moral Mazes: The World
+            and Social Structure: The Problem of                 of Corporate Managers. New York: Oxford
+            Embeddedness,’ American Journal of                   University Press.
+            Sociology 91: 481–510.                            Jones, Candace and Reut Livne-Tarandach
+          Greenwood, Royston, and Robert Hinnings.               (Forthcoming). ‘Designing a Frame: Rhetorical
+            2006. Understanding Strategic Change: The            Strategies of Architects,’ Journal of
+            Contribution of Archetypes. Academy of               Organizational Behavior.
+            Management Journal 36 (5): 1052–1081.             Kelman, Herbert C. 1956. ‘Compliance,
+          Greenwood, Royston, and Roy Suddaby. 2006.             Identification, and Internalization: A
+            ‘Institutional Entrepreneurship in Mature            Theoretical and Experimental Approach to
+            Fields: The Big Five Accounting Firms,’              the Study of Social Influence,’ unpublished
+            Academy of Management Journal 49 (1):                manuscript.
+            27–48.                                            Kelman, Herbert C. 2006. Interests,
+          Griffin, Larry J. 1992. ‘Temporality, Events, and      Relationships, and Identities: Three Central
+            Explanation in Historical Sociology: An              Issues for Individuals and Groups in
+            Introduction,’ Sociological Methods and              Negotiating Social Environment,’ Annual
+            Research 20: 403–427.                                Review of Psychology, vol. 55: 1–26.
+          Gumport, Patricia, J. 2000. ‘Academic               King, Andrew and Michael Lenox. 2000.
+            Restructuring: Organizational Change and             ‘Industry Self Regulation Without Sanctions:
+            Institutional Imperatives, Higher Education,’        The Chemical Industry’s Responsible Care
+            The International Journal of Higher Education        Program,’ Academy of Management Care
+            and Educational Planning 39: 67–91.                  Program,’ Academy of Management Journal
+          Hasselbladh, Hans and Jannis Kallinikos. 2000.         43(4): 698–716.
+            ‘The Project of Rationalization: A Critique       Kitchener, Martin. 2002. ‘Mobilizing the Logic
+            and Reappraisal of Neo-Institutionalism in           of Managerialism in Professional Fields: The
+            Organization Studies,’ Organization Studies          Case of Academic Health Centers Mergers,’
+            21: 691-.                                            Organization Studies 23 (3): 391–420.
+          Haveman, Heather A., and Hayagreeva Rao.            Kraatz, Matthew and Edward Zajac. 1996.
+            1997. ‘Structuring a Theory of Moral                 ‘Exploring the Limits of the New
+            Sentiments: Institutional and Organizational         Institutionalism:     The      Causes     and
+            Coevolution in the Early Thrift Industry,’           Consequences of Illegitimate Organizational
+            American Journal of Sociology 102 (6):               Change,’ American Sociological Review 61
+            1606–1651.                                           (5): 812–836.
+          Hirsch, Paul M. 1997. ‘Review Essay: Sociology      Kuhn, Thomas. 1962. The Structure of Scientific
+            Without Social Structure: Neo-Institutional          Revolutions. Chicago: University of Chicago
+            Theory Meets Brave New World,’ American              Press.
+            Journal of Sociology 91: 800–837.                 Lamont, Michele and Virag Molnar. 2002.
+          Hoffman, Andrew and William Ocasio. 2001.              ‘The Study of Borundaries in the Social
+            ‘Not all Events are Attended to Equally:             Sciences,’ Annual Review of Sociology 28:
+            Toward a Middle Range Theory of Industry             167–195.
+            Attention to External Events,’ Organization       Leca, Bernard and Philippe Naccache. 2006. ‘A
+            Science 12 (4): 414–434.                             Critical Realist Approach to Institutional
+          Holm, Peter. 1995. ‘The Dynamics of                    Entrepreneurship,’ Organization 13 (5):
+            Institutionalization: Transformation Processes       627–651.
+            in Norwegian Fisheries,’ Administrative           Levi-Strauss, Claude. 1966. The Savage Mind.
+            Science Quarterly 40: 398–422.                       University of Chicago Press.
+          Hughes, Everett C. 1939. ‘Institutions,’ pp.        Lounsbury, Michael. 2002. ‘Institutional
+            281–330 in Robert E. Park, ed., An Outline           Transformation and Status Mobility: The
+            of the Principles of Sociology. New York:            Professionalization of the Field of Finance,’
+            Barnes and Noble.                                    Academy of Management Journal 45:
+          Ingram, Paul and Karen Klay. 2000. The Choice-         255–266.
+            Within-Constraints New Institutionalism and       Lounsbury, Michael. 2007. ‘A Tale of Two
+            Implications for Sociology Annual Review of          Cities: Competing Logics and Practice
+            Sociology 26: 525–546.                               Variation in the Professionalization of Mutual
+
+
+===== PDF文件第27页（不是印刷页码） =====
+
+9781412931236-Ch03   1/11/08    5:27 PM     Page 125
+
+
+
+
+                                                 INSTITUTIONAL LOGICS                                      125
+
+
+             Funds,’ Academy of Management Journal              Society, and the Individual, edited by George M.
+             50: 289–307.                                       Thomas, John W. Meyer, Francisco O. Ramirez,
+           Lounsbury, Michael and Hayagreeva Rao.               and John Boli. Newbury Park, CA: Sage.
+             2004. Sources of Durability and Change in        Meyer, John W., John Boli, Geoerge M. Thomas,
+             Market Classificiation: A Study of the             and Francisco O. Ramirez. 1997. ‘World
+             Reconstruction of Product Categories in the        Society and the Nation-State,’ American
+             American Mutual Fund Industry, 1944–1985.          Journal of Sociology 103: 144–181.
+             Social Forces 82: (3): 969–999.                  Meyer, John W. and Brian Rowan 1977.
+           Lounsbury, Michael and Marc Ventresca. 2003.         ‘Institutional Organizations: Formal Structure
+             The New Structuralism in Organization              as Myth and Ceremony,’ American Journal of
+             Theory, Organization 10 (3): 457–480.              Sociology 83: 340–363.
+           Lounsbury, Michael, Marc Ventresca and Paul        Meyer, John W. and W. R. Richard Scott (eds).
+             M. Hirsch. 2003. ‘Social Movements, Field          1983. Organizational Environments: Ritual
+             Frames, and Industry Emergence: A                  and Rationality, Beverly Hills, CA: Sage.
+             Cultural–Political Perspective on U.S.           Meyer, Renate E. and Gerhard Hammerschmid.
+             Recycling. Socio-Economic Review 1(1):             2006. ‘Changing Institutional Logics and
+             71–104.                                            Executive Identities: A Managerial Challenge
+           Luo, Xiaowei 2007. 'Continuous Learning: The         to Public Administration in Austria,’
+             Influence of National Institutional Logics         American Behavioral Scientist 49 (7):
+             on Training Attitudes,' Organization Science       1000–1014.
+             18 (2): 280–296.                                 Mizruchi, Mark S. and Lisa C. Fein. 1999. ‘The
+           Maguire, S. C. Hardy, and Thomas Lawrence.           Social Construction of Organizational
+             2004. ‘Institutional Entrepreneurship in           Knowledge: A Study of the Uses of Coercive,
+             Emerging Fields: HIV/AIDS Treatment                Mimetic, and Normative Isomorphism,’
+             Advocacy in Canada,’ Academy of                    Administrative Science Quarterly 33:
+             Management Journal 75 (5):1–23.                    194–210.
+           Mahoney, James. 1999. ‘Nominal, Ordinal, and       Mohr, John W. and V. Duquenne. 1997. ‘The
+             Narrative Appraisal in Macrocausal Analysis,’      Duality of Culture and Practice: Poverty
+             The American Journal of Sociology 104 (4):         Relief in New York City, 1988–1917,’ Theory
+             1154–1196.                                         and Society 26 (2–3): 305–356.
+           March, James G. and Johan P. Olsen. 1976.          Mohr, John W. and Francesca Guerra-Pearson
+             Ambiguity and Choice in Organizations.             (Forthcoming). The Duality of Niche and
+             Bergen, Norway, Universitetsforlaget.              Form: The Differentiation of Institutional
+           March, James and Olsen. 1989. Rediscovering          Space in New York City, 1999–1917. In How
+             Institutions: The Organizational Basis of          Institutions Change, Walter Powell and Dan
+             Politics. New York: Free Press.                    Jones (Eds). Chicago: University of Chicago
+           Marquis, Christopher and Michael Lounsbury.          Press.
+             2007. Vive La Resistance: Competing Logics       Moorman, Christine. 2002. ‘Consumer Health
+             and the Consolidation of the U.S.                  under the Scope,’ Journal of Consumer
+             Community         Banking.    Academy       of     Research 29: 152–158.
+             Management Journal 50 (4): 799–820.              North, Douglas C. 1990. Institutions,
+           Martin, Joanne. 1992. Cultures in Organizations:     Institutional Change, and Economic
+             Three Perspectives. New York: Oxford               Performance. Cambridge, UK: Cambridge
+             University Press.                                  University Press.
+           Medin, Douglas L. 1989. ‘Concepts and              Ocasio, William. 1995. ‘The Enactment of
+             Conceptual Structure,’ The American                Economic Adversity: A Reconciliation of
+             Psychologist, Dec. 1, vol. 44, no. 12, 1469.       Theories of Failure-Induced Change and
+           Merton, Robert K. 1949, 1957, 1968. Social           Threat-Rigidity,’ Research in Organizational
+             Theory and Social Structure. Glencoe, IL: Free     Behavior 17: 287–331.
+             Press.                                           Ocasio, William. 1997. ‘Toward an Attention-
+           Meyer, John W., John Boli, and George M.             Based View of the Firm,’ Strategic
+             Thomas. 1987. ‘Ontology and Rationalization in     Management Journal 18: 187–206.
+             the Western Cultural Account.’ Pp. 12-37 in      Ocasio, William. 1999. ‘Institutionalized Action
+             Institutional Structure: Constituting State.       and Corporate Governance: The Reliance on
+
+
+===== PDF文件第28页（不是印刷页码） =====
+
+9781412931236-Ch03    1/11/08     5:27 PM     Page 126
+
+
+
+
+          126               THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+            Rules of CEO Succession,’ Administrative           Reay, Trish, and C. R. Hinings. 2005. ‘The
+            Science Quarterly 44 (2): 384–416.                    Recomposition of an Organizational Field:
+          Ocasio, William, and Hyosun Kim. 1999. ‘The             Health Care in Alberta,’ Organization Studies
+            Circulation of Corporate Control: Selection of        26 (3): 351–384.
+            Functional Backgrounds of New CEOs in              Rosch,        Eleanor.       1975.       ‘Cognitive
+            large U.S. Manufacturing Firms, 1981–1992,’           Representations of Semantic Categories,’
+            Administrative Science Quarterly 44 (2):              Journal of Experimental Psychology-General
+            384–416.                                              104 (3): 192–233.
+          Ocasio, William, and Joseph 2005. ‘Cultural          Ruef, Martin. 1999. ‘The Dynamics of
+            adaptation and institutional change: The              Organizational Forms: Creating Market
+            evolution of vocabularies of corporate gover-         Actors in the Health Care Field,’ Social Forces
+            nance, 1972–2003,’ Poetics 33 (3–4).                  77 (4): 1405–1434.
+          O’Reilly, Charles and Jennifer A. Chatman. 1996.     Salganik, M. J., P. S. Dodds, and D. J. Watts.
+            ‘Culture as social control: Corporations, cults,      2006. ‘Experimental study of inequality and
+            and commitment,’ Research in Organizational           unpredictability in an artificial cultural
+            Behavior 18: 157–200.                                 market. Science 311 (5762): 854-856.
+          Parsons, Talcott. 1951. The Social System. New       Schneiberg, Marc and Elizabeth S. Clemens.
+            York: Free Press.                                     2006. ‘The Typical Tools for the Job: Research
+          Parsons, Talcott. 1956. ‘Suggestions for a              Strategies in Institutional Analysis,’
+            Sociological Approach to the Theory of                Sociological Theory 24 (3): 195–227.
+            Organizations,’ Administrative Science             Scott, W. Richard. [1995] 2001. Institutions and
+            Quarterly 1: 63–85.                                   Organizations, 2nd edn. Thousand Oaks, CA:
+          Peteraf, Margaret, and Mark Shanley. 1997.              Sage.
+            ‘Getting to know you: A theory of strategic        Scott, W. Richard, Martin Ruef, Peter Mendel,
+            group identity,‘ Strategic Management                 and Carole Caronna. 2000. Institutional
+            Journal 18: 165–186.                                  Change and Health Care Organizations:
+          Pfeffer, Jeffrey. 1993. ‘Barriers to the Advance        From Professional Dominance to Managed
+            of Organizational Science: Paradigm                   Care. Chicago: University of Chicago Press.
+            Development as a Dependent Variable,’              Searle, John R. 1995. The Social Construction
+            Academy of Management Journal 19 (4):                 of Reality. New York: The Free Press.
+            599–620.                                           Selznick, Phillip. 1948. ‘Foundations of the
+          Phillips, Nelson, and Cynthia Hardy. 2002.              Theory of Organization,’ American Sociological
+            Discourse Analysis: Investigating Processes           Review 13: 25–35.
+            of Social Construction. Thousand Oaks, CA:         Selznick, Phillip. 1949. TVA and the Grass Roots.
+            Sage.                                                 Berkeley: University of California Press.
+          Polleta, F. and J. M. Jasper. 2001.’Collective       Selznick, Phillip. 1957. Leadership in Administ-
+            Identity and Social Movements,’ Annual                ration. Berkeley: University of California Press.
+            Review of Sociology 27: 283–305.                   Seo, M. G. and W. E. Douglas Creed. 2002.
+          Porac, Joseph, Howard Thomas, and Charles               ‘Institutional Contradictions, Praxis and
+            Baden-Fuller. 1989. ‘Competitive Groups as            Institutional     Change:       A     Dialectical
+            Cognitive Communities: The Case of                    Perspective,’ Academy of Management
+            Scottish Knitwear Manufacturers,’ Journal of          Review 27 (2): 222–247.
+            Management Studies 26 (4): 397–416.                Sewell, William H. Jr. 1992. ‘A Theory of
+          Rao, Hayagreeva, Philippe Monin, and                    Structure:       Duality,     Agency,        and
+            Rodolphe Durand. 2003. ‘Institutional                 Transformation,’ American Journal of
+            Change in Toque Ville: Nouvelle Cuisine as            Sociology 98: 1–29.
+            an      Identity   Movement        in   French     Sewell, William H. Jr. 1996. ‘Historical Events as
+            Gastronomy,’ American Journal of Sociology            Transformations of Structures: Inventing
+            108 (4): 795–843.                                     Revolution at the Bastille,’ Theory and
+          Rao, Hayagreeva, Phillipe Monin, and Rudolph            Society 25, 841–881.
+            Durand. 2005. ‘Border Crossing: Bricolage          Stinchcombe, Arthur L. 1991. ‘The Conditions of
+            and the Erosion of Categorical Boundaries in          Fruitfulness of Theorizing about Mechanisms
+            French Gastronomy, American Sociological              in Social Science,’ Philosophy of the Social
+            Review 70: 968–991.                                   Sciences 21, 3 (September): 367–387.
+
+
+===== PDF文件第29页（不是印刷页码） =====
+
+9781412931236-Ch03    1/11/08     5:27 PM      Page 127
+
+
+
+
+                                                     INSTITUTIONAL LOGICS                                        127
+
+
+           Stinchcombe, Arthur L. 2002. ‘New Sociological            Sociology of Organizations, ed. Candace
+              Microfoundations for Organizational Theory:            Jones and Patricia H. Thornton, 125–170.
+              A Postscript.’ In Social Structures and Organi-        London: JAI.
+              zations Revisited, vol. 19, ed. M. Lounsbury        Thornton, Patricia, and William Ocasio. 1999.
+              and M. Ventresca, 415–433. Amsterdam:                  ‘Institutional Logics and the Historical
+              Elsevier Science.                                      Contingency of Power in Organizations:
+           Stovel, Katherine and Mike Savage. 2005.                  Executive Succession in the Higher
+              ‘Mergers and Mobility: Organizational                  Education Publishing Industry, 1958–1990.’
+              Growth and the Origins of Career Migration             American Journal of Sociology 105 (3):
+              at Lloyds Bank,’ American Journal of                   801–843.
+              Sociology 111 (4): 1080–1121.                       Tolbert, Pamela S. and Lynne G. Zucker. 1983.
+           Strang, David and John W. Meyer. 1994.                    ‘Institutional Sources of Change in the
+              ‘Institutional conditions for diffusion,’ in           Formal Structure of Organizations: The
+              Institutional         Environments           and       Diffusion of Civil Service Reform,
+              Organizations: Structural Complexity and               1880–1935,’        Administrative        Science
+              Individualism, ed. W. Richard Scott and John           Quarterly 28: 22–39.
+              W. Meyer, 100–112. Thousand Oaks, CA:               Tuma, Nancy B. and Michael Hannan. 1984.
+              Sage; reprinted from Theory and Society                Social Dynamics: Models and Methods.
+              22(4): 487–511, August 1993.                           Orlando: Academic Press.
+           Suddaby, Roy, and Royston Greenwood. 2005.             Tyler, Tom R. 1999. ‘Why people cooperate
+              ‘Rhetorical Strategies of Legitimacy,’                 with organizations: An identity-based per-
+              Administrative Science Quarterly 50: 35–67.            spective,’ Research in Organizational
+           Swedberg, Richard. 2005. Economic Sociology               Behavior 21: 201–246.
+              Section Newsletter, American Sociological           Weber, Max. [1922] 1978. Economy and
+              Association.                                           Society: An Outline of Interpretive
+           Swidler, Ann. 1986. ‘Culture in Action:                   Sociology, ed. Guenther Roth and Claus
+              Symbols      and      Strategies,’     American        Wittich. Berkeley: University of California
+              Sociological Review 51: 273–286.                       Press.
+           Swidler, Ann. 1997. Talk of Love: How                  White, Harrison. 1992. Identity and Control:
+              Americans Use their Culture. Chicago:                  A Structural Theory of Social Action. Princeton,
+              University of Chicago Press.                           NJ: Princeton University Press.
+           Tajfel, H. and J. C. Turner. 1979. ‘An Integrative     Zajac, Edward J. and James D. Westphal.
+              Theory of Intergroup Conflict,’ in S. Worche,          2004. ‘The Social Construction of Market
+              W. G. Austins, (eds.) The Social Psychology            Value: Institutionalization and Learning
+              of Intergroup Relations. Monterey, CA:                 Perspectives on Stock Market Reactions,’
+              Brooks/Cole Publishing Co.                             American Sociological Review, vol. 69,
+           Thornton, Patricia. 2001. ‘Personal versus                433–458.
+              Market Logics of Control: A Historically            Zhou, Xueguang. 2005. ‘The Institutional
+              Contingent Theory of the Risk of Acquisition,’         Logic of Occupational Prestige Ranking,’
+              Organization Science 12: 294–311.                      American Journal of Sociology 111 (1):
+           Thornton, Patricia. 2002. ‘The Rise of the                90–140.
+              Corporation in a Craft Industry: Conflict and       Zilber, Tamar, B. 2006. ‘The Work of the
+              Conformity in Institutional Logics,’ Academy           Symbolic in Institutional Processes: Translations
+              of Management Journal 45: 81–101.                      of Rational Myths in Israeli High Tech,’
+           Thornton, Patricia. 2004. Markets from Culture:           Academy of Management Journal 49 (2):
+              Institutional Logics and Organizational                281–303.
+              Decisions in Higher Education Publishing.           Zucker, Lynne G. 1977. ‘The Role of
+              Stanford, CA: Stanford University Press.               Institutionalization in Cultural Persistence,’
+           Thornton, Patricia, Candace Jones, and                    American       Sociological      Review       42:
+              Kenneth       Kury.     2005.      ‘Institutional      726–743.
+              Logics      and      Institutional      Change:     Zucker, Lynne G. 1983. ‘Organizations as
+              Transformation in Accounting, Architecture,            Institutions,’ Research in the Sociology of
+              and Publishing,’ in Research in the                    Organizations 2: 1–47.
+
+
+===== PDF文件第30页（不是印刷页码） =====
+
+9781412931236-Ch03      1/11/08         5:27 PM     Page 128
+
+
+
+
+          128                     THE SAGE HANDBOOK OF ORGANIZATIONAL INSTITUTIONALISM
+
+
+
+          APPENDIX
+
+
+          Table 3.1      Ideal types of institutional logics in public accounting
+          Characteristic                  Fiduciary logic                          Corporate logic
+          Economic system                 Personal capitalism                      Managerial capitalism
+          Sources of identity             Accounting as a profession               Accounting as an industry
+          Sources of legitimacy           Reputation of CPAs                       Scale and scope of firm
+                                          Standardization & conservatism
+          Sources of authority            Professional association                 Management committee
+                                          Government regulation                    Managing partners
+                                                                                   Government regulation
+          Basis of mission                Build legitimacy of public corporation   Build seasonal stability of firm
+                                          Build prestige of partnership            Build status position of firm through growth
+          Basis of attention              Selling legitimacy                       Selling services
+                                                                                   Generating profits
+          Basis of strategy               Standardize and authenticate             Growth through mergers and acquisitions
+                                           client financial statements             Differentiate on client service
+          Logic of investment             Build legitimacy of profession           Build wealth & career of partners
+          Governance mechanism            CPA partnership                          Private corporation
+                                          CPA ownership                            Majority CPA ownership
+          Institutional entrepreneurs     British: Waterhouse,                     Big 8 accounting firms
+                                          Young, Niven
+                                          American: Haskels, Sells, Andersen
+          Event sequencing                1896–1921 State CPA                      World War II
+                                           legislation                             1965–1975 Consolidation to Big 8
+                                          1933, 1934 Securities Acts               Corporate merger wave
+                                          1938 SEC Accounting Series               1970s–1980s FTC ruling on open competition
+                                           Release no. 4                           1980s–1990s Consolidation to Big 5
+                                                                                   2001 Enron collapse
+                                                                                   2001 Andersen bankruptcy
+          Structural overlap              Intentional reduction of overlap         CPA – Consulting
+                                          CPA – Lawyers in tax practice            CPA – Lawyers in tax practice
+
+
+
+          Table 3.2      Ideal types of institutional logics in architecture
+          Characteristic                   Aesthetic logic                            Efficiency logic
+          Economic system                  Personal capitalism                        Managerial capitalism
+          Sources of identity              Architect as artist–entrepreneur           Architect as engineer–manager
+          Sources of legitimacy            Reputation of architect                    Scale and scope of firm
+                                           Aesthetics of design                       Efficiency and economics of design
+          Sources of authority             Design prowess                             Managing partner or supervisor
+          Basis of mission                 Build personal reputation                  Build multidisciplinary firm
+                                           Build prestige of firm                     Build market position of firm
+          Basis of attention               Resolve design problems and                Resolve technological and organizational
+                                            entrepreneurial challenges                 challenges
+          Basis of strategy                Increase prestige of patron or             Increase number of corporate clients
+                                            government sponsor                        Build recurring clientele
+                                           Win design competitions                    Increase markets for services
+          Logic of investment              Build wealth and prestige of               Build wealth of partners
+                                            entrepreneurs
+                                                                                                                       Continued
+
+
+===== PDF文件第31页（不是印刷页码） =====
+
+9781412931236-Ch03      1/11/08          5:27 PM   Page 129
+
+
+
+
+                                                          INSTITUTIONAL LOGICS                                                    129
+
+
+           Table 3.2      Ideal types of institutional logics in architecture—cont’d
+           Characteristic                    Aesthetic logic                           Efficiency logic
+           Governance mechanism              Entrepreneurial firm (atelier)            Partnership ownership
+                                             Profession                                Private global multidisciplinary
+                                                                                        corporation
+           Institutional entrepreneurs       H. H. Richardson, R. M. Hunt,             Louis Sullivan, Wm Le Baron Jenney,
+                                              R. R. Ware, Robert Venturi                Walter Gropius, Mies Van der Rohe
+           Event sequencing                  1857 Founding of                          Increased immigration and industrialization
+                                              Architecture profession                  1871 Chicago Fire provides commercial
+                                             1893 Chicago Fair reinforces               building opportunities
+                                              aesthetic of Beaux Art tradition         World War I provides building
+                                             1967 Postmodernism treatise rejects        opportunities and implementation of
+                                              aesthetic of minimalism                   new aesthetic which rejects history
+                                                                                       World War II immigration of modernist
+                                                                                        architects to U.S.
+           Structural overlap                Professions – architects,                 Professions – architects, engineers, and
+                                              engineers, and contractors                contractors
+                                             Clients – government and                  Clients – real estate speculators and
+                                              wealthy individuals as patrons           corporations
+
+
+
+
+           Table 3.3      Ideal types of institutional logics in higher-education publishing
+           Characteristic                      Editorial logic                             Market logic
+           Economic system                     Personal capitalism                         Market capitalism
+           Sources of identity                 Publishing as a profession                  Publishing as a business
+           Sources of legitimacy               Personal reputation                         Market position of firm
+                                               Education value                             Share value
+           Sources of authority                Founder–editor                              CEO
+                                               Personal networks                           Corporate hierarchy
+                                               Private ownership                           Public ownership
+           Basis of mission                    Build prestige of house                     Build competitive position of
+                                               Increase sales                               corporation
+                                                                                           Increase profits
+           Basis of attention                  Author–editor networks                      Resource competition
+           Basis of strategy                   Organic growth                              Acquisition growth
+                                               Build personal imprints                     Build market channels
+           Logic of investment                 Capital committed to firm                   Capital committed to market return
+           Governance mechanism                Family ownership                            Market for corporate control
+                                               Trade association
+           Institutional entrepreneurs         Prentice Hall                               Thomson
+                                               Richard Prentice Ettinger                   Michael Brown
+           Event sequencing                    Increased public funding to education       Founding of boutique investment
+                                               Increased college enrollments                bankers
+                                               Wall St. announces good investment          Founding of publishing finance
+                                                                                            newsletters
+           Structural overlap                  1950–1960s Prentice Hall internal           1980s acquisitions wave
+                                                corporate ventures and spin-offs
+                                               1960s acquisitions wave

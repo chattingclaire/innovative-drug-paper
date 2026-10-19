@@ -1,0 +1,843 @@
+原件文字提取（仅供检索）
+
+来源：同目录的原件.pdf。自动提取可能存在字符间距、断行、表格错位；准确内容以原件为准。本文件不是新的人工转写或修订版本。
+
+===== PDF文件第1页（不是印刷页码） =====
+
+Received: 2 December 2021             Revised: 14 April 2022          Accepted: 2 June 2022
+
+DOI: 10.1111/spol.12832
+
+
+
+SPECIAL ISSUE ARTICLE
+
+
+
+
+Active stewardship in healthcare: Lessons from
+China's health policy reforms
+
+Alex Jingwei He1                          |     Azad Singh Bali2                    | M. Ramesh3
+
+1
+    Department of Asian and Policy Studies, The
+Education University of Hong Kong, New
+                                                            Abstract
+Territories, Hong Kong SAR, China                           Governments across the globe have made repeated
+2
+    Crawford School of Public Policy, Australian            attempts to reform their health systems in recent decades
+National University, Canberra, Australia
+                                                            with the purpose of improving access while containing
+3
+    Lee Kuan Yew School of Public Policy,
+                                                            costs. What is the role of government in contemporary
+National University of Singapore, Singapore,
+Singapore                                                   health policy in achieving these somewhat contradictory
+                                                            goals? This paper conceptualises this role as one of “active
+Correspondence
+Alex Jingwei He, Department of Asian and                    stewardship” wherein the government is a central actor
+Policy Studies, The Education University of                 steering and coordinating the sector through a portfolio of
+Hong Kong Tai Po, New Territories, Hong
+                                                            diverse policy tools. In this conceptualisation, the govern-
+Kong SAR, China.
+Email: jwhe@eduhk.hk                                        ment is not a passive participant—in merely financing, deliv-
+                                                            ering, or regulating the sector—but a steersman at the helm
+Funding information
+General Research Fund, Research Grants                      that sets policy objectives and actively pursues them. We
+Council, Hong Kong, Grant/Award Number:                     argue that active stewardship is central to achieving con-
+18605720; Lee Kuan Yew School of Public
+Policy, Grant/Award Number: N.A.                            temporary health policy priorities of universal healthcare.
+                                                            We       apply      this     conceptualisation            to    China's       recent
+                                                            healthcare forms and show that the role of the government
+                                                            in governing the sector has changed substantially over time,
+                                                            particularly since 2009, and the changes are showing prom-
+                                                            ising results. China's experience suggests that governments
+                                                            need to more actively guide and shape the behaviour of
+                                                            both public and private players in order to achieve the goals
+                                                            of universal health coverage. It also suggests that a high
+                                                            degree of policy capacity is essential if active stewardship is
+                                                            to be effective.
+
+This manuscript is submitted to the special issue titled “Twenty Years of Welfare Reform in China (2000–2020): Challenges from Developmentalism to
+Covid19”.
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and
+reproduction in any medium, provided the original work is properly cited.
+© 2022 The Authors. Social Policy & Administration published by John Wiley & Sons Ltd.
+
+Soc Policy Adm. 2022;56:925–940.                                                                  wileyonlinelibrary.com/journal/spol                925
+
+
+===== PDF文件第2页（不是印刷页码） =====
+
+                                                                                                                             14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+926                                                                                                              HE ET AL.
+
+
+
+
+                                                KEYWORDS
+                                                China, governance, health policy, healthcare, reform, stewardship
+
+
+
+
+1     |   I N T RO DU CT I O N
+
+Healthcare reform is prone to policy ‘fads and fallacies’ (Marmor et al., 2005), lurching from one grand design idea to
+another. The trend started in the 1980s with the rapid spread of market-centred reform ideas inspired by New Public
+Management (NPM). This was followed in the subsequent decade by ideas promoting collaborative governance and
+public-private partnerships under the banner of “governance” and its aspiration to expand “people's” role in policy
+matters. The one element that the two waves had in common was the motivation to substitute or at least offset the
+role of the government with larger role for market and/or partnership with business and civil society groups. The
+subsequent efforts to implement reforms based on this line of thinking, as it was realised later, did little to achieve
+the stated goal of reducing costs or making healthcare more accessible.
+      The disappointing results of market- and partnership-based reforms refocussed reformers' attention on the cen-
+tral role of the government in healthcare (Ramesh, 2008a). Many writings from this point of view relied on the con-
+cept of “stewardship” to underscore the need for central coordination by government in healthcare (Brinkerhoff
+et al., 2019; Greer, 2018). At the same time, the calls for larger role for community groups in health policy became
+louder, increasingly packaged in terms of “good governance” values such as transparency, participation, and account-
+ability. International organisations such as the World Health Organisation (WHO) and World Bank produced numer-
+ous policy documents promoting “good governance” agenda in healthcare (Lewis & Pettersson, 2009).
+      Notwithstanding the deep differences in visions of healthcare, there is a broad acknowledgement of the need for
+coordination of the diverse and conflicting interests and ideas that characterise the sector. On one hand are those who
+view the government as a steward with clear responsibility for leading the sector (WHO Regional Office for
+Europe, 2005) while, on the other hand, are those who prefer community groups to have the decisive voice in health
+policy matters (Meessen, 2020). The former may be described as the “stewardship” perspective. In this view, the gov-
+ernment, as the steward, has the primary responsibility for setting policy goals and directions and mobilising fiscal and
+other resources to achieve them (Barbazza & Tello, 2014; Ramesh et al., 2014). Writings from this perspective, how-
+ever, ignore the centrifugal forces and entrenched self-interest, which impede the achievement of the steward's goals.
+      The objective of this paper is to contribute to understanding of the government's role in healthcare by proposing
+the concept of “active stewardship” and applying it to health policy in China. The notion of active stewardship goes
+beyond merely envisioning goals and mobilising resources by the government and includes undertaking a wider and
+deeper range of interventions to achieve the goals. Herein, the government has the ultimate responsibility for both
+policy and implementation design and is expected to take both direct measures to ensure that the design is
+implemented. Thus, for example, it may actively bargain with providers and suppliers to drive down prices rather
+than passively disburse funds (see for e.g. Tangcharoensathien et al., 2015). Similarly, it may establish and run its
+own hospitals and clinics to not only deliver services, but also use them to set standards for the sector (see for
+e.g. Bali & Ramesh, 2021). Regulations too may be structured in ways not only to encourage competition but also to
+promote desired behaviours across the sector. In this conception, the government is not merely a participant in the
+health system as a financier, manager, or regulator, as is the case in the WHO conception (World Health
+Organisation, 2000), but is a steersman at the helm that must also row when necessary. “Steering whilst rowing”
+(Storey, 2011) would be an apt metaphor for describing the role of government in healthcare.
+      In the wake of economic liberalisation that started in the 1980s, the Chinese government adopted reforms pro-
+moting private financing and market competition in healthcare. The reforms were an unqualified failure in terms of
+containing health expenditures or improving services, as the Chinese government itself later admitted (Research
+Development Center of State Council, 2005). The government sought to overcome the problems through regulation
+of prices and social insurance financing but to no avail (Lee, 2019). The situation began to improve only after the
+
+
+===== PDF文件第3页（不是印刷页码） =====
+
+                                                                                                                            14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                            927
+
+
+
+launch of comprehensive national reforms in 2009 (Yip et al., 2019), which targeted not only financing issues but also
+the entire range of critical conditions related to production and distribution of healthcare. The reforms have been
+underpinned by, as we will see in this paper, active stewardship that includes steering functions but also significant
+amount of rowing on its part. Although it is still early to draw firm conclusions, emerging evidence indicates that the
+recent reforms are producing better results than their predecessors (see Ta et al., 2020; Yip et al., 2019). If the prom-
+ising results in China are sustained in the future, health policy reformers in other countries can look to “active stew-
+ardship” as an alternative to market- or community-centred reforms. In the following section, we anchor the concept
+of “active stewardship” in the recent health policy literature.
+
+
+
+2     |     H E A LT H P O L I C Y D E B A T E S : P R O M I S E A N D P E R I L S
+
+Health policy tends to be at the forefront of ideological debates and cross-boundary learning whereby policymakers
+selectively learn from each other's experiences (Leiber et al., 2015; Yip & Hsiao, 2015). In the 1980s and 1990s,
+NPM-inspired ideas around marketisation, competition, decentralisation, and deregulation and so on were rapidly
+adopted around the world as a way of dealing with the sector's diverse problems. However, as Marmor et al. (2005)
+point out, the diffusion of these ideas was associated with a great deal of unwarranted inferences, rhetorical distor-
+tion, and caricatures. While NPM-inspired reforms produced mixed outcomes in the developed world, their adoption
+in developing countries resulted in mostly negative outcomes as costs escalated while access to healthcare deterio-
+rated (Blumenthal & Hsiao, 2005; Wu & Ramesh, 2009). In developing countries, NPM reforms suffered not only
+from the flaws intrinsic to the thinking but also from poor policy design as well as weak administrative capacity and
+lack of accountability (Wu & Ramesh, 2009). Many public hospitals were privatised or granted substantive autonomy
+without sufficient government oversight or accountability. This was not unique to developing countries, however, as
+unclear lines of accountability coupled with poor policy design stymied achievement of health policy goals even in
+developed countries.
+     The early 2000s saw the growing popularity of the idea of emphasising “governance” across diverse policy areas,
+which presented partnership among state and societal actors as a way to overcome the shortcomings of both the
+state and market (Barbazza & Tello, 2014; Brinkerhoff & Bossert, 2014; Ramesh et al., 2014). Much of the health
+governance literature focused on the preconditions for good governance – transparency, accountability, decentrali-
+sation (Greer, 2018; World Bank, 1997; World Health Organisation, 2000) – rather than how specifically to improve
+access or quality of healthcare or restrain costs. The reforms undertaken to put the ideas into practice did not fare
+well as the stakes were simply too high for the key governance partners in the sector as they are primarily driven by
+self-interest. The experience highlighted the need for a pivotal actor that inspired, cajoled, and coerced the actors in
+the sector in a desired direction (Ramesh et al., 2014).
+     Subsequently, the debate focussed on the “regulatory state” that is increasingly applied to the health sector.
+A regulatory state is one in which the government relies on regulation of markets instead of direct interventions such
+as public ownership or public expenditure (Levi-Faur, 2014). This concept is particularly salient in the health sector,
+which is well known for the multitude of market failures that require remedial interventions (Helderman et al., 2012).
+While this was a useful corrective to the 1990s discussions centred on sweeping generalisations about privatisation
+and marketisation and the subsequent discussions on superiority of collaborative governance, it overlooked many
+essential preconditions for effective health policy (Bali & Ramesh, 2015, 2017). Indeed, governments can use other
+policy tools that offer more regulation-like effects than regulations. These interventions aim to surrogate the effect
+of regulations through fiscal or organisation-based interventions that are typically associated in achieving a govern-
+ment's redistributive priorities (Levi-Faur, 2014). Thus, for example, governments are able to use their expenditures
+to shape providers' behaviour as a substitute for regulation. In healthcare, some of the best performing systems are
+those that employ a broad range of policy tools simultaneously, including ownership and expenditures, in addition to
+regulations (Bali & Ramesh, 2021). What matters most is not the individual policy tools used but how they are used
+in concert, highlighting the need for a clear central authority in orchestrating their use.
+
+
+===== PDF文件第4页（不是印刷页码） =====
+
+                                                                                                                              14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+928                                                                                                               HE ET AL.
+
+
+
+      Discussions on stewardship launched by the World Health Organisation (2000) did recognise the central role of
+governments in healthcare but the conversations soon got muddled with talks on good governance. More recently,
+scholars have refocussed attention on government stewardship in proactively designing and managing health gover-
+nance relationships (Brinkerhoff et al., 2019; Greer, 2018). The notion of active stewardship conceived in recent for-
+mulations underlines the need for clear leadership in managing relationships among diverse interests and moving
+them in the desired direction through a cohesive ensemble of policy tools. It includes articulating strategic visions,
+devising strategy for achieving the vision, and aligning health system design with health policy goals (Barbazza &
+Tello, 2014; Brinkerhoff et al., 2019; Veillard et al., 2011). A capable steward not only sets goals and proactively
+establishes the conditions for their success but also intervenes directly in provision, financing, and payment when
+deemed necessary. The stewardship is driven by commitment to problem-solving rather than abstract goals.
+      Following Bali and Ramesh (2021), we argue that active stewardship involves a central policy actor—usually the
+national government—in assuming responsibility for achieving and sustaining universal healthcare. To acquit this
+responsibility, it is imperative that the government identifies critical health governance functions and allocates them
+appropriately among stakeholders. It is vital to ensure that the right agency and level of government is responsible
+for the functions for which it is most suited and that there exist mechanisms for holding them accountable. This
+involves design and execution of both vertical and horizontal coordination of governance of healthcare in the
+country.
+      Healthcare is a quintessentially a local function due to the diverse needs of population segments and it is for this
+reason that the responsibility for it is mostly vested in subnational governments. The decentralisation of responsibili-
+ties for healthcare poses challenges of its own, however, due to very different policy goals and financial and adminis-
+trative capacities of the local governments, which undermine the achievement of national goals. It is therefore upon
+the national government to establish a cohesive national framework for ensuring minimum standards of access and
+care while allowing room for local initiatives and preferences.
+      In parallel with vertical stewardship, governments have a vital role in ensuring horizontal coordination across
+agencies (Peters, 2015). The critical need for policy coordination stems from two inter-related issues. First, contem-
+porary health policy problems do not exist in isolation but are connected to other problems—such as social protec-
+tion and economic development—in inextricable ways (Bali & Ramesh, 2021). This inter-connectedness among
+problems requires all related agencies to work in concert to deal with them effectively. Second, health systems are
+increasingly fragmented with growing divisions between key health services: primary and secondary care, diagnostic
+services, pathology and pharmaceuticals, and public health. These services are often delivered and financed by differ-
+ent agents at different levels of government, with limited policy coordination (He & Tang, 2021). Instead of working
+together to serve the population, they often actively undermine each other in pursuit of their self-interest, creating
+need for a steward to promote cooperation among them. One particularly widely used method for promoting hori-
+zontal coordination is the establishment of central agencies and super-ministries with the explicit mandate and
+authority to promote coordination among related policy functions.
+      Effectively addressing the twin coordination challenges across the sector is not an easy task: it requires deft use
+of a range of policy tools, as well as ensuring that policy actors develop sufficient policy capacity to use these tools
+to their potential. This includes analytical competencies to select the appropriate set of tools, operational skills to be
+able to implement and manage them, and political skills to manage diverse stakeholders with competing interests in
+the sector (Bali & Ramesh, 2021).
+
+
+
+3     |    H E A LT H C A R E R EF O RM S I N CH I N A : 19 8 0 S– 2 00 0 S
+
+Healthcare reforms in China during the first two decades of economic restructuring offer instructive lessons in how
+misguided policy ideas undermine the achievement of government's objectives and compromise the population's
+welfare (Blumenthal & Hsiao, 2005; Lee, 2019). Prior to economic reforms in the 1980s, the socialist health system
+offered access to basic services to the entire population, a commendable achievement for a poor agrarian country.
+
+
+===== PDF文件第5页（不是印刷页码） =====
+
+                                                                                                                           14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                           929
+
+
+
+Fee schedule, medical supplies, and remuneration of health workers were all regulated by the state, allowing little
+incentive or scope for over-servicing or over-charging by providers. Wide insurance coverage coupled with controls
+on provider behaviours were the key to the Chinese health system's fine performance at low cost (Hsiao, 1995).
+      The basic tenets of the health system were undermined by the process of economic reforms that started in the
+1980s. Health insurance programmes collapsed or withered following liberalisation of the command economy, leav-
+ing a large segment of the population uninsured (Gu & Tang, 1995; Liu, 2004). At the same time, the government
+drastically reduced subsidies for public hospitals, leaving them with no choice but to fill the gap by collecting fees
+directly from patients (Hsiao, 1995). The problem was compounded by fee-for-service (FFS) payment system that
+incentivised providers to increase prescription of drugs, diagnostic tests, and medical procedures with high profit
+margins (Lee, 2019). The result was skyrocketing total health expenditures as well as out-of-pocket (OOP) payment;
+both increased almost 20% a year (Eggleston et al., 2008; Hu et al., 2008). By 2000, two thirds of China's total
+expenditure on health was paid through OOP, making its health system one of the least equitable in the world
+(World Health Organisation, 2000). The hardships for household that these changes caused became a major source
+of social anxiety, which seriously threatened the government's performance legitimacy.
+
+
+
+3.1      |   Dysfunctional health governance
+
+The main source of health governance failure in China was weak governance whose roots lay in lack of stewardship
+(Ramesh et al., 2014). Until the early 2000s, the government lacked a vision for healthcare and this was acutely
+reflected in its policies and actions. On the one hand, it wanted providers to show an entrepreneurial spirit and be
+self-reliant by earning their own income. It accordingly gave them broad operational autonomy to earn income as
+they deemed fit. At the same time, the government hoped that competition among providers would reduce prices
+while improving quality (Lee, 2019). It was not realised by policymakers that the two goals were mutually exclusive
+in healthcare as information asymmetries allow providers to use their autonomy to advance their interests at the
+expense of users. Not only did the government lack a coherent vision, it paid insufficient attention to the details of
+how to put its market-centred ideas into practice. Unlike most other products and services in which markets
+emerge naturally and function smoothly, healthcare markets require deep and targeted interventions to address
+systemic asymmetries in information across stakeholders and moral hazards innate to the sector (Bali &
+Ramesh, 2015). These focussed interventions were largely absent across health policy reforms during this period in
+China.
+      The lack of stewardship reflected as well as aggravated the various forms and levels of fragmentation that
+afflicted the Chinese health system (Ramesh et al., 2014). First, the health system is vertically fragmented. There
+are five levels of government in the country and each owns a certain number of public healthcare facilities. Provin-
+cial and sub-provincial authorities had neither incentive nor capacity to coordinate local health policymaking or ser-
+vice provision with their peers. Although central ministries formulate health policies, they had to rely on local
+departments for implementation, which unfortunately had few effective tools to rein in hospitals' perverse
+behaviours.
+      Second, the health system was also horizontally fragmented, even though the Ministry of Health (MOH) was
+responsible for overseeing the delivery of healthcare throughout the country. Its responsibilities included maintaining
+clinical and professional standards as well as managing the health insurance scheme for rural residents (the New
+Cooperative Medical Scheme, NCMS). However, the MOH had only a few policy tools available for intervention. It
+had regulatory tools for prescribing providers' and users' behaviours but did not have the requisite administrative
+capacity to enforce them across a vast and diverse country. Similarly, while it was responsible for allocating subsidies
+to public hospitals and clinics, the funds available for allocation were too small to give the government sufficient
+leverage, as subsidies formed barely 10% of hospitals' revenues (Ramesh et al., 2014). The MOH was also a weak
+agency with limited political capacity as it found it challenging to implement measures opposed by other agencies
+
+
+===== PDF文件第6页（不是印刷页码） =====
+
+                                                                                                                                14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+930                                                                                                                 HE ET AL.
+
+
+
+and stakeholders. Its authority was further tarnished by the perception that it was beholden to public hospitals, its
+key constituency, rather than users (Hsiao, 2007).
+      Crucially, MOH shared its healthcare responsibilities with the Ministry of Human Resources and Social Security
+(MHRSS), which was responsible for managing the Urban Employee Basic Health Insurance (UEBHI) and the Urban
+Resident Basic Health Insurance (URBHI) schemes. The MHRSS' responsibility for insurance financing made it focus
+more on budgetary issues, which was different from responsibility for managing public hospitals (Hsiao, 2007). The
+National Commission of Development and Reform (NCDR) also played a role in health policy as it regulated the price
+schedule for medical services and drugs until 2015 when gradual liberalisation of pricing began to be pursued (Hu &
+Mossialos, 2016). In addition to MHRSS and NCDR, the Ministry of Finance (MOF) and the Ministry of Civil Affairs
+(MCA) also had a vital say in health policy due to their responsibility for managing fiscal subsidies and operating the
+Medical Assistance Scheme (MAS), respectively. This administrative fragmentation at the national level extended to
+local levels. The cleavages within the fragmented health system not only stymied policy coordination but also pro-
+vided ample room for providers to game the regulatory system, undermining the effect of health regulations (He &
+Qian, 2013; Qian et al., 2019).
+      Third, the healthcare delivery system in China also suffered from stark divisions between primary and secondary
+care. On paper, it was a tiered delivery system in which patients started at community outpatient clinics and moved
+up to higher level facilities only when given a referral letter. In reality, patients could visit any level they wished, with
+most choosing tertiary hospitals in the first instance (Eggleston et al., 2008). The problem was aggravated as profit-
+driven facilities saw others as competitors and sought to generate revenues for themselves. The fragmented gover-
+nance system described above was reflected in all key components of healthcare in China: financing, regulation, and
+provision.
+
+
+
+3.2      |   Financing
+
+China's health financing system was highly fragmented, with three main social health insurance (SHI) schemes:
+UEBHI, URBHI, and NCMS,1 plus budget-funded schemes for retired public sector workers and the poor (the MAS).
+However, OOP payments accounted for a significant share of health expenditures until 2010. SHI schemes were
+steadily instituted, but once in place, the managers of the schemes were unable to use their purchasing power to
+shape the providers' behaviour (Hsiao, 2007). Moreover, the limited capacity of local health insurance agencies also
+impeded them from playing an active purchaser's role (Liu & He, 2018). While prospective payment methods such as
+capitation and global budget were widely discussed and gradually introduced through local pilots, FFS remained the
+dominant way of paying providers (Hu et al., 2008).
+
+
+
+3.3      |   Provision
+
+Owned by the government and other public agencies, public hospitals and clinics are the dominant provider of health
+services in China. In principle, such significant ownership of hospitals across the country should make designing and
+implementing governance arrangements around the provision of care easier as the government can simply direct
+hospitals as required. However, in practice, this advantage was more than offset by the government's reluctance to
+use its ownership as a tool to pursue policy goals. Without clear direction, hospital managers and doctors pursued
+their self-interest. While wearing a “public hat”, hospitals behaved as privatised entities in their concentration on
+earning revenues rather than on collective goals of sustaining universal healthcare at affordable costs (Allen
+et al., 2014). The only tools the MOH used to restrain profit-driven hospitals were limited to moral exhortation and
+ad-hoc administrative interventions that yielded temporary results (He & Qian, 2013).
+
+
+===== PDF文件第7页（不是印刷页码） =====
+
+                                                                                                                           14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                           931
+
+
+
+3.4       |    Regulation
+
+Regulations of providers in China clearly reflected the weakness of the broader fragmented system. Normally, regula-
+tions play a secondary role in health systems dominated by public providers as the government can achieve its goals
+through direct instructions as an owner (Ramesh, 2008b; Tangcharoensathien et al., 2015). This was not the case in
+China, however, as public providers enjoyed vast financial autonomy and operated more like profit-oriented private
+firms, making a robust regulatory framework essential for effective health service delivery (Allen et al., 2014). Unfor-
+tunately, the regulations that did exist were either weak, poorly targeted, or inadequately enforced. The most telling
+evidence was the ill-designed medical fee schedule the government had adopted for ensuring affordability in the
+1990s. To make essential medical services affordable to the population, the government had set fees for designated
+basic services and drugs substantially lower than the market price. Hospitals got around the restrictions easily by pre-
+scribing drugs and procedures that were outside the list, thus undermining the regulation (Liu et al., 2000). Unsurpris-
+ingly, nearly half of China's total health expenditures for decades were on drugs (Sun et al., 2008).
+      Given the deep fragmentations in the Chinese healthcare system and their all-encompassing ill effects, shoring
+up governance through enhancing stewardship has been the focus of health policy reforms in China over the past
+decade, as we will see in the following discussion.
+
+
+
+4     |       H E A LT H C A R E R E F O RM S I N CH I N A : 20 0 9 – PRES ENT
+
+A systematic evaluation of health policies in China in the mid-2000s led to the launch of comprehensive reforms in
+2009. Concerned about rising social dissatisfaction and alarmed by the grave outbreak of the severe respiratory syn-
+drome (SARS) in 2003, the Chinese government showed unprecedented political determination to reform its health
+system. Growing public coffers and increased administrative capacity, coupled with the new governance outlook of
+the Hu Jintao era also boosted the government's confidence in assuming a stronger role as steward. Often referred
+to as “the new healthcare reform”, the plan explicitly stated the government's commitment to achieving universal
+health coverage by 2020. It also accepted that the primary responsibility for ensuring access to healthcare rested
+with the government (Communist Party of China Central Committee & State Council of China, 2009). The then-
+President Hu Jintao underscored that healthcare was vital to not only socioeconomic development but also the
+future of the nation. His successor Xi Jinping further reiterated healthcare as a vital government responsibility. The
+reform programme that commenced in 2009 was clearly guided by the ethos of “bring the state back in”. Figure 1
+exhibits the key milestones of the healthcare reform in the past two decades.
+
+
+
+4.1       |    New health governance order in formation
+
+A new health governance order in China has emerged following a major organisational restructuring of central minis-
+tries. The National Health Commission (NHC) is now vested with the overall responsibility for managing the provi-
+sion of healthcare in the country while the National Healthcare Security Administration (NHSA) is responsible for
+financing. Superseding the former National Commission of Health and Family Planning in 2018, the NHC was
+granted greater authority over matters related to production and delivery of healthcare services. Although NHC and
+its predecessor MOH share similar policy functions, the status of “commission” implies more comprehensive portfo-
+lios vis-à-vis “ministry” according to the Chinese administrative conventions. Indeed, the NHC was granted addi-
+tional responsibilities related to ageing and elderly services, which have been expanding rapidly in China.
+      The establishment of the NHSA in 2018 marked a yet deeper shift in China's health policy as it indicated the rec-
+ognition of purchasing as a powerful tool for shaping providers' behaviour. Partly inspired by local experiments, espe-
+cially the Sanming Model (named after a prefecture in Southeastern China),2 this reform consolidated all governance
+
+
+===== PDF文件第8页（不是印刷页码） =====
+
+                                                                                                                          14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+932                                                                                                           HE ET AL.
+
+
+
+
+F I G U R E 1 Key milestones of healthcare reforms in China. Source: Developed by the authors [Colour figure can
+be viewed at wileyonlinelibrary.com]
+
+
+
+
+functions related to public financing and purchasing under the NHSA. As the custodian of all SHI programmes as well
+as the MAS, the NHSA became a “super master” of purchasers in the country with powerful financial levers. The reg-
+ulatory authority for determining the price schedule and pharmaceutical procurement has also been transferred to
+the NHSA.
+      The consolidation of decision-making authority under NHC and NHSA has strengthened stewardship in the
+health sector. In the past, the NHC was responsible for managing the NCMS, the health insurance programme for
+rural residents. This role was criticised for generating contradictory incentives and weakening accountability because
+NHC was both the insurer and supervisor of public hospitals. With local healthcare security offices fully assuming
+the role of third-party payer, the NHC and its local arms are no longer involved in purchasing or payment decisions.
+This separation of roles is expected to accelerate NHC's transformation into a professional regulator of the health
+sector. The healthcare security administration, on the other hand, is envisioned to be a powerful prudent third-party
+purchaser representing the interest of users. Its privileged role as a single payer gives it tremendous levers over
+providers.
+      To map and better understand governance of healthcare in China under this dual steward structure, we collected
+and analysed all policy documents issued by the NHC and the NHSA from 2018 to March 2022. The corpus com-
+prised of 261 official documents relevant to various aspects of healthcare reforms. Taking a text-as-data approach,
+we elicited key themes from the large corpus that is presented below.3 Given the length constraint, the analysis
+focuses on central-level policy orientation only.
+
+
+
+4.2     |    Financing
+
+The unprecedented political commitment to health reform by the Chinese government displayed since 2009 has
+been backed by vast fiscal commitment,4 especially to subsidising the expansion of SHI coverage. As a result, the
+SHI and government expenditures' share of total health expenditures have grown exponentially while that of OOP
+has declined accordingly in recent years, as shown in Figure 2.
+
+
+===== PDF文件第9页（不是印刷页码） =====
+
+                                                                                                                                14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                                 933
+
+
+
+
+F I G U R E 2 Source of health financing in China, 2000–2019. Source: 2020 China Health Statistical Yearbook,
+Beijing: National Health Commission
+
+
+
+
+     The subsequent expansion of SHI to cover almost the entire population was accompanied by an expansion of
+the role of NHSA, the agency responsible for financing matters. Given the near-universal coverage of SHI, the vast
+majority of both public and private providers are under the oversight of NHSA and its local offices. The enhanced
+role and responsibilities of NHSA are evident in its policy documents, which repeatedly underscore its role as the
+country's largest collective purchaser of health services (word cloud exhibited in Figure 3). Its documents frequently
+cite its responsibility for improving the performance of healthcare providers participating in SHI. As a part of its
+responsibility for regulating the management of SHI funds, the NHSA has set up a regulatory framework through the
+newly promulgated Provisional Healthcare Security Regulations on the Management of Designated Medical Institu-
+tions. The document summarises NHSA's responsibilities as following:
+
+
+        “The healthcare security administration is responsible for setting policies concerning the management of
+        (SHI) designated medical institutions. The Administration shall regulate medical institutions in their applica-
+        tion for designation, assessment of professional qualification, negotiation for service contract, as well as
+        the design, execution, and termination of these contracts. SHI agencies determine the designation of medi-
+        cal institutions and sign service contracts with the designated institutions. They are responsible for the exe-
+        cution and evaluation of these contracts. Designated medical institutions shall comply with laws,
+        regulations, decrees, and policies related to healthcare security, and provide medical services to SHI
+        participants.”5
+
+
+     The NHSA's power as a steward stems not only from its authority as the master of purchaser but also from its
+enhanced policy capacity, especially analytical capacity. As shown in Figure 3, “internet” and “information system” are
+frequently mentioned in its documents. The NHSA has invested heavily in analysing data accumulated over two decades
+for the purpose of improving the sector's performance. In 2019, it initiated a nationwide smart surveillance demonstra-
+tion project that leverages big data and upgraded digital infrastructure to monitor clinical and billing practices of service
+providers. The resulting advances in interconnectivity paved the way for universal portability of SHI as well as expansion
+of provider payment reforms. It has also launched extensive efforts to prevent health insurance fraud.
+
+
+===== PDF文件第10页（不是印刷页码） =====
+
+                                                                                                                     14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+934                                                                                                      HE ET AL.
+
+
+
+
+F I G U R E 3 Word cloud of policy documents of the National Healthcare Security Administration. Note: The
+corpus consists of 87 policy documents issued between 2018 and March 2022. The Chinese version of this figure is
+provided in Figure A1. Source: the authors' analysis [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+
+F I G U R E 4 Word cloud of policy documents of the National Health Commission. Note: The corpus consists of
+174 policy documents issued between 2018 and March 2022. The Chinese version of this figure is provided in
+Figure A2. Source: the authors' analysis [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+===== PDF文件第11页（不是印刷页码） =====
+
+                                                                                                                          14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                          935
+
+
+
+      While the Chinese government has for nearly two decades recognised the perverse effects of FFS pay-
+ments and a commitment to make changes, it lacked the analytical and administrative capacities to implement
+significant provider payment reforms (Hu et al., 2008). The initial payment reforms sought to curb cost escala-
+tion by altering providers' incentive were either too small in scale or too rudimentary in design to be effective
+(Chan & Zeng, 2018). The situation changed with the acquisition of massive data and capabilities to analyse it,
+which allowed the healthcare security administration to adopt sophisticated payment arrangements, especially
+case-based payment methods such as Diagnosis-related groups (DRGs).6 Under DRGs, providers are paid a
+“bundled” fixed rate that makes them responsible for financial risk, which, in turn, imposes hard constraints to
+deliver cost-effective care. The NHSA has also introduced “diagnostic-intervention packet” (DIP) that relies on
+sophisticated analysis of historical healthcare and SHI data amassed at the local level. The DIP includes a price
+adjustment mechanism through which the actual reimbursement for each case is determined ex post, thus
+offering hospitals incentives to improve cost efficiency (Qian et al., 2021). The government expects the
+DRG/DIP payment system to cover all inpatient services by the end of 2025 and is currently rolling out policy
+pilots nationwide.7
+      The government's enhanced stewardship is also evident in regulating the procurement and prices of pharmaceu-
+ticals in the country. The NHSA has established mechanisms for screening the track record of pharmaceutical sup-
+pliers. More importantly, it now undertakes centralised strategic purchasing and actively uses its immense
+purchasing power to bargain with suppliers for best prices. It has launched a group-purchasing programme covering
+70% of drugs consumed in 11 megacities on a pilot basis. The pilot is producing promising results, reducing the pur-
+chase prices of drugs by as much as 52% on average (Wang et al., 2021).
+
+
+
+4.3     |   Provision
+
+Having addressed major demand-side issues by expanding insurance coverage, the government turned its attention
+to the supply-side, which had remained largely untouched in previous rounds of reforms. These reforms
+encompassed all major aspects of how healthcare was produced and distributed. Recognising the adverse effects of
+commercialising public hospitals, recent reform efforts have prioritised achieving health policy goals of serving the
+public rather than generating income. This in turn has required significant policy reforms across all aspects of provi-
+sion. The government initiated a series of experimental hospital reforms over 7 years (2010–2016). The experiments
+generated a vast amount of practical information, which formed the foundation for nationwide launch of “public hos-
+pital comprehensive reform” in 2017. The intent of this “comprehensive reform” programme was to assert the cen-
+tral government's stewardship over the functioning of public hospitals.
+      The NHC has emerged as a manager and regulator since its establishment in a restructured form in 2018.
+As illustrated in the word cloud below (Figure 4), the NHC and its local arms are mainly responsible for the
+supply-side of healthcare, such as strengthening primary care, restructuring of the provision system, and pro-
+moting internet-medicine. As a part of improving management of hospitals, it has introduced a system of
+annual performance reviews at all public hospitals against 55 performance indicators, including medical quality,
+cost containment, institutional development, and patient satisfaction. The first round of review in 2018 evalu-
+ated all tertiary public hospitals while the second round included 3047 secondary hospitals throughout the
+country. During the first review, 141 out of 2413 tertiary public hospitals received an official warning for
+unsatisfactory performance (National Health Commission, 2020). This benchmarking exercise—a key aspect of
+the stewardship function—has been used to determine fiscal investment, hospital accreditation, and hospital
+managers' promotion prospects. Further, some local governments also linked hospitals' performance rating to
+the permissible sum of bonus payment of each year, thus creating a strong financial incentive for performance
+improvement.
+
+
+===== PDF文件第12页（不是印刷页码） =====
+
+                                                                                                                            14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+936                                                                                                             HE ET AL.
+
+
+
+4.4       |     Preliminary outcomes of reform
+
+Emerging evidence suggest that the reforms show promising results (see Ta et al., 2020; Yip et al., 2019). Govern-
+ment spending on health grew rapidly from RMB 451 billion in 2009 to 2.20 trillion in 2020 and now accounts for
+about 2% of China's gross domestic product (GDP). Significantly, the share of OOP spending declined from 60% of
+total health expenditures in 2000 to 27.7% in 2020. As a result, financial accessibility to health services has improved
+which is evident in the decline of the proportion of households incurring catastrophic health expenditures from
+14.4% in 2010 to 10.7% in 2016. During the same period, the incidence of catastrophic expenditures for the poorest
+segments of households dropped from 22.9% to 16.7% (Ta et al., 2020). In the meantime, life expectancy in China
+has increased from 74.83 in 2010 to 77.3 in 2020, and the differences in maternal mortality rate between low-,
+middle-, and high-income localities have decreased substantially. Disparities in infant mortality rate between urban
+and rural areas have also narrowed (Meng et al., 2019).
+
+
+
+5     |       C O N C L U S I O N : A C T I V E ST E W A R D S H I P I N H E A L T H C A R E
+
+The central argument developed in this paper is that achieving universal healthcare requires a more interventionist
+role on the part of governments than recognised by health policy researchers and policymakers. To govern the sector
+effectively, governments need to develop a clear vision and coherent goals, choose appropriate policy tools, and
+intervene directly and comprehensively to alter the key stakeholders' behaviour. We describe this form of health
+governance as “active stewardship”. It involves not only selecting appropriate policy tools but also creating condi-
+tions for them to work effectively, and developing capacity to utilise the tools. We apply this conceptualisation to
+China's recent health policy reforms and show how the state is playing an increasingly active role in steering and
+coordinating the sector through governance and financing reforms.
+      The depth and scope of health policy reforms in China since 2009 has few parallels, involving comprehensive
+governance reforms with the purpose of strengthening the steering and coordination of the sector, in addition to
+large increase in public expenditures. The reforms have started to yield positive results in terms of increased
+risk-pooling and reduced OOP payments. The government has a clear vision of what it seeks and has created insti-
+tutional foundations for achieving it. Yet, to achieve its vision of universal health coverage under government
+stewardship requires more efforts to address institutional challenges that afflict the sector. For instance, while
+DRGs help in realising cost efficiencies, they are challenging to implement in a fragmented health system because
+its effective functioning requires concomitant changes in reimbursement, pricing schedules, and so on. Similarly,
+provider payment reforms need to be continuously calibrated to ensure that they do not create incentives to de-
+prioritise certain types of services or encourage other opportunistic behaviours. This, in turn, requires insurers and
+government agencies to develop capabilities to collect and interpret hospital utilisation data and adapt to local
+conditions.
+      China's experience in pursing active stewardship offers instructive lessons to other governments contem-
+plating health policy reforms. First, it highlights the importance of actively learning from experience and
+recalibrating programs based on the lessons drawn. The speed and determination with which health policies are
+changed in China programs are remarkable. The changes are often driven by lessons learnt from multiple policy
+pilots experimenting with different arrangements to tackle specific problematic aspects of health care manage-
+ment with the objective of identifying solutions that work. The policy pilots not only feed into the design of
+programmes but gives agencies valuable experience in implementing them before they are rolled out nationally
+(Husain, 2017).
+      Second, the Chinese reform experience highlights the importance of developing systemic health policy capaci-
+ties. Many countries around the word in recent years have introduced, for example, provider payment reforms but
+have struggled to implement them due to deficiencies in skills and competencies to monitor and hold healthcare
+
+
+===== PDF文件第13页（不是印刷页码） =====
+
+                                                                                                                                   14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                                   937
+
+
+
+providers accountable for their performance. In China, rapid build-up the analytical and operational capacities of the
+NHC and the NHSA have been critical to improved governance of the sector in recent years. Building similar capabil-
+ities is a necessary pre-requisite for navigating provider payment reforms.
+      Third, the Chinese reform experience underscores the importance of political will and commitment to sustain
+universal health coverage (Bali & Ramesh, 2021). Making changes to how healthcare is financed and delivered
+requires determined efforts to overcome entrenched interests and path dependencies that typically characterise the
+sector. The extent to which health policy is central to the policy agenda and prioritised by the national government is
+critical for the reforms to succeed.
+
+
+ACKNOWLEDGMENTS
+The authors thank Miss Yumeng Fan and Miss Rui Su for excellent research assistance. This paper was presented at
+the 2021 East Asian Social Policy Network Conference held in Lingnan University, Hong Kong. Constructive
+comments from King-lun Ngok, Ijin Hong, Ka-ho Mok, and the two anonymous reviewers are gratefully
+acknowledged.
+
+
+FUND ING INFORMATION
+This study was funded by the General Research Fund (GRF) Scheme of the Research Grants Council, Hong Kong
+Special Administrative Region (Ref. 18605720) and the Lee Kuan Yew School of Public Policy, National University of
+Singapore.
+
+
+CONF LICT OF IN TE RE ST
+The authors declare no conflict of interest.
+
+
+DATA AVAI LAB ILITY S TATEMENT
+This study is associated with a large corpus of health policy documents issued by the central ministries of China.
+We are pleased to share the full dataset with peers.
+
+
+ORCID
+Alex Jingwei He       https://orcid.org/0000-0001-9024-4831
+
+
+ENDNOTES
+1
+    The URBHI and NCMS have now been merged into the Urban–Rural Resident Basic Health Insurance Scheme as a major
+    move towards defragmentation of social health insurance.
+2
+    To date, this is the most comprehensive local healthcare reform in China including health governance, management of
+    social health insurance, service pricing, pharmaceutical procurement, staff remuneration, and provider payment. (For
+    details, refer to Fu et al., 2017; He, 2018). The central authorities have described the Sanming Model as a ‘remarkable suc-
+    cess’ and have been promoting its nation-wide emulation since 2017.
+3
+    The full list of policy documents is exhibited in Appendix.
+4
+    Budget allocation for healthcare increased by RMB 850 billion between 2009 and 2011 alone.
+5
+    Provisional Healthcare Security Regulations on the Management of Designated Medical Institutions, retrieved from
+    http://www.gov.cn/zhengce/zhengceku/2021-01/12/content_5579285.htm (accessed on May 20 2021).
+6
+    Basic versions of DRGs started from local pilots since early 2000s. The typical practice was to assign a flat rate (commonly
+    called “price cap”) to simple diseases that usually do not cause complications, such as gallstone and caesarean section.
+    Their rather limited scope of application did not yield substantive effect to the healthcare system as a whole in terms of
+    cost containment.
+7
+    “National Healthcare Security Administration's Notice on Announcing the Three-Year Action Plan of DRG/DIP Payment
+    Reform”, November 19 2021, retrieved from http://www.gov.cn/zhengce/zhengceku/2021-11/28/content_5653858.htm.
+
+
+===== PDF文件第14页（不是印刷页码） =====
+
+                                                                                                                                    14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+938                                                                                                                     HE ET AL.
+
+
+
+RE FE R ENC E S
+Allen, P., Cao, Q., & Wang, H. (2014). Public hospital autonomy in China in an international context. International Journal of
+     Health Planning and Management, 29(2), 141–159.
+Bali, A. S., & Ramesh, M. (2015). Mark time: India's march to universal health care coverage. Social Policy and Administration,
+     49(6), 718–737.
+Bali, A. S., & Ramesh, M. (2017). Designing effective healthcare: Matching policy tools to problems in China. Public Adminis-
+     tration and Development, 37(1), 40–50.
+Bali, A. S., & Ramesh, M. (2021). Governing healthcare in India: A policy capacity perspective. International Review of Adminis-
+     trative Sciences, 87(2), 275–293.
+Barbazza, E., & Tello, J. E. (2014). A review of health governance: Definitions, dimensions and tools govern. Health Policy,
+     116(1), 1–11.
+Blumenthal, D., & Hsiao, W. C. (2005). Privatization and its discontents: The evolving Chinese health care system. New
+     England Journal of Medicine, 353(11), 1165–1170.
+Brinkerhoff, D. W., & Bossert, T. J. (2014). Health governance: Principal-agent linkages and health system strengthening.
+     Health Policy and Planning, 29(6), 685–693.
+Brinkerhoff, D. W., Cross, H. E., Sharma, S., & Williamson, T. (2019). Stewardship and health systems strengthening: An
+     overview. Public Administration and Development, 39(1), 4–10.
+Chan, M. K., & Zeng, G. (2018). Unintended consequences of supply-side cost control? Evidence from China's new coopera-
+     tive medical scheme. Journal of Health Economics, 61, 27–46.
+Communist Party of China Central Committee and State Council of China (2009). Opinions of the CPC Central Committee
+     and the State Council on Deepening the Health Care System Reform. http://www.china.org.cn/government/scio-press-
+     conferences/2009-04/09/content_17575378.htmm
+Eggleston, K., Ling, L., Qingyue, M., Lindelow, M., & Wagstaff, A. (2008). Health service delivery in China: A literature review.
+     Health Economics, 17(2), 149–165.
+Fu, H., Li, L., Li, M., Yang, C., & Hsiao, W. (2017). An evaluation of systemic reforms of public hospitals: The Sanming model
+     in China. Health Policy and Planning, 32(8), 1135–1145.
+Greer, S. L. (2018). Organization and governance: Stewardship and governance in health systems. In E. van Ginneken & R.
+     Busse (Eds.), Health care systems and policies (pp. 1–9). Springer.
+Gu, X. Y., & Tang, S. L. (1995). Reform of the Chinese health care financing system. Health Policy, 32(1–3), 181–191.
+He, J. A. (2018). Maneuvering within a fragmented bureaucracy: Policy entrepreneurship in China's local healthcare reform.
+     China Quarterly, 236, 1088–1110.
+He, J. A., & Qian, J. (2013). Hospitals' responses to administrative cost-containment policy in urban China: The case of Fujian
+     Province. China Quarterly, 216, 946–969.
+He, J. A., & Tang, V. F. Y. (2021). Integration of health services for the elderly in Asia: A scoping review of Hong Kong,
+     Singapore, Malaysia, Indonesia. Health Policy, 125(3), 351–362.
+Helderman, J., Bevan, G., & France, G. (2012). The rise of the regulatory state in health care: A comparative analysis of The
+     Netherlands, England and Italy. Health Economics, Policy, and Law, 7(1), 103–124.
+Hsiao, W. C. (1995). The Chinese health care system: Lessons for other nations. Social Science and Medicine, 41(8),
+     1047–1055.
+Hsiao, W. C. (2007). The political economy of Chinese health reform. Health Economics, Policy, and Law, 2, 241–249.
+Hu, J., & Mossialos, E. (2016). Pharmaceutical pricing and reimbursement in China: When the whole is less than the sum of
+     its parts. Health Policy, 120, 519–534.
+Hu, S., Tang, S., Liu, Y., Zhao, Y., Escobar, M. L., & de Ferranti, D. (2008). Reform of how health care is paid for in China:
+     Challenges and opportunities. The Lancet, 372(9652), 1846–1853.
+Husain, L. (2017). Policy experimentation and innovation as a response to complexity in China's management of health
+     reforms. Globalization and Health, 13(57), 54. https://doi.org/10.1186/s12992-017-0277-x
+Lee, P. N. S. (2019). Re-engineering affordable care policy in China: Is marketization a solution? Routledge.
+Leiber, S., Greß, S., & Heinemann, S. (2015). Explaining different paths in social health insurance countries: Health system
+     change and cross-border lesson-drawing between Germany, Austria and The Netherlands. Social Policy and Administra-
+     tion, 49(1), 88–108.
+Levi-Faur, D. (2014). The welfare state: A regulatory perspective. Public Administration, 92(3), 599–614.
+Lewis, M., Pettersson, G. (2009). Governance in health care delivery: Raising performance. Policy research working paper
+     #5074, The World Bank. https://documents1.worldbank.org/curated/en/792741468330936271/pdf/WPS5074.pdf
+Liu, K., & He, J. A. (2018). Able to purchase? Agency problems in China's social health insurance system and the pitfalls of
+     third-party strategic purchasing. International Journal of Health Planning and Management, 33(4), 1045–1059.
+Liu, X., Liu, Y., & Chen, N. (2000). The Chinese experience of hospital price regulation. Health Policy and Planning, 15(2),
+     157–163.
+
+
+===== PDF文件第15页（不是印刷页码） =====
+
+                                                                                                                                      14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+HE ET AL.                                                                                                                      939
+
+
+
+Liu, Y. (2004). Development of the rural health insurance system in China. Health Policy and Planning, 19(3), 159–165.
+Marmor, T., Freeman, R., & Okma, K. (2005). Comparative perspectives and policy learning in the world of health care.
+     Journal of Comparative Policy Analysis, 7(4), 331–348.
+Meessen, B. (2020). Health system governance: Welcoming the reboot. BMJ Global Health, 5(8), e002404.
+Meng, Q., Mills, A., Wang, L., & Han, Q. (2019). What can we learn from China's health system reform? BMJ, 365, 12349.
+National Health Commission (2020). Summary report of 2018 nationwide performance evaluation of Class III public hospi-
+     tals. http://www.nhc.gov.cn/yzygj/jdt/202006/863717ce64af4372a737048cf500eb3d.shtml (in Chinese).
+Peters, G. (2015). Pursuing horizontal management: The politics of public sector coordination. University Press of Kansas.
+Qian, J., He, J. A., & Yin, J. D. C. (2019). The medical arms race and its impact in Chinese hospitals: Implications for health
+     regulation and planning. Health Policy and Planning, 34(1), 37–46.
+Qian, M., Zhang, X., Chen, Y., Xu, S., & Ying, X. (2021). The pilot of a new patient classification-based payment system in
+     China: The impact on costs, length of stay, and quality. Social Science and Medicine, 289, 114415.
+Ramesh, M. (2008a). Reasserting the role of the state in the healthcare sector: Lessons from Asia. Policy and Society, 27(2),
+     129–136.
+Ramesh, M. (2008b). Autonomy and control in public hospital reforms in Singapore. The American Review of Public Adminis-
+     tration, 38(1), 62–79.
+Ramesh, M., Wu, X., & He, J. A. (2014). Health governance and healthcare reforms in China. Health Policy and Planning,
+     29(6), 663–672.
+Research Development Center of State Council. (2005). Assessment and recommendations for health system reforms in
+     China. China Development Review, 1, 4–48 (in Chinese).
+Storey, J. (2011). Steering whilst rowing: Governing and managing health services from the Centre. Journal of Health Organi-
+     zation and Management, 25(6), 625–644.
+Sun, Q., Santoro, M. A., Meng, Q., Liu, C., & Eggleston, K. (2008). Pharmaceutical policy in China. Health Affairs, 27(4),
+     1042–1050.
+Ta, Y., Zhu, Y., & Fu, H. (2020). Trends in access to health services, financial protection and satisfaction between 2010 and
+     2016: Has China achieved the goals of its health system reform. Social Science and Medicine, 245, 112715.
+Tangcharoensathien, V., Limwattananon, S., Patcharanarumol, W., Thammatacharee, J., Jongudomsuk, P., & Sirilak, S. (2015).
+     Achieving universal health coverage goals in Thailand: The vital role of strategic purchasing. Health Policy and Planning,
+     30(9), 1152–1161.
+Veillard, J. H. M., Brown, A. D., Baris, E., Permanand, G., & Klazinga, N. S. (2011). Health system stewardship of national health
+     ministries in the WHO European region: Concepts, functions and assessment framework. Health Policy, 103, 191–199.
+Wang, Y., Xu, W., Lu, N., Zhang, S., Shang, B., Liu, C., & Huang, X. (2021). Analysis of the ‘4+7’ centralized pro-
+     curement policy implementation: Based on the drug sales data of 9 pilot cities. Chinese Journal of Health
+     Policy, 14(2), 36–43 (in Chinese).
+World Bank. (1997). World development report 1997. Oxford University Press.
+World Health Organisation. (2000). The world health report 2000. WHO.
+World Health Organisation. (2005). Strengthened health systems save more lives: An insight into WHO's European health sys-
+     tems strategy. WHO Regional Office.
+Wu, X., & Ramesh, M. (2009). Health care reforms in developing Asia: Propositions and realities. Development and Change,
+     40(3), 531–549.
+Yip, W., Fu, H., Chen, A. T., Zhai, T., Jian, W., Xu, R., Pan, J., Hu, M., Zhou, Z., Chen, Q., Mao, W., Sun, Q., & Chen, W. (2019).
+     10 years of health-care reform in China: Progress and gaps in universal health coverage. The Lancet, 394(10204), 1192–1204.
+Yip, W., & Hsiao, W. C. (2015). What drove the cycles of Chinese health system reforms? Health Systems and Reforms, 1(1),
+     52–61.
+
+
+
+
+    How to cite this article: He, A. J., Bali, A. S., & Ramesh, M. (2022). Active stewardship in healthcare: Lessons
+    from China's health policy reforms. Social Policy & Administration, 56(6), 925–940. https://doi.org/10.1111/
+    spol.12832
+
+
+===== PDF文件第16页（不是印刷页码） =====
+
+14679515, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/spol.12832 by Australian National University, Wiley Online Library on [16/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+  HE ET AL.
+                                                                                                                                                                                                                                                                                            F I G U R E A 2 Word cloud of policy documents of the National Health Commission (Chinese) [Colour figure can be
+                                                                                                                                                    F I G U R E A 1 Word cloud of policy documents of the National Healthcare Security Administration (Chinese).
+                                                                                                                                                    [Colour figure can be viewed at wileyonlinelibrary.com]                                                                                 viewed at wileyonlinelibrary.com]
+                  APPENDIX A
+  940

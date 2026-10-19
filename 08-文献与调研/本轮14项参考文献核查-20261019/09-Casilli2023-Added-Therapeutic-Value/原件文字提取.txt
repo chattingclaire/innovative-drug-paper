@@ -1,0 +1,434 @@
+原件文字提取（仅供检索）
+
+来源：同目录的原件.pdf。自动提取可能存在字符间距、断行、表格错位；准确内容以原件为准。本文件不是新的人工转写或修订版本。
+
+===== PDF文件第1页（不是印刷页码） =====
+
+           International Journal of                              Do France, Germany, and Italy agree on the
+           Technology Assessment in
+           Health Care
+                                                                 added therapeutic value of medicines?
+           www.cambridge.org/thc                                 Giorgio Casilli1         , Dario Lidonnici1            , Claudio Jommi2             , Marika De Nigris3             and
+                                                                 Armando A. Genazzani2
+                                                                 1
+                                                                 More Than Access (MTA) Srl SB, Milan, Italy; 2Department of Pharmaceutical Sciences, Università del Piemonte
+                                                                 Orientale “Amedeo Avogadro”, Novara, Italy and 3Pharmalex Italy SpA, Milan, Italy
+           Policy
+           Cite this article: Casilli G, Lidonnici D, Jommi
+                                                                     Abstract
+           C, De Nigris M, Genazzani AA (2023). Do France,           Objectives: The Health Technology Assessment (HTA) of medicines is performed separately at
+           Germany, and Italy agree on the added                     the country level with some differences, but Italy, France, and Germany have implemented price
+           therapeutic value of medicines? International
+           Journal of Technology Assessment in Health
+                                                                     and reimbursement systems strongly focused on the Added Therapeutic Value (ATV). This
+           Care, 39(1), e54, 1–6                                     study investigates the level of agreement on ATV assessments by Agenzia Italiana del Farmaco
+           https://doi.org/10.1017/S026646232300048X                 (AIFA), Haute Autorité de Santé (HAS), and Gemeinsamer Bundesausschuss (G-BA).
+                                                                     Methods: A database was created collecting all information about drugs with innovativeness
+           Received: 15 March 2023
+           Revised: 08 May 2023
+                                                                     status requests in Italy from July 2017 to December 2022 and populated with the corresponding
+           Accepted: 19 June 2023                                    HAS and G-BA ATV assessments. The primary comparative analysis was conducted by
+                                                                     grouping the ATV ratings into “higher added value” and “lower or no added value”, while a
+           Keywords:                                                 secondary analysis considered the Italian innovativeness status as a criterion to include the
+           added therapeutic value; HTA organizations;
+                                                                     quality of evidence assessment. The concordance between ATV assessments was investigated
+           health technology assessment; innovativeness;
+           Joint Clinical Assessment                                 through percentage agreement and unweighted Cohen k-value.
+                                                                     Results: 189 medicines/indications were included. The greatest agreement was found when
+           Corresponding author:                                     comparing G-BA versus HAS (82 percent; k = 0.61, substantial agreement). Lower levels of
+           Giorgio Casilli,
+                                                                     agreements were observed for AIFA versus HAS and AIFA versus G-BA (respectively 52 percent;
+           Email: g.casilli@morethanaccess.com
+                                                                     k = 0.17 and 57 percent; k = 0.25). The secondary analysis led to a reconciliation to moderate
+                                                                     agreement for AIFA versus HAS (72 percent; k = 0.45) and AIFA versus G-BA (74 percent;
+                                                                     k = 0.47).
+                                                                     Conclusions: A high degree of concordance between HTA organizations is reached when
+                                                                     considering jointly ATV and quality of evidence, suggesting that the system is extensively
+                                                                     mature to make a Joint Clinical Assessment, avoiding duplications and reducing access
+                                                                     inequalities.
+
+
+
+                                                                 Background
+                                                                 Once the European Medicines Agency (EMA) approves new medicinal products based on their
+                                                                 absolute benefit–risk, the drug will be available in all countries of the European Union. Yet,
+                                                                 whether it will be reimbursed will depend on assessments and appraisals done at the national or
+                                                                 subnational levels and on price and reimbursement negotiations (1).
+                                                                     National parallel assessments allow each Member State to evaluate the technologies consid-
+                                                                 ering local needs, available alternatives, and organizational issues. However, parallel value
+                                                                 assessments of new medicinal products can lead to a disparity in patient access to treatments
+                                                                 across Europe, and inefficiencies in the management of HTA.
+                                                                     The new European HTA regulation (2), and the Joint Clinical Assessment (JCA) in particular,
+                                                                 aims at facing the challenges posed by national parallel assessment, that is unequal market access
+                                                                 and duplication of work for national HTA organizations.
+                                                                     Our aim is scrutinizing the level of concordance of the present assessment and appraisal of the
+                                                                 added therapeutic value by HTA organizations in the three largest European markets (France,
+                                                                 Germany, and Italy). A high level of concordance would make the JCA easier to implement.
+                                                                     In fact, these countries have national HTA organizations that evaluate new drugs defining
+                                                                 their place in therapy and assessing their (added) value (3).
+           © The Author(s), 2023. Published by Cambridge
+           University Press. This is an Open Access article,         In France, the Transparency Commission (Commission de la Transparence, CT) of the Haute
+           distributed under the terms of the Creative           Autorité de Santé (HAS) deals with the scientific evaluation of medicinal products for reimbursement
+           Commons Attribution licence (http://                  and pricing purposes (4). Specifically, the CT evaluates and ranks in four levels new drugs according
+           creativecommons.org/licenses/by/4.0), which           to the absolute benefit of the drug (Service Médical Rendu, SMR), and in five levels (from a major
+           permits unrestricted re-use, distribution and
+           reproduction, provided the original article is
+                                                                 additional benefit to no added benefit) the added therapeutic value of the new drug compared to the
+           properly cited.                                       current medical practice and the French standard of care (Amélioration du Service Médical Rendu,
+                                                                 ASMR). The SMR is used to decide the reimbursement status (the decision is taken by the Social
+                                                                 Insurance system), while the ASMR is used, among other parameters by the Pricing Committee
+                                                                 (Comité Économique des Produits de Santé, CEPS), to negotiate prices: only medicines with
+
+
+
+Downloaded from https://www.cambridge.org/core. IP address: 45.32.104.137, on 26 Sep 2026 at 12:15:45, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1017/S026646232300048X
+
+
+===== PDF文件第2页（不是印刷页码） =====
+
+          2                                                                                                                                                                Casilli et al.
+
+
+          substantial additional benefit can aspire to a price premium (5). The                      cut-off was December 2022. These reports list AIFA’s assessment
+          decisions regarding SMR and ASMR are then made publicly available                          of the three criteria for innovative status recognition (therapeutic
+          (6).                                                                                       need, ATV, quality of evidence) for each single indication from
+              In Germany, companies are free to set prices at market launch.                         July 2017 (start date of report publications) to December 2022
+          However, since 2011, they must submit a dossier to the Federal Joint                       (latest data available before processing). From the indications
+          Committee (Gemeinsame Bundesausschuss, G-BA) to allow them to                              included in these reports, the database was then populated by
+          define the Clinical Added Benefit (CAB) of the new medicinal                               extracting from HAS (4) and G-BA (17) websites the correspond-
+          product over an appropriate comparator decided by the G-BA.                                ing ASMR and CAB assessments (data cut-off December 2022).
+          The dossier is evaluated in most cases by the Institute for Quality                        189 medicinal products/therapeutic indications were thereby
+          and Efficiency in Health Care (Institut für Qualität und Wirtschaf-                        included. It should be noted that in some cases AIFA and HAS
+          tlichkeit im Gesundheitswesen, IQWiG), which provides an early                             apply a restriction on the reimbursable population and conse-
+          benefit assessment (7;8) (publicly available on its website (9)). This                     quently on its ATV assessment; therefore, the therapeutic indi-
+          early assessment drives a recommendation by the G-BA, which will                           cations evaluated are not always perfectly overlapping. Moreover,
+          make the final decision, sometimes diverging from IQWiG (10). The                          compared to AIFA and HAS, the G-BA often performs the CAB
+          CAB is ranked in six levels (from major added benefit to lesser                            assessment based on patient subgroups, and hence more than one
+          benefit), and a discount over the list price is negotiated with the                        CAB evaluation was present. In these cases, a critical case-by-case
+          association of the social insurances within one year of market launch.                     evaluation of the CAB assessments in the various subpopulations
+          Also, the G-BA makes its final assessments and decisions public (8).                       was performed by considering the assessment in the subgroup
+              In Italy, both the assessment and the negotiation of price and                         closest to the specific therapeutic indication evaluated by AIFA
+          reimbursement are managed by the Italian Medicines Agency                                  for innovative status recognition. In case of multiple and con-
+          (Agenzia Italiana del Farmaco, AIFA). AIFA is supported by two                             flicting ratings, these drugs/indications were excluded from the
+          committees: the Scientific Committee (Commissione Tecnico-                                 analysis. This approach allowed HTA assessments for the same
+          Scientifica, CTS) and the Price and Reimbursement Committee                                (or at least the most similar) therapeutic indication to be analyzed
+          (Comitato Prezzi e Rimborso, CPR). Marketing authorization hold-                           in an attempt to minimize possible biases in interpreting the
+          ers may apply for any new indication to be recognized as innovative,                       assessments.
+          that is, a tag that allows the indication to claim some access benefits: a                     All three agencies define the ATV on a scale, although such scale
+          dedicated fund that covers the expenditure in the first three years and                    slightly differs in terms of the number of scores and definitions
+          immediate access to the regional markets. Evaluation of innovative-                        (Supplementary Table 1 (18–20)). Analyzing the definition of ATV
+          ness is based on three criteria: the therapeutic need (based on the                        levels assigned by each HTA organization, the analysis was con-
+          value of the alternatives), the added therapeutic value (ATV), and the                     ducted by grouping the ratings into “higher added value” and
+          quality of the evidence provided (11;12). The final evaluation for                         “lower or no added value” as shown in Figure 1. Since the G-BA’s
+          those medicines that claim innovative status, unlike that of all the                       “non-quantifiable” assessment rating is not clearly classifiable in
+          other drugs, is made publicly available (13). The unmet need/ATV                           the “lower or no added value” group, it was deemed appropriate not
+          and the quality of the evidence are ranked through a five-level and                        to consider the medicinal products/indications with this rating in
+          four-level scale. The CTS can award a full (all benefits are recognized)                   the analysis.
+          or potential innovativeness status (only immediate access to regional                          As mentioned before, AIFA provides for an innovativeness
+          markets is granted). The evaluation of the quality of the evidence is                      judgment on the grounds of two criteria besides the ATV: unmet
+          managed separately from the ATV, differently from the other coun-                          need and quality of the evidence. The former has a limited impact
+          tries where it is embedded into the therapeutic value judgment.                            on the actual appraisals and the latter is embedded into the ATV
+          While these three dimensions are all considered to draw a final                            appraisal in other countries. Therefore, we carried out a secondary
+          conclusion, they do not enter in a strict algorithm but are weighed                        analysis using the innovative status itself as a criterion to classify the
+          on a case-by-case basis. Furthermore, there is no formal link between                      appraisals into “higher added value” and “lower or no added value”.
+          innovativeness status and price and reimbursement negotiation.                                 Subgroup analyses were conducted according to orphan desig-
+              For the subset of drugs for which the innovativeness status has                        nated indications and first level of Anatomical Therapeutic
+          been requested to AIFA, the overall conclusion of the three coun-                          Chemical Classification System (ATC) “L”- antineoplastic and
+          tries can be compared from publicly available sources.                                     immunomodulating agents (being the most represented ATC
+              In the current work, we present the level of agreement of the                          code).
+          three agencies for all drugs that have requested the innovativeness                            An alternative analysis was conducted grouping the ATV assess-
+          status in Italy from July 2017 to December 2022. To our knowledge,                         ments into four categories (Major, Important, Minor, and No proof
+          this is the first and most up-to-date study comparing assessments                          of benefit) to evaluate the concordance between the three agencies
+          among the top three European Health Technology Assessment                                  (see Supplementary Table 2 for more details). The classification is
+          (HTA) organizations, although recent analyses have made com-                               inspired by a previous work done by Boucaud-Maitre et al. (15). In
+          parisons between two of these HTA agencies: AIFA versus HAS                                the cross-HTA organization comparison, medicinal products/
+          (14); HAS versus G-BA (7); HAS versus IQWiG (15).                                          therapeutic indications were excluded for the following reasons:
+                                                                                                     (a) for fourteen indications, AIFA assessment was “non-
+                                                                                                     assessable”; (b) for twenty indications, HAS assessment on ASMR
+                                                                                                     was missing; (c) for one indication, there were multiple and con-
+          Methods
+                                                                                                     flicting ratings from HAS; (d) for twenty-one indications, G-BA
+          A database was created starting from the innovation reports                                assessment on CAB was missing; (e) for eighteen indications, there
+          available on the AIFA website (16). The innovativeness reports                             were multiple and conflicting ratings from G-BA assessment; (f) for
+          are available once the price and reimbursement decisions are                               thirty-seven indications, the final CAB assessment of the G-BA was
+          finalized and published in the Italian Official Gazette. The data                          “non-quantifiable”. In conclusion, the analysis of the ATV
+
+
+Downloaded from https://www.cambridge.org/core. IP address: 45.32.104.137, on 26 Sep 2026 at 12:15:45, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1017/S026646232300048X
+
+
+===== PDF文件第3页（不是印刷页码） =====
+
+           International Journal of Technology Assessment in Health Care                                                                                                                  3
+
+
+
+
+           Figure 1. Grouping in “higher added value” and “lower or no added value” based on ATV, ASMR, and CAB levels of each HTA agency. (*Conditionally innovative drugs were excluded
+           from the analysis; **G-BA’s “non-quantifiable” rating was excluded since not clearly classifiable in comparison with AIFA and HAS ratings; AIFA indicates Agenzia Italiana del
+           Farmaco; ASMR, Amélioration du Service Médical Rendu; ATV, Added Therapeutic Value; CAB, Clinical Added Benefit; G-BA, Gemeinsame Bundesausschuss; HAS, Haute Autorité de
+           Santé; HTA, Health Technology Assessment).
+
+
+           assessment concordance between AIFA and HAS was conducted                                  evaluator, while HAS appears to be the strictest HTA organiza-
+           on 159 medicinal products/therapeutic indications, 101 for AIFA-                           tion. Overall, AIFA classified 69 percent of drugs as having higher
+           G-BA comparison, and 101 for that between HAS and G-BA.                                    added value. On the contrary, HAS classified 30.2 percent and
+                                                                                                      G-BA classified 19.6 percent of drugs in the “higher added value”
+                                                                                                      category.
+           Statistical analysis                                                                          We then analyzed the concordance of the decisions made by
+           Descriptive analyses of the sample were conducted, expressing the                          the three agencies (Figure 3). The greatest level of inter-agency
+           frequency and percentage of quantitative data. Contingency tables                          agreement was found when comparing the G-BA and HAS
+           were used to represent and analyze the relationships between inter-                        assessments of the added value. An agreement rate of 82 percent
+           agency ATV scores: the columns represented the different raters                            was found (n = 101), with Cohen k-value equal to 0.61 [CI 95 per-
+           (HTA agencies), and the rows represented variables for which the                           cent 0.44–0.77] (Figure 3), showing that there is a substantial
+           raters have made the assessment (higher added value/lower or no                            agreement as per definition. A similar level of agreement was
+           added value).                                                                              confirmed for ATC code “L” subgroup analysis (n = 67): percent-
+              To investigate concordance between HTA evaluations on the                               age agreement 85 percent; k = 0.66 (substantial agreement;
+           ATV, percentage agreement and unweighted Cohen k-values were                               [CI 95 percent 0.46–0.85]). On the contrary, the percentage of
+           used (21;22).                                                                              agreement decreases for orphan indications (n = 39): percentage
+                                                                                                      agreement 69 percent; k = 0.34 (fair agreement; [CI 95 percent
+                                                                                                      0.02–0.65]).
+           Results                                                                                       When analyzing the relationship between AIFA and the other
+                                                                                                      two agencies using the ATV of AIFA (primary analysis), instead,
+           Description of the sample and general level of agreement
+                                                                                                      strong divergences emerged. The agreement between AIFA and
+           Overall, 189 medicinal products/indications were analyzed                                  HAS (n = 159 indications) fell to 52 percent with a Cohen k-value of
+           (Supplementary Table 3), of which 87 (46 percent) were orphan                              0.17 (none to slight agreement; [CI 95 percent 0.03–0.30]), while
+           and 118 (62 percent) were antineoplastic and immunomodulating                              the agreement between AIFA and G-BA (n = 101 indications) was
+           agents (ATC code: L). Sixty-three (33 percent) indications were                            57 percent, with a Cohen k-value of 0.25 (fair agreement;
+           recognized as innovative by AIFA and fifty-one (27 percent) were                           [CI 95 percent 0.08–0.42]). Subgroup analyses returned a similar
+           assessed as conditionally innovative.                                                      picture both for the “L” ATC code (AIFA versus HAS: n = 98;
+              Figure 2 shows the evaluation of the added therapeutic value                            47 percent agreement; k = 0.13 [CI 95 percent 0–0.29]; AIFA versus
+           by the three agencies. AIFA appears to be the most lenient                                 G-BA: n = 65; 60 percent agreement; k = 0.30 [CI 95 percent 0.08–
+
+
+
+
+           Figure 2. Evaluation of the added therapeutic value of AIFA, HAS, and G-BA (*nq = non-quantifiable; AIFA indicates Agenzia Italiana del Farmaco; G-BA, Gemeinsame
+           Bundesausschuss; HAS, Haute Autorité de Santé).
+
+
+
+
+Downloaded from https://www.cambridge.org/core. IP address: 45.32.104.137, on 26 Sep 2026 at 12:15:45, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1017/S026646232300048X
+
+
+===== PDF文件第4页（不是印刷页码） =====
+
+          4                                                                                                                                                                Casilli et al.
+
+
+
+
+          Figure 3. Concordance on ATV assessments among HTA bodies (Note: the size of the bubbles represents the sample size; AIFA indicates Agenzia Italiana del Farmaco; ATV, Added
+          Therapeutic Value; CAB, Clinical Added Benefit; G-BA, Gemeinsame Bundesausschuss; HAS, Haute Autorité de Santé; HTA, Health Technology Assessment).
+
+
+
+          0.50]) or for orphan products (AIFA versus HAS: n = 76; 47 percent                         between AIFA and HAS (k = 0.45; moderate agreement;
+          agreement; k = 0.10 [CI 95 percent 0–0.29]; AIFA versus G-BA:                              [CI 95 percent 0.28–0.62]) and 74 percent agreement between
+          n = 40; 60 percent agreement; with k = 0.29 [CI 95 percent 0.01–                           AIFA and G-BA (k = 0.47; moderate agreement; [CI 95 percent
+          0.55]) (Supplementary Figure 1).                                                           0.26–0.68]).
+             As mentioned above, AIFA defines innovativeness by com-                                    A more granular, but less robust from a statistical standpoint,
+          bining the ATV with two further dimensions: the therapeutic                                supplementary analysis was performed as it was done by Boucaud-
+          need, which has been shown previously not to be a driver of                                Maitre et al. (15), without grouping the assessments into two
+          decisions (11;12) and the quality of evidence. We therefore                                clusters. This analysis substantially reduces the level of agreement
+          performed a secondary analysis using the combined decision                                 between G-BA and HAS equal to 50 percent (k = 0.30; [CI 95 percent
+          instead of the only ATV assessment, that is focusing only                                  0.16–0.43]), which, however, remains well above the ones between
+          on medicines/indications that were appraised as fully innovative                           AIFA and the other two HTA organizations (AIFA versus HAS:
+          or non-innovative according to AIFA. This analysis led to a                                46 percent agreement; AIFA versus G-BA: 45 percent agreement)
+          reconciliation of the assessments with 72 percent agreement                                (see Supplementary Table 2 for more details).
+
+
+
+
+Downloaded from https://www.cambridge.org/core. IP address: 45.32.104.137, on 26 Sep 2026 at 12:15:45, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1017/S026646232300048X
+
+
+===== PDF文件第5页（不是印刷页码） =====
+
+           International Journal of Technology Assessment in Health Care                                                                                                                  5
+
+
+           Discussion                                                                                 the added value of medicines by the German and French HTA
+                                                                                                      organizations, whereas the two assessment domains are separated
+           The present contribution aims at evaluating the current concord-
+                                                                                                      in the Italian appraisal. When both are considered for Italy, that is
+           ance between the assessment of the ATV of medicines in the three
+                                                                                                      when the analysis focused on medicines appraised as innovative or
+           largest European pharmaceutical markets, in view of the new
+                                                                                                      not innovative, the level of agreement increased, with a concord-
+           European HTA regulation that will be implemented from January
+                                                                                                      ance rate between 72 percent and 82 percent.
+           2025. JCA of oncological medicinal products and advanced ther-
+                                                                                                          Yet, the discrepancy between the two analyses also suggests that
+           apies will be provided to Member States, but they will not include
+                                                                                                      clinical trials are increasingly being developed to meet regulatory
+           any ratings on ATV. Indeed, Member States remain responsible for
+                                                                                                      standards without providing sufficient evidence to reduce the
+           drawing conclusions at the national level about the ATV of a health
+                                                                                                      uncertainties on the real added value of new drugs. Therefore,
+           technology, as these conclusions depend on the specific healthcare
+                                                                                                      manufacturers should balance the risk of seeing a drug assessed
+           context and the relevance of the individual analyses included in the
+                                                                                                      less favorable by HTA organizations with the decreased risk of
+           JCA report (i.e., several comparators might be included in the JCA
+                                                                                                      clinical failures, and health systems should balance more rapid
+           report, of which only a selection may be relevant to a particular
+                                                                                                      access to medicines by patients with the uncertainty of the true
+           Member State). In this framework, it is important that the assess-
+                                                                                                      benefit of these medicines.
+           ment scope for JCA should be inclusive of all Member States’ needs
+                                                                                                          The present work should be read in light of two main limitations.
+           in terms of data and analysis, and a clear and consensual definition
+                                                                                                      First, the dataset used only represents a subset of the new indications
+           of the key criteria for ATV evaluation and interpretation could be
+                                                                                                      approved by the European Union (i.e., those that were perceived by
+           helpful in reducing access inequalities and harmonizing Member
+                                                                                                      the manufacturer to provide an important therapeutic benefit and
+           States’ assessments.
+                                                                                                      that were therefore submitted for assessment of innovativeness to
+               According to our primary analysis (all medicines appraised for
+                                                                                                      AIFA), which restricts the generalizability of the findings. It should,
+           innovativeness status in Italy), the highest level of agreement on
+                                                                                                      furthermore, be noted that innovativeness status is accessible only
+           ATV ratings was observed between the HAS and the G-BA, while
+                                                                                                      for severe disorders (a potentially fatal disorder, or a disorder that
+           the ATV assessments from AIFA appeared more generous. This
+                                                                                                      leads to repeated hospitalizations, or that causes disabilities that
+           result was found also when analyzing the most populated sub-
+                                                                                                      significantly compromise the quality of life of patients). The possi-
+           groups (oncological and orphan products). We performed a sec-
+                                                                                                      bility that our results can be transferred to drugs with lower thera-
+           ondary analysis that focused on the appraisal of innovativeness by
+                                                                                                      peutic potential or for less disabling disorders cannot be ascertained.
+           AIFA (i.e., an HTA assessment that includes also the therapeutic
+                                                                                                      Second, it should be acknowledged that the three assessments have
+           need and the quality of the presented evidence), and in this
+                                                                                                      different goals altogether which might explain part of the discrep-
+           instance, the concordance rates between the three agencies rose
+                                                                                                      ancies. Innovativeness is appraised in Italy to get easier market access
+           sharply.
+                                                                                                      (dedicated resources and immediate access to regional markets). The
+               To our best knowledge, this is the first and most up-to-date
+                                                                                                      ASMR and CAB are used to negotiate prices and price discount in
+           study comparing ATV assessments among three European HTA
+                                                                                                      France and Germany, respectively.
+           agencies. A recent analysis applying different methodologies has
+                                                                                                          Notwithstanding our findings show that if ATV and the quality
+           compared AIFA and HAS and confirmed a low level of agreement
+                                                                                                      of the evidence are integrated, the level of agreement among HTA
+           between the two agencies on ATV assessments, while a higher
+                                                                                                      organizations is rather high.
+           agreement is reached for innovative medicinal products (14).
+                                                                                                          This is a living study, and updates may be useful to monitor
+           Similarly, Rouf and colleagues (7) compared HAS and G-BA
+                                                                                                      trends of alignment of European HTA agencies’ assessments over
+           and found an overall homogeneity in ATV assessment ranking
+                                                                                                      time. Greater transparency in AIFA’s evaluations of ATV for all
+           with some limited cases of divergent opinions through quali-
+                                                                                                      medicines and not only for those that require innovativeness status,
+           quantitative analysis. On the contrary, Boucaud-Maitre and col-
+                                                                                                      as is the case for HAS and G-BA, would allow for a broader sample
+           leagues (15) compared decisions made by HAS and IQWiG (clas-
+                                                                                                      size leading to greater generalizability of results. Finally, it would be
+           sification of ATV by four levels) and found a lower percentage of
+                                                                                                      interesting to include also other countries in this analysis, despite
+           agreement (50 percent) compared to our analysis, although it
+                                                                                                      the existing variabilities.
+           should be noted that the latter study showed a divergence in
+           ratings between the IQWiG’s early assessment and the G-BA’s
+           final assessment on CAB.                                                                   Conclusions
+               The major strength of our analysis is represented by the per-
+                                                                                                      The comparison between AIFA, HAS, and G-BA assessments, which
+           formance of two separate analyses based on the Italian decisions. It
+                                                                                                      adopt a similar ATV classification, may be of value to understanding
+           has been shown that the therapeutic need does not correlate
+                                                                                                      the different approaches and whether discrepancies in the assessment
+           with the innovativeness decision taken by AIFA (11;12) and there-
+                                                                                                      are systematic or by chance, thus informing European health policy-
+           fore the discrepancy between the two analyses is likely to be
+                                                                                                      makers how to implement HTA harmonization rules on this topic.
+           attributed to the quality of the evidence provided by applicants.
+                                                                                                         The high degree of concordance (between 72 percent and
+           Indeed, separating ATV from the quality of the evidence allows us
+                                                                                                      82 percent, considering the secondary analyses) between AIFA,
+           to determine the potential of the drug in the first parameter while at
+                                                                                                      HAS, and G-BA suggests that the system is now mature to make
+           the same time defining the “certainty” of this potential via the
+                                                                                                      a JCA in most cases, avoiding duplication of assessments and
+           quality of the evidence realm. There is plenty of literature docu-
+                                                                                                      reducing access inequalities.
+           menting a decrease in the quality of the evidence during pharma-
+           ceutical development, with an increase, among other elements, of                           Supplementary material. The supplementary material for this article can be
+           single-arm studies and shorter trials, with outcomes that are not                          found at https://doi.org/10.1017/S026646232300048X.
+           readily and directly quantitatively translatable into a clinical benefit                   Supplementary Table 1 – Therapeutic Added Value: AIFA, HAS, G-BA scores
+           (23). The quality of the evidence is embedded into the evaluation of                       and definitions.
+
+
+
+
+Downloaded from https://www.cambridge.org/core. IP address: 45.32.104.137, on 26 Sep 2026 at 12:15:45, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1017/S026646232300048X
+
+
+===== PDF文件第6页（不是印刷页码） =====
+
+          6                                                                                                                                                                Casilli et al.
+
+
+          Supplementary Table 2 – a) Alternative classification in four levels and b)                 9. Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+          Supplementary analysis results.                                                                (IQWIG). Home Page [November 4, 2022]; Available from:
+          Supplementary Table 3 – Active Principles and therapeutic indications evalu-                   www.iqwig.de/en/.
+          ated by each agency.                                                                       10. Macaulay R, Mohamoud Z, Schmidt B. HT8 - Does IQWIG matter?
+          Supplementary Figure 1 – Concordance on ATV assessments among HTA                              Frequency of divergent opinions between IQWIG and the G-BA. Value
+          bodies - Subgroup analysis.                                                                    Health. 2018;21:S9–S10.
+                                                                                                     11. Fortinguerra F, Perna S, Marini R, Dell’Utri A, Trapanese M, Trotta F.
+          Funding statement. This research received no specific grant from any fund-                     The assessment of the innovativeness of a new medicine in Italy. Front Med
+          ing agency, commercial, or not-for-profit sectors.                                             (Lausanne). 2021;8:793640.
+                                                                                                     12. Galeone C, Bruzzi P, Jommi C. Key drivers of innovativeness appraisal for
+          Competing interest. Claudio Jommi reported serving as an advisory board                        medicines: The Italian experience after the adoption of the new ranking
+          member for Amgen, AstraZeneca, Bristol Myers Squibb, CSL Behring, Gilead,                      system. BMJ Open 2021;11(1):e041259.
+          Incyte, Merck Sharp & Dohme, Roche, Sanofi, Takeda, outside the submitted                  13. Agenzia Italiana del farmaco (AIFA) [Internet]. Farmaci innovativi
+          work. Giorgio Casilli, Dario Lidonnici, Marika De Nigris, and Armando
+                                                                                                         [November 4, 2022]; Available from: www.aifa.gov.it/farmaci-innovativi.
+          A. Genazzani reported no conflict of interest.                                             14. Xoxi E, Di Bidino R, Leone S, Aiello A, Prada M. Value assessment of
+                                                                                                         medicinal products by the Italian Medicines Agency (AIFA) and French
+                                                                                                         National Authority for Health (HAS): Similarities and discrepancies. Front
+          References                                                                                     Med Technol. 2022;4:917151.
+                                                                                                     15. Boucaud-Maitre D, Berdaï D, Salvo F. Added therapeutic value of medi-
+            1. Panteli D, Arickx F, Cleemput I, et al. Pharmaceutical regulation in                      cinal products for French and German health technology assessment
+               15 European countries review. Health Syst Transit. 2016;18(5):1–122.                      organizations: A systematic comparison. Value Health. 2021;24(3):
+            2. EUR-Lex [Internet]. Regulation (EU) 2021/2282 of the European Parlia-                     346–352.
+               ment and of the Council of 15 December 2021 on health technology                      16. Agenzia Italiana del farmaco (AIFA) [Internet]. Innovation Assessment
+               assessment and amending Directive 2011/24/EU (Text with EEA rele-                         Report. 2021 [November 4, 2022]; Available from: www.aifa.gov.it/en/web/
+               vance). [November 4, 2022.]; Available from: https://eur-lex.europa.eu/                   guest/farmaci-innovativi.
+               legal-content/EN/ALL/?uri=CELEX:32021R2282.                                           17. Gemeinsamer Bundesausschuss (G-BA) [Internet]. Home Page
+            3. Jommi C, Armeni P, Costa F, Bertolani A, Otto M. Implementation of                        [November 4, 2022]; Available from: www.g-ba.de.
+               value-based pricing for medicines. Clin Ther. 2020 42(1):15–24.                       18. Agenzia Italiana del farmaco (AIFA) [Internet]. Criteri per la valutazione
+            4. Haute Autorité de Santé (HAS) [Internet]. La HAS en bref [November                        dell’innovatività. 2017 [November 3, 2022]; Available from: www.aifa.gov.it/
+               4, 2022]; Available from: www.has-sante.fr/jcms/c_452559/fr/la-has-en-bref.               documents/20142/241044/Allegato_1_1.pdf.
+            5. Toumi M, Motrunich A, Millier A, et al. Analysis of health economics                  19. Haute Autorité de Santé (HAS) [Internet]. Commission de la transpar-
+               assessment reports for pharmaceuticals in France - understanding the                      ence (CT), Rapport d’Activité. 2018 [November 4, 2022]; Available from:
+               underlying philosophy of CEESP assessment. J Mark Access Health Policy.                   www.has-sante.fr/upload/docs/application/pdf/2019-07/ra_2018_ct.pdf.
+               2017;5(1):1344088.                                                                    20. Wieseler B, McGauran N, Kaiser T. New drugs: Where did we go wrong
+            6. Haute Autorité de Santé (HAS) [Internet]. Home Page [November                             and what can we do better? BMJ. 2019;366:l4340.
+               4, 2022]; Available from: www.has-sante.fr/.                                          21. Nicod E, Kanavos P. Commonalities and differences in HTA outcomes: A
+            7. Ruof J, Schwartz FW, Schulenburg JM, Dintsios CM. Early benefit                           comparative analysis of five countries and implications for coverage deci-
+               assessment (EBA) in Germany: Analysing decisions 18 months after intro-                   sions. Health Policy. 2012;108(2-3):167–177.
+               ducing the new AMNOG legislation. Eur J Health Econ. 2014 15(6):                      22. Grepstad M, Kanavos P. A comparative analysis of coverage decisions for
+               577–589.                                                                                  outpatient pharmaceuticals: Evidence from Denmark, Norway and Sweden.
+            8. Gemeinsamer Bundesausschuss (G-BA) [Internet]. The benefit assess-                        Health Policy. 2015;119(2):203–211.
+               ment of medicinal products in accordance with the German Social Code,                 23. Trapani D, Tay-Teo K, Tesch ME, et al. Implications of oncology trial
+               Book Five (SGB V), Section 35a [November 3, 2022]; Available from:                        design and uncertainties in efficacy-safety data on health technology assess-
+               www.g-ba.de/english/benefitassessment/.                                                   ments. Curr Oncol. 2022;29(8):5774–5791.
+
+
+
+
+Downloaded from https://www.cambridge.org/core. IP address: 45.32.104.137, on 26 Sep 2026 at 12:15:45, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1017/S026646232300048X

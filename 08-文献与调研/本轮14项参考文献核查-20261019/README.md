@@ -6,6 +6,32 @@
 
 文件按原始格式保存；官方来源页、出版元数据与全文明确区分。未取得原件的项目不会用报错页或自行整理文字代替。
 
+## 原件直接阅读入口
+
+这批原件已在提交 `80d4cf7` 上传。下面另提供文字提取件，便于无法解析PDF或DOC的阅读工具检索；文字提取不替代原件，尤其表格和部分中文PDF可能有字符错位。
+
+[18] DOI可直接查看[首页图片](18-%E9%99%88%E6%98%9F%E5%B9%B3%E7%AD%89-%E7%A7%91%E6%8A%80%E4%BA%BA%E6%89%8D%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%B5%8B%E9%87%8F/首页-作者与DOI.png)，位于关键词下方。
+
+| 编号 | 原件 | 无需PDF阅读器的文字入口 |
+|---|---|---|
+| [8] | [吕倩鹏等-创新药物研发政策量化研究](08-%E5%90%95%E5%80%A9%E9%B9%8F%E7%AD%89-%E5%88%9B%E6%96%B0%E8%8D%AF%E7%89%A9%E7%A0%94%E5%8F%91%E6%94%BF%E7%AD%96%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](08-%E5%90%95%E5%80%A9%E9%B9%8F%E7%AD%89-%E5%88%9B%E6%96%B0%E8%8D%AF%E7%89%A9%E7%A0%94%E5%8F%91%E6%94%BF%E7%AD%96%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [9] | [Casilli2023-Added-Therapeutic-Value](09-Casilli2023-Added-Therapeutic-Value/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](09-Casilli2023-Added-Therapeutic-Value/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [14] | [He2022-Active-Stewardship](14-He2022-Active-Stewardship/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](14-He2022-Active-Stewardship/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [15] | [Guo2023-HTA-China](15-Guo2023-HTA-China/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](15-Guo2023-HTA-China/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [18] | [陈星平等-科技人才注意力测量](18-%E9%99%88%E6%98%9F%E5%B9%B3%E7%AD%89-%E7%A7%91%E6%8A%80%E4%BA%BA%E6%89%8D%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%B5%8B%E9%87%8F/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](18-%E9%99%88%E6%98%9F%E5%B9%B3%E7%AD%89-%E7%A7%91%E6%8A%80%E4%BA%BA%E6%89%8D%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%B5%8B%E9%87%8F/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [19] | [练宏2015-注意力分配](19-%E7%BB%83%E5%AE%8F2015-%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%88%86%E9%85%8D/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](19-%E7%BB%83%E5%AE%8F2015-%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%88%86%E9%85%8D/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [20] | [Thornton-Ocasio2008-Institutional-Logics](20-Thornton-Ocasio2008-Institutional-Logics/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](20-Thornton-Ocasio2008-Institutional-Logics/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [31] | [Halterman-Keith2026-Codebook-LLMs](31-Halterman-Keith2026-Codebook-LLMs/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](31-Halterman-Keith2026-Codebook-LLMs/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [32] | [Grimmer-Stewart2013-Text-as-Data](32-Grimmer-Stewart2013-Text-as-Data/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](32-Grimmer-Stewart2013-Text-as-Data/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [36] | [真实世界证据指导原则-2020](36-%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E8%AF%81%E6%8D%AE%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%99-2020/%E5%8E%9F%E4%BB%B6.doc) | [文字提取](36-%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E8%AF%81%E6%8D%AE%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%99-2020/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [37] | [药物临床试验质量管理规范-2026](37-%E8%8D%AF%E7%89%A9%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83-2026/%E5%8E%9F%E4%BB%B6.doc) | [文字提取](37-%E8%8D%AF%E7%89%A9%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83-2026/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [38] | [谈判药品续约规则-2026](38-%E8%B0%88%E5%88%A4%E8%8D%AF%E5%93%81%E7%BB%AD%E7%BA%A6%E8%A7%84%E5%88%99-2026/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](38-%E8%B0%88%E5%88%A4%E8%8D%AF%E5%93%81%E7%BB%AD%E7%BA%A6%E8%A7%84%E5%88%99-2026/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+| [39] | [目录调整常用问答-2025](39-%E7%9B%AE%E5%BD%95%E8%B0%83%E6%95%B4%E5%B8%B8%E7%94%A8%E9%97%AE%E7%AD%94-2025/%E5%8E%9F%E4%BB%B6.pdf) | [文字提取](39-%E7%9B%AE%E5%BD%95%E8%B0%83%E6%95%B4%E5%B8%B8%E7%94%A8%E9%97%AE%E7%AD%94-2025/%E5%8E%9F%E4%BB%B6%E6%96%87%E5%AD%97%E6%8F%90%E5%8F%96.txt) |
+
+[40]仍未取得可归档官方原件。仓库早期的2019年通知整理/转写文件不作为本次原件证据，也不计入13项全文原件。
+
+## 核实结论
+
 | 编号 | 文献或文件 | 归档内容 | 核实结论 |
 |---|---|---|---|
 | [8] | [吕倩鹏等-创新药物研发政策量化研究](08-%E5%90%95%E5%80%A9%E9%B9%8F%E7%AD%89-%E5%88%9B%E6%96%B0%E8%8D%AF%E7%89%A9%E7%A0%94%E5%8F%91%E6%94%BF%E7%AD%96%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6/来源与核实结论.md) | 已保存全文原件 | 原件确认：2024,41(12):1393-1399，现著录正确。 |
