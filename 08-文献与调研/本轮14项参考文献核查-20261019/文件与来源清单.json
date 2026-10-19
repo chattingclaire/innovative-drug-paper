@@ -1,0 +1,207 @@
+[
+  {
+    "reference": 8,
+    "title": "吕倩鹏等-创新药物研发政策量化研究",
+    "status": "已保存全文原件",
+    "source_url": "",
+    "conclusion": "原件确认：2024,41(12):1393-1399，现著录正确。",
+    "files": [
+      {
+        "path": "08-吕倩鹏等-创新药物研发政策量化研究/原件.pdf",
+        "bytes": 1331478,
+        "sha256": "0da1339bff86a6df0b4874136fdc53b0be1cc3c02662ac166b8dbaebd0f5fc76"
+      }
+    ]
+  },
+  {
+    "reference": 9,
+    "title": "Casilli2023-Added-Therapeutic-Value",
+    "status": "已保存全文原件",
+    "source_url": "https://doi.org/10.1017/S026646232300048X",
+    "conclusion": "DOI确认：10.1017/S026646232300048X。",
+    "files": [
+      {
+        "path": "09-Casilli2023-Added-Therapeutic-Value/原件.pdf",
+        "bytes": 587791,
+        "sha256": "5ea477e23c4619ec5d4a4f98bb6d65387f614ffbd2101e51228c68311376e089"
+      }
+    ]
+  },
+  {
+    "reference": 14,
+    "title": "He2022-Active-Stewardship",
+    "status": "已保存全文原件",
+    "source_url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/c72cd2ec-5416-4f44-a2a9-289eea0bb867/content",
+    "conclusion": "撤回此前“引述错误”的判断。原文p932说明分析NHC与NHSA的261份文件；p934分别展示87份和174份文本结果。",
+    "files": [
+      {
+        "path": "14-He2022-Active-Stewardship/原件.pdf",
+        "bytes": 2163336,
+        "sha256": "261df0f6409255b570618c013a969efc86c6144a6bab97f2f51b1fb49bab83eb"
+      }
+    ]
+  },
+  {
+    "reference": 15,
+    "title": "Guo2023-HTA-China",
+    "status": "已保存全文原件",
+    "source_url": "https://doi.org/10.1080/23288604.2024.2327099",
+    "conclusion": "卷期年2023,9(3),2327099；在线发表2024-05-08。专家评审部分列出五维。",
+    "files": [
+      {
+        "path": "15-Guo2023-HTA-China/原件.pdf",
+        "bytes": 899702,
+        "sha256": "94134dd2f60f382d5dc463c8362d4329cbf308c127f0ba2ee1490b49a475ba4f"
+      }
+    ]
+  },
+  {
+    "reference": 18,
+    "title": "陈星平等-科技人才注意力测量",
+    "status": "已保存全文原件",
+    "source_url": "https://www.kjjb.org/CN/article/downloadArticleFile.do?attachType=PDF&id=17309",
+    "conclusion": "作者陈星平、毕利娜、吴道友；2018,35(23):155-160；DOI 10.6049/kjjbydc.L201808216，均确认。",
+    "files": [
+      {
+        "path": "18-陈星平等-科技人才注意力测量/原件.pdf",
+        "bytes": 1088498,
+        "sha256": "86c28eda299f7b64286fbf65f3eb54a8749b1c5329fc29a0ea7437c1d20543a6"
+      }
+    ]
+  },
+  {
+    "reference": 19,
+    "title": "练宏2015-注意力分配",
+    "status": "已保存全文原件",
+    "source_url": "https://sog.sysu.edu.cn/node/2208",
+    "conclusion": "原件确认：正文215-241，英文摘要246。保留现著录，不改219-245。",
+    "files": [
+      {
+        "path": "19-练宏2015-注意力分配/原件.pdf",
+        "bytes": 2046333,
+        "sha256": "7c7d39481831cfc3855c50b4935afc44bc13482d628bb072bf2e5a162498c28b"
+      }
+    ]
+  },
+  {
+    "reference": 20,
+    "title": "Thornton-Ocasio2008-Institutional-Logics",
+    "status": "已保存全文原件",
+    "source_url": "https://www.patriciathornton.com/files/9781412931236-Ch03.pdf",
+    "conclusion": "新增原件改变处理建议：作者公开PDF为99-129（129页含附表续页），SAGE登记元数据为99-128。撤回直接改128的建议，暂保留99-129；作者PDF带排版标记，两个版本差异尚不能仅据元数据消除。",
+    "files": [
+      {
+        "path": "20-Thornton-Ocasio2008-Institutional-Logics/原件.pdf",
+        "bytes": 410870,
+        "sha256": "ecdccf5da5d947114e1907ac51a17156199fcd79314b1b7013f413ab92bce254"
+      },
+      {
+        "path": "20-Thornton-Ocasio2008-Institutional-Logics/SAGE登记元数据-Crossref.json",
+        "bytes": 1744,
+        "sha256": "18d75429109540dcbea0b3cb577804f144465a62ad7d9484bccf2dc1c4d858ee"
+      }
+    ]
+  },
+  {
+    "reference": 31,
+    "title": "Halterman-Keith2026-Codebook-LLMs",
+    "status": "已保存全文原件",
+    "source_url": "https://doi.org/10.1017/pan.2025.10017",
+    "conclusion": "出版社PDF确认2026,34(2):188-204；DOI 10.1017/pan.2025.10017。",
+    "files": [
+      {
+        "path": "31-Halterman-Keith2026-Codebook-LLMs/原件.pdf",
+        "bytes": 1187067,
+        "sha256": "74b889a8f9d2320e46297d4136b7cc0d027b71a1171b645911189825b0c9deed"
+      }
+    ]
+  },
+  {
+    "reference": 32,
+    "title": "Grimmer-Stewart2013-Text-as-Data",
+    "status": "已保存全文原件",
+    "source_url": "https://doi.org/10.1093/pan/mps028",
+    "conclusion": "DOI确认：10.1093/pan/mps028。",
+    "files": [
+      {
+        "path": "32-Grimmer-Stewart2013-Text-as-Data/原件.pdf",
+        "bytes": 972383,
+        "sha256": "329b88773b6d4c1c82bba37f7f83b995add6f2e188f380eb332081da53ddd390"
+      }
+    ]
+  },
+  {
+    "reference": 36,
+    "title": "真实世界证据指导原则-2020",
+    "status": "已保存全文原件",
+    "source_url": "https://amr.hainan.gov.cn/himpa/xxgk/zcfg/ypl/202004/t20200402_2769970.html",
+    "conclusion": "文号确认：2020年第1号通告；附件1为指导原则。",
+    "files": [
+      {
+        "path": "36-真实世界证据指导原则-2020/原件.doc",
+        "bytes": 366080,
+        "sha256": "65ad26a182263ecb2f37dd89c27c8089048b908bf284c4e6fac8d9c429ec994b"
+      },
+      {
+        "path": "36-真实世界证据指导原则-2020/官方发布页面.html",
+        "bytes": 18859,
+        "sha256": "9f87f85c688a4a5dc8a03f74306718304867700b60c0c466e94f21eb1d11dfb8"
+      }
+    ]
+  },
+  {
+    "reference": 37,
+    "title": "药物临床试验质量管理规范-2026",
+    "status": "已保存全文原件",
+    "source_url": "https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html",
+    "conclusion": "文号确认：2026年第50号公告；附件1为2026年修订规范。署期2026-05-21，官网发布2026-06-08。",
+    "files": [
+      {
+        "path": "37-药物临床试验质量管理规范-2026/原件.doc",
+        "bytes": 80384,
+        "sha256": "5efbc667f88d65b8d3df21760f1dfef2df5e8fdbf9fe6df8f3552c6126426919"
+      },
+      {
+        "path": "37-药物临床试验质量管理规范-2026/官方发布页面.html",
+        "bytes": 15089,
+        "sha256": "407c6846c045e31ba4d4ef6b7e55b706fee3da8d5d1aaddaeec032e04ad977f6"
+      }
+    ]
+  },
+  {
+    "reference": 38,
+    "title": "谈判药品续约规则-2026",
+    "status": "已保存全文原件",
+    "source_url": "https://www.nhsa.gov.cn/art/2026/5/31/art_109_20816.html",
+    "conclusion": "确认2026-05-31发布页面附件3，应补全来源信息。",
+    "files": [
+      {
+        "path": "38-谈判药品续约规则-2026/原件.pdf",
+        "bytes": 155649,
+        "sha256": "32846e26963778ef08f05d29620574d660873dab451e3d59828ad404057f2603"
+      }
+    ]
+  },
+  {
+    "reference": 39,
+    "title": "目录调整常用问答-2025",
+    "status": "已保存全文原件",
+    "source_url": "https://www.nhsa.gov.cn/art/2025/7/10/art_109_17198.html",
+    "conclusion": "确认2025-07-10公告附件5，建议补充所属公告及附件号。",
+    "files": [
+      {
+        "path": "39-目录调整常用问答-2025/原件.pdf",
+        "bytes": 5245913,
+        "sha256": "7f5b1829d0030b3402f85d288edf764bc3195bb99ca1c419dd8605342eb70d68"
+      }
+    ]
+  },
+  {
+    "reference": 40,
+    "title": "药品使用监测和临床综合评价-2019",
+    "status": "仅来源说明，原件尚未取得",
+    "source_url": "https://www.nhc.gov.cn/yaozs/c100097/201904/6bc8f273684845d3ab76fed841eb42d2.shtml",
+    "conclusion": "原网址有官方全文检索记录；直接访问返回412，未获得可归档官网页面。暂不认定网址错误，不替换。",
+    "files": []
+  }
+]
