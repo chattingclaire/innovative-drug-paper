@@ -6,8 +6,8 @@
   },
   {
     "file": "README.md",
-    "bytes": 2839,
-    "sha256": "f4183fc903900b104fa88ad3d95feaffc43293766dd94c6fb93d4fefd2e33032"
+    "bytes": 2811,
+    "sha256": "83a1ed8f6329ff720c03b04f5038b4dcffd720c9cc7f4e00bb513045a1d6806c"
   },
   {
     "file": "final-independent-execution-audit.json",
@@ -36,8 +36,8 @@
   },
   {
     "file": "与最终人工编码比较.md",
-    "bytes": 1200,
-    "sha256": "a65693f8843de16e4fb9e2a86fd75017a5f3b5aa80475bdfae70c39b08ced7b5"
+    "bytes": 1334,
+    "sha256": "11bc643441df12d962e0fb0d095b4cfb4f0aaceb5d461c904b226dbaca9477f1"
   },
   {
     "file": "五维比较说明.md",
