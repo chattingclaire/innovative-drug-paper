@@ -8,8 +8,8 @@ A/B各800个盲号、4000行五维，D的8000个值和E的8000个理由全部空
 
 原件→派生接收入口使用已存在05-validation/formal800-xlsx-reception-adapter-sol/adapter.py，精确release SHA见coordinator-private/reception-contract.json。命令：
 
-    python3 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-reception-adapter-sol/adapter.py receive --xlsx-a /实际返回/A.xlsx --xlsx-b /实际返回/B.xlsx --release /本包绝对路径/release.json --release-sha256 /本包release实际SHA --declaration-a /协调员已保存真实A声明.json --declaration-b /协调员已保存真实B声明.json --out /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-reception-adapter-sol/receptions/新首件目录
+    python3 /PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-reception-adapter-sol/adapter.py receive --xlsx-a /实际返回/A.xlsx --xlsx-b /实际返回/B.xlsx --release /本包绝对路径/release.json --release-sha256 /本包release实际SHA --declaration-a /协调员已保存真实A声明.json --declaration-b /协调员已保存真实B声明.json --out /PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-reception-adapter-sol/receptions/新首件目录
 
-其中/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010为本项目outputs/goal-calibration-20261010的绝对路径，SHA是字符串而非文件路径。必须用尚不存在的接收目录；接收器保存原始XLSX bytes与SHA，保留独立A/B，按私有source_id对齐并产生分歧/待定清单，不自动合并成裁定。未收到声明或有待填时不称正式内容接收完成，不计算指标或CI。真实接收命令尚未运行。
+其中/PROJECT_ROOT/outputs/goal-calibration-20261010为本项目outputs/goal-calibration-20261010的绝对路径，SHA是字符串而非文件路径。必须用尚不存在的接收目录；接收器保存原始XLSX bytes与SHA，保留独立A/B，按私有source_id对齐并产生分歧/待定清单，不自动合并成裁定。未收到声明或有待填时不称正式内容接收完成，不计算指标或CI。真实接收命令尚未运行。
 
 机械核对见mechanical-readback.json，原件及最终发布绑定见seal.json。未重跑既有16项控制，没有读Gold、机器first/labels/metrics或新裁定标签。

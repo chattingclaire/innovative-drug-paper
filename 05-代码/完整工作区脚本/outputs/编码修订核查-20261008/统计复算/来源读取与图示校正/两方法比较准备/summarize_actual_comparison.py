@@ -8,7 +8,7 @@ import hashlib
 import json
 from pathlib import Path
 
-W = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008')
+W = Path('/PROJECT_ROOT/outputs/编码修订核查-20261008')
 P = W / '统计复算/来源读取与图示校正/两方法比较准备'
 O = P / '实际同材料比较01'
 D = ('S', 'E', 'Ec', 'I', 'F')

@@ -14,7 +14,7 @@ sys.dont_write_bytecode = True
 OUT = Path(__file__).resolve().parent
 BASE = OUT.parent
 DESIGN = BASE / 'design-v2'
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 DIMS = ['S', 'E', 'Ec', 'I', 'F']
 
 def sha(path):

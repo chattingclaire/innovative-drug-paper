@@ -13,7 +13,7 @@ for n in range(1, 43):
     inp = here / f"input-{n:03d}.json"
     out = here / f"output-{n:03d}.json"
     proc = subprocess.run(
-        ["/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3", str(here / "validate_output.py"), str(inp), str(out)],
+        ["/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3", str(here / "validate_output.py"), str(inp), str(out)],
         capture_output=True, text=True,
     )
     verdict = json.loads(proc.stdout)

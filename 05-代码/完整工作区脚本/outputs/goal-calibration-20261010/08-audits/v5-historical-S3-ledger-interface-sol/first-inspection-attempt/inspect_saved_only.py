@@ -1,7 +1,7 @@
 """Read only three already exposed saved records. No candidate imports or recovery."""
 import copy, datetime, hashlib, json, pathlib, unicodedata
 
-BASE = pathlib.Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+BASE = pathlib.Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 HERE = pathlib.Path(__file__).resolve().parent
 RUNNER = BASE / '06-coding/rule-full4481-final-v5-sol'
 RUN = RUNNER / 'run4481-first'

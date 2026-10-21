@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 import hashlib, json, re, unicodedata
 from pypdf import PdfReader
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 OUT=ROOT/'outputs/coding-revision-20261008-r4'
 SHADOW=OUT/'rules-v37.2-shadow-full-v14'
 TARGETS={'RECODE25-'+n for n in ['00035','00741','01378','01388','03574','01353']}

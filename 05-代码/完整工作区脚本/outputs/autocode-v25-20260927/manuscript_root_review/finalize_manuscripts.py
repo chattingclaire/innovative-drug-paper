@@ -8,7 +8,7 @@ import json
 import shutil
 
 HERE = Path(__file__).resolve().parent
-WORK = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/重跑修订稿-20260927')
+WORK = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/重跑修订稿-20260927')
 NS = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
 W = '{' + NS['w'] + '}'
 BACKUP = HERE / '视觉收尾前快照'

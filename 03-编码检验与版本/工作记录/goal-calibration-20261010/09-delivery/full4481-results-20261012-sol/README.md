@@ -8,7 +8,7 @@
 
 稳健性页摘取已运行的792情景、408留一情景：精确文本重复降权、排除联合/系列/多组件、2018–2025窗口、等来源及系列年度均值，保留重复组冲突/null。去重仅降权，不合并OR，不宣称语义去重。51来源有56组件但条款component_id全缺失；组件年份/组件等权与联合部门再分摊未执行。所有表格均注明数据来源键、范围与分母。
 
-原始封存来源（相对根 `/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010`）：
+原始封存来源（相对根 `/PROJECT_ROOT/outputs/goal-calibration-20261010`）：
 
 - **M**：`07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/metrics.json`
   SHA256 `955797adb43791bdba14243d0dcfe38a264d5063f67d41f315e990e59dd91053`（原封印逐字校验）。

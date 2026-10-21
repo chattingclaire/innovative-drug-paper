@@ -20,9 +20,9 @@ implementation04 在同一代码下分别完成旧41材料回归与36条开发�
 
 交付入口：
 
-- [41+36完整报告](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/implementation04/paired-v04-development-report.md)
-- [41+36完整封存清单](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/implementation04/paired-v04-final-delivery-bindings.json)
-- [两条实际失败seal](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/run01/seal.json)
-- [全10技术失败槽](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/run01/technical-diagnostics.jsonl)
-- [两条执行完整记录](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/updated-two-material-execution-report.json)
-- [下一版具体文件范围](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/next-version-specific-change-scope.md)
+- [41+36完整报告](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/implementation04/paired-v04-development-report.md)
+- [41+36完整封存清单](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/implementation04/paired-v04-final-delivery-bindings.json)
+- [两条实际失败seal](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/run01/seal.json)
+- [全10技术失败槽](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/run01/technical-diagnostics.jsonl)
+- [两条执行完整记录](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/updated-two-material-execution-report.json)
+- [下一版具体文件范围](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/next-version-specific-change-scope.md)

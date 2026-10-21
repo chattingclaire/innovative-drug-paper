@@ -106,7 +106,7 @@ $$P(\boldsymbol X_h=\boldsymbol x_h\mid\boldsymbol K_h)=\frac{\prod_{c=1}^{4}\bi
 
 ## 6. 已完成的独立校核与范围
 
-运行文件：[independent_math_checks.py](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/independent_math_checks.py)。机器可读输出：[independent_math_results.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/independent_math_results.json)。仅用 Python 标准库、确定性穷举与精确组合概率，未进行 Monte Carlo，也未导入母引擎。
+运行文件：[independent_math_checks.py](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/independent_math_checks.py)。机器可读输出：[independent_math_results.json](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/independent_math_results.json)。仅用 Python 标准库、确定性穷举与精确组合概率，未进行 Monte Carlo，也未导入母引擎。
 
 | 校核 | 结果 |
 |---|---|

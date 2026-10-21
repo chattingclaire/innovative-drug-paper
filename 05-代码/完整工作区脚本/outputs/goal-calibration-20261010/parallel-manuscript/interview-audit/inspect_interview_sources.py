@@ -4,7 +4,7 @@ import hashlib,json,shutil,datetime,re
 
 OUT=Path(__file__).resolve().parent
 PROJECT=OUT.parents[3]
-ARCHIVE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+ARCHIVE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 RAW=ARCHIVE/'04-访谈与研讨会原始资料'
 WORK=ARCHIVE/'12-投稿定稿工作区'
 BASE=PROJECT/'outputs/编码修订核查-20261008/本轮结果/创新药评价的注意力配置差异与协调路径.docx'

@@ -7,7 +7,7 @@ import json
 
 HERE = Path(__file__).resolve().parent
 PREVIOUS = HERE.parent / '最新机器与既有AC参照比较'
-R3 = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3')
+R3 = Path('/PROJECT_ROOT/outputs/coding-revision-20261007-r3')
 
 
 def sha(p):

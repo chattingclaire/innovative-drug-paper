@@ -1,7 +1,7 @@
 """Read-only independent checks of already executed synthetic controls, no rule/model call."""
 from pathlib import Path
 import json,hashlib,datetime,importlib.util
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01'
 OUT=BASE/'independent-actual32-review'
 ACTUAL=BASE/'audit-run04/controls_results_PRIVATE.json'

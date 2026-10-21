@@ -6,8 +6,8 @@
 
 完成内容接收允许二元值与合法null合计覆盖4000槽；真实用户独立执行声明仍必须如实，由协调员保存用户文字并绑定原件SHA，沿用既有声明字段。没有声明或未完成时只保存解析，不称真人接收完成。双方null不算二元一致；null和分歧仍交协调员核验材料或裁定，不从A/B自动造参照。
 
-原release v1、旧adapter、旧统计桥不改。v2实际原件接收用 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-lawful-null-reception-supplement-sol/adapter.py receive，--release指本包release.json并绑定真实SHA，真实声明参数与原接口相同，--out为本补充目录内新的接收目录。接收输出version=formal800-xlsx-lawful-null-reception-2，fully_completed表示4000二元/合法null完成。
+原release v1、旧adapter、旧统计桥不改。v2实际原件接收用 /PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-lawful-null-reception-supplement-sol/adapter.py receive，--release指本包release.json并绑定真实SHA，真实声明参数与原接口相同，--out为本补充目录内新的接收目录。接收输出version=formal800-xlsx-lawful-null-reception-2，fully_completed表示4000二元/合法null完成。
 
-统计输入用 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-lawful-null-reception-supplement-sol/human_first_driver.py --convert或--calculate，--upstream-reception实际v2接收目录，--statistics-metadata实际已绑定human_first元数据，--statistics-metadata-sha256其真实SHA，--output-dir本补充目录内新输出目录。没有真实接收/声明/统计元数据则在数值运行前拒绝；本次未运行实际human_first。桥只将lawful_null投影为既有semantic_null，原joint_binary/coverage/NA/5000及seed20261010处理保持，不改变阈值或产生新的总体结果。
+统计输入用 /PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/formal800-xlsx-lawful-null-reception-supplement-sol/human_first_driver.py --convert或--calculate，--upstream-reception实际v2接收目录，--statistics-metadata实际已绑定human_first元数据，--statistics-metadata-sha256其真实SHA，--output-dir本补充目录内新输出目录。没有真实接收/声明/统计元数据则在数值运行前拒绝；本次未运行实际human_first。桥只将lawful_null投影为既有semantic_null，原joint_binary/coverage/NA/5000及seed20261010处理保持，不改变阈值或产生新的总体结果。
 
 release精确SHA与入口绑定见coordinator-private/reception-contract.json。原件及输入输出见seal.json。合法null的理由形式不证明它在共同手册下实质成立，协调员须核验；不强填0/1。没有读取Gold、机器first/labels/metrics或裁定标签，也不运行旧16测试。

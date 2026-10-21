@@ -5,7 +5,7 @@
 准备入口（生成冻结运输元数据，不执行分类）：
 
 ```zsh
-"$DELTA_PYTHON" "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/generic-rule-delta-execution-adapter-sol/prepare.py" \
+"$DELTA_PYTHON" "/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/generic-rule-delta-execution-adapter-sol/prepare.py" \
   --selection "$DELTA_SELECTION" \
   --candidate-directory "$DELTA_CANDIDATE_DIRECTORY" \
   --candidate-version "$DELTA_CANDIDATE_VERSION" \
@@ -23,7 +23,7 @@
 合并入口（仅真实一次完整 affected pass 成功并封存后）：
 
 ```zsh
-"$DELTA_PYTHON" "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/generic-rule-delta-execution-adapter-sol/merge.py" \
+"$DELTA_PYTHON" "/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/generic-rule-delta-execution-adapter-sol/merge.py" \
   --preparation "$DELTA_PREPARATION_OUTPUT" \
   --parent-composite "$DELTA_PARENT_COMPOSITE" \
   --original-preparation "$DELTA_ORIGINAL_PREPARATION" \

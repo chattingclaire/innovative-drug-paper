@@ -3,12 +3,12 @@
 Use this entry only with a genuinely completed, sealed compatible rule composite carrying explicit material_delta_bindings and full current packet metadata. Keep the original v2 calculator unchanged. No real calculator, population alignment, classifier, selector or model was run while preparing this entry.
 
 ```sh
-/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/source-aligned-statistics-entry-sol/calculate.py' \
+/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 '/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/source-aligned-statistics-entry-sol/calculate.py' \
   --rule-composite "$STAT_RULE_COMPLETED_COMPOSITE" \
   --native-snapshot "$STAT_SEALED_NATIVE_SNAPSHOT" \
   --output "$STAT_NEW_OUTPUT" \
-  --development-material-manifest '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/development77/delivery-manifest.json' \
-  --development-material-seal '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/seal.json'
+  --development-material-manifest '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/development77/delivery-manifest.json' \
+  --development-material-seal '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/seal.json'
 ```
 
 The last two flags are optional with the shown fixed sealed defaults. No expected population mismatch count/ID is hardcoded. The helper validates exact sealed material bindings, all 4481 current/prior packet hashes and ordered metadata, and the separately frozen development v15 packet/canonical-bundle bindings. Native selected-record.packet must match the current rule packet, or have independently verified identical bytes under another path. An eventual new native packet naturally aligns without a special-case override.

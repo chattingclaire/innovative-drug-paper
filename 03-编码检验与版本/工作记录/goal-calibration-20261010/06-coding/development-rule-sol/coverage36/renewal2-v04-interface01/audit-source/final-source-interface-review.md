@@ -19,8 +19,8 @@ runner 的分离诊断保留 raw source_record 全字段。无完整 reader 输�
 执行命令（报告采用独占创建，重复执行会拒绝覆盖既有记录）：
 
 ```sh
-python3 -B /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/source_integrity_audit.py
-python3 -B /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/test_runner_guards_independent.py
-python3 -B /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/test_fallback_independent.py run02
-python3 -B /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/test_reader_contract_independent.py
+python3 -B /PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/source_integrity_audit.py
+python3 -B /PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/test_runner_guards_independent.py
+python3 -B /PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/test_fallback_independent.py run02
+python3 -B /PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/test_reader_contract_independent.py
 ```

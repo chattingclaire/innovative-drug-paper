@@ -3,7 +3,7 @@ from pathlib import Path
 import datetime, hashlib, json, math, re, sys
 sys.dont_write_bytecode=True
 from docx import Document
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/编码修订核查-20261008';OUT=BASE/'正文同步/独立正文审查';DEL=BASE/'本轮结果'
 STAT=BASE/'统计复算/完整39与LLM03-同步复算01'
 ARCH=BASE/'正文同步/接入裁定与清除非同源复测前记录'

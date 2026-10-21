@@ -2,13 +2,13 @@
 
 规则入口（未来ROOT完成scope并授权后，当前未运行）：
 
-    python3 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal-freeze-interface-v1-sol/rule_driver.py --scope /绝对路径/已冻结scope.json --scope-sha256 <真实SHA> --input /绝对路径/原packet.jsonl --input-sha256 <真实SHA> --out /绝对路径/新首件目录
+    python3 /PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/formal-freeze-interface-v1-sol/rule_driver.py --scope /绝对路径/已冻结scope.json --scope-sha256 <真实SHA> --input /绝对路径/原packet.jsonl --input-sha256 <真实SHA> --out /绝对路径/新首件目录
 
 scope须status=frozen_for_execution，显式输入/输出、顺序/N/5N、来源seal/material_bindings、实际manual和algorithm_bindings。rule-scope.template.json尚不可执行。driver从algorithm-bindings.json的原路径、SHA和bytes加载五个封存v17模块，未复制或修改判定算法；可接裸完整bundle或现五键wrapper，仅解出原source_bundle，保存外层盲号/原行UTF8位置/SHA和嵌套对象SHA，不改变源对象。原图与源材料按原scope/receipt resolver绑定；规则仍不冒称像素阅读。来源全局故障若发生在创建授权输出后，保存driver-failure.json和failure seal，未处理维不补0；preflight不合法则stderr拒绝，不启动推断。max one是每个冻结scope的单次首件，不自动重试。
 
 新真人入口（未来提交后；命令例未执行研究材料）：
 
-    python3 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/formal-freeze-interface-v1-sol/human_receiver.py verify --interface v14-wrapper --packet-dir /绝对路径/本方coder-A --labels /绝对路径/labels.jsonl --submission /绝对路径/submission.json --sidecar /绝对路径/submission-sidecar.json --release /绝对路径/本方release.json --release-sha256 <真实SHA>
+    python3 /PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/formal-freeze-interface-v1-sol/human_receiver.py verify --interface v14-wrapper --packet-dir /绝对路径/本方coder-A --labels /绝对路径/labels.jsonl --submission /绝对路径/submission.json --sidecar /绝对路径/submission-sidecar.json --release /绝对路径/本方release.json --release-sha256 <真实SHA>
 
 将verify改seal并加--destination /绝对路径/本轮首判封存目录即可原字节封存。已经封存的目录不覆盖；补材另round/release/目录。human-release.template.json仍pending，不授权当前编码。现800packet、labels.blank、原manifest和submission.blank一律保留。新release单独指向原packet/asset index及实际1.3F手册与身份登记，不重prepare/draw；分发给正式编码者的手册仅manual.md或同字节manual.txt，不把历史发展裁定、change-log、source-index或工具账本当共同手册。
 

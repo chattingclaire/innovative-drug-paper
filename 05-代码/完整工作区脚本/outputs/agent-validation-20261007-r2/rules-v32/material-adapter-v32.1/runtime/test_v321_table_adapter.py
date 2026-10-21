@@ -6,7 +6,7 @@ import unittest
 import policy_coding_v27 as coder
 from table_material_adapter_v321 import verified_rows, describes_exclusive_data_right
 
-INPUT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/agent-validation-20261007-r2/rule_inputs_shared_v6.jsonl')
+INPUT = Path('/PROJECT_ROOT/outputs/agent-validation-20261007-r2/rule_inputs_shared_v6.jsonl')
 
 
 class TableMaterialAdapter(unittest.TestCase):

@@ -1,8 +1,8 @@
 {
-  "source": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验结果.json",
+  "source": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/真人核验结果.json",
   "files": {
     "A": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/编码者A结果/真人核验确认-A-200条.xlsx",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/编码者A结果/真人核验确认-A-200条.xlsx",
       "sha256": "2ae88e6c01e7e18050f0d326cdddbb7c94482e5732aa3d3d86a53e4bb23c354c",
       "sheets": [
         "真人核验结果",
@@ -23,7 +23,7 @@
       "issues": []
     },
     "B": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/编码者B结果/真人核验确认-B-200条.xlsx",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/编码者B结果/真人核验确认-B-200条.xlsx",
       "sha256": "5ba7aad2808c7c3401d708eb4f01e518ec0805508dbf8e668408d74472ebc783",
       "sheets": [
         "真人核验结果",

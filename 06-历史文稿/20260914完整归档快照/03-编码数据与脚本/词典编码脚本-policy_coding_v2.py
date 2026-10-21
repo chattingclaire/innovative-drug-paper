@@ -10,7 +10,7 @@ import json
 import csv
 from collections import defaultdict
 
-# 归档版路径：指向本归档内的 02-原始数据-政策文本/（原路径 /Users/rainbow/Desktop/战略院/药企项目-创新药/政策文件）
+# 归档版路径：指向本归档内的 02-原始数据-政策文本/（原路径 /PROJECT_ROOT/政策文件）
 _DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '02-原始数据-政策文本')
 POLICY_DIR = os.path.join(_DATA, '政策文件原件')
 TXT_DIR = os.path.join(_DATA, 'txt_extracted-55份编码语料')

@@ -10,7 +10,7 @@ const out = path.dirname(support);
 const delivery = path.dirname(out);
 const aiRoot = path.join(delivery,'AI独立复核-200条-20261013');
 if(process.argv.includes('--split')){
-  const python='/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3';
+  const python='/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3';
   const finalData=JSON.parse(await fs.readFile(path.join(out,'真人核验结果.json'),'utf8'));
   const aToB=new Map(finalData.records.map(r=>[r.A_id,r.B_id]));
   const sourceA=path.join(out,'真人核验确认-200条.xlsx');
@@ -38,7 +38,7 @@ if(process.argv.includes('--split')){
   }
   const markerReceipt=path.join(support,'split-operation-started.json');
   try{await fs.access(markerReceipt);}catch{
-    const marker='/Users/rainbow/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.1009.11318/skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs';
+    const marker='/LOCAL_HOME/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.1009.11318/skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs';
     const result=execFileSync(process.execPath,[marker,'--operation-kind','edit','--expected-output-count','2','--output-format','xlsx'],{cwd:support,encoding:'utf8'});
     await fs.writeFile(markerReceipt,JSON.stringify({result},null,2));
   }
@@ -223,7 +223,7 @@ const protectedHashes=Object.fromEntries(await Promise.all(protectedPaths.map(as
 // Record the artifact authoring operation once immediately before the first edit.
 const markerReceipt=path.join(support,'operation-started.json');
 try{await fs.access(markerReceipt);}catch{
- const marker='/Users/rainbow/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.1009.11318/skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs';
+ const marker='/LOCAL_HOME/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.1009.11318/skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs';
  const result=execFileSync(process.execPath,[marker,'--operation-kind','edit','--expected-output-count','1','--output-format','xlsx'],{cwd:support,encoding:'utf8'});
  await fs.writeFile(markerReceipt,JSON.stringify({result},null,2));
 }
@@ -284,7 +284,7 @@ const output=path.join(out,filename);
 // only the worksheet title in the exported package; cell content stays authored
 // by Artifact Tool. This workbook has no formulas referencing that tab name.
 const renameScript="import sys,zipfile,xml.etree.ElementTree as E\nsrc,dst=sys.argv[1:3]\nns={'m':'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}\nwith zipfile.ZipFile(src) as z,zipfile.ZipFile(dst,'w',zipfile.ZIP_DEFLATED) as o:\n for item in z.infolist():\n  data=z.read(item.filename)\n  if item.filename=='xl/workbook.xml':\n   root=E.fromstring(data)\n   for s in root.find('m:sheets',ns):\n    if s.attrib['name']=='独立初判':s.set('name','真人核验结果')\n   data=E.tostring(root,encoding='utf-8',xml_declaration=True)\n  o.writestr(item,data)\n";
-execFileSync('/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',['-c',renameScript,candidate,output]);
+execFileSync('/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',['-c',renameScript,candidate,output]);
 const humanPackage=path.join(delivery,'独立真人判读-200条-20261013/发给编码者A');
 for(const folder of ['材料','附件'])await fs.cp(path.join(humanPackage,folder),path.join(out,folder),{recursive:true});
 await fs.copyFile(path.join(humanPackage,'共同编码手册.txt'),path.join(out,'共同编码手册.txt'));

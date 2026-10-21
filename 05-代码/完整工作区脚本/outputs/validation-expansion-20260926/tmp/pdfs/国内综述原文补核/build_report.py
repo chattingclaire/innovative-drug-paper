@@ -1,7 +1,7 @@
 from pathlib import Path
 from datetime import datetime, timezone
 import json, hashlib, os, re, unicodedata
-OUT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926')
+OUT=Path('/PROJECT_ROOT/outputs/validation-expansion-20260926')
 TMP=OUT/'tmp/pdfs/国内综述原文补核'
 INV=OUT/'参考文献实质证据覆盖-缺口清点.json'
 inventory=json.loads(INV.read_text())
@@ -234,7 +234,7 @@ report={
  'scope':{'reference_numbers':[1,2,3,4,5,6,7,8,10,11],'purpose':'核对清点文件记录的正文具体主张，定位原始PDF中的研究材料、模型主体和结论，提出准确修订建议。','exclusions':['未核验[9]及其他编号','未修改主Word','未读取或修改编码标签与研究统计','未改冻结文件','不作全文验收、投稿就绪或创新性证明']},
  'inventory':{'path':str(INV),'sha256':hashlib.sha256(INV.read_bytes()).hexdigest()},
  'manuscript_binding':{'path':inventory['manuscript']['path'],'sha256_as_recorded_in_inventory':inventory['manuscript']['sha256'],'paragraph_locator':inventory['manuscript']['paragraph_locator'],'current_word_reopened':False,'limit':'本报告绑定清点文件保存的P15、P16文本快照；未重新打开Word，因此不宣称其后未发生变化。'},
- 'methods':{'python':'/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3','text_extraction':'pypdf，按物理页抽取；长输出截断后分组补读。少量引文去除PDF断行与字间空格并统一全半角，不改变文字含义。','visual':'pdftoppm渲染并查看[7]物理页2、4，[8]物理页7，[11]物理页2、4。结果及字体问题逐条记录。','reading_scope':'按当前引文定位研究对象、方法、主体和结论；[1]仅定点读物理页1、6，其余实际页记录见各条。本次不声称逐篇方法学全面验收。','context_recovery':'本轮曾经历上下文压缩，沿用本轮已完成阅读记录；恢复后重新定点核对关键引句，并继续完成尚未核对的材料。','web_visits':0,'downloads':0,'source_artifacts':'仅使用匹配题名、作者与刊期的本地已出版原文PDF；提取文本与渲染图是本次自建辅助材料，不替代原件。'},
+ 'methods':{'python':'/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3','text_extraction':'pypdf，按物理页抽取；长输出截断后分组补读。少量引文去除PDF断行与字间空格并统一全半角，不改变文字含义。','visual':'pdftoppm渲染并查看[7]物理页2、4，[8]物理页7，[11]物理页2、4。结果及字体问题逐条记录。','reading_scope':'按当前引文定位研究对象、方法、主体和结论；[1]仅定点读物理页1、6，其余实际页记录见各条。本次不声称逐篇方法学全面验收。','context_recovery':'本轮曾经历上下文压缩，沿用本轮已完成阅读记录；恢复后重新定点核对关键引句，并继续完成尚未核对的材料。','web_visits':0,'downloads':0,'source_artifacts':'仅使用匹配题名、作者与刊期的本地已出版原文PDF；提取文本与渲染图是本次自建辅助材料，不替代原件。'},
  'findings_summary':['[1][2]基本支持当前建议性概括；[3]支持但应明确2017年历史语境。','[4]“多维评价体系为前提”强于原文，应改为多维属性讨论及公开透明评价标准。','[5]—[8]逐篇模型主体可确认，但计数层级、阶段数及患者角色各异，不宜用笼统“多停留”作领域或创新性判断。','[10]当前概括的研究主题和时间范围与原文不符，应改为药品研发制度失衡及变迁设计。','[11]对象限于国谈药品单独支付；政策差异为描述性比较，删除“显著”，不外推全部创新药准入。'],
  'references':records,
  'collective_model_claim':collective,

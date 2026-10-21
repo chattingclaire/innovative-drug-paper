@@ -3,7 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
 
-const root='/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/ai-blind200-20261012';
+const root='/PROJECT_ROOT/outputs/ai-blind200-20261012';
 const outputDir=path.join(root,'真人复核');
 const template=path.join(root,'_build/frozen-coder-A.xlsx');
 const mode=process.argv[2]||'inspect';
@@ -28,7 +28,7 @@ if(mode.startsWith('human-wording-')) {
     }
     const manifest=JSON.parse(await fs.readFile(path.join(archive,'录入记录.json'),'utf8'));
     const records=new Map(manifest.rows.map(item=>[`${item.source_id}/${item.dimension}`,item]));
-    const mappings=JSON.parse(await fs.readFile('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coordinator-private/draw-and-mapping.json','utf8')).records;
+    const mappings=JSON.parse(await fs.readFile('/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coordinator-private/draw-and-mapping.json','utf8')).records;
     function displayReason(item) {
       const id=`记录：${item.source_id}；维度：${item.dimension}。`;
       if(item.human_value===null)return `待定：${item.status}\n${id}\n复核意见：${item.reason}`;
@@ -111,7 +111,7 @@ if(mode==='inspect') {
     if(seal.status!=='sealed'||seal.judgments_sha256!==sha(raw))throw new Error('AI source seal mismatch');
     ai[side]=new Map(raw.toString('utf8').trim().split('\n').map(line=>{const record=JSON.parse(line);return [record.blind_id,record.judgments];}));
   }
-  const mapping=JSON.parse(await fs.readFile('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coordinator-private/draw-and-mapping.json','utf8'));
+  const mapping=JSON.parse(await fs.readFile('/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coordinator-private/draw-and-mapping.json','utf8'));
   const mappingByA=new Map(mapping.records.map(record=>[record.A_blind_id,record]));
   const sourceRows=sheet.getRange('A2:C1001').values;
   const inputBlanks=sheet.getRange('D2:E1001').values;

@@ -18,8 +18,8 @@ ROOT已明确同意沿用原campaign锁和预留空槽。controller使用同一�
 
 ```sh
 /opt/homebrew/opt/python@3.14/bin/python3.14 \
-  "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-capacity13-transport-sol/controller.py" \
-  --go "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-capacity13-transport-sol/ROOT-execution-GO.json"
+  "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-capacity13-transport-sol/controller.py" \
+  --go "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-capacity13-transport-sol/ROOT-execution-GO.json"
 ```
 
 freeze-seal.json封存当前存在的外置修订文件，预留的未来GO和实际运行记录另增；旧cap3总封印不变。到此停止准备，无模型/分类器、无人审200答案读取，无新标签、无指标验收声明。

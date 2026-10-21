@@ -1,0 +1,3180 @@
+{
+  "date": "2026-10-21",
+  "source_commit": "40ee8e5ff3f94178325adf0b657823fee894236a",
+  "scope": "当前分支可解码UTF-8文本，单文件不超过30MB；不包含二进制文档、归档包和Git历史。",
+  "placeholders": [
+    "/PROJECT_ROOT",
+    "/REPOSITORY_ROOT",
+    "/LOCAL_HOME"
+  ],
+  "files": [
+    {
+      "file": "00-阅读入口/精选文件来源与用途.json",
+      "source_commit_sha256": "0e32fb31b4e5c1851c9ea4d69531141e8e487fd6d672882e2c1cebb715a8626f",
+      "public_sha256": "6fa1c2c50c2f4ab724c2369ca027e2bf8e4b02bd138499bb648c486cac0c2d13",
+      "public_bytes": 11709
+    },
+    {
+      "file": "01-当前论文/方法与结果待合并修订稿-主方法待确认.md",
+      "source_commit_sha256": "9e7d6206b5b1fa657d803f5f90df51abc4bf666f5709de2ca6fdad4c02df1a3f",
+      "public_sha256": "26457fb9341ae933f463689040647e3b279188fcb1528182163edfb35ba29031",
+      "public_bytes": 9479
+    },
+    {
+      "file": "02-研究设计与材料/完整方法与历史统计复核报告-20261010.md",
+      "source_commit_sha256": "8318353cae18d03f83f0fd00aaa842fa1ba3eefb016add7102bc4dca332f271a",
+      "public_sha256": "6735cd508916743e2bae95e595ca0f9a91d5ba3f6dcb2f2709614161a64e7dca",
+      "public_bytes": 28535
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/final-independent-execution-audit.json",
+      "source_commit_sha256": "f21e529c4a84878ad1155f768ed1cdd124597d6374ac387268655c35465a933e",
+      "public_sha256": "8c0dae83fcff9b23d22c2032df5adbd51b48b48176c7bf18a650e1d353271629",
+      "public_bytes": 871556
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/final-independent-numerical-audit.json",
+      "source_commit_sha256": "dc69fd87a2390c29d354d677b3bde34802aa47312409f527da70002f7bfcfb4d",
+      "public_sha256": "5ab169f157215b36113ce451d9e6c720c43c613144d6ac06074d66e674252cf5",
+      "public_bytes": 692815
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/network-reconnection-audit-v2.json",
+      "source_commit_sha256": "5935ea6781e3c0f7a53c6e1c00afb4f3ce46e2618168e7a055dafc9a2bed2050",
+      "public_sha256": "cf2967495edd5bef79cbd2d1ea7df8f6794a63e2337699477cc1c49113fea27e",
+      "public_bytes": 124668
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/与旧LLM五维比较.json",
+      "source_commit_sha256": "c9b3ca8fd7521605f906099b15c0f7446b75e25f2ae87790d0612315f9a574c1",
+      "public_sha256": "9307f920a230fc372723ea851a82c18c79eb9113d18310fa6b74e249d485bd76",
+      "public_bytes": 27125
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/与最终人工编码比较.json",
+      "source_commit_sha256": "fcdfe7669b566715c0c7300439125e6e1008d08ebdfe6b186c47f7aabbf1e059",
+      "public_sha256": "a21e67c16a2664d8b3886b4b7767a12e3d172ee91523d740ccef5fa4b83569a2",
+      "public_bytes": 28264
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/交付封存.json",
+      "source_commit_sha256": "83f4111aadd3a395ff67c05efd339fad1d87458df9c26cfd0b054b0acefe604d",
+      "public_sha256": "2866639210039b62302ed056187353744e170029a4187ba389683009bf83e19d",
+      "public_bytes": 5613
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/复跑结果-466条.json",
+      "source_commit_sha256": "a75f39fff8045b597d6be1893f0363fcc7621cab53d15e13717d3025b0a9d7bc",
+      "public_sha256": "0d225b6dabf368c3736876ae5e8ca49aafbb598696ec692b95a9ccf7d44ff519",
+      "public_bytes": 1668011
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/复跑结果-466条.jsonl",
+      "source_commit_sha256": "fae526d2fb6e4de4fac63bc857ac29c2888d52fed8be6d52f59159d0f6dfcbcd",
+      "public_sha256": "6a179f4d429ab7f2cfc438d8b69f3be7eedaab8f7036a30c2170217fd8064da5",
+      "public_bytes": 1305764
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/完整性核查.json",
+      "source_commit_sha256": "ae2393b370ff46fff87322ce01727de551e79f95949d28bc26829370fa0efd15",
+      "public_sha256": "d42c3173d6e5e12269898be52d4ffad39ef58a4dcb9a7644eec2274bcaaa05de",
+      "public_bytes": 187765
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/差异逐条清单.json",
+      "source_commit_sha256": "88ca988e3390671d1e61ba6aea16e9ba853132a2463826ac37470547a015400d",
+      "public_sha256": "2a185351112e2ba15fc3e9276b580d077493d3535675be213648b88542962458",
+      "public_bytes": 30488
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/新答案封存.json",
+      "source_commit_sha256": "20a75448cc3e03db3dd9588db7578ff3eac2a9af7f9fd203bb2595299295291d",
+      "public_sha256": "51d7fe332bd2916e3ce0c61245977b8a1fef7b6dcaf1407d068db3f902989ebc",
+      "public_bytes": 479746
+    },
+    {
+      "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/逐条结果与依据.md",
+      "source_commit_sha256": "f17df33df7ec7278f8785fd6b45a47622a3b55868aff07e9e8dae6c3ea133241",
+      "public_sha256": "3927666a879ac85d290d063b566d3db3c027e7afe362378b4e8ea1e07af68c46",
+      "public_bytes": 1066485
+    },
+    {
+      "file": "03-编码检验与版本/AI独立复核200条-对照说明.md",
+      "source_commit_sha256": "62b83bb39af25ce5529f4f038b2731b182b3a80564bf2f6dce23de635afd55d9",
+      "public_sha256": "ebb76cce1792322d28ed198ec8e513636b16664ac37e20e49e0897f7395612f6",
+      "public_bytes": 21109
+    },
+    {
+      "file": "03-编码检验与版本/历史人工200条结果包-保留原记录/_support/A-B文件独立核验.json",
+      "source_commit_sha256": "cda708c872d7f06fe3025b2075bcf82ef1d2163c0d38d11148b4fd99afeb9f6a",
+      "public_sha256": "41db99578a107862976cad7238a3ad5f0697aaa7ae92442bde3188ad32be6efb",
+      "public_bytes": 1818
+    },
+    {
+      "file": "03-编码检验与版本/历史人工200条结果包-保留原记录/_support/build-result.json",
+      "source_commit_sha256": "4d07725005be18766be48b95d32ead8a07071399ce23aa1b89a4e324eeeaa66a",
+      "public_sha256": "fce8688bb8c3f1e296a32c6c34df52bc94e0c71d08daa5a83312af7e612b557e",
+      "public_bytes": 3229
+    },
+    {
+      "file": "03-编码检验与版本/历史人工200条结果包-保留原记录/_support/split-build-result.json",
+      "source_commit_sha256": "aa19ccb9b6eef72982c65daddbae3961f24965b6d6f808241b8901752e12616f",
+      "public_sha256": "f417ab290d36f016c2679d6877d4ef9df42c04f3a3d4d121baf6e18d2926603c",
+      "public_bytes": 1420
+    },
+    {
+      "file": "03-编码检验与版本/历史人工200条结果包-保留原记录/_support/交付核验.json",
+      "source_commit_sha256": "dc6633f55e23c8b85c076477c01ebc22c02bf197a0901e8e59c6888aeb1a0505",
+      "public_sha256": "b2609f002edc3eac703cca9fd47cc98c7263b73f7825e3a4615b37821d13bd86",
+      "public_bytes": 942
+    },
+    {
+      "file": "03-编码检验与版本/历史人工200条结果包-保留原记录/_support/独立校验-1000项.json",
+      "source_commit_sha256": "5ca35a87bf85dd42a06953b7cdb2aaef2fdb0e32d8a048eef657cdb1f60c723b",
+      "public_sha256": "8b27f1c6a1f6baa8cd3cc12011e0248df858ba5e80927f1dbb8f8fa5ae67f7e9",
+      "public_bytes": 143864
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/01a0dbb7-blind-review/与正文历史编码对照说明.md",
+      "source_commit_sha256": "30586d0dbaa2be36dae3505fe8d6eec20a2e5d28bf05ca4fda5769a35981e9a7",
+      "public_sha256": "6faf360e3a1963b43f4d0a026e0a6f941baf27fac31c49b97df892842e597bd8",
+      "public_bytes": 6847
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/agent-validation-20261007-r2/真人五维编码培训依据-v8.md",
+      "source_commit_sha256": "c856819ad8b484af4e9bc19fd05df6f49e67feffa37712cbcd86ebb0ae2f8468",
+      "public_sha256": "3ce7f6d092cde1c068d43c295fbb4565db627e5d8f05d93a0ebf90c49b6b1c1b",
+      "public_bytes": 46011
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/ai-blind200-20261012/_build/human-before-review-wording/录入说明.md",
+      "source_commit_sha256": "c394729103b2b75994d82ff5102bd12cec901a0b4680fe6a09eab51d1cb39157",
+      "public_sha256": "868c05d58993c6cf9362882a6274268319619808f4e667d54a0c05d1fae16f3c",
+      "public_bytes": 1866
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/ai-blind200-20261012/协调核查/协调流程与指标口径.md",
+      "source_commit_sha256": "c4309b4d95341573fde0745a09e895747996e70620dc2fce32a5a7ea60732cf6",
+      "public_sha256": "7c8a984ae3ca7cae517cbbad51f584f15ca231d110ca8516f439a3f95bce209d",
+      "public_bytes": 8923
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/ai-blind200-20261012/盲评汇总.md",
+      "source_commit_sha256": "4553fae51f8e551ac72a05c7592b40ec6229e320a16a9b2e462828ca2e4660b1",
+      "public_sha256": "fac1d074e5352e70a5ea41c2f6a2f1059f552c8dc1d727bcc977ba8bb6eb65c2",
+      "public_bytes": 4139
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/ai-blind200-20261012/真人复核/录入说明.md",
+      "source_commit_sha256": "bf1b885d89955d347ab3a37e3c1c93136589c53bf59ecbebcff6dad2648ec026",
+      "public_sha256": "2cbb52719901b2b9c31bf36c03fcbc09cd83a116d023c832b5cf8b0c73511228",
+      "public_bytes": 2193
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/历史LLM验证对照核查.md",
+      "source_commit_sha256": "8c8809ca2e60cf7f0f5d6a349f6f7ea56db81eba0c9b102d9a8dd4a5b4609455",
+      "public_sha256": "4929c9ad89e7c53849d9baed2e0b13547491d92942e0e60828bf60b2445a5130",
+      "public_bytes": 9134
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/实现修复交付说明.md",
+      "source_commit_sha256": "6600e547ab219c8c15f51188c001af42cd00ce7f641b746ffdc0811b555cdb10",
+      "public_sha256": "886cdce77618278d9e8542bf895b54812d95e042603b45bb22dca107e96087c7",
+      "public_bytes": 4205
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/实现独立审查.md",
+      "source_commit_sha256": "1c034f1c7e284de2fdafb2b45c989fff20c61c3397c62c083095e9a92ad88824",
+      "public_sha256": "ca1674ca2a32bcbf8c116b07c4ad2bde3b3b5671f5f890a5b783ad25633b200c",
+      "public_bytes": 11136
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/实现独立审查快照-dev2/既有样本错误机制审查.md",
+      "source_commit_sha256": "a4d7187ab37074b8d3ab06a68056865ad5e7e71765aadd524571eff58d7e1f11",
+      "public_sha256": "d576ac49305a2ace8dac4513fa3710d57e3ddce9d6259b1fe816709fe79f6681",
+      "public_bytes": 64524
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/新验证框-新增暴露接入.md",
+      "source_commit_sha256": "ccfa690f098733bbc1ca72d7898031c1e6ac4df636a57ad3a4260b3f8d92900d",
+      "public_sha256": "34c68e241dc50b8137ddee9f22fb5075c570a4125421113d4c6972156e48590b",
+      "public_bytes": 3351
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/方法与新验证框评估.md",
+      "source_commit_sha256": "d0c992132af82b27d61994b28c0794a074489eca7616163bbe555dd94c339764",
+      "public_sha256": "0237fa7f3868542197d4e40ca3d58f80d3036b27bb7141f58786e1b19429e847",
+      "public_bytes": 16503
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/autocode-v25-20260927/既有样本错误机制审查.md",
+      "source_commit_sha256": "a4d7187ab37074b8d3ab06a68056865ad5e7e71765aadd524571eff58d7e1f11",
+      "public_sha256": "d576ac49305a2ace8dac4513fa3710d57e3ddce9d6259b1fe816709fe79f6681",
+      "public_bytes": 64524
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/insights-20261008/核心发现证据卡.md",
+      "source_commit_sha256": "28a865e4548c2eddc92611c68ae5d3d3477178871020dfce9b2ea775cfe661fe",
+      "public_sha256": "11395b8813025a6fba3c89d8e5e8a12930a054d7fbc815e0bd3377768d7f2aaf",
+      "public_bytes": 12155
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/manuscript-update-20261008/发现与贡献论证稿.md",
+      "source_commit_sha256": "743ec0ae7082b2c358795a4167b680e00eebd418d6299963fc9abe657475eb07",
+      "public_sha256": "b35af0d675666f138e0aed4bf0777142516f0e8b26654aa074a069dfd40b6879",
+      "public_bytes": 12187
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/manuscript-update-20261008/完整段落修订与证据索引.md",
+      "source_commit_sha256": "0fb061aa7d07419d4ea674991f05b6ec6fd41ff9414f11bd15717b7d80f4ed1a",
+      "public_sha256": "ce366150694f1a3abed20eb9850c28ae2464879e834c67b6f815ea0ec8620605",
+      "public_bytes": 3490
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/manuscript-update-20261008/方法段替换稿与引用映射.md",
+      "source_commit_sha256": "6fb99b28ebe2dd152b2a1a9b426d7820179b6f771608d5f2bec36e7b90567eb9",
+      "public_sha256": "9451853ffd7eb65f953ed2952f8bd5e1d50a77ab79bdabc33dc7152b05851a69",
+      "public_bytes": 12327
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/manuscript-update-20261008/期刊现行格式复核-20261008.md",
+      "source_commit_sha256": "5556d6ebe6203350bb67fbead8bc8fc0b047b28ceef8e608d92fb0f8bd12a799",
+      "public_sha256": "11af492b2da23b6b5853047f55ca7387a06b428ca3e9dac3d306de41650b4cb2",
+      "public_bytes": 4908
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/README.md",
+      "source_commit_sha256": "e010b83c7b819c47dc2eef6da394b6f08de65a9aafa389e7ead559fd96c4c981",
+      "public_sha256": "aafeccc4be02c94d0a2a5c5ab5eb1240b6af26ca97d57a5d6f629b8e4e7f022c",
+      "public_bytes": 4141
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/methods-20261008/reconciled03-statistics-delivery-v3/同180_LLM创新性公平性全部分歧原行.md",
+      "source_commit_sha256": "e9a63634982aed7c12b617a8ac2a1d372b6623d59adcf9c7230340692b49ae39",
+      "public_sha256": "6961857cd42ca858110ebdf4b7d760dc8fb280b79d39248ea687e0b05a5b315a",
+      "public_bytes": 79542
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261007-r3/methods-20261008/residual-audit/残余低值逐例审读.md",
+      "source_commit_sha256": "e0fd868eed0b8e3aeb91b7276f37a8547bc3055be93ee5444cddada0ef2f8dce",
+      "public_sha256": "c675049942cca1656cedcc5d6a6a046f25984d3dfaf1bf10b2f8cbc6378bb93d",
+      "public_bytes": 43262
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261008-r4/final-attention-details-independent-review/独立交付审查.md",
+      "source_commit_sha256": "85e517c2e340f17dfa2e5f0d384ec5254f1407fd1f6273f3adf76f6529063d0a",
+      "public_sha256": "82b390f39d5b8023c158a6db2aeadea843ae947f6f17703fa055eb77a42fe709",
+      "public_bytes": 4175
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/coding-revision-20261008-r4/journal-citation-style-audit/正文引用格式独立核查.md",
+      "source_commit_sha256": "318e17ea70e79c565a36280493f8b82e88101d0156a553d56c99005ab165d54a",
+      "public_sha256": "374219cfb8dbd44d23111ae4249e7f3d8443ab62f345e9c99d3041f6ed428985",
+      "public_bytes": 3553
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/final-three-department-20261007/三部门编码指标说明.md",
+      "source_commit_sha256": "06de5ff38fb6f4a43fd8d816217aa6858760c833b8737cd44fed9ac98b101b6e",
+      "public_sha256": "9f277b5afabd3c2b4e03fb69707f65a3a749748a8bd887a629e9f4e5de683635",
+      "public_bytes": 12324
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/final-three-department-20261007/指标依据与理论对齐.md",
+      "source_commit_sha256": "9c60263648a230705284ef243e883e4361f32013feabd9ca91f4487efe4e22ed",
+      "public_sha256": "bfc59a7192721e1a7541f207a8e17bbffaa3d7f819ded869d9a4ef8e5a3a48fe",
+      "public_bytes": 29993
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/final-three-department-20261007/政策内容与协调路径.md",
+      "source_commit_sha256": "5bfd6cb9b092254b6620dbd38f9daf652059accb311954eb6299efd767a2a143",
+      "public_sha256": "4a7295f79bd19d14fb3d8a3f7da4652d3d4967de95c56d8985e91eba01f14c1a",
+      "public_bytes": 44113
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/final-three-department-20261008-human-validation-template/method-difference-audit/当前两方法具体差异审计.md",
+      "source_commit_sha256": "6cff130f02395526344acee7f2ea73261c07b437365dca194870e671cd27bb4b",
+      "public_sha256": "dff472ef4f2a86b8cb9858775fc285dd432041526b43b6c445815cdf6f880d22",
+      "public_bytes": 9510
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/00-baseline/20261012-full4481-metrics-complete-stability-actual-start-root/README.md",
+      "source_commit_sha256": "136dca499dddada5962703546b073cacc2bd6265833ee7d03210faa55fc699be",
+      "public_sha256": "264de3bc68dd357618c5f45e43efe8f1d9b32b5274ec1e5dcb1df0edc4395da3",
+      "public_bytes": 25797
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/00-baseline/20261012-native4481-complete-and-delta-dispatch-root/README.md",
+      "source_commit_sha256": "337573c2155cd31e71cb8ba21cf34fc0af4a9bb901e4f176557e379e72657cd7",
+      "public_sha256": "bcc97d71fcd56c2f811708633e98d5bc8c89629673daa1af7037c9601ac9a87f",
+      "public_bytes": 25753
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/00-baseline/20261012-stability-R1-initial-technical-diagnosis-root/README.md",
+      "source_commit_sha256": "d1725bf623e2259db7a6e0f81915abd0ccfcb853ef47a6396dc39fa0eceedf37",
+      "public_sha256": "1fda4345d020b93fa0ec34951c84b1ef3b26edef10f62afe9ae542f681fbd71c",
+      "public_bytes": 25592
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/00-baseline/20261012-stability-certified-birth-v2-actual-resume-root/README.md",
+      "source_commit_sha256": "66ebf6e2fcacdcadd8f466f8eafe97a1e67ca693e453f1997922ade1e95384ae",
+      "public_sha256": "e34e4de6bb6ee5280368598e046dfb3907bc9a6a21b0d18c545cb0b4bdc894c7",
+      "public_bytes": 26111
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/00-baseline/legacy-plan.md",
+      "source_commit_sha256": "4edef0a78c12853e60152d966a113d755a339b3595cdddb9f5c8ae44054955a5",
+      "public_sha256": "26f4924b65875d9cf30e2337bafe214d4bd1c8a2cbac85e5bd9ff0e70235aebb",
+      "public_bytes": 19412
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/00-baseline/legacy-validation-design.md",
+      "source_commit_sha256": "d1d0ec46e273126b97296e49e825b7713b663a3368364d3d763d7aff76407d58",
+      "public_sha256": "8de999f6fd41b2b6d42e4f02f9fa01bb5c9b330d022ad56a1bdf1c5e512f66cc",
+      "public_bytes": 8158
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/01-review/context-projection-sol/README.md",
+      "source_commit_sha256": "e6bf648cf2c40fbdb47c500d07d4ef93a825ba7da310302340b2e435bcdb35c0",
+      "public_sha256": "4b4f04e6dcb7913320de9d65812f2e0d39ead81d56e207840c93284c6a5cab01",
+      "public_bytes": 2943
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/01-review/context-projection-sol/source-interface-v13-addendum/README.md",
+      "source_commit_sha256": "5123b878dc32e0124f68ce03666fd5026e9582766f083072ac3507586a270e32",
+      "public_sha256": "950fa0c7ba83a26a051e76b27151c198336af193e6a35968fe7a836e2c4ae224",
+      "public_bytes": 3480
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/README.md",
+      "source_commit_sha256": "f123177099c811ca88661b84d5bced4a8208f6823cda5aff17d22272563de66f",
+      "public_sha256": "da8f157648855f176a0a8cfc9c5cae0d7895edb4770b1b4c864f4a7707917590",
+      "public_bytes": 2540
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/01-review/validation-design-sol.md",
+      "source_commit_sha256": "d2a3197374aa642ec944947241a76b951d821cbe0234ccf0c31590b7b767ffac",
+      "public_sha256": "6ba328e6d6db247e8c18a01ffdac71534ae8b6032324490e656f57394f5554cb",
+      "public_bytes": 20106
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/02-methods/pvalue-reporting-local-sol/report.md",
+      "source_commit_sha256": "6ae24d07984b4a56d9e56a116890b8c83462741aaf83e4fcf692cbd90d3db9e4",
+      "public_sha256": "34639eac5746a90f230ed829d83474dd56aa9d2cefa8e1cc6805d4a6552fcb03",
+      "public_bytes": 4178
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/04-calibration/current-disagreement-source-review-sol/report.md",
+      "source_commit_sha256": "f28a31a08c19f7155f867e63eb3d1a002167b6464f317cb15b80e29d948bf1d9",
+      "public_sha256": "bed11ab29d71f134796a291e62ac8f78b3a2d6ee96d878311966b5a81edc4c5f",
+      "public_bytes": 12499
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/05-validation/formal-freeze-interface-v1-sol/README.md",
+      "source_commit_sha256": "9b2e32ff4ca4bb11c4413ad3bac542f093c2cef735f7d46057043d6202f21396",
+      "public_sha256": "79f7c7a7ccfa2d0fb98b29d6c0079b09526105cfd471df3b67c0a737a87cf355",
+      "public_bytes": 5018
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/05-validation/real-human-blindpack600-readiness-sol/report.md",
+      "source_commit_sha256": "5e53c2ea029a6b32847b8cb1be0c37ad63687d89579859ebb61e74ea8db10393",
+      "public_sha256": "2a3e07f553a6e39458f409ccfa1b12a8cb847970a2f7c60aed4187b12904d72b",
+      "public_bytes": 5766
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/current-freeze-stability-capacity13-transport-sol/README.md",
+      "source_commit_sha256": "43096d8947468a527e07f72f6a4fceed6643236279de75aebc8d6d094d52fa71",
+      "public_sha256": "862b48ca31a4b0c76629ed8eafc0eb503b33db96e7cf1b3ebefc362528645acd",
+      "public_bytes": 4200
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/README.md",
+      "source_commit_sha256": "144481877eb4fc89f4f9b9b2283a275b4179b6d0051215c1c38503f17626c2d6",
+      "public_sha256": "d7c61679a2cdf9a34afa3af0ddebf5797773fe7c18e8f2ff17255aa657cd0e23",
+      "public_bytes": 7698
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/audit-source/final-source-interface-review.md",
+      "source_commit_sha256": "f279848a378e2ebe89dc69118079dbce76b4ec3ae647a6a90238c65b249fc22a",
+      "public_sha256": "ecc66e2132d48d088d5849b715722e86e20c87024d7db380e7d59893864bfacf",
+      "public_bytes": 3940
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/final-delivery-report.md",
+      "source_commit_sha256": "d20ea279b53bfaa73c2da15aae7df4b8b343334a2d6d6d38e1315fb74a84272d",
+      "public_sha256": "128a9326b22fc33656506e0f9000dad92afc33b2d1b88a032ad7b000e165fcea",
+      "public_bytes": 3821
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/development-rule-sol/implementation-gap-audit.md",
+      "source_commit_sha256": "ec016f136ed56626e08d41bcd5bb8e53b6641d86b03568e5faea11b56dee10d9",
+      "public_sha256": "175a76f90fe60f45ea64e7f3cc92b975d04d1bacd33dccd71fd314a707e3dc6d",
+      "public_bytes": 43438
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/formal-frozen-native-interface-v1-sol/USAGE.md",
+      "source_commit_sha256": "52901d3b34328b00833692918f6c088331e8d32d3aae68f865df4d92357691d3",
+      "public_sha256": "aad7a34de68e66001a8569986d2981e4ef69879cea809faeffb0e6a230fbe371",
+      "public_bytes": 2653
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-merge-preparation-root/README.md",
+      "source_commit_sha256": "43630f3d5aff78b8c2dfa840db31ecd7512cd0181d69f2550826b6204cc5310e",
+      "public_sha256": "dc6629883facc035ca96db744895a1bab0548990bd8975f21a4e0c36424dc42f",
+      "public_bytes": 2690
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/native-llm77-v13-sol/preparation/schedule-v2.md",
+      "source_commit_sha256": "1b4169c79ba107f7d376efe94925af0d2386df45cad935ae1c5c718da14c67b4",
+      "public_sha256": "26a22d06f640a9182f959afb257d1fa0b114eb2667e13fb0b30eb9df5553fa66",
+      "public_bytes": 4608
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/native-llm77-v13-sol/preparation/schedule.md",
+      "source_commit_sha256": "c14532c4e03d6c8927b694a8f6a6402ab1bcd0e01bfb5fe6ffb0e48b517ce111",
+      "public_sha256": "844f0f27a4ae89630e9d314c22764616c94d066111774780791b1d08baf67a06",
+      "public_bytes": 3765
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/native-llm77-v13-sol/source-read-transport-fix-sol/README.md",
+      "source_commit_sha256": "1be750b15d282858921b30f69fc070296e405aa390b5811b47d9606342c90536",
+      "public_sha256": "5e336eadcef29f3dccc5b04337fef07fa79ed7c75848997aa07bc1337f53cc72",
+      "public_bytes": 3547
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/README.md",
+      "source_commit_sha256": "05facaf271019beb5e73368492e34f8c4642db9bcf387e7cb0742b18051e5545",
+      "public_sha256": "92c6c9bc8a1d59cd259a84353b4cfd1b981a56358239ffd79268c98fb87f72dc",
+      "public_bytes": 3415
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/native-whole-capacity13-handoff-preparation-sol/README.md",
+      "source_commit_sha256": "9188d56d503662342339db76d7f8b592c80b008fba190d3b4d1a2984d8eb04ac",
+      "public_sha256": "c18e25fe6ae4784b4191b395b87da849c8c8cf99b67070d08f3450bacc3a9e93",
+      "public_bytes": 6034
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/root-machine-review/native38-observable-technical-evidence-sol/review.md",
+      "source_commit_sha256": "cf158e17e2b136944f4a66ffe4654bcc5ff54c4571dd5c9017961ad39a14b96b",
+      "public_sha256": "41657c719883c9eb04c6ceb2d7d5c04d43415791f6e6baf48cf985f0ff78388a",
+      "public_bytes": 4354
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovery-preparation-sol/README.md",
+      "source_commit_sha256": "aec1cd9062999340373dfe1b5ddbcdea03468653d2adcbc96824e8fec3effdc9",
+      "public_sha256": "d159ed1c93c49602fb00b7c7041df8c8ff4d8f7b19d13a7a718a642587695836",
+      "public_bytes": 3657
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/06-coding/runtime-cli-local-sol/runtime-review.md",
+      "source_commit_sha256": "43b6b343683e365ca160914d3effcb953340701381fc9fa54e9e62c58105a7a3",
+      "public_sha256": "7af360fba30ad24190a745276c5e5474cc383af99009013942d30e505952a9a2",
+      "public_bytes": 2524
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/README.md",
+      "source_commit_sha256": "031314b16a70a0be14662545bcafa177bab2a72e13c91469c9cb022ab294d759",
+      "public_sha256": "3663fe9d531eb6bb1494e02076799ee53c7bf4ef281c23e9180ad15072aecec8",
+      "public_bytes": 5163
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/full4481-native-attention-compatible-adapter-preparation-sol/README.md",
+      "source_commit_sha256": "88256ac1015833ee8aef13d19bfac437f138677bc36f5091324dc75ab0781b08",
+      "public_sha256": "531da6575de42eefec32412399b1c44030d3650c2a3b6c702062b6f7c3ec057f",
+      "public_bytes": 2962
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/math-review.md",
+      "source_commit_sha256": "703e65a9ac26afa578918e8b7696c9648a6f728580cea47bf832fc1049833eaa",
+      "public_sha256": "ac71b53828c48b9217df043e7943001bfc6dc35fdd502b25e1df2458a9e15976",
+      "public_bytes": 13565
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/mother-engine-final-review-addendum.md",
+      "source_commit_sha256": "c7bd1f0c436ecd8a981c65a49c621fa07a8d6051398aed7b7b937878bf31864c",
+      "public_sha256": "5a41c38c5ee56695a2878d10fb57b98b1e94a56450004874d7edc99aebc17d53",
+      "public_bytes": 4414
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/mother-engine-review-addendum.md",
+      "source_commit_sha256": "bff06f5e6e07c014eb271e0afd603d10929cddab488524d7c76c7e2a22c9f2cd",
+      "public_sha256": "b10a73a8630556d2e254635b982d4cb7e6f581f02f14807e635a33d9911a6af6",
+      "public_bytes": 8262
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/prospective-engine-sol/independent-math/statistical-contract-v2-alignment-addendum.md",
+      "source_commit_sha256": "dd7c6536a072bf1e88c8b92b14578c398a70ed27b7fc72bad7c26430db6fd0d0",
+      "public_sha256": "90a165cc6a7f1de844634923c3af9237d769d78795e5a75523ac315da4ce1341",
+      "public_bytes": 7174
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/07-statistics/prospective-engine-sol/使用说明.md",
+      "source_commit_sha256": "3850e3b1a53bfc6c2b4f8b8fc546c4a0648a70b31bc218f0549c3284eb311eea",
+      "public_sha256": "51a21fc86357496682e8ec0717ee99de08a31551e30f5d6bcc21aba1d7493a06",
+      "public_bytes": 18093
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/01402-same-version-missing-material-sol/report.md",
+      "source_commit_sha256": "a27f7e733ae932cfba624a5d008d4a8f918398ccdc2e7370c16664392d7bb121",
+      "public_sha256": "b10cbaea71e01867fea4c0a397f1775b33b93535d905beab9aa94c7cfffc593e",
+      "public_bytes": 5943
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/bounded-material-rule-delta-execution-adapter-sol/README.md",
+      "source_commit_sha256": "6b82e18df46b50a445a3ca65f2d48a2af327d4b4e77be9b18e6e65b548975e7a",
+      "public_sha256": "4be7c20af5ae9ce17b926329fe604a93b6dec40446eff1774524fd89e5db1039",
+      "public_bytes": 6378
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/generic-rule-delta-execution-adapter-sol/README.md",
+      "source_commit_sha256": "32addc49af7d84b8134a132aefa332ca6ad83107cf3b7938c8d140c687a0c567",
+      "public_sha256": "8bdec71688fcd479b6171de0024a45c8fb8636ce099c4862fedd134be30ea013",
+      "public_bytes": 2500
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/native35-protocol-independent-audit-20261011-sol/report.md",
+      "source_commit_sha256": "fcd7f6b30f278d458a81a8273f5d4be5ed6c9f79925579f443df75edc4537b2e",
+      "public_sha256": "e52d8aee18e777acb93754c51faf0df8ea1446889add913839672dfac4745c6b",
+      "public_bytes": 7348
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/native35-protocol-independent-audit-20261011-sol/transport-repair-audit.md",
+      "source_commit_sha256": "467b9fcc0f23c4f316a03661f205d219f95c71c5a8cfe47cb720f5b2bd1a24fa",
+      "public_sha256": "c969213fd1cbf68f75593cbb514b800cb8ba0773b2128db61735c3138f3a987b",
+      "public_bytes": 5018
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/source-aligned-statistics-entry-sol/README.md",
+      "source_commit_sha256": "14ad8f0a049f7150feb8ee15922f43a9457ee1c0364c13412112960e9ac752e0",
+      "public_sha256": "5b960c6b749e2a913349914c8cf68b8b0c5e0c115aa62a55f2be4b5e04670d15",
+      "public_bytes": 3662
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/stability-certified-PID-birth-compatibility-v2-sol/report.md",
+      "source_commit_sha256": "89925c8fa07cbab752c6ed7cad17882cbd5f3454c1782cb60f611f8ffb4b5c57",
+      "public_sha256": "816544b0117f34d705aa869a147bf2f6a8f6d451439c4d3c8840cf1b1ac8b502",
+      "public_bytes": 2842
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/stability-historical-PID-reuse-compatibility-sol/report.md",
+      "source_commit_sha256": "7ab0736f9a7c53d81bfaa67f0c060949068df710dacc217f527e9045659e1d0b",
+      "public_sha256": "67f08f2350cc29cf5f4a0ced6d39f1ce558597f3c1aca07f6373d275a52d5866",
+      "public_bytes": 2614
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/v10-generic-relationship-repair-sol/independent-E-control-review/report.md",
+      "source_commit_sha256": "8dbffc1a9a9a52bc5d6c3087af73ec8f5a8bb38cfa1bd93c003958826050b070",
+      "public_sha256": "ac2383cbd8f4fff7269a8281a0d1f8d31bbcc9ca6ca2b7f4e247d2b21d9529de",
+      "public_bytes": 9304
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-audits/v9-generic-relationship-repair-design-sol/final-candidate-delivery-20261012-sol/implementation-report.md",
+      "source_commit_sha256": "bb9ffd4df3d2a426af4dc0441d339a99c997615d265b9d5413d5d5aca8e69338",
+      "public_sha256": "3c3227c4f9ac8dd89b9473c71c20f8260f453bbad68b2b5342852808f8d6a32d",
+      "public_bytes": 6400
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-manuscript/body-draft-20261012/style-source-contract.md",
+      "source_commit_sha256": "0c85d77f93b81b2971d49e38b016297e2e83900c951eb612662c51547d00aea7",
+      "public_sha256": "c953320852c5fe9e6d3184436e4f1857eb1341475741f85ee3ef508dbabd8742",
+      "public_bytes": 11133
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-manuscript/body-draft-20261012/不采用说明.md",
+      "source_commit_sha256": "d19ad1f3dd939222d674d0d85ef17cf90e5f88c2420cd0a11bbc18e5a8824aeb",
+      "public_sha256": "71d9a69eca7cdfa4b1707d2a7f61d9a86bb1831ac9890c5a2504817945be3ab9",
+      "public_bytes": 714
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-manuscript/journal-style-preparation/artifact.md",
+      "source_commit_sha256": "0c85d77f93b81b2971d49e38b016297e2e83900c951eb612662c51547d00aea7",
+      "public_sha256": "c953320852c5fe9e6d3184436e4f1857eb1341475741f85ee3ef508dbabd8742",
+      "public_bytes": 11133
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-manuscript/original-continuation/current-result-assets/table3-preparation.md",
+      "source_commit_sha256": "8cf7e980b0710ec9ff1cbaab7fac79664ca27cb003b2bf9bba252a0ec34b4232",
+      "public_sha256": "3507d879a02bdb3d1b7e10241c4fef0bdbc23b5d97952f7f487fb203964962b9",
+      "public_bytes": 4230
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/08-manuscript/original-continuation/stability-local-insertion-preparation.md",
+      "source_commit_sha256": "57e721aa6aadb588ad1b9f59e88e1b5ea90174dda22b84e364c69d789b8896a2",
+      "public_sha256": "079b1c8bfe417e8d8281b2088a1e9a1e4b9df8fe9895876f258b0974925524f5",
+      "public_bytes": 43103
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核对照说明.md",
+      "source_commit_sha256": "62b83bb39af25ce5529f4f038b2731b182b3a80564bf2f6dce23de635afd55d9",
+      "public_sha256": "ebb76cce1792322d28ed198ec8e513636b16664ac37e20e49e0897f7395612f6",
+      "public_bytes": 21109
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/README.md",
+      "source_commit_sha256": "d0808061af821bace7f3cd0ada31ca1edf542bbdf4a5b14220185203fe2d159e",
+      "public_sha256": "975414c596b4aa92b1903f2641cf20998eadbff591aca519c1eaeeed9e865477",
+      "public_bytes": 2948
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/分歧复核-20261013/分歧复核结论.md",
+      "source_commit_sha256": "0a3ecbeeb52dc98392d1e5aa28aedb1eafc12f8fb0f2375d98c92081bc2b4b35",
+      "public_sha256": "258dcae04b68a989d16386d1c0df399db9d17db068b171daa455266e730caad7",
+      "public_bytes": 16287
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/formal800-human-final-release-20261010-sol/README.md",
+      "source_commit_sha256": "2f77439441839bd1218e692509be52735a2b99b57d5c437895c824a27140c2f1",
+      "public_sha256": "ba1ad1bcafd0a8c214c9c92f5a101b7fa5d7195497177e9d85c155ced1641780",
+      "public_bytes": 3218
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/formal800-human-final-release-v2-20261010-sol/README.md",
+      "source_commit_sha256": "6436de6a49da885d5b2a903f25f8cf9b78a3a4b6f178cc42544906012ed7e1a8",
+      "public_sha256": "535cf9720328fea49b985e2946f26239a7d246f65dccb26c2e21356ef5b9452b",
+      "public_bytes": 2864
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/full4481-results-20261012-sol/README.md",
+      "source_commit_sha256": "693afc63925fb443238f465873babd566f597872722029898314f8a1cf688387",
+      "public_sha256": "b5c6fdc23015a468dcacb4141314dc5d8e340089d0ef80d4f17182815cd71ecd",
+      "public_bytes": 2975
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/原稿方法与结果修订稿-待确认主方法.md",
+      "source_commit_sha256": "9e7d6206b5b1fa657d803f5f90df51abc4bf666f5709de2ca6fdad4c02df1a3f",
+      "public_sha256": "26457fb9341ae933f463689040647e3b279188fcb1528182163edfb35ba29031",
+      "public_bytes": 9479
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/管理员留存-勿发编码者/剩余923条直接语境使用核查.md",
+      "source_commit_sha256": "82e980d96277285357a8a2b5f1af256bb2eca80c5a074971661e67cb569d8966",
+      "public_sha256": "081881f94a185fc73de9981450a55864fc944e4d8ae398056e9151cd77aabfc2",
+      "public_bytes": 7156
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/管理员留存-勿发编码者/原55项来源的新检验可用性核对.md",
+      "source_commit_sha256": "e09a5706aaad3bc94f04217c24fb5992d6b414aaf520dfb598bd452e951b24a8",
+      "public_sha256": "f1862023858ef29796b0e5b5277050f40179ad1917391c983589e6f5bdd5637f",
+      "public_bytes": 10916
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/管理员留存-勿发编码者/来源范围交叉核对.md",
+      "source_commit_sha256": "dc2d6012df1612532a04cd14a9e50d7a91dfde3679eafc4177866815b778a0e4",
+      "public_sha256": "1471392150855fdb40e416cbf55fceb76be97b84f6d4c2f2cf6882f07cd2d3cf",
+      "public_bytes": 7073
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/current-validation/supplement-design-review.md",
+      "source_commit_sha256": "3ed47aba6f5b932a33368cb918f916cba36af7bcce14eea36a450f29b216a548",
+      "public_sha256": "2542b3a33452baa593a19158829d50937db5b13492a0b0c2499dcd8b6fe2d192",
+      "public_bytes": 6782
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/disagreements/current-v17-findings.md",
+      "source_commit_sha256": "630b6d63da7258e3e16608d5e8532d02bfc61e00b880b38207bdd8b040235e53",
+      "public_sha256": "6028c309aeb44765cbeac2f7a9cf38eaa0adf17bd7c99c0ba4beeab945c000a8",
+      "public_bytes": 12000
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/disagreements/findings.md",
+      "source_commit_sha256": "e740a1c6e813c5b44b0b894464e123c4789553a7fc4c19b99f26cb1bfa6ad23a",
+      "public_sha256": "f2075f6e0e230f9d9a860f51d14beda63e03f3d588fe3bd3c77d582c0f47f502",
+      "public_bytes": 10938
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results/E-disagreement-source-diagnosis.md",
+      "source_commit_sha256": "355de1b427e8982cd77218e50353a832d78b01dee79987f650fa17ee55add3cc",
+      "public_sha256": "567c884e6f60e5f68caaf915617dba21aa8cadae83fb6f0616b55763f14d333c",
+      "public_bytes": 4615
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results/Ec-disagreement-source-diagnosis.md",
+      "source_commit_sha256": "300fff7e21de062ecd163974e9e0f6db7486ec7fa0b57264cc7060616a99180b",
+      "public_sha256": "2838db917afe10c1fb206fb0029fe83f8ae402ebbd991fd8c1dcb181a1e142a7",
+      "public_bytes": 3266
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/human200-readiness/README.md",
+      "source_commit_sha256": "d854150011a6c3400b16592ca3c7e54da7c68c2eda55c19c8b80bc1cba4e118a",
+      "public_sha256": "d90c405c369ee8d0d8120c9f51ed57f684eef96998653c23089de41c895ff233",
+      "public_bytes": 4215
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation/README.md",
+      "source_commit_sha256": "ef16eec2ddf75eb4690dcd8604b1e352091819c770addb1f68e074603adf5f59",
+      "public_sha256": "75cbe0cbe5275a8cdd29a207cb88ef08213ec2db9e4509f5bce217a795088205",
+      "public_bytes": 5880
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/rule-repair-v13/execution-preparation/README.md",
+      "source_commit_sha256": "dea9d33365e0e427617e0e8ca322a69e4a8c24aeb616e51d03f2a405360daad6",
+      "public_sha256": "b1dea38f74a5c4914893a5f952bc22c07a99ac1851a8cc1e03c39ff7592e7e7a",
+      "public_bytes": 4830
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/当前两机注意力与稳健性结果.md",
+      "source_commit_sha256": "c4cf3881bbfea639f3801b46ddc1f1e01e9d3ac8c93f054bb2a377719818d7ef",
+      "public_sha256": "f9d42a3efe96de64e1572f5fc615247ff5b9fd7aa057bd626d84daec05d62adc",
+      "public_bytes": 16582
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/stability-results/F重复分歧与抽样权重解释.md",
+      "source_commit_sha256": "354acacab77104637903ae74d1388d31f37f102f390fff646ac685dc99021d21",
+      "public_sha256": "9a71065094f0754b95c731801c969a68b55f41da2d9a4c3a38b34b14d4dc9d6b",
+      "public_bytes": 4163
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/stability-results/稳定性与敏感性结果.md",
+      "source_commit_sha256": "ec2379de2ada2567d6ead83098c59f7dacd043086e8dc6282d137eaee4da3126",
+      "public_sha256": "df5cc54446ab45cb2ad78215cd956dc636db8022a645819f27f28cdb16c3ae50",
+      "public_bytes": 21115
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/10-closure-20261012/总进度.md",
+      "source_commit_sha256": "91dc1336a8672fbcf5176dffbe2fe7db0ae8b1c0388d9ef303350714ec9e54cb",
+      "public_sha256": "d4fcd3e8bbb961c81421b8921b00cf2474d5eebe6afa83380919e36014deceb2",
+      "public_bytes": 21436
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/11-version-comparison-20261014/规则修复试验-20261014/回归运行说明.md",
+      "source_commit_sha256": "b451ef8da7c6a04c1384c4e43672d328207d7108c2f872faa336b3ea2fd61a61",
+      "public_sha256": "1aab5dc68c4669c12295d29c7a83c7a45559553251c77c3e6e0f07f830d4f858",
+      "public_bytes": 2738
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/README.md",
+      "source_commit_sha256": "8bba8fc1a510fc9fd011d3188e36db36e5b7564b9c0307b57cff8af183f1c84b",
+      "public_sha256": "abe7b297aa87da94e48134da248d281736d080573a979df619bc44edfb48688b",
+      "public_bytes": 26955
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-manuscript/interview-audit/interview-evidence.md",
+      "source_commit_sha256": "78db18e03421c1a4dee982290e57a08f8708ae48c153aaca9ee3425439ce837b",
+      "public_sha256": "da6996ce9caccfed14e4c1729ae07ce4970b38dc52d669e720d4d37795cfac16",
+      "public_bytes": 13992
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-manuscript/reference-plan/core-reference-coverage.md",
+      "source_commit_sha256": "6ba7fca6c748c453cd1137866a1c06c3cdd1ef082fb007ebd790c8bee3ad074a",
+      "public_sha256": "2ac49d82d1df6eadeba777631450f48efd804f1afce823d701cc5a3e6a74a0a8",
+      "public_bytes": 43036
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-manuscript/reference-plan/snapshots/math-review__math-review.md",
+      "source_commit_sha256": "703e65a9ac26afa578918e8b7696c9648a6f728580cea47bf832fc1049833eaa",
+      "public_sha256": "ac71b53828c48b9217df043e7943001bfc6dc35fdd502b25e1df2458a9e15976",
+      "public_bytes": 13565
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-manuscript/source-00064-temporal/source-timeline.md",
+      "source_commit_sha256": "4d263236690d53c4f1c2cbc1c5c2652346e0df4f997a6dfaba565e70a231bf09",
+      "public_sha256": "f331e57549a9c7e472d254a1219d145537d821cf80319bff00db9aa7a5799ed8",
+      "public_bytes": 15638
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-manuscript/交接说明.md",
+      "source_commit_sha256": "38df710f77c9c8e721d7c548d8f6a025e346df7fe62c06126234196a579b214a",
+      "public_sha256": "c37f84608736408a018e7f756f587ecf34307a39d28cf36cf7dc4b56fd0c18a4",
+      "public_bytes": 3169
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/prospective-design/inputs/current-validation-design.md",
+      "source_commit_sha256": "d2a3197374aa642ec944947241a76b951d821cbe0234ccf0c31590b7b767ffac",
+      "public_sha256": "6ba328e6d6db247e8c18a01ffdac71534ae8b6032324490e656f57394f5554cb",
+      "public_bytes": 20106
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/snapshots/1dcbd56d13f76920-指标与变量一致性审查.md",
+      "source_commit_sha256": "1dcbd56d13f76920b903fc6e4fca358741d25dfb79780288f888ba01b8076288",
+      "public_sha256": "a70ef2238a691132608871a608034d3d816e5dc3b254c738fdf992f5a4b6844c",
+      "public_bytes": 20260
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/snapshots/4edef0a78c12853e-legacy-plan.md",
+      "source_commit_sha256": "4edef0a78c12853e60152d966a113d755a339b3595cdddb9f5c8ae44054955a5",
+      "public_sha256": "26f4924b65875d9cf30e2337bafe214d4bd1c8a2cbac85e5bd9ff0e70235aebb",
+      "public_bytes": 19412
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/snapshots/9c60263648a23070-指标依据与理论对齐.md",
+      "source_commit_sha256": "9c60263648a230705284ef243e883e4361f32013feabd9ca91f4487efe4e22ed",
+      "public_sha256": "bfc59a7192721e1a7541f207a8e17bbffaa3d7f819ded869d9a4ef8e5a3a48fe",
+      "public_bytes": 29993
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/snapshots/d04d0232b8f08bf9-同180四组注意力比较.md",
+      "source_commit_sha256": "d04d0232b8f08bf902e5ed2e353867dacdef918751964fab7e0c5b691818da53",
+      "public_sha256": "d14957412aa66be7d3b799948c019f5ca204666b40bed78c55bc588a43f5fb44",
+      "public_bytes": 5353
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/snapshots/d1d0ec46e273126b-legacy-validation-design.md",
+      "source_commit_sha256": "d1d0ec46e273126b97296e49e825b7713b663a3368364d3d763d7aff76407d58",
+      "public_sha256": "8de999f6fd41b2b6d42e4f02f9fa01bb5c9b330d022ad56a1bdf1c5e512f66cc",
+      "public_bytes": 8158
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/交接说明.md",
+      "source_commit_sha256": "62c89eb7578f6285f66d7347889261bea8346686e65f96961646cc9da5c45c59",
+      "public_sha256": "c318479563c43801a640b6eaccebf9930f7a384566f7116328560d61dbe9963e",
+      "public_bytes": 2746
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/goal-calibration-20261010/parallel-metrics/完整方法与历史统计复核报告.md",
+      "source_commit_sha256": "8318353cae18d03f83f0fd00aaa842fa1ba3eefb016add7102bc4dca332f271a",
+      "public_sha256": "6735cd508916743e2bae95e595ca0f9a91d5ba3f6dcb2f2709614161a64e7dca",
+      "public_bytes": 28535
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/indicator-alignment-20261007/指标与变量一致性审查.md",
+      "source_commit_sha256": "1dcbd56d13f76920b903fc6e4fca358741d25dfb79780288f888ba01b8076288",
+      "public_sha256": "a70ef2238a691132608871a608034d3d816e5dc3b254c738fdf992f5a4b6844c",
+      "public_bytes": 20260
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/manuscript-completion-20261006/参考文献核验.md",
+      "source_commit_sha256": "60ecd6d96edbe0c4bd486b028a50924614e047b4cdfbf2dc131f19f9121e2eb4",
+      "public_sha256": "94a7f4d2817359305b67aa1b4383e1c20ba4b024e205f307f25e56fe4d79f1cb",
+      "public_bytes": 29170
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/recall-revision-20261007/三部门编码指标说明.md",
+      "source_commit_sha256": "9b3fb2615bbf18b75e6a3e450f45724fbb4b6a36a36dffe4a085793104e96d7b",
+      "public_sha256": "2bca70183fc8a48fb70a257875cdd63be1f725d01fc0ee0491c7c746455deb62",
+      "public_bytes": 13106
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/recall-revision-20261007/指标依据与理论对齐-文献依据底稿.md",
+      "source_commit_sha256": "9c60263648a230705284ef243e883e4361f32013feabd9ca91f4487efe4e22ed",
+      "public_sha256": "bfc59a7192721e1a7541f207a8e17bbffaa3d7f819ded869d9a4ef8e5a3a48fe",
+      "public_bytes": 29993
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/recall-revision-20261007/指标依据与理论对齐.md",
+      "source_commit_sha256": "4caee0bb7c54210e70027f068129db6d90547269ced7b663c757d0648342418d",
+      "public_sha256": "f24bb14abb9d70018e69de1f687474ec5b1759d7ce8d7fbdd38ecc8d3f36a59a",
+      "public_bytes": 30458
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/recall-revision-20261007/政策内容与协调路径.md",
+      "source_commit_sha256": "5bfd6cb9b092254b6620dbd38f9daf652059accb311954eb6299efd767a2a143",
+      "public_sha256": "4a7295f79bd19d14fb3d8a3f7da4652d3d4967de95c56d8985e91eba01f14c1a",
+      "public_bytes": 44113
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668-原4924范围内容分布报告.md",
+      "source_commit_sha256": "f132ef6cde6c9030b941169607de0af92d4c1070d1ee6149dbd5ad66b911fad6",
+      "public_sha256": "906d6510b257e3142c1768c18a2d8544a41b73706a7b8cf68a3f596433686cb2",
+      "public_bytes": 41553
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668-执行记录.md",
+      "source_commit_sha256": "7fbbe988f7c3790491f3cffcb42bb43c11ceb668d5e823a0b3f883b7bdfac502",
+      "public_sha256": "84f9ba94bd92c36fa9e778f49e163ccc59ad4ac55f28c71c0758f2faef0e5722",
+      "public_bytes": 20755
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668-描述性敏感性报告.md",
+      "source_commit_sha256": "b7a50d283b31140c7ff274e4e3132cde1e82983813f0a3211366e1cf5e647bd8",
+      "public_sha256": "3c6e7ba6877f9569b5df7f82f14045e211627fb2162f6904894cfaf056374f2a",
+      "public_bytes": 11926
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668-结果解读与正文边界.md",
+      "source_commit_sha256": "8828de0e1c4aa6acb6d76d3b0c0325d1e74b262e5cd5a4bb6d07b6dcef806288",
+      "public_sha256": "7af20fdbae0724abc231d3aa052266a4a090cae1ccb09753073b8fab9bf7e7e3",
+      "public_bytes": 18393
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668-贡献与创新表述定点复核.md",
+      "source_commit_sha256": "356c8cb7d474c6e94fdc3ce3bf6b0d39e329add3948c424ff56d2658ebb563a6",
+      "public_sha256": "6e6df4869f2d3ba593bf74dcbf60cc2fe26ebf32fa8fbf0ecc69bf307812d9c3",
+      "public_bytes": 6049
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668工作簿builder交付说明.md",
+      "source_commit_sha256": "d2650086196b948486d66c644bf909b1c8936daa32e4dd0d757503271dab433d",
+      "public_sha256": "cd6b759a1570bf17aade54774a170828c58762b5aee22693aeb8f4bea26e5359",
+      "public_bytes": 6672
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/D668描述性敏感性呈现器说明.md",
+      "source_commit_sha256": "d03947c28c7868c3f70d4094876bd0f339903c4d243757a04e05247c56404322",
+      "public_sha256": "02d7d0fe5d8ba79709bd84f4ab8cac40b4eb0562314156cce4e0cc6ea96431c5",
+      "public_bytes": 3079
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/H600-IF分歧事后复核.md",
+      "source_commit_sha256": "3ee811859eb8984443723bb1877717ec2be0ee0033544a0e2ee3c742fc179647",
+      "public_sha256": "be82f747e9f3e09acef79800d4bfa8243cfd293172f84e4f9897ea5ae9518946",
+      "public_bytes": 98699
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/H600-独立AI验证报告.md",
+      "source_commit_sha256": "00addfee94515179c48413f0e80194a0e0f192213fd8d494c3908505352d5cf5",
+      "public_sha256": "1fb10a8c4aecfcbda1a0dbedbde102bf06ffc43f5d6fe6882f59242b2508224c",
+      "public_bytes": 5860
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/H600-部门分布补充核对.md",
+      "source_commit_sha256": "0a943f1a6f8e77341a586f61812312c095da2aca1bfa0cf1c71cad6f0d19d278",
+      "public_sha256": "45234824433af490c8444d18bb576c1c57dbf72aabaa071a3393e9fea817aedd",
+      "public_bytes": 2597
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/R200-补充挑战集报告.md",
+      "source_commit_sha256": "fbbe7fb63b7a2a8b9130daace3bc901f354362c55808404c34aa02e1c58b691e",
+      "public_sha256": "9cb40fc1c113297b425f60e613dde254598a07425f5664d08d86e1b6efd4500d",
+      "public_bytes": 3916
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-frozen-inputs/candidate_manual_review_report.md",
+      "source_commit_sha256": "30ca66a79a80b88972f22e180c6cc825e20ba73158523db79e3c19f728a5ee30",
+      "public_sha256": "d567b294f41389bab9323b08a91bdfaf0f428a5dc0ffbfa50985a775929e6982",
+      "public_bytes": 7548
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-frozen-inputs/protocol_alignment_report.md",
+      "source_commit_sha256": "6909b217654b1196b36d56cf44ec76ee6819f9b7b9572583d40fdfd59d802d54",
+      "public_sha256": "2eaa7dc2290c2be9b83e9a59e429b6842f20dc2080d2b7054ef80904ecc12672",
+      "public_bytes": 2784
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-协议对齐记录.md",
+      "source_commit_sha256": "6909b217654b1196b36d56cf44ec76ee6819f9b7b9572583d40fdfd59d802d54",
+      "public_sha256": "2eaa7dc2290c2be9b83e9a59e429b6842f20dc2080d2b7054ef80904ecc12672",
+      "public_bytes": 2784
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-执行记录.md",
+      "source_commit_sha256": "2fabcba9dbd8f12ec3337914327008870b3ae68f6a96664122bdea67e467805c",
+      "public_sha256": "9d5f1b7036a70f3690b075413e4309559fdd3d2d2a36dd80b28e6763fda8ae11",
+      "public_bytes": 9760
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-报告展示-合成预览v2.md",
+      "source_commit_sha256": "0c883c9924a55c59c431780d42128790df3eb2eaf5278fd5aca6612c4b836e2f",
+      "public_sha256": "ad3e609a083bc0e1441e6acded501436f42ac384e70b3bcc771bf373cb3f1c12",
+      "public_bytes": 15843
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-独立AI验证报告.md",
+      "source_commit_sha256": "8578e40bf1aa22ffd051f77466abe35493f231e527ae0630a40a069bc6f40f01",
+      "public_sha256": "1145f2ec0bcb8c91e8a3fdf80a055e47457f8e2f44794948427548fafde73879",
+      "public_bytes": 15594
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600-结果解读与正文处理.md",
+      "source_commit_sha256": "6492e309bcab867b45cb8168f4eab445676af00b1d3485031244068c57892ff2",
+      "public_sha256": "4b600b459ea5528fae99b6a4ac8353c5d7df7ed97641435894b4d43423268290",
+      "public_bytes": 4753
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/V600协议疑问-方法意见.md",
+      "source_commit_sha256": "71e1f828c5c4f7b3f3f436085cc44fa94e997568204a214b0eff67f5c503eb6b",
+      "public_sha256": "68278e019aa0b3c5ba71447ce5b450f6998e80161a1c178f0c2222aef757d60c",
+      "public_bytes": 6029
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/tmp/贡献表述定点复核快照/43fa0c829a1e-部门五维关注取向-证据矩阵.md",
+      "source_commit_sha256": "43fa0c829a1e2ef68c0aea4bb0a149143070d9ae097cf86ae2e37a4a249f5ab2",
+      "public_sha256": "a0dcdb7d7103f5e665c1245396c15b0c3d1af030cfb9b4f70ccf0988f4915052",
+      "public_bytes": 15446
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/tmp/贡献表述定点复核快照/8828de0e1c4a-D668-结果解读与正文边界.md",
+      "source_commit_sha256": "8828de0e1c4aa6acb6d76d3b0c0325d1e74b262e5cd5a4bb6d07b6dcef806288",
+      "public_sha256": "7af20fdbae0724abc231d3aa052266a4a090cae1ccb09753073b8fab9bf7e7e3",
+      "public_bytes": 18393
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/修订版SEC实现需求审查.md",
+      "source_commit_sha256": "f855604f829787d399191ba94c8b4ccfa3af91568508baec663ff2f413b27abd",
+      "public_sha256": "a48acd51899445b9924f2d72f4d8423a41bca7df43e2482bd6133d3ba9754723",
+      "public_bytes": 58176
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/修订版下一轮验证-方法建议.md",
+      "source_commit_sha256": "25a81abcf73420bd7709aec2f6a8a9e87b2d29ba1385f66ff8f3e1f98c5b0879",
+      "public_sha256": "c81e537e3ff93185c4933e5aaa3a827e97a0572009c35cd7061601d30c5b354b",
+      "public_bytes": 22351
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/修订版剩余池-暴露预审说明.md",
+      "source_commit_sha256": "18f777dfd03552456a6b58ad2becfa35211903cb9ed139919a5d3c6885119333",
+      "public_sha256": "9190ec82e5fa5bbce5d25bcc8b8fab506363fb4acde1702676c3276066ac6f61",
+      "public_bytes": 5558
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/候选修订-有限代码手册审查.md",
+      "source_commit_sha256": "30ca66a79a80b88972f22e180c6cc825e20ba73158523db79e3c19f728a5ee30",
+      "public_sha256": "d567b294f41389bab9323b08a91bdfaf0f428a5dc0ffbfa50985a775929e6982",
+      "public_bytes": 7548
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/候选稿来源清单拆分-独立核对.md",
+      "source_commit_sha256": "5807ea8820c416faf128ea84881379849f06f6f197c7982d998df678f19a5a87",
+      "public_sha256": "278e45b9ba6e86c5fe89deb77f76925c06ddfa6582f5711fd254df58ce23bab1",
+      "public_bytes": 3906
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/候选稿附录A压缩-独立核对.md",
+      "source_commit_sha256": "54268c202ef8c040d05771831b42ebeea16d1526d34f090ec1a54ee486fa0623",
+      "public_sha256": "b4ee506bf12e8048dcaa832429068ce483bedfa8955e6f1e4b7327359fba40d8",
+      "public_bytes": 6947
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/匿名稿全文论证-独立复核-快照/6492e309bcab-V600-结果解读与正文处理.md",
+      "source_commit_sha256": "6492e309bcab867b45cb8168f4eab445676af00b1d3485031244068c57892ff2",
+      "public_sha256": "4b600b459ea5528fae99b6a4ac8353c5d7df7ed97641435894b4d43423268290",
+      "public_bytes": 4753
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/匿名稿全文论证-独立复核-快照/8828de0e1c4a-D668-结果解读与正文边界.md",
+      "source_commit_sha256": "8828de0e1c4aa6acb6d76d3b0c0325d1e74b262e5cd5a4bb6d07b6dcef806288",
+      "public_sha256": "7af20fdbae0724abc231d3aa052266a4a090cae1ccb09753073b8fab9bf7e7e3",
+      "public_bytes": 18393
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/匿名稿全文论证-独立复核.md",
+      "source_commit_sha256": "5788db9093f07742ccc2383406d9250e10de1d25d675f60c25d2603fe6bef650",
+      "public_sha256": "6508dd4fab697ee6059a4674ff46425448e66e7caaf5a01f0e08c6de7a88f5cf",
+      "public_bytes": 4010
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/参考文献27项补核-交付与范围根核对.md",
+      "source_commit_sha256": "47455536cf7035529b3c76447ee5e77d652a26f456fcd3754e7cb805f625a84c",
+      "public_sha256": "acdf1433f62d8a0729300cb382ddcd091b19c95aec3ae7487b65c795ceb3f693",
+      "public_bytes": 1889
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/参考文献实质证据覆盖-缺口清点.md",
+      "source_commit_sha256": "5aa533b7b56a799dd422f3ac931111bc9fb9a86a0b713a7db5cd936449cda460",
+      "public_sha256": "66e733a6377b85715f19359ba09bffde15ce0ac3593fb1980e88d65fa7533c42",
+      "public_bytes": 63962
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/参考文献缺口-国内综述原文补核.md",
+      "source_commit_sha256": "a3d438685278b85b9dabf8059715a9ee598f561212e2cc7377835b578656c7d4",
+      "public_sha256": "521076d74acd86cbc6eef27be50625c0c35347b56827a3eedd40c26ef969fda7",
+      "public_bytes": 34629
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/参考文献缺口-政策及公开性原文补核.md",
+      "source_commit_sha256": "993bc673fc422f0743ab36235b2214d99ef9c6bc90940f277a160095ec3354a6",
+      "public_sha256": "58505785a92e2a9f7f0246cf6f996e66c0fc3bd4c54ef27eb6f4f38d907acbf5",
+      "public_bytes": 12924
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/参考文献缺口-根任务六条原文补核.md",
+      "source_commit_sha256": "a48844419288e3bce23602346986cf362536b7004ec333a978e1119cd57a9701",
+      "public_sha256": "a323d405d9635ba8c96df0c4b9e63792c7b2212f5b8b6a94b88a4c65ce362390",
+      "public_bytes": 6215
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/参考文献缺口-理论及HTA原文补核.md",
+      "source_commit_sha256": "a087af05fddb17f2e001f4b1e7444a08d6968cea51de367b4e2f2539666d3e5c",
+      "public_sha256": "818f693f549aa424e22a1e6d9021078c44e399bc59b0980f3e7310ff617b1edd",
+      "public_bytes": 21045
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/扩充独立编码与论文修订-交付说明.md",
+      "source_commit_sha256": "9a285aeefda2b7aac633b03b92c6fd274b510cc54ea59cea090252aee7867de6",
+      "public_sha256": "6e703bc421be64f093cdaeef9b4321bbfd1ea95f510fdf4b223af4ae1e1861fb",
+      "public_bytes": 6059
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/挑战工作簿构建准备.md",
+      "source_commit_sha256": "162cb722e08a66ee522c5be7ec1a622a9be5320fc4d7e59f7b797f0a02004da2",
+      "public_sha256": "2f10f4a053d2a1436ba73c1ce8d8b38849c25947f296b8a5f568f9b02ac39102",
+      "public_bytes": 3593
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/正式工作簿构建准备.md",
+      "source_commit_sha256": "101131c7feda41ab0e0437373725f62c9d89ba5440c2b155e55561ba29bcd9da",
+      "public_sha256": "b685898dd5eeba3ce8f6295ee495d5e2d6504de778e6bf79b3f965502d4be35f",
+      "public_bytes": 4000
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/研究验证与正文联动-完成性清点.md",
+      "source_commit_sha256": "473fba1e0286459a24c9a1d9e8d257526e329d2f4d79d6d519d0322f4cd060c3",
+      "public_sha256": "61e7d438b115e97f2ccf94c4b70313a326380d0dcfc070ce8e9a2a7ff5143f22",
+      "public_bytes": 4381
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/维度口径与正文方法衔接.md",
+      "source_commit_sha256": "0763692a409938d95ca3f54a8290a499ffb4d4515fb7ad540f5ff11dbe544a4c",
+      "public_sha256": "451ee52d843888edff771342204cb220f23156b06840a57f75ae3f4e25ed0979",
+      "public_bytes": 4223
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/维度口径与正文衔接-完成阶段核对.md",
+      "source_commit_sha256": "ecd2b2a168a2e7bacd8147e72993db1cf91a0a6a3a0fabb5ecb7ea9c72b41c4c",
+      "public_sha256": "6af634ecda95798fd36a594a1bd984481435e251d3f701caafded9eda5e42da0",
+      "public_bytes": 1170
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/附录压缩及来源明细-根定点核对.md",
+      "source_commit_sha256": "95d3c76b92bd1236696e73e0fb8f963fea504dde6592268fdf0e25b293421e66",
+      "public_sha256": "688cd4fccca69b8176c54652e8443165f880872d3c92539b2e56bf5e2ec1a8d6",
+      "public_bytes": 1130
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/validation-expansion-20260926/验证材料总索引.md",
+      "source_commit_sha256": "0fab6f195579e8d38e963e90c8c46f06fe5d2810e1f3a19951d8f520722526a7",
+      "public_sha256": "d37f069441bfdbe5d8071b5ba65acdaa5adbcd900e6e8e9177762786bbaf6084",
+      "public_bytes": 15200
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/failure-mechanism-audit/candidate08_failure_mechanism_audit.md",
+      "source_commit_sha256": "ece82b1af5340ed1b3eaf9e78df7b3cb35200ac3af54ca956064d4a07ab6e3c7",
+      "public_sha256": "1928702fe0429f722956e88e5faa09940d609cb3bc17ac22aed2a4ece57459ee",
+      "public_bytes": 8748
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/LLM编码/统一判据编码准备/runtime/actual_reference03894_source01/source_reference_diagnosis01.md",
+      "source_commit_sha256": "600836eecfb7e7a2911d7dc7ce41f7e8dc6bc7da6792e43f74744c1b96471241",
+      "public_sha256": "1f45655a61f1de0fbfe122da6c26d02666e3702263fb15165dccdc34f06b28a7",
+      "public_bytes": 3178
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/LLM编码/统一判据编码准备/runtime/literal_failure_diagnosis02/diagnosis02.md",
+      "source_commit_sha256": "297e4561d90cf0dd459b9572334867d6e3ea2cb4efbb8efe1f9ca2867014126c",
+      "public_sha256": "622261b8f15c12635d07ec58eabfd7ad5f9b028cc35731e835b194bc25da5ff6",
+      "public_bytes": 7212
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/人工参照复核/五维共同边界校准/教学判断使用状态.md",
+      "source_commit_sha256": "e93577e77fb910660ad375c2549ae5b9a0ef233778513066f391707049d2ba96",
+      "public_sha256": "c0d06de3ad748cb70e34394872b3fcc88b7ad158c02e52c5bbf2d77775cf330c",
+      "public_bytes": 2198
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/人工参照复核/五维共同边界校准/校准手册.md",
+      "source_commit_sha256": "3ac9c15f1a8ee24d1386c98bc11a09b51b25b47140bc8b8745487e16dc70e030",
+      "public_sha256": "72556f217e0c580ec75a22e783b4c5b7bb06670710ceef1dd5ff4ee2d3d20e75",
+      "public_bytes": 18999
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/人工参照复核/全量目标框验证准备01/验证设计草案01.md",
+      "source_commit_sha256": "d1d0ec46e273126b97296e49e825b7713b663a3368364d3d763d7aff76407d58",
+      "public_sha256": "8de999f6fd41b2b6d42e4f02f9fa01bb5c9b330d022ad56a1bdf1c5e512f66cc",
+      "public_bytes": 8158
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/共同判据定稿准备/逐段变更说明.md",
+      "source_commit_sha256": "cc472773d00184d800058983ba6c3266e7b8886d471d7f60d1e70eefa0cdb7df",
+      "public_sha256": "5191d291e1f004390af60b87901a20d9c08fa8c856fe70be5f55493c09018c85",
+      "public_bytes": 7965
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/方法依据/共同定义后续重编码范围建议.md",
+      "source_commit_sha256": "4110898bf7ba12f08d239443a11ecabd746ed476864e1b0cc559113c8b9321c5",
+      "public_sha256": "21867f4a018657a121b0c03a3e85dfea83fa399d97d5269e6ca1f07787eff086",
+      "public_bytes": 4902
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/方法依据/新定义人工参照复核接入方案-20261009.md",
+      "source_commit_sha256": "a671589cf00538912c0424a2f2c55205e62720802db9a936525bbfcb7ab096ef",
+      "public_sha256": "30c2cb8ada0840ef8ad6480a4b91879d2ab846da3e39fe29a36bf15d2b206a87",
+      "public_bytes": 14305
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/方法依据/框架构建引文范围与最短段落核对-20261009.md",
+      "source_commit_sha256": "2015656ee374e916b3b7a9fc74d771602886998eefe81d08847e6863a516048d",
+      "public_sha256": "a061b392e7dcfc61984b1eea85c3c7deafc3490c23ce688e19383f40e24643af",
+      "public_bytes": 4327
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/方法依据/编码框架构建方法与正文拟用段落.md",
+      "source_commit_sha256": "f6f1d90b0f6494dccb4d911eea25eb7f3b134acdbd0e5f2b80d791197621e2b8",
+      "public_sha256": "1b3b8ec77a9b472fea0b6f8bd2f8388852607bc295254a44f0d075e65fb8b250",
+      "public_bytes": 12889
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/校准用共用手册.md",
+      "source_commit_sha256": "3ac9c15f1a8ee24d1386c98bc11a09b51b25b47140bc8b8745487e16dc70e030",
+      "public_sha256": "72556f217e0c580ec75a22e783b4c5b7bb06670710ceef1dd5ff4ee2d3d20e75",
+      "public_bytes": 18999
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/测量尺度审查01/五维尺度对称性补充判断.md",
+      "source_commit_sha256": "f734099c070da72871771b66ea158a5b0a52fc5b224454ce191cd3a28cfc7f1f",
+      "public_sha256": "59698e3519091c9e4687ed3395a694f2d39998ff8c6bb379bef79b5a173b9d02",
+      "public_bytes": 2225
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/测量尺度审查01/公平性依据与最小修订建议.md",
+      "source_commit_sha256": "7600602fdb1cdbeef84a5f89519be72603196dc1f9af74b47390f647c1938ec6",
+      "public_sha256": "0665941c386ae20d28014d32b8f9a044497b4094d81eae9eb37ff7b943f393d1",
+      "public_bytes": 8864
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/测量尺度审查01/创新性依据与最小修订建议.md",
+      "source_commit_sha256": "0768387f7fd958b6bf623254de224b4a6efc52fef4e20a42436717355c164b41",
+      "public_sha256": "c16be819e71e3cc6326db4d629c02335b5ef5fa54f446fc16ffee3e754f39600",
+      "public_bytes": 12092
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/统一操作判据/共用编码手册.md",
+      "source_commit_sha256": "fb78f1922e2e5ade34dbe076890c61c6e04e2e3ec605f9d9b3e938dfaf49437f",
+      "public_sha256": "fa87f28419e62e746e87107cfc2fbebdece61cf4ed00b283e374993bb88188e5",
+      "public_bytes": 20176
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/定义溯源核查/统一操作判据/判据变动与影响范围.md",
+      "source_commit_sha256": "70449a2c6f2bf7c65f53508a0765ff571ee94d46d26afdb341fa72e6a8be7c72",
+      "public_sha256": "acdcfcf0d2af6b61b4a95d731eb5d4c2eb6db31f72382706578ce4ee674d8785",
+      "public_bytes": 4710
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/方法实施独立检查/测量与语义统一/本次实施与检查说明.md",
+      "source_commit_sha256": "010cfe4fa494f5d74c9f0aafebeb4bccaa7848d5a4542362f7b6fe39bcd8ce11",
+      "public_sha256": "6735d3f82f8d9bcff3bca8f1e2794ec132329a3273e425c793644c0a93fffd12",
+      "public_bytes": 8926
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/共同判据完整分布实际计算/当前编码分布与差异核查.md",
+      "source_commit_sha256": "3210a2ef3daea261628dabf1e079abc6c52ca43a6c93b3eef53ce085e398b955",
+      "public_sha256": "a81e182b70fad91f6f2d3b55d1c493f2b71be112f099aa8f785f74a6bf228cc6",
+      "public_bytes": 3354
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/共同判据统计准备01/统计入口与执行契约.md",
+      "source_commit_sha256": "79ccd2862306bc2bf5a0543b6113740d00f304ef16eb7c80680d459b1b91357b",
+      "public_sha256": "f005f39d3ef81d80fea2db5c6e8272aea80fe11d377d4a6adf74a959ae42dd93",
+      "public_bytes": 4390
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/其余三维低项核查01/三维全分歧原因表01.md",
+      "source_commit_sha256": "c1c2375ac61d31c705ce9014e191cd6588e5135c6924baf27b7f44a8a01d0358",
+      "public_sha256": "a6303f5b8560b938ca9a684d90f1c1f7962a733597cddb6a6ef56deb68b1b573",
+      "public_bytes": 23154
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/同样本注意力解释/同180四组注意力比较.md",
+      "source_commit_sha256": "d04d0232b8f08bf902e5ed2e353867dacdef918751964fab7e0c5b691818da53",
+      "public_sha256": "d14957412aa66be7d3b799948c019f5ca204666b40bed78c55bc588a43f5fb44",
+      "public_bytes": 5353
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/整体方法复核01/规则实现修正范围.md",
+      "source_commit_sha256": "0cd328e87127021faa24c7d11abe1dc6b01e86ff8216a3ff04576a8bebf67e58",
+      "public_sha256": "5816dc0a55d181ef3c82b53af163eb93f0b5e1e242c384f2f0e901553322d56f",
+      "public_bytes": 9961
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/整体方法复核01/问题判断与后续决策.md",
+      "source_commit_sha256": "3c36469e00de29f60cf3e3ca8d5900551e1ca71f030f9d3d5eabb311f7080d34",
+      "public_sha256": "a4f686b3ceef15eca626ca8db463352921267686629f33b98e6db79e56ff66a4",
+      "public_bytes": 6317
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/方法差异解释/方法差异的依据与解释边界.md",
+      "source_commit_sha256": "d2860fae7977b5ae055a892c7bee25c937388d939ad892a2c97a3df0e36b4ced",
+      "public_sha256": "e1caa5ae6f5c79ce8d651484d8ba0c4363efd6363a12d882cc7c4796efcd504e",
+      "public_bytes": 5967
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/最新机器与既有AC参照比较/参照兼容原因矩阵01.md",
+      "source_commit_sha256": "329c67480aa571269a7a38ede1f3da83aab7fd6ae3de294e19cba432cf4989a0",
+      "public_sha256": "55d6ff375242fd19de8d4a896f2bd2379d8310accaf3c3f6b28611502ec74857",
+      "public_bytes": 18257
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/最新机器与既有AC参照比较/验收目标与问题判断.md",
+      "source_commit_sha256": "695069ea1492e83b8fc28295db7b1ab82ec12514be36aac46ab760a2ed37ae97",
+      "public_sha256": "8796aeb8900e9efd79b952f3c4f2267bef20adaf4a8810ddfe62d1606a8d1c45",
+      "public_bytes": 9780
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/来源读取与图示校正/两方法比较准备/准备说明.md",
+      "source_commit_sha256": "d9a818a5549e697568258c77f0599bf4e655787ca88440455e3c1d5fbcad9560",
+      "public_sha256": "140d0af7d03569cfdbc43166061978babfea7559b7e98ece97db66d9351e964d",
+      "public_bytes": 3016
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/来源读取与图示校正/编码重做结果与问题定位.md",
+      "source_commit_sha256": "7e26e328c34a0d046b2183afa59e6ff75653e59f8453f74277e574dbb0cc8e44",
+      "public_sha256": "f67295ac2f6d9f8e16da84ca8c96f8d99b2242b206454bf48793db3f7bb94b7f",
+      "public_bytes": 10922
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/残余分歧内容审查-20261010/公平性审查汇总.md",
+      "source_commit_sha256": "523981b1be25fae2d9b5365021173dfc406e5b8648ac49a74b30cf89ce1333e4",
+      "public_sha256": "201a5504bebcc0a9b4f4b37481a02a8891362553bf5aee34ad6ddf676e1141c6",
+      "public_bytes": 7674
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/测量与语义统一全量/两方法比较/准备说明.md",
+      "source_commit_sha256": "2210c793d12e457e1637a5ac9abdc30c65ac4b4ff44cf17a11c82f5b1d3ed251",
+      "public_sha256": "66615c4dbfa92c33f830ccc4654c9a1f78e4085ac28bcb6c1901b0e52ed243a5",
+      "public_bytes": 3182
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/测量对象与计数单位核查/上次问题判断留存.md",
+      "source_commit_sha256": "33e8426ec278f215de97ab763fee1b576e7082a282fddbca18d259dad67c2b5f",
+      "public_sha256": "738cce14725b2aa20dd827c29db00468cd89dc04127738e45b3cbf382a6bcbbd",
+      "public_bytes": 18044
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/测量对象与计数单位核查/测量范围独立意见.md",
+      "source_commit_sha256": "53e554228f24b7786b978d35c06ca28ecf551268b71c4a873dcc142c15dc777d",
+      "public_sha256": "c2c32719a7ccfd9bbb39d15b20226842598fa9dee056be8e7dcdb1bb8ac26697",
+      "public_bytes": 10567
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/测量对象与计数单位核查/计数结构核查.md",
+      "source_commit_sha256": "2f1316eb954916738e2f1bbe25d3c4fa4b510bf90fa9925525f3c148b007ae5b",
+      "public_sha256": "8d43e4ff37deb74f7ed5613ffec5c633c527cd4dd412c2832048b98afd7d1477",
+      "public_bytes": 14120
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/真人确认40条-指标验证-20261010/本对话同手册复检-20261010/本轮结果/本轮结果与剩余工作.md",
+      "source_commit_sha256": "38b65bf687076e62c582a518aab9ddfe23f322deff3808ede5e27b1fa99afe38",
+      "public_sha256": "1b914c723b2665635eb513c92c1effb369b64f54a9a2820465a8dd9ad0613424",
+      "public_bytes": 5409
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/统计复算/验证框与全量范围核查01/验证框与全量范围核查01.md",
+      "source_commit_sha256": "2235af98cb5138b489da15294feafe7f71586101deffa0206e433eba2f923715",
+      "public_sha256": "b7faa15375781b7134f3340646272f3f518a7d4e4c21701556ecf99d1e4a3571",
+      "public_bytes": 6484
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/编码重做结果与问题定位.md",
+      "source_commit_sha256": "527a8fbf87a908d6e2c186824d1806ec0dd3414176248e891433c28e1394bf11",
+      "public_sha256": "75eec38577c207c75481ad94b0b0312540f1bcd139a987e63c8d67d9074b02b5",
+      "public_bytes": 17867
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate03/independent_code_review03.md",
+      "source_commit_sha256": "dcfc623c00b4fba920319f8fe131ebff5bc9b1a1e816ec7c5539838a610a9252",
+      "public_sha256": "f48a5ef46b646f2c654c6283fa619fface986490a16ee96b16c879b049f4a211",
+      "public_bytes": 4019
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate04/full-shadow01/semantic-audit01/两处适用边界的操作化建议.md",
+      "source_commit_sha256": "f40fa1a271fb11eaaf022307de1c1eb4b49e58656b5d6adbcd0b1339e3f07c7e",
+      "public_sha256": "a64bcc58c718646406ca0c7b645e7ad6ee07f9c8181de07e0d271b4998f9b49f",
+      "public_bytes": 7443
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate04/independent_wrapper_structure_review.md",
+      "source_commit_sha256": "4175e2088a2368f5fbf3e86fea137e6d0b9354b5d48213f3f2e374f83c2654e0",
+      "public_sha256": "43a14a82756b2d2c0e572906bc66d7cb59c5f19d4de835bcc791ff6bf306bae0",
+      "public_bytes": 2870
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11-independent-boundary00529/独立AI工作审阅00529.md",
+      "source_commit_sha256": "78dfcd5cbb2cbd57d054fbc349106d3223d3bcdf710a9223aa694f595af7db32",
+      "public_sha256": "5f58fbb9545439cc577498261c458947aa5270e388f7ad6186f26af5a27936ec",
+      "public_bytes": 4265
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/candidate11实现与实际有界交付.md",
+      "source_commit_sha256": "2d3714f089095b45ffd290ad3b63e03bbda3efceedbe32b6d93cc14b92096f47",
+      "public_sha256": "be078a7b16f9fd03a4eb6f9dbc141f90b938bc85d2cc02c258a217a2cccdf860",
+      "public_bytes": 7893
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/full-shadow01/完整开发影子交付11.md",
+      "source_commit_sha256": "4d6b6e9199d7f63b6a3158ed752dce9c28e357e7c1c5cdc1a5d3031cb7d2a225",
+      "public_sha256": "cf83b46eee7c6fbeb52093df439a4b6569dfb7d69462eefd28fabe6b68f94710",
+      "public_bytes": 4535
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义候选/candidate12/attempt01/源证据与实现说明.md",
+      "source_commit_sha256": "5a278ce9d48666a6a09676b4c692e3fa835c1b5de9c96a5fc851bf64e22ebdd6",
+      "public_sha256": "75c73e73a62a96b76bd169d21652ff4ee68732d20ca35ec3de97e6c2b009840f",
+      "public_bytes": 4891
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/共同定义迁移范围核查.md",
+      "source_commit_sha256": "97f54ed8068bdfb8934aca3b9418e2791ba22292744a54096bbe3b6e2def3341",
+      "public_sha256": "fbf61a7219f65fad525b530934887d85389e10bf072e4a07bc2d84c9decd51f7",
+      "public_bytes": 15939
+    },
+    {
+      "file": "03-编码检验与版本/工作记录/编码修订核查-20261008/自动规则编码/实质评价与支持关系修复/修改与阻塞摘要02.md",
+      "source_commit_sha256": "680fce2d6c4384f03e96a2005d5cd2a1f37a5ecc83b3309e482b5183b4fa64f2",
+      "public_sha256": "ee4c65e450132961a7afd13e98827452ec44336d6ed34937cebc2974aa2e8abf",
+      "public_bytes": 1373
+    },
+    {
+      "file": "03-编码检验与版本/旧版4481与人工200条核查结果.json",
+      "source_commit_sha256": "df140e2ed66885bd608faca1186bff23689cfa74d7826022996a67c337e3c65c",
+      "public_sha256": "ad9951ff467be233e03c5f31ba3ea9b5e2794e7b38d7b68216f27cfe20c1c617",
+      "public_bytes": 17126
+    },
+    {
+      "file": "03-编码检验与版本/第六轮规则指标独立复算.json",
+      "source_commit_sha256": "6d54a6161a3f3779a1bcf7762e9c68e445e53cd54e67171d33a6064de9279eb2",
+      "public_sha256": "016067cb23e14eb73a5d9c88781b6a3dd698ae8915f0e598d30cf7faa4e5c909",
+      "public_bytes": 1665
+    },
+    {
+      "file": "04-图表与统计/原4481全量编码与指标/README.md",
+      "source_commit_sha256": "693afc63925fb443238f465873babd566f597872722029898314f8a1cf688387",
+      "public_sha256": "b5c6fdc23015a468dcacb4141314dc5d8e340089d0ef80d4f17182815cd71ecd",
+      "public_bytes": 2975
+    },
+    {
+      "file": "04-图表与统计/统计及稳健性完整结果.json",
+      "source_commit_sha256": "0969e59fe3dda68ad2370d5c7ce0cb3049dc5e6aeb5080226b3098148a4417b6",
+      "public_sha256": "c9244b1b739f8626179de9a6b45c57d40300380959067659e2cf93165ee08955",
+      "public_bytes": 1643041
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/01a0dbb7-blind-review/compare_historical.py",
+      "source_commit_sha256": "ede896397e8e22aa127bac4e0086a60a8bb1f1e293dba310151edd225d8fbf1a",
+      "public_sha256": "04e06c516a30fad312d01d14ffb02f9e0923418d2f776043796ad8c54019a706",
+      "public_bytes": 9921
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/01a0dbb7-blind-review/prepare_packets.py",
+      "source_commit_sha256": "af4eb0fce4b3e09b0bab3486b17da6f08dcf96d83a1a4599d499507bf8f2f90d",
+      "public_sha256": "59abebe4a14602472c0dcf3f52d54451a89b535d9c2dd11364218374f6d5c30f",
+      "public_bytes": 1576
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/01a0dbb7-blind-review/prepare_protocol.py",
+      "source_commit_sha256": "20b7bd9e7f453f9fce61a55aee9a7d05afbe85494037ab303b4515e7d148ff39",
+      "public_sha256": "8446a50a40f55b607e5e25b4e0c6cf1f063b4c04f2e94fa125ef202b1bb35f68",
+      "public_bytes": 6275
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ab-four-calibration-20261010/review.mjs",
+      "source_commit_sha256": "30b46faf634b08cde3f83c6ef14771e9623a776c3dd0dd5a200934094ec2a655",
+      "public_sha256": "f970a6f6a6f8e5e45e49faea707e969fc0274bcde487de14c48a7e58ce6822b6",
+      "public_bytes": 1297
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ab-four-calibration-20261010/save_verified.py",
+      "source_commit_sha256": "e36d7503da85a0dfc42d35d36414e5429c8c70a182f3a4f4d84054f350f5b886",
+      "public_sha256": "0cc0a7b5ce12a3122cd1a7fcf362f98e6ac723d2cbe8a08b70a28203f0984ae2",
+      "public_bytes": 3213
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ab-review-20261010/build_report.py",
+      "source_commit_sha256": "8cd70a56c2ff07dcd236c7135e7010257bc3ff6d1c0c8b6ccd2564819719e27f",
+      "public_sha256": "bf6be3369b56f1127204619d7a7b0046d54fb9c1b2c0a2ac5ed98425c3529a89",
+      "public_bytes": 11499
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ab-review-20261010/inspect.mjs",
+      "source_commit_sha256": "babe90fb7eb87de758742b45ff09b82c7ab5e95e58271860b0df541a620e141d",
+      "public_sha256": "85fe837d8e8ce5430d461ec05e2f382bd2da704995e8fd1ee5382c3f30f41d01",
+      "public_bytes": 799
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ab-review-20261010/semantic-first/extract.py",
+      "source_commit_sha256": "3e6b1641e22eac36b835449b2ef51314f9fc55f6dfbb7d3af63a187224969946",
+      "public_sha256": "1e08660e9e3974d8f93f6d238d9b404fe16a4c88573af76a3e4d5645e82d417e",
+      "public_bytes": 1640
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ab-review-20261010/semantic-first/finalize_review.py",
+      "source_commit_sha256": "427f8f9810ed0a4ce0f7ce0a1a417d9df1d6a3f2c0b6daa7b8513a8fd1094205",
+      "public_sha256": "6de58c2e4f8ab57cc0ff4bc38bd3280a48cd4ba3b7ad4b10ff500fbd48e1130a",
+      "public_bytes": 8769
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/build_human_training_guide_v8.py",
+      "source_commit_sha256": "31311b24e1c22b930d23ddce6ddd09a220f300d8c54b36312a9ab6e28a35f5e2",
+      "public_sha256": "48e3c552d3aed3969e87b7b275cf193fb660f5c7c8e8ec83a76b69e7ef2a0b94",
+      "public_bytes": 10667
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/complete_table_material_v4.py",
+      "source_commit_sha256": "95d22bf722a2501c7e0a3aa6acc62ac4125d0883c043f32d2cc118a4d41f3b5c",
+      "public_sha256": "48d515984f4949a324504362d1bbbae5d1d4499794f1976522aa955c0a4a99b8",
+      "public_bytes": 5112
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/material-adapter-v32.1/runtime/test_coverage_object_synonyms.py",
+      "source_commit_sha256": "d8a15b7660606d89b9d7b67b4c16f07532fbdd504e566693c6681861cd35243e",
+      "public_sha256": "f417ef3528d3281eb00ee38e3c78e357bad8fa98b91d19a51133f602ba2a2ccc",
+      "public_bytes": 3768
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/material-adapter-v32.1/runtime/test_v31_context_certificates.py",
+      "source_commit_sha256": "bc200ba2d76dad6d9a4381d3c4c69d07ae24edb4bb39a317b7ce84150f793b21",
+      "public_sha256": "966d246c065b8a838b1aaae002a1f885501ba30fc25e1229b90b50f101269646",
+      "public_bytes": 5222
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/material-adapter-v32.1/runtime/test_v31_recall_boundaries.py",
+      "source_commit_sha256": "8aecc0639c644db41c074d2ba8bf11d97bbf1bab240a41639531c9ad9f90b7e8",
+      "public_sha256": "ae90b36f4cbf21e2330509c01ee5cd26d4a60360db5381c4d717bbccb9a7279f",
+      "public_bytes": 5812
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/material-adapter-v32.1/runtime/test_v321_table_adapter.py",
+      "source_commit_sha256": "5f26df7156eaa6e859637c42ad489c5c794d4fa7ad180a732b8786b3e60b5e40",
+      "public_sha256": "18e7e3b02731ba6d8ebd06cee01a841a2a6066d02d378e788201e02e6f7e0315",
+      "public_bytes": 5791
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/runtime/test_coverage_object_synonyms.py",
+      "source_commit_sha256": "d8a15b7660606d89b9d7b67b4c16f07532fbdd504e566693c6681861cd35243e",
+      "public_sha256": "f417ef3528d3281eb00ee38e3c78e357bad8fa98b91d19a51133f602ba2a2ccc",
+      "public_bytes": 3768
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/runtime/test_v31_context_certificates.py",
+      "source_commit_sha256": "bc200ba2d76dad6d9a4381d3c4c69d07ae24edb4bb39a317b7ce84150f793b21",
+      "public_sha256": "966d246c065b8a838b1aaae002a1f885501ba30fc25e1229b90b50f101269646",
+      "public_bytes": 5222
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/rules-v32/runtime/test_v31_recall_boundaries.py",
+      "source_commit_sha256": "8aecc0639c644db41c074d2ba8bf11d97bbf1bab240a41639531c9ad9f90b7e8",
+      "public_sha256": "ae90b36f4cbf21e2330509c01ee5cd26d4a60360db5381c4d717bbccb9a7279f",
+      "public_bytes": 5812
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/agent-validation-20261007-r2/statistics/statistical_core.py",
+      "source_commit_sha256": "299adcbcca420710be3ff6ad2175828a9327017db79e73902bd631d80e28a097",
+      "public_sha256": "59ab2bd72f83aa90b8c3ee28a7b5c23f4584f5692d1eeb08b2bc196b704687a6",
+      "public_bytes": 11616
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ai-blind200-20261012/_build/human-review.mjs",
+      "source_commit_sha256": "8f8dd33bf0af7e4875fd109692ad3dd2a520940dc8ff29455aefc5d4c85511ef",
+      "public_sha256": "343bea4e6479d77cd5cb6a11eccba067b3198646ad4db818d9740672345b8eea",
+      "public_bytes": 14122
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ai-blind200-20261012/_build/preview-human-final.mjs",
+      "source_commit_sha256": "6b7433e37c3feef66615139bff5247134f6a660195d78321a0df9df8cc14af9f",
+      "public_sha256": "e8a0c828e90b17ff80715f471c2785aa1d9a592f85e839d765b263cdb1e450c8",
+      "public_bytes": 952
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ai-blind200-20261012/_build/workbooks.mjs",
+      "source_commit_sha256": "cd285ae0db52ebbe4faed88f0952265f361d5e0960bec5836613d4589c45eacb",
+      "public_sha256": "554900e5273f3895cf138c33c99cf6657d48a874fd9d9b41655517465465a893",
+      "public_bytes": 8865
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ai-blind200-20261012/协调核查/check_sealed_blind200.py",
+      "source_commit_sha256": "d8adafe3e3218694f708b3217e44867a1cee545ef91464a27c6810111895f34c",
+      "public_sha256": "f2346d2b51ed8a2c441d1c23fd48022d89abbc5e799baf496105b4187891bd7d",
+      "public_bytes": 33581
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/ai-blind200-20261012/评审A/record_io.py",
+      "source_commit_sha256": "d66b296457626bdb9da8c5f9ccd7ea5e4c9a31b2faf83518d04ab526cd7ee1f8",
+      "public_sha256": "0a20cd4660eedc1f4b42735de0ac0977b01dbaf21779c2bf62a744c5b4d40ab2",
+      "public_bytes": 2029
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/attention-share-audit-20261007/recalculate_attention_share.py",
+      "source_commit_sha256": "c692ee3f29f5800ccd7a84b30883ce923f4c9b98339f6126788b2da90c595de8",
+      "public_sha256": "c6a1ed0d60e1192119d609a6f387250071c18342332d163175474fa75f448bd6",
+      "public_bytes": 30194
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/build_existing_error_audit.py",
+      "source_commit_sha256": "dcd1a7020c546917cf78219c155677c5acf5d83c621c25b688651fea98c1019f",
+      "public_sha256": "19e7bd158d40b865852195a270d48018f0cb728c06f91009f19ffb17f00a89d9",
+      "public_bytes": 32712
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/build_historical_llm_check.py",
+      "source_commit_sha256": "74b7278d18f53afed17e74ca1d742daaac0b6e034bb7bbaedf2964bf1c136bca",
+      "public_sha256": "76d42a2153daef7810ffbb09a28df414aeb0439ca4984e2634f2c0de85bcd38f",
+      "public_bytes": 16535
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/integrate_incremental_exposure.py",
+      "source_commit_sha256": "ef4b790fb96f26b7e958c8ee8b7f79d1ae91607048cbf7b51ba79fc0f5cc8613",
+      "public_sha256": "5a6f900e76fb0959ce65e751e95eeeae62d8abf3df50a362ba557221c731c7be",
+      "public_bytes": 23818
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/llm_runs/gpt56-sol-v13-native-1/shard-01/write_completion.py",
+      "source_commit_sha256": "7e095f0dc9f169244de84cf035102bd8c74a2aa9a58d1085cd21a1aa4840b3ad",
+      "public_sha256": "0b564a3c03dc90048d64f38f2a6892383e6957c0cdb22ab59e786e92f72cb192",
+      "public_bytes": 1445
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/llm_runs/gpt56-sol-v13-native-1/shard-02/generate_completion.py",
+      "source_commit_sha256": "98eb3515c63316f85753e840a008fabc9364daf89103d07904215d024280d70e",
+      "public_sha256": "e2355d781850b2d63be8782355d34c9079ea0a1ba03cbe83f08ce4ee3c7b1cd5",
+      "public_bytes": 1265
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/llm_runs/gpt56-sol-v13-native-1/shard-04/finalize_completion.py",
+      "source_commit_sha256": "f4da90d7b09cf6aecd369c52f02fc2dd1b0c1ff60f9b51f71a5fdcbaed69684d",
+      "public_sha256": "bb86083e871f4ccff6ae8ff862e222b2b8218b5f820a815486d352c19d89b627",
+      "public_bytes": 1935
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/llm_runs/gpt56-sol-v13-native-1/shard-08/make_completion.py",
+      "source_commit_sha256": "7d4c796ce26427661c61298b1ddc9b67ec04ca35d99cdf2ae9fe0640e85d4cab",
+      "public_sha256": "f8286d51d6a700cade83ff024a0b25e8615fbc3a1f3016e76adff46bf07b31e5",
+      "public_bytes": 1988
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/llm_runs/gpt56-sol-v13-native-1/shard-10/make_completion.py",
+      "source_commit_sha256": "16ecd5a9e0bb12730fdd8fd5fe111f80a5fcc6d2d1bdd074e64135a9558b8c80",
+      "public_sha256": "23b3812fc327e1355fac3b9648aeb37f1d7683daa2d866e57736565f92b63aa6",
+      "public_bytes": 1930
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/manuscript_root_review/finalize_manuscripts.py",
+      "source_commit_sha256": "ea5437150f1e796e3c6e4f1145f8327be399a5d2b559b308c78063de74bab378",
+      "public_sha256": "14280209f9b00ac09aa2df03d1394df9f58539a05f8670b88ec049a776a8393d",
+      "public_bytes": 3351
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/package_rerun_delivery.py",
+      "source_commit_sha256": "b51e66c9b20623e3f28b842e2d29ca12a296a66164aa1bb3a63b2d2ae5ea3507",
+      "public_sha256": "9d5e05c76ce3af3c80b289088320d1870feee1418bb32e9190364bdceaed0785",
+      "public_bytes": 7327
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v25-20260927/register_historical_llm_exposure.py",
+      "source_commit_sha256": "97d679be9b320ce8f439e47a15a82521566ae4d0ebd5dd62f378855b963dbe98",
+      "public_sha256": "dfa4dda1208b6172b528e511eed381a1bbe76d79778d23462a9efe6a03213c52",
+      "public_bytes": 3782
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v27-20260930/audit_history_versions.py",
+      "source_commit_sha256": "13dccb20559f68e26c63cba7a9cc9d3965b67fd836154cb54e837149a0fcd693",
+      "public_sha256": "1aa3fb594dbdf06bb427f77c5cf4f574237bc21926d1119ee52e51192c8c9f5e",
+      "public_bytes": 3686
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v27-20260930/prepare_inputs.py",
+      "source_commit_sha256": "cf8bb65cd8ea1e2d4b2f45a76c81ee94759090b5ed5c375e3b9ebaf3a807d776",
+      "public_sha256": "6ba78da9cd9f3fe04a8f8b23908445972d678161f6d8bcd07008365f8373e889",
+      "public_bytes": 6836
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v27-final-20261004-1034/audit_history_versions.py",
+      "source_commit_sha256": "13dccb20559f68e26c63cba7a9cc9d3965b67fd836154cb54e837149a0fcd693",
+      "public_sha256": "1aa3fb594dbdf06bb427f77c5cf4f574237bc21926d1119ee52e51192c8c9f5e",
+      "public_bytes": 3686
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v27-final-20261004-1034/prepare_inputs.py",
+      "source_commit_sha256": "cf8bb65cd8ea1e2d4b2f45a76c81ee94759090b5ed5c375e3b9ebaf3a807d776",
+      "public_sha256": "6ba78da9cd9f3fe04a8f8b23908445972d678161f6d8bcd07008365f8373e889",
+      "public_bytes": 6836
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v28-review-20261004-111306/checkpoint_v28_1_before_name_only_fix/prepare_inputs_v27.py",
+      "source_commit_sha256": "cf8bb65cd8ea1e2d4b2f45a76c81ee94759090b5ed5c375e3b9ebaf3a807d776",
+      "public_sha256": "6ba78da9cd9f3fe04a8f8b23908445972d678161f6d8bcd07008365f8373e889",
+      "public_bytes": 6836
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/autocode-v28-review-20261004-111306/prepare_inputs_v27.py",
+      "source_commit_sha256": "cf8bb65cd8ea1e2d4b2f45a76c81ee94759090b5ed5c375e3b9ebaf3a807d776",
+      "public_sha256": "6ba78da9cd9f3fe04a8f8b23908445972d678161f6d8bcd07008365f8373e889",
+      "public_bytes": 6836
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/complete_shared_material_v10.py",
+      "source_commit_sha256": "07eb24c4a9ec9c1fdc5eb006d7f0297e3d3921be3b19f5254cb420f767046028",
+      "public_sha256": "8404f182365476a02fa2106994ffbab3ec2919dde4ec1a115e9e64c43b7b2c80",
+      "public_bytes": 8640
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/manuscript-update-20261008/build_reference_integration.py",
+      "source_commit_sha256": "61710bcb44d90df5bd9e9daa63445b5e30ba49af728cbe8a4721307a480db65a",
+      "public_sha256": "95b98713e726d4c740708b2dde5c360fd290124a5e4941d4f6ccbce08db8e65e",
+      "public_bytes": 9420
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/manuscript-update-20261008/integration-preflight/preflight_manuscript_integration.py",
+      "source_commit_sha256": "48ea7c3122d5d37db10e12af5501ae428a7a1264735cbe37c2abb5185ba13639",
+      "public_sha256": "11060bfc34d393cdd27849df0c0caff0875450e244bb3bd57e391377e2d151c1",
+      "public_bytes": 21202
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/manuscript-update-20261008/integration-preflight/preflight_manuscript_integration_v4.py",
+      "source_commit_sha256": "a90e24f9e0a489e0976faa850ea923e7264d0e1c1afd15f7e925e760d23d60fe",
+      "public_sha256": "6526282f3ee2a473f084e962d68b8be0b0633624612067119087fb14c0d9c805",
+      "public_bytes": 21205
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/manuscript-update-20261008/integration-preflight/preflight_manuscript_integration_v5.py",
+      "source_commit_sha256": "095b83366dfb3386f6d04644d64effe2e62b1097f0b052ba07b7fd863f6f1ffc",
+      "public_sha256": "34db06eba4c52fdc6b66ac994168584605d9fa465bfee8af2e0c10787c7b28b0",
+      "public_bytes": 21205
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/manuscript-update-20261008/integration-preflight/preflight_manuscript_integration_v6.py",
+      "source_commit_sha256": "f5f76b15c3324cade90c650aff34f359d4417b61f37f940425e8ce17cf8513e0",
+      "public_sha256": "195c78dbd3b31a1de0241df9a5b3164803614d8680a7dd516ef8c6d63dbbf9db",
+      "public_bytes": 21205
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/methods-20261008/residual-audit/build_residual_audit.py",
+      "source_commit_sha256": "755aaf356834c3ebf53d5d2f6a151723510c5217c02f00ea509293a326278a9d",
+      "public_sha256": "825fc2cf31d139bd6712a988aa242b8db77d17d88ddb25baf70d8b7ac6b97e71",
+      "public_bytes": 33900
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/methods-20261008/v36.1-development-diagnostic/readonly_point_audit.py",
+      "source_commit_sha256": "1d8f8a3a2fb0f330ed9fbd0fc062bf82e7253a6b29e75fa97d1a714494feca11",
+      "public_sha256": "aa81973aaebf7f44a627797551dbe91214733f7c0884fe3aead33762812d3838",
+      "public_bytes": 10329
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/methods-20261008/v36.2-development-diagnostic/readonly_point_audit.py",
+      "source_commit_sha256": "0d4139fe1a3c9d9859bb99a618e1fa3fd119d091663d60b3fc3641c2cb008ce2",
+      "public_sha256": "66e42a55586b26dfe824416399795186b030add824eba1ed1768add475751400",
+      "public_bytes": 10643
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/methods-20261008/v36.2-development-diagnostic/recheck_findings.py",
+      "source_commit_sha256": "f6b1f422338d2e8e920e392d49ff81ca754286c530d11f74347697f7f2f6146a",
+      "public_sha256": "ca8e09be9833e82cb7069fcca85f83115ec921d36804ec01c2ad259a3f30ea3e",
+      "public_bytes": 17452
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/methods-20261008/只读指标兼容性复算.py",
+      "source_commit_sha256": "65f0f577ffedab7c5a9fe34afc06416b0caf908795b07467fbd3df66878f81e9",
+      "public_sha256": "417d8d656db655217764a1d5ffaa488d131ce2aa5f18827452eaacffe2445949",
+      "public_bytes": 3888
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/methods-20261008/既有共现四格派生诊断.py",
+      "source_commit_sha256": "c562dcebf57ae2f60736a6a5fd1eb518cb1634435cb8060d998cc29ac0e79cc4",
+      "public_sha256": "76ea4bb7b8521503e29fb7e796e97cba4dbe49de9ab3207653c9ab03d5aee5c5",
+      "public_bytes": 12334
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/rules-v33/runtime/test_coverage_object_synonyms.py",
+      "source_commit_sha256": "d8a15b7660606d89b9d7b67b4c16f07532fbdd504e566693c6681861cd35243e",
+      "public_sha256": "f417ef3528d3281eb00ee38e3c78e357bad8fa98b91d19a51133f602ba2a2ccc",
+      "public_bytes": 3768
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/rules-v33/runtime/test_v31_context_certificates.py",
+      "source_commit_sha256": "bc200ba2d76dad6d9a4381d3c4c69d07ae24edb4bb39a317b7ce84150f793b21",
+      "public_sha256": "966d246c065b8a838b1aaae002a1f885501ba30fc25e1229b90b50f101269646",
+      "public_bytes": 5222
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/rules-v33/runtime/test_v31_recall_boundaries.py",
+      "source_commit_sha256": "8aecc0639c644db41c074d2ba8bf11d97bbf1bab240a41639531c9ad9f90b7e8",
+      "public_sha256": "ae90b36f4cbf21e2330509c01ee5cd26d4a60360db5381c4d717bbccb9a7279f",
+      "public_bytes": 5812
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/rules-v33/runtime/test_v321_table_adapter.py",
+      "source_commit_sha256": "5f26df7156eaa6e859637c42ad489c5c794d4fa7ad180a732b8786b3e60b5e40",
+      "public_sha256": "18e7e3b02731ba6d8ebd06cee01a841a2a6066d02d378e788201e02e6f7e0315",
+      "public_bytes": 5791
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/rules-v36.2-development/reproduce_v36_2.sh",
+      "source_commit_sha256": "901c4bbe31411ff2af27039d216300fd513f77b9ba00085791c90b58b886bc5e",
+      "public_sha256": "2d2f755fdac5b4741aec8ff1764298d0c91137ce05a34af89f0844a36216ce6f",
+      "public_bytes": 608
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261007-r3/statistics/statistical_core_r3.py",
+      "source_commit_sha256": "a7be8f2a158d4d4ec4c96665306a6c91ac295afeac1b34afbeb6fcbceb83c7da",
+      "public_sha256": "5a5272eb41e227a90ac39bf5226cd456bfa9fcbbe9c98207a34a44de253acd5c",
+      "public_bytes": 10782
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/build_old180_IF_independent_review.py",
+      "source_commit_sha256": "fec8a2698a6379b590f67dcc9e08a571e296f3756918731b219c2199070c5010",
+      "public_sha256": "96f28a9e5441e2a1784678625ebf3c877cc6e1a26cb5f2a3dd8a5cdd3e9f7484",
+      "public_bytes": 18130
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/build_root_rule_adoption_independent_review.py",
+      "source_commit_sha256": "f31715c302d1b07e7fbc7e122f287feac005e4574236797e7239cfabe577b426",
+      "public_sha256": "98abfa6828d3136c1054b9d5da089caf9e2a190f5cec6666b551c685278a44ef",
+      "public_bytes": 15814
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/human-results-received/recheck-20261008T0410Z/receipt_recheck.py",
+      "source_commit_sha256": "8a8dccf5d54486218726b660b57e2f0cd780ac117466407425866695097ec83d",
+      "public_sha256": "26ab76093d3b0c0388951070e81c93c148b1dd437d9e304298756bc939275316",
+      "public_bytes": 10908
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/independent-rule-v37.1-review/run_independent_controls.py",
+      "source_commit_sha256": "696f54aff66b752b8dcaafba23c3c09c7d3768dee31c24bd906cd8e812bced17",
+      "public_sha256": "2f0c6a46d28ab4e028c3c359a51b8b53590f585eba4af89443d4ba0fce5226fb",
+      "public_bytes": 8402
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/independent_delivery_review_attention_details.py",
+      "source_commit_sha256": "526e6bf51d27773ded91b34e5034f0b5ae1d07f97e172394a70ae6676ac18363",
+      "public_sha256": "4efeb56a2dfdb96dfe40a75330cbf51fbc994a529a7411fce3b963be141c4c10",
+      "public_bytes": 21670
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/journal-citation-style-audit/inspect_local_journal_samples.py",
+      "source_commit_sha256": "052ff00f140927306ee8e5e5236f2491cccaab629c8800db8379930dede7180e",
+      "public_sha256": "fedc8931bbc87be9faf311dfbd99b90d13d916ead3e5358923eb374d959aaebd",
+      "public_bytes": 1416
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate05-independent-preflight/finalize_preflight_v2.py",
+      "source_commit_sha256": "08c8b38accab0e7fea9e7fc59bcb373a47c91b4ef0617c32bf841d66caad2790",
+      "public_sha256": "6ea923106a6a8c7eaf426918d7ffe8e47a3d3068d195424fdf2c7c1a59a6f712",
+      "public_bytes": 11049
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate05-independent-preflight/independent_preflight.py",
+      "source_commit_sha256": "e4f9eb24cca99970d362f167371e59bda837f748eebdf58bddbe7911f0160de5",
+      "public_sha256": "3025ad8e6be520cdbc28c5b9b7a6598b2efcb88479da3faff503176fbde1e8ad",
+      "public_bytes": 24899
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate05-independent-preflight/recheck_runtime_v2.py",
+      "source_commit_sha256": "35478756e00ae53b3a844c4c2b1d5774a9186468b032bbbb75c3c9f437ce88b1",
+      "public_sha256": "8409cce2abf18f62087fee3cb42cd88c5fc63b1ba133611cd788ab9fe7333f1b",
+      "public_bytes": 10443
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate05-preparation/run_bounded_candidate05.py",
+      "source_commit_sha256": "5fcd64c79adda85396d5f4f08b3ff230d802f33ba10cecdc8aba65eeb48ea643",
+      "public_sha256": "2425052f6fc3463699eb4a383494cd324acf011b80054721621addd7926c4915",
+      "public_bytes": 3195
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate05-preparation/run_bounded_candidate05_v2.py",
+      "source_commit_sha256": "b49a793722c7345008ec78d43ecd0d347647352c17742831172a23b365897659",
+      "public_sha256": "ddfc3af58a7e990e01b0304dffdea5141d03db0c2d22775298039feae981c6fa",
+      "public_bytes": 3204
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate06-design/build_candidate06_design.py",
+      "source_commit_sha256": "dae6c22824e720e211a24f49054d69708516abd2598d05b0a916b9269ccff710",
+      "public_sha256": "805c5eddede2284ebde90195dbacbbff9f2d5b41e657a43d0d0442f84eee0278",
+      "public_bytes": 28499
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate06-design/revision-v2/build_candidate06_design.py",
+      "source_commit_sha256": "d2390143ebd3c1bc6df8076d28810cd560cfbb6e58f2e1eb62153ce25d4a5285",
+      "public_sha256": "f2fda77d8d2ccd06cff7b60d1d38862ae3b18f8a49471f39ea0e944c810f889e",
+      "public_bytes": 29665
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/llm-candidate06-design/revision-v2/run_bounded_candidate06_v2.py",
+      "source_commit_sha256": "bc989742fa50de352434f5209e87b69a6a1a8ceb9c71a3ca2b715c86cf270483",
+      "public_sha256": "e547d536878395d4413a983dff932e6567730ba3eb4ae5c428c260fd165bb990",
+      "public_bytes": 2706
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/reference-year-audit/audit_body_years.py",
+      "source_commit_sha256": "5bf5df2df1c4dc35113c4c4aae8d265887875c21f3c8ae3fc88a11d31a8005c8",
+      "public_sha256": "9504a1d451c8cfa932b89d33812f7d32b022574cae13a4d97432f32ae0f32436",
+      "public_bytes": 8108
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/reference-year-audit/audit_reference_years.py",
+      "source_commit_sha256": "70c66ba253578f8b717205b718d90913e5e0ac0eff48aa0ba488bebc3c204c9b",
+      "public_sha256": "2734884b65357daa7b5de66c319645b53bab32337dad7244a27be9e39aef29d8",
+      "public_bytes": 14586
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/rules-v37-development/independent_boundary_probes_v37.py",
+      "source_commit_sha256": "2d7e9cd903f0afa3faa861be2344ad1b30a58decbef8cdc9b039788bf90363c4",
+      "public_sha256": "8beffb477b2600df0cbd948800b43d891387b983e8b486f9ce7cce1a6b1c73d6",
+      "public_bytes": 4088
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/validation-state-audit/audit_validation_state_metadata.py",
+      "source_commit_sha256": "4a91b0ad5c3a58f66a703247966c03f0b865487469708f54d4c05c8979b59658",
+      "public_sha256": "21b67c619724b99cac9f36cfa11f44f5756cbe8163e76f831489b513aff04a20",
+      "public_bytes": 21588
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/validation-state-audit/reserved_context_redactor.py",
+      "source_commit_sha256": "64dad9725532096b9f46544edf87789fda04b1c9048f00d0e1eee240334edf73",
+      "public_sha256": "9e97fe84d6a13b4551b24b71e0bd6d11f4ff662b78701ab55e80d79ead17aa98",
+      "public_bytes": 5206
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-revision-20261008-r4/write_final_rule38_independent_review.py",
+      "source_commit_sha256": "3bfad3fab6b391525f8cd7082ca8fada2a766e6b9838ee4d98da3eca37fb2cd8",
+      "public_sha256": "beffb4668c958b02cb834ae63c0dd72898b376449447bd9bc852e52699a1d6a1",
+      "public_bytes": 8379
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-v26-20260930/context_repair/01_inventory.py",
+      "source_commit_sha256": "aa0fa88416a7381de483858f79e0b72892cf2f3b662ce5669dbe6400a6ad4266",
+      "public_sha256": "fa323c75ca9d0931f74a3ea415eef163dc9b7dddaa6b52be7ea47ee63027e779",
+      "public_bytes": 4281
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-v26-20260930/context_repair/02_source_repair.py",
+      "source_commit_sha256": "867ee53a071609fbd5f5a267dd9452a5b84ed3c78ea38dba11df379be1a3ae24",
+      "public_sha256": "6d44d39aac1b30fd89a1696c02f3001070416e74212dd13e597a420ebf518687",
+      "public_bytes": 11849
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-v26-20260930/context_repair/03_finalize_repair.py",
+      "source_commit_sha256": "777f4614941cad745c964639753e4dfc62e91c301097bd3907675c2af1b700e6",
+      "public_sha256": "ca1a79f81814ecee227cceab10a438badcdcfc0ffc6920f6299bc51f5dda1c91",
+      "public_bytes": 8035
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/coding-v26-20260930/context_repair/r2-official-reference-check/assemble_r2.py",
+      "source_commit_sha256": "df8f6ce4089d85ce3fb3c6cc81cec73d90c2b46e3f1f2cbffa869771e7cbb81a",
+      "public_sha256": "156dd81df79ed05ea85f89e633952fb61cf88270c4e6b3e882f80b6f13e49de1",
+      "public_bytes": 14814
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/final-three-department-20261007/build_policy_evidence_matrix.py",
+      "source_commit_sha256": "bfae55852f8b5a1466b53e711cf8830b90a55c3ac52d7e8e2d89504be24324c3",
+      "public_sha256": "1b73f1882e377486215157d00545d0bd538c1b1712238b4d437d79ee50dd7bee",
+      "public_bytes": 43188
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/final-three-department-20261007/llm-v29/build_material_completion_manifest.py",
+      "source_commit_sha256": "aed14fdb63e05fd7296a92b30af3a7e84a90d14111ea7d3e91f88df3be24765c",
+      "public_sha256": "40c1044b8a8c7c80d7b1697630be394f87e952dea6487e198a229f2f86492da4",
+      "public_bytes": 1796
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/final-three-department-20261007/review_prose_sources_61_63.py",
+      "source_commit_sha256": "b27ab9f439ed1334479ebc689558b7732581ad2a9664243b5b63fbcbd1a5f4d0",
+      "public_sha256": "00be35c3a4afbab6abc0647d84b1d95c0ca8cbf5a77c7b973026f62d7a91701d",
+      "public_bytes": 8525
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/final-three-department-20261008-human-validation-template/method-difference-audit/build_readonly_case_audit.py",
+      "source_commit_sha256": "9b20fe68c0ebc23766e70d354ba8db1349207525b28e5436806c543b8c6708d2",
+      "public_sha256": "1ae0e5a916ddf5f84a699a5f993ff3aa1d2d261d6d32b7ad56032336e670b042",
+      "public_bytes": 10168
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/final-three-department-20261008-human-validation-template/policy-source-audit/review_actual_filled_content_v6.py",
+      "source_commit_sha256": "4f44e6fbdef3586e13256ec3bce57b2c1f5c1c9da3d18a79691846923504f33a",
+      "public_sha256": "31cf2feaa8c6601d76e363c42e772a8920c0c03e92f3c6642576da3f614c7e34",
+      "public_bytes": 8997
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/01-review/annual-metadata-integrated-sol/build_metadata.py",
+      "source_commit_sha256": "8b8d67c72e8842cca57039493a46aa52553cfb54aea5986402d952d7c210f25d",
+      "public_sha256": "b7674e2a2e2b2144f11c5bd0d7b43a0837f18f13f1d011ed8ca0cdc00b7800d0",
+      "public_bytes": 37036
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/01-review/source-graph-table-sol/build_review.py",
+      "source_commit_sha256": "94834087e7ef6078e7125a9add77c5a2b4652c2ee0805d303d96ea9d137e7f43",
+      "public_sha256": "bbf2dba69889e62019f3c4d496fe4c37148725a25f24330660ef9c3495bfb1c1",
+      "public_bytes": 56172
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/01-review/source-slide-example-sol/build_source_only.py",
+      "source_commit_sha256": "34176aac6c9ec85e404a26fa7c1b52aea88684bd9e1b69556bda79c1117bf14c",
+      "public_sha256": "868e36002cfee9e6dce6ee71ce9bc01e37439eebc2a63456d28f0a05fc99b3d1",
+      "public_bytes": 21838
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/02-methods/human-small-sample-prospective-allocation-root/prepare_allocation.py",
+      "source_commit_sha256": "7b01afa5abe794e96fb8251d70af68d01e6c38b7e1cbafa817b9fcb7574e5706",
+      "public_sha256": "4f72d895ebbc11f0f5d7509f58237042621f8afd33c3e66ee19f189a2ae8f95a",
+      "public_bytes": 7545
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-capacity13-transport-sol/capacity13_common.py",
+      "source_commit_sha256": "f294870a2d35a9cf0145d175023b0c3ec698d94801109a3a1a6894e9c26c8ce0",
+      "public_sha256": "92db21804e1d672fae69158fa2624c2264aac6874797ba567d69282299fb1a33",
+      "public_bytes": 7318
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/development-rule-sol/coverage36/renewal2-v04-interface01/tests_runner_interface.py",
+      "source_commit_sha256": "6105d44026c769098fee2eae7ff350a6d25ba8871450ebb4cd4df2fca1a092f7",
+      "public_sha256": "85fff353ca66e0812968f74cddce6f847bfcc501259daf47fe9c1ab52cb86970",
+      "public_bytes": 3472
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0234/attempt-0001/failed-save.py",
+      "source_commit_sha256": "e5b3e34524bc7af3fb9c4c585dbb28529901cd810e883007524bdd7a08b61b2e",
+      "public_sha256": "f1f1bf1b54103ee8048a0c456bc8d14d0aad7580f7468d4dadcae212ba8057db",
+      "public_bytes": 16509
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/attempts/01a122e6-4e2a-78f1-bbab-6a93f039effc/serialize.py",
+      "source_commit_sha256": "8b5cb8af2e04f346e11a285fa3c62b28f7281128a53c4c9e4470c4a0f5f7dbc7",
+      "public_sha256": "276304e5d31ed997fb01ed1a5f59f91af86bffd7898a7d8fb54c4e491c1616b3",
+      "public_bytes": 4745
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/attempts/01a122e6-c7a5-7bc2-8bb0-b163abe7ebf3/save_record.py",
+      "source_commit_sha256": "a109ab682896c82c708ab474aec87a1ea458bf1aaa60051c62f6db353edad716",
+      "public_sha256": "d47f50c4146e1dc40c8fa2471c3f4def63ecdb112738f6bc084eda858e2dac84",
+      "public_bytes": 4793
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/attempts/01a122e6-ffe5-7270-8a8b-17e9c4341aae/events/generation-helper.py",
+      "source_commit_sha256": "22c1a588165938b292de31f6efeda84c043e6d949f4c6d1d9919fc7f78ed1076",
+      "public_sha256": "6d95a92dc82e9bc60b07ff3529fae1966d4bb84f94f1a0481c06984bfa0cf999",
+      "public_bytes": 4389
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/attempts/01a122ee-c249-7be0-b975-539f78f8cee4/commit-item-with-refs.py",
+      "source_commit_sha256": "c68a0b0b907b54e5814285bffacc829e0cffe974f2e6c40ef6f4187083bbc34c",
+      "public_sha256": "a9975b83bc508c8208aff877ab40dbd666ee73f3c4279cc8b8153e00c2468c84",
+      "public_bytes": 5937
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/attempts/01a122ee-c249-7be0-b975-539f78f8cee4/commit-item.py",
+      "source_commit_sha256": "0554625d9c5e82b15aa8f0166dd1b9e73a7de4215273ec5395bfcbe6c4c9e55e",
+      "public_sha256": "ea12115686e8d519f02ac1e7139139d27964138bf64a42f4259c1f460a2d7f80",
+      "public_bytes": 5241
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/attempts/01a122fa-c09a-79e0-b706-435b39338e70/attempt_tools.py",
+      "source_commit_sha256": "200d8e60fc95dcc0918b59a5aa807f156933e5750d3ddc5cd0fef8f9a4ee0810",
+      "public_sha256": "0dfd6e865881783d113d63b35596e255d53b861031f1d81d2f56f5a69474af60",
+      "public_bytes": 6580
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/bootstrap-scheduling-v1/failed-startup-evidence/01a122ee-8849-72d1-8507-8b258de08f91/read_instruction.py",
+      "source_commit_sha256": "06d2e8832759f79644c11b73135e8ee2cd39d9fc266cadb6b8d0782ddabdc712",
+      "public_sha256": "f76a4b9e6aa4c768568642d6b9bc0a0ca42c8762d72929f45658b7345205df2d",
+      "public_bytes": 1325
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v14-sol/attempts/01a12346-228e-75b0-b604-d2481e053903/read_control.py",
+      "source_commit_sha256": "e0be8f11d40d090eb913ba1b7fe18541018140aedd073a2e2a76dd8318d1a8d0",
+      "public_sha256": "5648e487dec614383b50b2c252657510cc45c8ab3192c924bc99c70668fd1daf",
+      "public_bytes": 1816
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v14-sol/attempts/01a12346-228e-75b0-b604-d2481e053903/read_queue.py",
+      "source_commit_sha256": "99c0189606271b389c06be1fdf6237b72abf7967e15856881d226601c591c81f",
+      "public_sha256": "3ceef70170814ce94926aca907445595dcb0f95dcb682ea1569192be3ed24490",
+      "public_bytes": 2410
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v14-sol/attempts/01a12346-228e-75b0-b604-d2481e053903/view_read.py",
+      "source_commit_sha256": "9c74bd5c8d9446ae1127066d9f796e38c799a0ca1f6770887514483294ba9acd",
+      "public_sha256": "fcea2a97d534bd61e25ba1b96e487c1fd8569168ca9fe98346d780361c5dc968",
+      "public_bytes": 960
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v14-sol/attempts/01a12346-2ac9-7e23-82d9-6096f59f75a9/check-first-candidate.py",
+      "source_commit_sha256": "6f2071908d6e7d6fe7ecafb67c7f1272da66a70fcd354e4952c2a6a7010bb6ef",
+      "public_sha256": "4fee029c89ea9052381068ce2cab75607d45bb1bb4206795dd8a37212bfc820e",
+      "public_bytes": 6042
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/native-llm77-v14-sol/attempts/01a12346-35ae-7dc3-b35b-9aa331ea0ff6/step.py",
+      "source_commit_sha256": "4f7bbb91b214a807c87b2fac3106a86889ae762cbad83e7edbaace0709d0fb65",
+      "public_sha256": "d167bdfc25ebf5898abd9b058b691a701ae63b5213deea3ac42232021b4ba374",
+      "public_bytes": 2130
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/prepare-capacity13-root.py",
+      "source_commit_sha256": "6d078288377dd5bf4de24a32bcb06e7a4736649bfd19a138e90ea6394652ac56",
+      "public_sha256": "c1f413f09b19bb9bd6fb50566299bfc1b7140df3e8fb6da0b62974ba154608d8",
+      "public_bytes": 4352
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/root-machine-review/native38-v13-short-development-diagnostic-sol/diagnostic.py",
+      "source_commit_sha256": "a0dc047b3a8cdc2f1f327e95d4c593e43c4a8007c1859772ad66feb2a5e07995",
+      "public_sha256": "896baad55299b0ecc2ebc8c63ae9f27ee1bf5d8bf4aa95f01eaf08f1a0af7743",
+      "public_bytes": 12262
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/root-machine-review/rule-v06-v07-source-quality-sol/mechanical_review.py",
+      "source_commit_sha256": "4d42fce7426ca3373d79d7e8915e342ce275e521cb0475c5d0b1a321f9337932",
+      "public_sha256": "b991ade612f7ed10d975f723ac43de6d34216c201601cad1905e3a7db74cac1d",
+      "public_bytes": 25479
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/root-machine-review/rule-v14-composite77-development-sol/build_composite.py",
+      "source_commit_sha256": "082d72fc8392e300faf3659cfb56050e3115d40bec49e844b4b920ec75716cce",
+      "public_sha256": "d3bae2d2418893968e19ee3d7bf36a8accaff1f2b3e239de1a8382e95bd1393e",
+      "public_bytes": 17744
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v4-structure-normalization-sol/finalize_delivery.py",
+      "source_commit_sha256": "d60b2236095a3f596ed20c624a9aaa25c69319d26ccd3b393a556adca36eb0ca",
+      "public_sha256": "3ba20e82c8a61911ae8d11434c137413e0a071f3611c3e135e62eb01fc3437f2",
+      "public_bytes": 24257
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v4-structure-normalization-sol/freeze_algorithm.py",
+      "source_commit_sha256": "93033335ba286317ce823e2e0bf9c0eb07b5861909739421df9e30782d181403",
+      "public_sha256": "fe251391e30f39c39ecae778983c180d62a8ced72cc2e598f7902cf6c7caffc2",
+      "public_bytes": 4988
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v5-primary-standard-bridge-sol/fix_controls6.py",
+      "source_commit_sha256": "1a466b6aac138a781e6f9f723c25361a303a2808b920978c1813ca6619082cdd",
+      "public_sha256": "f79a299d7f3eed4317aa4f64744354ab5476af462510d4dac43031251acac486",
+      "public_bytes": 7532
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-full4481-final-v5-sol/prepare-entry.py",
+      "source_commit_sha256": "6d9082e3547ea70dc8875099ad68c8b1257cf17b4351587acda10d6116e3caee",
+      "public_sha256": "5b8f33ef633ef444adf7f020c31612e5ee3fc9bc19f0dc1f7de60027014520b6",
+      "public_bytes": 10966
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-v19-v15-development77-first-sol/versions/v4/independent-output-audit/audit.py",
+      "source_commit_sha256": "ccdfc8048ef3c1243054d4f1aec3f923bb959ea4e2b4fd3c717322e1d0209fd0",
+      "public_sha256": "2463b9c8082990039df6bf98b873bddb1b23867c997195cbdec3601c831693c2",
+      "public_bytes": 45139
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-v19-v15-development77-first-sol/versions/v4/independent-output-audit/initial-probe/audit.py",
+      "source_commit_sha256": "6faaab2e6e857ef353015fbf1f1073c8010c8d5dcec4eb83729609ace58ab756",
+      "public_sha256": "516f16803cdf380d5c5f5593abf471f6c673a0d40da3a92942ddb52afaa35b86",
+      "public_bytes": 35406
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/06-coding/rule-v20-semantic-audit-repair-sol/versions/v3/prepare-v3-scope-attempt-001.py",
+      "source_commit_sha256": "ce4c09e70e1a8ab4156c14e22d012f0706997e0165bcf6cc191d86aaad77b55e",
+      "public_sha256": "bd18e734f14ba9a017450828e819235dd5ee871c5a352a671d0ab6ae2e4c43a9",
+      "public_bytes": 8108
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/07-statistics/agent-blind-tables-current-recompute-sol/preparation-failed-script.py",
+      "source_commit_sha256": "d749bc7ca0050b5da12bc79a037825a8ac0ebca86bb0cd1b8e1253062330c48b",
+      "public_sha256": "d6c55fbe51eaa3d285f09dc0e6c73ab227bab9642dec0fecc8debc47431a5296",
+      "public_bytes": 25976
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/07-statistics/agent-blind-tables-current-recompute-sol/recompute.py",
+      "source_commit_sha256": "13022c45cf279c0a3e1b67fcbfbd83672a50189d76a0e99644d408fd91ec1080",
+      "public_sha256": "dd1ccc3c05fec2df16ea09446f5e20cda4b9faa21dd176c8123f6a91b84bc635",
+      "public_bytes": 26364
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/07-statistics/agent-modified-table-reference-recompute-sol/recompute-addendum.py",
+      "source_commit_sha256": "952775fcf1903760972ab9f2f1239041c5bd35788129fb1bbb49e109e2da04cb",
+      "public_sha256": "d5291f392da395ea51d20211e662dd601d142c089f38a5fdc8783849a4b18dd9",
+      "public_bytes": 9755
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/07-statistics/human4-metrics-independent-audit-sol/independent_audit.py",
+      "source_commit_sha256": "8effdfaba6eaabfcf31a34829be7c17e37939e415e5548c19fc487d47c23f5d9",
+      "public_sha256": "2d296454854f4427c8db3a70badf8ef222d640e061b7d57e31b092d8e1fe7cb3",
+      "public_bytes": 34321
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/ai800-disagreement-semantic-root/economic87-sol/build_review.py",
+      "source_commit_sha256": "f7fd4a5eb446114cc1d6e3a770213e40ffb7e69ecc31a72bcdfceb8da943b6ea",
+      "public_sha256": "4b55602f4375fe1349ff5758b000be01b765bf9c9f5f5ac2e2cd96f915bc62bb",
+      "public_bytes": 44050
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/ai800-disagreement-semantic-root/innovation-first22-sol/build_review.py",
+      "source_commit_sha256": "63a077416c761159988f9be618d9ebabe8970788df0c50869fa8a18b957aeba7",
+      "public_sha256": "6c5200a634841799d5a3102d2fe26dced64c934c311266a5ea77ca3e96e4a98a",
+      "public_bytes": 23307
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/ai800-disagreement-semantic-root/prepare_descriptive_audit.py",
+      "source_commit_sha256": "222a1eccad38f39e9d1248510b9bfec9496e3f7a9334d8b02c255268e36d8086",
+      "public_sha256": "1f25a0badd7d149f8b3a325d21bc6f4e5ee2b180e194a6adf8d12c28243263e6",
+      "public_bytes": 4135
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/ai800-disagreement-semantic-root/receive-complete-semantic-audits-root.py",
+      "source_commit_sha256": "fa7172da701b6e28e70c75b0973d73c5d0b393e6e98c395b74f497cdb748cbfd",
+      "public_sha256": "12232d28f19c5823611c4a859cb51848454a6df04f3c44f111d31ae4e76d1413",
+      "public_bytes": 16631
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/ai800-disagreement-semantic-root/safety89-sol/build_review.py",
+      "source_commit_sha256": "367933fec96677b0a7948c7ff7a65f288316e638ea4b0ae5f41dc442356de451",
+      "public_sha256": "ff422ef47455d6fda3420927479fbda90e6cf0dff9909b44190188923aa67081",
+      "public_bytes": 48894
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-candidate-actual-interface-sol/failures/inspect_interface-first.py",
+      "source_commit_sha256": "a3d303587e0bd0a458f8f08731e52d0344d3abeb0baa629cf08195fe75d28e65",
+      "public_sha256": "7ee5f52f69d4653e285a7973a1878f8144381ff4cc06c21e03a52704957a6c8f",
+      "public_bytes": 14312
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-candidate-actual-interface-sol/historical-human-S3-development-plan/prepare_plan.py",
+      "source_commit_sha256": "348d48da4e78e63dd7c19f4418d2e1759b1864540f6b0762ee4b60410a6b0fd5",
+      "public_sha256": "bc30c7b694f5596a67a8841839c2dc10e86918f3ebc9a138be5f4e0bc4b60905",
+      "public_bytes": 9882
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-candidate-actual-interface-sol/inspect_interface.py",
+      "source_commit_sha256": "5448e940f41f9e5f3d1c5c87a2e8240ae39132094903b070c1429708475fe634",
+      "public_sha256": "1bda758e00b8209f2f711b9a069b7ef327dabf77018ce35560930347a7af041d",
+      "public_bytes": 14297
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-candidate-actual-interface-v4-execution-sol/execute_once.py",
+      "source_commit_sha256": "5a04df831532dd2ed48d081acf80ca60f6dbae1f297febd8dd4128cf9b76f85a",
+      "public_sha256": "35b0b2e870465fe1c834b14c9305bdaced8f4c39bf5f5b681e6f971e5aa95821",
+      "public_bytes": 10472
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-candidate-actual-interface-v5-execution-sol/execute_once.py",
+      "source_commit_sha256": "425ea2c8fea88d7514b424c29661d76a3d1e1fa572a27ee37e003b9fa5dc80e9",
+      "public_sha256": "faa7f6b884b108b58dd036be3cb94760c192c421a528b982b8fbe91e6c78db5b",
+      "public_bytes": 11548
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-candidate-actual-interface-v5-execution-sol/preflight01-failed-capture/execute_once.original.py",
+      "source_commit_sha256": "25df86bbcb5c6750f3b2e8b3a64aec40f2b884eeb7392d146d3c78c2e6ef7e17",
+      "public_sha256": "1b4356aa36001381725953b6a6fcfbe92c51bb9223fa9d961696c52f439c45c0",
+      "public_bytes": 11549
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-material-input-reuse-plan-independent-sol/compare_inputs.py",
+      "source_commit_sha256": "5551e8f47e3b1111a2dbb8a8f9e2af4d8353f822d52a7602f1e4288aff77ba16",
+      "public_sha256": "e451efb9a330fb9f44e51c57b4ff06200c5f15db81ad9b0c6eeb8170fb1936b6",
+      "public_bytes": 10748
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/common-material-input-reuse-plan-independent-sol/finalize_report.py",
+      "source_commit_sha256": "c2610f568dfbff4ea87df9d5b1e94619557243a890499ec47d19dd54dfc54dbe",
+      "public_sha256": "4acb6d56e8eb651032df013955b55720cee730bf822d9b793f0844766bab9a30",
+      "public_bytes": 10193
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/current-freeze-stability-readiness-20261012-sol/write_two_design_options.py",
+      "source_commit_sha256": "5d7eb9984f46a168ca1a120b451050020ecbf460e845c9887dda22f2073d88ad",
+      "public_sha256": "26dfe9d16192b7df7a3a0bf1cdac4b5d61ac16ed394f7fb0c4f12895af177f0b",
+      "public_bytes": 20311
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/current-machine-rare-disagreement-semantic-20261011-sol/semantic-second-check/audit-preparation-attempt01.py",
+      "source_commit_sha256": "eb1fab7e9f20a9272b873bc8d711c140ef8f9dfe13efea9b802c57b0fed8e51a",
+      "public_sha256": "2db537b199828be124ffdfbe95ec0f76bd799432d1a54a1049ed9b0a62501aed",
+      "public_bytes": 26007
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/current-machine-rare-disagreement-semantic-20261011-sol/semantic-second-check/audit-semantic-second-check.py",
+      "source_commit_sha256": "587336da54dd022019484c6680c807c11c77144ee431b316241ebf42d0e9a9d9",
+      "public_sha256": "50ea3602323575bd825c96b90bd472ab4f7998682fa210b48af1a037cb2fedfc",
+      "public_bytes": 26461
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/finite-closure-v5-independent4-sol/execution-v5-first/execute_once.py",
+      "source_commit_sha256": "e7b40c1db0e4fc0c28c0e011c024b20221ef084b6398bc731c3a5c0212d31a2e",
+      "public_sha256": "eaa98ca4226b95fba525cb2fc31212e980a352ea243633a21c5dc44bee02a9b7",
+      "public_bytes": 10757
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/finite-closure-v5-independent4-sol/prepare_controls.py",
+      "source_commit_sha256": "5a8dd998d561f317b47cd5b23af40e642f95a372cebf3646bf0524f1c4c9ef71",
+      "public_sha256": "c40a8f594cbb12dc44202003df1f50c892f030983e9ca1ad649ed9afda87c85e",
+      "public_bytes": 11495
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/joint-v4-independent-sol/execution-joint-v4-structure-normalization-sol/finalize_audit.py",
+      "source_commit_sha256": "0a3d49e27d539d08b6e894faa388e846bf2f9523e9a4b7b5ee3e7359d2dd6b66",
+      "public_sha256": "7e20a0aa02b9b476e1e2df78b30aaa65eb4115fb6869f1499cc2490f517459bd",
+      "public_bytes": 17816
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/joint-v4-independent-sol/execution-joint-v4-structure-normalization-sol/run_once.py",
+      "source_commit_sha256": "a19048a64b7b4c03ed77a451fe12a34b7693c7e2079c3a75080462630d488217",
+      "public_sha256": "070549d741141dd75dc1d57ca13bffef30301ad0beab59c5b2bd487405d8f295",
+      "public_bytes": 19859
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/source-request-status-bridge-reception-sol/receive_bindings_only.py",
+      "source_commit_sha256": "947a9bda5985c6b9ec7187ef5bd85a71d0688024248eaf3b3cd4e64059c04c28",
+      "public_sha256": "1d6f42723da7d0f89f376e9b3bfaddce15704555c51e567d867846f1f2a85d1d",
+      "public_bytes": 5983
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/v5-historical-S3-ledger-interface-sol/first-inspection-attempt/inspect_saved_only.py",
+      "source_commit_sha256": "879f5cb49f5ca41c450e4e6d56244903d44303cd17a7013d171b35402b722ab9",
+      "public_sha256": "262442e0d8c7ed6bafd167d34a92a052f2a11652e1a7ffa964ca0d3c5118a360",
+      "public_bytes": 13648
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/v5-historical-S3-ledger-interface-sol/inspect_saved_only.py",
+      "source_commit_sha256": "befc2744e2c9e5b67f47b06e58ad0fd4d23eed1970f80b21325a9a2547061c94",
+      "public_sha256": "1366ac135007a6631deedd05dc9f090cc20ccce75a8a94aefdac093ce84d5646",
+      "public_bytes": 13790
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/v9-repair-adoption-independent-20261012-sol/baseline-compatibility-phase02/audit-preparation-attempt01.py",
+      "source_commit_sha256": "e1a85f53d54e97b4371189714df3a63114ee32cb3e05b6070bd50f30fe04a1cf",
+      "public_sha256": "366b29545f1ef520e5cf6c7e64148a189174f864d299bf1364f25643f9c16f2c",
+      "public_bytes": 8873
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/v9-repair-adoption-independent-20261012-sol/baseline-compatibility-phase02/audit.py",
+      "source_commit_sha256": "a18164a2f74c9d9fe87cc94b8e8cb8606368a86bea86c2e543c16bffec92c5cb",
+      "public_sha256": "b79997967aaa5b3f865365cc51a4f34df1e9f9caa4c42410728ea0be0af0edce",
+      "public_bytes": 9114
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/v9-repair-adoption-independent-20261012-sol/semantic-and-design-phase01/audit-preparation-attempt01.py",
+      "source_commit_sha256": "a82d7c1e90527c576f332f12f2ec4f2a38ae16222585be8603523b641b9113e6",
+      "public_sha256": "4b8a67c4111bf953b7896c56c8531fb79f2c488909e9cebd9e8f872a18e74f71",
+      "public_bytes": 14995
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-audits/v9-repair-adoption-independent-20261012-sol/semantic-and-design-phase01/audit.py",
+      "source_commit_sha256": "a9abda10cf1df19842bbb9cde862b8f3618fc3220e1e26eae7cad34daabad320",
+      "public_sha256": "b29f866f5087649fbe6ed803f8f7ddbd07ba1be08eb49ae3a52ef6746462fad7",
+      "public_bytes": 15764
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-manuscript/original-continuation/apply_local_format_edits.py",
+      "source_commit_sha256": "e29d32eebf3df4244254961b195531a140642a89567af257475979f2c3f5c7ad",
+      "public_sha256": "1f3637e6a6e5df2a80b2d81dfb97a17afb4202780bdd99822abd25d7ee18ae1d",
+      "public_bytes": 12264
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-manuscript/submission-20261013/_work/build_submission.py",
+      "source_commit_sha256": "343e52c51fa6d835547f77ca61f6b6146c8c279771b2876fddb04f065241d4b7",
+      "public_sha256": "1e2a8583bf3fab9e0c15f6eb829e5265ede621247835d249c7fb4c4fe7d4df59",
+      "public_bytes": 16084
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/08-manuscript/submission-20261013/_work/extract_author_sources.py",
+      "source_commit_sha256": "e9d813f673d05d98a05916113ff883bcdcf82c7aeff5868bbc498d2fae0007c5",
+      "public_sha256": "26f0a334e9fffe70c419b2173c369e42d1fa6ceee32fd7bd33d7cbf502843801",
+      "public_bytes": 6186
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/build-ai-workbooks.mjs",
+      "source_commit_sha256": "8644f0f6b1f6dbbe65e947ac2360993a599db7970c38f8926d05ebcc78bbfa3d",
+      "public_sha256": "2cbedbba5a693fbd0ab569fe88abc971d37fe5228e8aa9b772795a9b94eee336",
+      "public_bytes": 15062
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/_build/prepare_materials.py",
+      "source_commit_sha256": "c5785929bd6e5b5771f7839e4daf97b79f82e5e0befff83e985909b5ac305d62",
+      "public_sha256": "04dcc23723db297233bf349b58f054556d6815c6d862ba1951d64af66bad6b77",
+      "public_bytes": 13019
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/build_workbook.mjs",
+      "source_commit_sha256": "a533a2e7d9aaee5415829be882a87fe1cd310f0b14165c4d8b7184d70517267d",
+      "public_sha256": "9b761cf275f73e39e79cf3421371a7dff9305229576cf8e3d011494a9abf06be",
+      "public_bytes": 13157
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/extract_inputs.py",
+      "source_commit_sha256": "b39cd9ffba2385519f3114b379a3d32824825f478ee285e67e4c2b624fa5883c",
+      "public_sha256": "45018a2b63bbd5a6b38e5e2bc8a48fd1285f412653cb11a8e34ccfab9b3732e1",
+      "public_bytes": 7348
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/verify_and_seal.py",
+      "source_commit_sha256": "3c2b93ee5d349ea6c52d114e42894cbe9d6dc7688d075d7fed9f2cac70471f81",
+      "public_sha256": "475b6cf46d8c9b842e8baf96680e9fa9348130e65b709df298098736d95e6ef5",
+      "public_bytes": 9003
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/versions/v2/build_workbook.mjs",
+      "source_commit_sha256": "b47b049e5b16665f44afc503d272a70b907764856eabd484c4b6da7d0facc775",
+      "public_sha256": "ee847b5c59c40e730a1dc53fba21413470ae57c5238652b4ed0aa39957474f33",
+      "public_bytes": 12991
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/versions/v3/build_workbook.mjs",
+      "source_commit_sha256": "702acd4e68f8ce91df5bb474b757e7ad60edabb317fa958a5b76bd8e981bbe45",
+      "public_sha256": "e6b8c2d70762e3f5ae5d736922c12e01b07b885b6017a5f8f2eccabe38fe682b",
+      "public_bytes": 13131
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol/versions/v4/build_workbook.mjs",
+      "source_commit_sha256": "a533a2e7d9aaee5415829be882a87fe1cd310f0b14165c4d8b7184d70517267d",
+      "public_sha256": "9b761cf275f73e39e79cf3421371a7dff9305229576cf8e3d011494a9abf06be",
+      "public_bytes": 13157
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/prepare-targeted35-root.py",
+      "source_commit_sha256": "e6537167b3de30ac63001e6bc41225ec2fb8a7d7f8cba180baa662799529c51a",
+      "public_sha256": "5fecf8a32d3991aefb2ff77f64ae91807e874404b510341aa8d0224b05561ce2",
+      "public_bytes": 5847
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/targeted-calibration35-root/build.mjs",
+      "source_commit_sha256": "b1c28455f0bbfe38f8401f6db03ba5380523167aed4b7718bb2f255ab0e9efc7",
+      "public_sha256": "9c5a7c6645025eacb0821ce763faebbc4efcd348207ceb1ae45c0f8b3e4a53a4",
+      "public_bytes": 3819
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/格式校正版-方法待定/_work/build_format_copy.py",
+      "source_commit_sha256": "ec28ab4474369972acc6119cfdbac6d7940d22893b5190dc8596cc5208f56bae",
+      "public_sha256": "4ca86d32846c07c209968eeb6689a3546cbdbb584988e2879b363db9db638842",
+      "public_bytes": 7891
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/新一轮人工检验-20261015/管理员留存-勿发编码者/audit_source_counts.py",
+      "source_commit_sha256": "5f9b4533a33b8e6f4ee3981fa88fa30a20121607f469b34f0164b24cfc7a00e2",
+      "public_sha256": "d13a9da9b8230ccf15369b4f9542bf2a49cba27d1f448b9f646d8519c56626ab",
+      "public_bytes": 4751
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/09-delivery/真人核验确认-200条-20261013/_support/fill-human-results.mjs",
+      "source_commit_sha256": "877e899b1f116f0e27b3e2bc78336ad7cb26bd162dc7df6d69520c8c12343036",
+      "public_sha256": "075d7d0ad24cc030b8b49957c083946153ae953c479db39dbbd9a6206cbbcc67",
+      "public_bytes": 28672
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/actual-first-run-supervisor.py",
+      "source_commit_sha256": "96320dec01b49caefad7543310beded60701e2778f104e42a05e0e1ca11d07d7",
+      "public_sha256": "8acc819e31ba23a4b94ef382c729489f3e6b3e24a028a6308cb4e9cdebf9b072",
+      "public_bytes": 2308
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v13/actual-first-run-supervisor.py",
+      "source_commit_sha256": "395e12b58f79870bb0f9280cdb6348b624cae49ee53e25f03866845862fa7461",
+      "public_sha256": "39baec65691ce3e3c6247f5e32c683bc3eaeaecbafa76c1c2f9040316f2b2017",
+      "public_bytes": 2309
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/10-closure-20261012/stability-pointer-bounds-compatibility/dependency-rebinding-preparation/supervisor.py",
+      "source_commit_sha256": "ddf7542a0d81c750da0e1b054e8f420ea9e54eae150a2b3f2be9b1f3deea07e0",
+      "public_sha256": "70f26ced86ab34542a55980fcb02adeaa91c88bd0745dd79ac842ed997a2c34a",
+      "public_bytes": 36571
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/10-closure-20261012/v17-dependent-after-pointer-recovery/supervisor.py",
+      "source_commit_sha256": "ddf7542a0d81c750da0e1b054e8f420ea9e54eae150a2b3f2be9b1f3deea07e0",
+      "public_sha256": "70f26ced86ab34542a55980fcb02adeaa91c88bd0745dd79ac842ed997a2c34a",
+      "public_bytes": 36571
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第五轮-20261015/round4_relations_review_probe.py",
+      "source_commit_sha256": "3c3a3d810effcd1193e0fad8c1549fdbc54a1545f9f17d90a89de3b2fe65fcb0",
+      "public_sha256": "b74f2c75b6615c25aab603ad86a5946c567095cb9d35590664b8b9041fafd90f",
+      "public_bytes": 1925
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第六轮-20261015/round4_relations_review_probe.py",
+      "source_commit_sha256": "3c3a3d810effcd1193e0fad8c1549fdbc54a1545f9f17d90a89de3b2fe65fcb0",
+      "public_sha256": "b74f2c75b6615c25aab603ad86a5946c567095cb9d35590664b8b9041fafd90f",
+      "public_bytes": 1925
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第四轮-20261015/round4_relations_review_probe.py",
+      "source_commit_sha256": "3c3a3d810effcd1193e0fad8c1549fdbc54a1545f9f17d90a89de3b2fe65fcb0",
+      "public_sha256": "b74f2c75b6615c25aab603ad86a5946c567095cb9d35590664b8b9041fafd90f",
+      "public_bytes": 1925
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/parallel-manuscript/inspect_sources.py",
+      "source_commit_sha256": "9622b0067b66d986930792c0b4a4e9c7a440918a6198e6c81bbae65beb88f467",
+      "public_sha256": "b5c342ef6e1259edb397ddbfa6b385b4580db7ef01c0ce9689174f04b02ca639",
+      "public_bytes": 4018
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/parallel-manuscript/interview-audit/inspect_interview_sources.py",
+      "source_commit_sha256": "d92d620bad89a0ddd0d3f2d885af29f444f3355777a1fabf4f6d50b888758551",
+      "public_sha256": "bcd817d47fa2e19c7b07f02d378db3046d60f2059bcac99b99294bf9d848f870",
+      "public_bytes": 6241
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/parallel-manuscript/interview-audit/snapshots/A03__核实访谈来源.py",
+      "source_commit_sha256": "23da93d4c633dc7d5f5532da43a34ab5c3b5807fd2659b167d82ed061c5b9702",
+      "public_sha256": "28c2ecf6ff8745b0869b98f8ade341546e027e5b32af64b9b325ccc52070a527",
+      "public_bytes": 2268
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/parallel-metrics/prospective-design/project_metadata.py",
+      "source_commit_sha256": "0872c2097f17b6e3dac3fa8e387a50248078c5671c7f5a18188e53145257e789",
+      "public_sha256": "47686dde9aef670e7b15230fcf5504369acfdbdc5897f77b7b0ac98d381c342b",
+      "public_bytes": 6102
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/parallel-metrics/snapshots/a7be8f2a158d4d4e-statistical_core_r3.py",
+      "source_commit_sha256": "a7be8f2a158d4d4ec4c96665306a6c91ac295afeac1b34afbeb6fcbceb83c7da",
+      "public_sha256": "5a5272eb41e227a90ac39bf5226cd456bfa9fcbbe9c98207a34a44de253acd5c",
+      "public_bytes": 10782
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/scripts/build_agent_review_delivery.mjs",
+      "source_commit_sha256": "4a9f09233a643caf6865c323a693bc17791f34fca761092f2f0202cfd9348f47",
+      "public_sha256": "eba0d3706ac011304fa9c24ee53ff8d5dcff0a84e7a137df0e8292cc1197018c",
+      "public_bytes": 38532
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/scripts/build_human4_machine77_report.mjs",
+      "source_commit_sha256": "0d2ea725031e1b0748d0afcc6e78e7aea9ee458f78f5cb2a37f4d1619c410c2a",
+      "public_sha256": "2458646e270a9275f0136af0f73551f63165c66b4e0448f43b079718c5372444",
+      "public_bytes": 11041
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/scripts/build_remaining4_calibration.mjs",
+      "source_commit_sha256": "5303ff589957f05002c251cff7b16e5adf623e7a79760158b545a67c51a00a09",
+      "public_sha256": "7f142e258d88a75e23ae211a2763a26274338db79b7e4a88bfa88e2fdec3e5c0",
+      "public_bytes": 7850
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/scripts/build_uniform_machine77_report.mjs",
+      "source_commit_sha256": "4a0bb5be356a285e03002237e72449b9285b53ba62b65202ad94cb1a9fe06c3d",
+      "public_sha256": "d7f563688246b5425ff3d6391ebed90dbc264605f596f434b0736918628de2b8",
+      "public_bytes": 11811
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/scripts/integrate_agent_review_delivery_root.py",
+      "source_commit_sha256": "79e2c5fcfa2357ecac97c451043523ba0f19b74e2b7f9e7d61327d00394bf473",
+      "public_sha256": "0a72641e75ade8ac21a04b3ebe9e8629340638fa6cdf5482c222cc70954621eb",
+      "public_bytes": 10389
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/goal-calibration-20261010/scripts/save_human4_reference_v2.mjs",
+      "source_commit_sha256": "145939527d8019e13d771b21755b906983254a55653b2c7d8b609892c6467276",
+      "public_sha256": "f0a74695966c0a805f32b73d0eab4a59f9d0faa377fd90ec5bf8c8340c15bb03",
+      "public_bytes": 3513
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/indicator-alignment-20261007/build_alignment_audit.py",
+      "source_commit_sha256": "3b2032d9f2e3cf3e03d944cc09e66e4d04dd6681d880e4cb55ced421d028934d",
+      "public_sha256": "227bb55d7f5c0019a1c479976d1d8288a72bffe44f8edfaa3619be70bf0534e4",
+      "public_bytes": 31670
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/kappa-status-20260930/audit_kappa.py",
+      "source_commit_sha256": "a58b8a2698bfb9288cddea41af0d434dcbc610128e6c1e4b577e8d66107a44a3",
+      "public_sha256": "ef89783ebbaa5668d88d34dd4e872eb319f7242a87435142d83ea1e72b6556af",
+      "public_bytes": 5095
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/manuscript-completion-20261006/build_manuscript.py",
+      "source_commit_sha256": "e5c4bdef6e5bf5706ea3ad2644715e7cef8f0193cbe4937f730b9c2b3f7016ef",
+      "public_sha256": "3bd29ce072f10b7c387731e55a27a1ea23b3709b692de0084ed2ca478d6547d2",
+      "public_bytes": 31990
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/manuscript-completion-20261006/build_reference_audit.py",
+      "source_commit_sha256": "4dc6865a14ba58297f09e41a4b4b391ee5ca3a351956042173f4ac13d7566ae6",
+      "public_sha256": "6a7c1a0dd7a721799f45d301bee2f0a32ee74955061d14c637af285baeb8fcd2",
+      "public_bytes": 36133
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/build_final_layout_QA.py",
+      "source_commit_sha256": "b18bede5985e6fdf16e51d5a9c7b2921ee399536bbdd2905c7a1b0fae6e77376",
+      "public_sha256": "7156da9205005097bc9f9802ccb855cf68268d357c757eb9fe9ee6c9af6f1a6a",
+      "public_bytes": 16481
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/build_uniform_context_completion.py",
+      "source_commit_sha256": "d76604d298b93c483a31c74e614a12d504563e891c68c167524240e82896cd73",
+      "public_sha256": "32cd6db54bdbba071c3cd55b1c28e870065d55dfa33f952edeeee1d1d6822de6",
+      "public_bytes": 12981
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/statistics-code-only/compare_code_only.py",
+      "source_commit_sha256": "0de89c229c5896a5e9a937b999a4705cb11bc29d55a1e2f324816fba1d4cce88",
+      "public_sha256": "83d6e5a19fd56075ceea26db34ff23bf37e389b72a327dab2aec871cf92cde45",
+      "public_bytes": 14175
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/statistics-code-only/recalculate_three_department_coding_metrics.py",
+      "source_commit_sha256": "ad478d1ae4d3043c45d173fa621bd9798b5b6a9f9fc5d8407ac8636b18aaf440",
+      "public_sha256": "c03b821168c3a674ed6af77b7918376bf2b9fa1c062b3df22a8aabfe4ca4a9b7",
+      "public_bytes": 18621
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/statistics-material-effect/compare_material_effects.py",
+      "source_commit_sha256": "eb2f23396b8b62d5ccbf3a4bc498ac53aac3e68346406d47687c4a707277aa4e",
+      "public_sha256": "5cbe7edbf4c3b7738e3f787e3e368a0106000155be2ab49dee9e1835e63a4bf4",
+      "public_bytes": 6505
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/statistics-material-effect/recalculate_three_department_coding_metrics.py",
+      "source_commit_sha256": "64f0c80733e5f96798ffc85fc89fdbd2a3dbc62304c489f3b0d2c9b2feecaf5b",
+      "public_sha256": "630bcafa1cb9b2c50ef8fe1b873268914e9ddccec34a3f95991fe2635bb96011",
+      "public_bytes": 18548
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/statistics-material-effect/v2-final-rules/recalculate_three_department_coding_metrics.py",
+      "source_commit_sha256": "64f0c80733e5f96798ffc85fc89fdbd2a3dbc62304c489f3b0d2c9b2feecaf5b",
+      "public_sha256": "630bcafa1cb9b2c50ef8fe1b873268914e9ddccec34a3f95991fe2635bb96011",
+      "public_bytes": 18548
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/statistics-material-effect/verify_rule_factorial_effects.py",
+      "source_commit_sha256": "1e92127bb2afab475811b56d1bfaf580d9f6f15e4e269fc473a3d92d2992ba27",
+      "public_sha256": "f4e5bcd2da0c7335405fe3efe02d5c4b1e950a11b009b1e6455af11c79ceaad5",
+      "public_bytes": 5606
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/recall-revision-20261007/verify_final_delivery.py",
+      "source_commit_sha256": "89b20bd7663ca27fe485694d970fdcacd0c1e236965582be7e8cec71d9c1c7c8",
+      "public_sha256": "f1a013a5e9d136e7eaf8451b895396cc2ceb36a31f10432a636243a87966a41d",
+      "public_bytes": 11887
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/D668-frozen-inputs/sample_helpers.py",
+      "source_commit_sha256": "20bf0d6b15e142dc080fb89844b85ee5778c5292406f9b0cf90c4c78c29d3c39",
+      "public_sha256": "2f7137258a80ae6fae06664917abd3ea8264bf78e5afb772c90a59fb49261e03",
+      "public_bytes": 11796
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/D668/agent-A/保存校验.tmp.py",
+      "source_commit_sha256": "74b5e8804fa50b8c5ee6784bd18578bc28468cc5d94fe3bb5cec2f90b4982c38",
+      "public_sha256": "ce5edd0ac6be8afd82fbbac598b55ea1a447ad3baf9fc99b3f5bf6e76909b849",
+      "public_bytes": 3377
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/V600-frozen-inputs/freeze_assembler.py",
+      "source_commit_sha256": "cc9ef9cc4c0ee449af09d9b143879a0ebddd07d1820e83bb670c8bc4a6427e6b",
+      "public_sha256": "3bacc03f115a357ea60d1906f4c69d74bb4662765ec9ffaf42e142be3f2aec2e",
+      "public_bytes": 15459
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/V600-frozen-inputs/same_input_builder.py",
+      "source_commit_sha256": "b75ca9d7d980772cc3c990714e05b81f7f42948c434d3150d84dfca81bb08f23",
+      "public_sha256": "430d75c75d7615aa215df19940aa3a4c781a727a2f2687179bc61fa6adc39637",
+      "public_bytes": 3827
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/V600-frozen-inputs/sample_helpers.py",
+      "source_commit_sha256": "20bf0d6b15e142dc080fb89844b85ee5778c5292406f9b0cf90c4c78c29d3c39",
+      "public_sha256": "2f7137258a80ae6fae06664917abd3ea8264bf78e5afb772c90a59fb49261e03",
+      "public_bytes": 11796
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/V600/agent-A/保存校验.tmp.py",
+      "source_commit_sha256": "ec578b1f2c50715e80579e3165bb1b4485bae8f45d22f28d1ab83975a5b3965f",
+      "public_sha256": "7b6cbccbdb698f9e9902a8dd7111af3fa29c0a09424fa96587266fcc2023d835",
+      "public_bytes": 3291
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/build_reviews_d668.mjs",
+      "source_commit_sha256": "b189e9df50a7355cbe0149e7d8a0b75ce30e6b032253dba9fb4a18711216facb",
+      "public_sha256": "7f0fd336bcb82af3850a4ab4ea205dd084b361bd86e8bded7bc1553b612c48d5",
+      "public_bytes": 58560
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/build_reviews_v600.mjs",
+      "source_commit_sha256": "b6cf26b5a2889386437e1601c759b7ecff0289a72848111a9b902f1b7a372b82",
+      "public_sha256": "a28b13ad4d4491f530c318053c2f70858324214f16d66fdceeef65f40b66f88d",
+      "public_bytes": 45177
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/compare_development.py",
+      "source_commit_sha256": "545b9a2bc43eec104dd088d491800be87d28e1bf655ec04d132e567720e89d14",
+      "public_sha256": "49ffabdae76426c73dbce3857a853eb4d5fc25765c379127518ab361470074a1",
+      "public_bytes": 3343
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/create_freeze_config.py",
+      "source_commit_sha256": "f6f0f5d57e6cc6c76be5d3d546518be6a87fd3c4b5d95161391e1fe6e0b91059",
+      "public_sha256": "8816dba42a56de9ea9dfbc3ab96b2aa3dbd3a8cdeb2706cb84e42122862bef5f",
+      "public_bytes": 2812
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/freeze_v600.py",
+      "source_commit_sha256": "cc9ef9cc4c0ee449af09d9b143879a0ebddd07d1820e83bb670c8bc4a6427e6b",
+      "public_sha256": "3bacc03f115a357ea60d1906f4c69d74bb4662765ec9ffaf42e142be3f2aec2e",
+      "public_bytes": 15459
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/frozen-inputs/exposure_auditor--prepare_expansion.py",
+      "source_commit_sha256": "2d7dfbbb41278e8a11449305fadd122c2984a7594adb2a900388e4514009f94b",
+      "public_sha256": "1d9fa536cee68523b2d3a02480dab612db50439be769def6588cd813b1172fd8",
+      "public_bytes": 9381
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/frozen-inputs/exposure_supplementer--supplement_exposure.py",
+      "source_commit_sha256": "7656064bef31f90e8845f1f7fae72ef0146c15e109d7771e2f1078a8fcf8224e",
+      "public_sha256": "55a928aa556eb8441fa1b16a4e8f2c4b316db4ccee5843c20e1db476a3da7661",
+      "public_bytes": 5915
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/frozen-inputs/sampler--sample_holdout.py",
+      "source_commit_sha256": "20bf0d6b15e142dc080fb89844b85ee5778c5292406f9b0cf90c4c78c29d3c39",
+      "public_sha256": "2f7137258a80ae6fae06664917abd3ea8264bf78e5afb772c90a59fb49261e03",
+      "public_bytes": 11796
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/prepare_expansion.py",
+      "source_commit_sha256": "2d7dfbbb41278e8a11449305fadd122c2984a7594adb2a900388e4514009f94b",
+      "public_sha256": "1d9fa536cee68523b2d3a02480dab612db50439be769def6588cd813b1172fd8",
+      "public_bytes": 9381
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/prepare_protocol_v12.py",
+      "source_commit_sha256": "1cf6a24ed6ab31389e9b9c35443d1fc8dc47b5703dc2bf834299ebc754f27f1e",
+      "public_sha256": "faae8c092a1fe298a1551bed7e1e787ce0503fb574fc3494e9a9467b22c363e5",
+      "public_bytes": 9214
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/sample_holdout.py",
+      "source_commit_sha256": "20bf0d6b15e142dc080fb89844b85ee5778c5292406f9b0cf90c4c78c29d3c39",
+      "public_sha256": "2f7137258a80ae6fae06664917abd3ea8264bf78e5afb772c90a59fb49261e03",
+      "public_bytes": 11796
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/supplement_exposure.py",
+      "source_commit_sha256": "7656064bef31f90e8845f1f7fae72ef0146c15e109d7771e2f1078a8fcf8224e",
+      "public_sha256": "55a928aa556eb8441fa1b16a4e8f2c4b316db4ccee5843c20e1db476a3da7661",
+      "public_bytes": 5915
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/tmp/pdfs/国内综述原文补核/build_report.py",
+      "source_commit_sha256": "a0a03ff18d578c00f09438817a27dac33a2c37dbfd4368dc60a6b0026db84260",
+      "public_sha256": "ac8a9c98ad4dfd4a5ca0b187758c514d56a5d5709f560fe34dd92713747b9703",
+      "public_bytes": 37643
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/tmp/贡献表述定点复核快照/save_review.py",
+      "source_commit_sha256": "5875c89458d05d567928821e27fa19e6e8903b5a2b8d8fbbd532c02aedb20114",
+      "public_sha256": "88a0f76f7da15abb9bbcf25c49999a9de486a47516216ca3b2592518ca776256",
+      "public_bytes": 10191
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/validation-expansion-20260926/tmp/附录A压缩独立核对快照/save_review.py",
+      "source_commit_sha256": "73934d685e21e17b4bbf7212b189b4397a65170bf2f4b9fd3b8408acbc0ff328",
+      "public_sha256": "5d90ffe0488bbb5bc8ebef902f2b30ff03e69249b9a79ef25e06d388ec68958e",
+      "public_bytes": 11761
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/build_candidate08_design.py",
+      "source_commit_sha256": "256b77c327b28058ead86bbe89bce37109050f87791445fdee44c71f5c3b044b",
+      "public_sha256": "71de09089d2ae918a40e9a8f8978c7bcb3b302a7dca7d50d39278a3496dd1d39",
+      "public_bytes": 25189
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/failure-mechanism-audit/audit_input_metadata_and_order.py",
+      "source_commit_sha256": "9eedeffcf2a5ab507b575c01058d8191a0c268e414b519e454847ea426167f10",
+      "public_sha256": "bb63e10c0eff79366dd6344360c5893baa2dace5bdfbec3ced5d607bc25df0e1",
+      "public_bytes": 7311
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/failure-mechanism-audit/mechanical-review-history/audit_input_metadata_and_order__initial_misnamed_status_key.py",
+      "source_commit_sha256": "53b5eefb177f0088c6b69934eb14aa925a6f3a2b87eef98b07fae0a289ea8e99",
+      "public_sha256": "086756171a14dde7597561a5b89e3f149ecff9ad354bf5ba8787c60554d6f420",
+      "public_bytes": 7319
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/failure-mechanism-audit/write_failure_mechanism_report.py",
+      "source_commit_sha256": "3f36956e02d58df63cbe0037f160253d110a690f5edbb5fc2b16ec8643367eb4",
+      "public_sha256": "7722db032afb85f9acd271f42732626403be566bdfef08c0c243d85ff337fc5e",
+      "public_bytes": 28209
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/independent-preflight/write_author24_semantic_review.py",
+      "source_commit_sha256": "cdeb20d775bbddb7f4885783e35dd4a30a9c8dbd883ea46754f42025614188b5",
+      "public_sha256": "72b9d0ee18d3f634997b122875e3016558e1b582ec4f7ac0d0b5ffdf8236b3ee",
+      "public_bytes": 14700
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/preparation-history/preflight-input-v1/run_bounded_candidate08.py",
+      "source_commit_sha256": "fb9f02bf02b98d02459e2c99bd0ab571b1c90f440ec8cf492988284f1aa4dc11",
+      "public_sha256": "bb4fda64366510abc1a90df11741830ea679bced3e4c820403f52fc89d530302",
+      "public_bytes": 3751
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/run_bounded_candidate08.py",
+      "source_commit_sha256": "99a9fd39427a64ba6838ba517da255e5e71d88f54c34b40e60dde10535e17153",
+      "public_sha256": "b16091287be64d6a50f3f6d91e0fd3dd7ecb5983f5d4489038e0a376f3baf909",
+      "public_bytes": 4611
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定/technical_audit_json_adapter.py",
+      "source_commit_sha256": "e373cd8663f1f129c9e1f2618b625bcfa5ba583efe06309b46be7e39fe0fb673",
+      "public_sha256": "ec5a549e664d04fc0aaed491467861536933b8a1f0555b8c086d9f89bc476cc9",
+      "public_bytes": 9066
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/actual-inherited-controls/write_inherited62_actual_review.py",
+      "source_commit_sha256": "94fd7b55355a3954d31165face7a8b67d5b0a51222b57e0c7d6505959dd76a55",
+      "public_sha256": "e4b6e92b98f00898050abb78f0dbd72a5a8e8eac8338aeb35ad1175e172d9ccb",
+      "public_bytes": 21491
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/actual-new-controls/write_independent16_actual_semantic_review.py",
+      "source_commit_sha256": "8473cbac70cfcc84aa5330fc731e1b691549bd85e14ed151a274873281882521",
+      "public_sha256": "fb3fc45da160affbfad4693b2afda225f068354db546a4db1d619b49f2a478e6",
+      "public_bytes": 17387
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/preflight/review_candidate08_preflight_v1.py",
+      "source_commit_sha256": "be66652feca869cd2f37970ec74ad727b5c0332aac2fdf0cc159529a3a148816",
+      "public_sha256": "3b5979e8cc06a0b76e0a4987ad8791d7d28ed780b85ebeb56f727772e291f691",
+      "public_bytes": 16847
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/preflight/review_candidate08_preflight_v2.py",
+      "source_commit_sha256": "13e79573b352eea20125638bf85b79879c6942ff551909de5b9fcb91d4796ade",
+      "public_sha256": "a11cbf20861a6fc1ec0f812e96395eb70e86025e8b82efccb710f49f0a0edb3e",
+      "public_bytes": 17452
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/preflight/review_candidate08_preflight_v3.py",
+      "source_commit_sha256": "f2cdaf706eeb0042bdb9d1c36d33eb44d609dede98b36003fb983b8614720b94",
+      "public_sha256": "d1e9acc7fd1d5d72110aebc1ad1cbfb8989f8e821bd76f30c276d742534692f3",
+      "public_bytes": 17803
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/prepare_independent_controls_v1.py",
+      "source_commit_sha256": "ed6e04fb6d3e06720cd2879bb7eae6bee3f608b6115a358e11ec74a9422cec59",
+      "public_sha256": "0b3c273daee451bb1450ebb03295d183aaf4bf486f2077ec78eea9d641029c55",
+      "public_bytes": 25166
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选08-独立检查/机制对照预设计/prepare_mechanism_design_PROPOSED.py",
+      "source_commit_sha256": "1ed875fecc36bdb96b74c04f206518289fcb3f97cf09bdd7d0abfecc1a6368f0",
+      "public_sha256": "7775a10294004822644be092282190c6ab5d0fe89d038bc1a224749a8fd65dc8",
+      "public_bytes": 15025
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选09-独立检查/preflight/review_candidate09_preflight.py",
+      "source_commit_sha256": "25caf8e362efcbe8fe86544c292c5ab3579a689416d4f3d250f64be36b232c35",
+      "public_sha256": "faf8a10106afee4d405e5f14937977907cb90163282363a7c8858ab40e5ac105",
+      "public_bytes": 16099
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选09-独立检查/prepare_known11_private.py",
+      "source_commit_sha256": "0aa8a2f320231cdaf992cfad2f041eaf75e33ee23870ee534b18b6921fcc6dc6",
+      "public_sha256": "dad3449d69a2c2e4f3a1b78d76d662897adf97758874d8cf706a8d545a9993f5",
+      "public_bytes": 22029
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选10-独立检查/holdout-metadata/build_holdout_metadata_ONLY.py",
+      "source_commit_sha256": "d353bf629c7b7a8d07e59e465853e1ac25fa016589ef93b3acaef451c2dd5a4a",
+      "public_sha256": "038dd5f8b90ff05a2e3ba34d527124b7e137d17cb0fec75b9c37437e265b3913",
+      "public_bytes": 19913
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选方案/build_candidate07_design.py",
+      "source_commit_sha256": "a35bad68867540a7f659dd1cd76feee878b56858b6c43452c128956106077745",
+      "public_sha256": "0b081314fc0725d8dee82b52532131cc7f7ff3ed0bcdd9564adf2a39e2cbd7f8",
+      "public_bytes": 12797
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选方案/preflight-revisions/v1-before-independent-corrections/build_candidate07_design.py",
+      "source_commit_sha256": "d91830316556db942e8923881d8a46eccd2dcc36e536491c31efdd411a9dad26",
+      "public_sha256": "9f64ba60648d6c3502de3de0221f219685242d7d2dae71246367b91729da8a0e",
+      "public_bytes": 12816
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选方案/run_bounded_candidate07.py",
+      "source_commit_sha256": "b870a6ee691d14d92fec0c3be19745b8f5e1803ae1a797820b50a3965f04f5f6",
+      "public_sha256": "54e79c4d05010482da1adb48c4d38040f6719a5d6287380a674b55787369d20d",
+      "public_bytes": 3131
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/候选方案/semantic-review/independent-controls/review_actual106.py",
+      "source_commit_sha256": "1ec10a5ad7cb162f450f1dd590ca4634eece4695bcccaa5244e56926d5ec9f09",
+      "public_sha256": "08ee47103420afd0df86b0976bc9f2ceaa11a32c307db134812d23927c53771d",
+      "public_bytes": 20031
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/测量与语义统一/build_preparation.py",
+      "source_commit_sha256": "ca3e44136e9fed54e17d2e83876b26890fb22df28cb09e2c72631ef9bc76daed",
+      "public_sha256": "a68c49fdc994dad28817728742899eda3907d4667fb0b07e0d72f3adee62e576",
+      "public_bytes": 7119
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/统一判据编码准备/字面来源绑定03/implementation6_regression/run_checks.py",
+      "source_commit_sha256": "f4e86c61bb7123cd351d7dc65b110f157618aba7036878fdc500c63c9e3fbf92",
+      "public_sha256": "4cebef56c9abf2988d27c2fe93216745ba471232a25afcbadf918edde69d3991",
+      "public_bytes": 4338
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/统一判据编码准备/字面来源绑定03/root10_regression/run_checks.py",
+      "source_commit_sha256": "4a5b6af3b60ae37303a93621f7b9d6903af749f3beeb842b9c896aaed8427e78",
+      "public_sha256": "057c8bc266f6c5f47701570018113933aecbee4d59939a1853740599f2a2a156",
+      "public_bytes": 5227
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/统一判据编码准备/字面来源绑定独立复核02/implementation6_reproduction/run_checks.py",
+      "source_commit_sha256": "ef6f95b5564856ed1b95d1c2ec428e85e00d54701bf465d58dc40b6159d7c436",
+      "public_sha256": "636d2689d497b3b3af642f0312960b27758c7bd213ceebec11a2de7fca4d4108",
+      "public_bytes": 4338
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/LLM编码/统一判据编码准备/字面来源绑定独立复核02/root10_reproduction/run_checks.py",
+      "source_commit_sha256": "09d1d924c5d67169e4624cb681f7648f41f496e4876b0dc50262e3932e035240",
+      "public_sha256": "4737ae760c5fe8d6bea62d2a137ffb6479bf15647db2bc8978bfcd4705773be2",
+      "public_bytes": 5227
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/人工参照复核/全量目标框验证准备01/build_source_only_frame01.py",
+      "source_commit_sha256": "361d21564a6e980f19f6979738a546a071d8891188bd571fcce108bd138e585f",
+      "public_sha256": "9a1ab953da7776ee6eea7d957c3469db61bd8c16cdaf3f065806ecaec1f13d33",
+      "public_bytes": 9712
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/人工参照复核/全量目标框验证准备01/verify_source_only_frame01.py",
+      "source_commit_sha256": "3f8d6dd5469e8ce76ce9c0e57ff46fa0c7ca0710967fa8c03849cfd0e67739ca",
+      "public_sha256": "b104256393cf6e82391cec458516dbd338a2f1c498bc84093c5646560f481d8b",
+      "public_bytes": 3717
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/人工参照复核/手册校准准备-20261010/prepare_calibration_packets.py",
+      "source_commit_sha256": "b9bcb9cafd13cbd662c9128cc97fa1511a74878e406acd434b74f89c71e4a02e",
+      "public_sha256": "79ed89586cbda10f9b850f07fd1d8a7582003f00edc503e10be6c3f1035e2eeb",
+      "public_bytes": 12859
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/人工参照复核/新定义概率180复核草稿01/admin/prepare_materials.py",
+      "source_commit_sha256": "b0c2eb914cd82f77e24820b0593f7e0b36b1003d629b37f891bed0b3d59cc037",
+      "public_sha256": "2804d80f9df7c2138b0b39131d500556850cc8a971053ef7f490ab16c65413f4",
+      "public_bytes": 13565
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/定义映射独立核查/build_definition_review.py",
+      "source_commit_sha256": "a4c1f031cae99499b8295b212087ab4c1047149d176e75d67cf919fc361af4d5",
+      "public_sha256": "fa457ecdd0bb159c23dfb55ad042197a6c7a3a0ab9f971a2d4fc9585d15253ac",
+      "public_bytes": 9485
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/定义映射独立核查/build_definition_scope_metadata.py",
+      "source_commit_sha256": "9125e1939e80b046ce76a115b3e1d7295a6806fa172237ea3f8246d8546ba4c8",
+      "public_sha256": "af70bcfb6b9094ec6e789582cf1728a8fcd713d58b819027c893d2c2875740cc",
+      "public_bytes": 4262
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/正文同步/独立正文审查/review_current_manuscript.py",
+      "source_commit_sha256": "2235da1a451bb698eef3c3e00e64dd098b02b83157bec0e314896d659fe253a0",
+      "public_sha256": "718a0056067db626cb9c1d5abdf92f7d50baaa92ee74c484a96ea7eb23a62515",
+      "public_bytes": 24227
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/正文同步/独立正文审查/review_final_delta.py",
+      "source_commit_sha256": "bdb13424152faaa9d8bc51fb5e7c4cefb6aaa59c45ec9d9d4ba2191400f6cc63",
+      "public_sha256": "bfd3cf2c7ce570131d1a039fda36f6df29c46adad41bcc4a9c4a57bfbe4c49fa",
+      "public_bytes": 10052
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/正文同步/用途澄清独立核查/check_clarification_delta.py",
+      "source_commit_sha256": "2ab5d8adc892782b377c0f9a094fc046da439b4fd7ef6b209db7596e85ea2889",
+      "public_sha256": "57cb2e94d3779f1a54af2b87cf1e09ed42685f5eb0615068086921f5a14c8532",
+      "public_bytes": 8348
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/其余三维低项核查01/build_remaining_dimension_review01.py",
+      "source_commit_sha256": "ea51ae827043566897b4305e759989b9df782300c378c84657877ebfa670a1c5",
+      "public_sha256": "6aac9ec2e0e6eaa9b7c339b13047ae4434c802d17a9fe0194c543c03bdca9186",
+      "public_bytes": 25540
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/实质关系修复/两方法比较准备/summarize_actual_single_full.py",
+      "source_commit_sha256": "ef7d3693d4295e3308011ffbfdf30dd61339e64b015881fdb041dd3c70504703",
+      "public_sha256": "c063ed5648b3d87b0a3cb4f9f49d171c2ac3ec643d18d05c140777f607889843",
+      "public_bytes": 13679
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/最新机器与既有AC参照比较/build_compatibility_diagnosis01.py",
+      "source_commit_sha256": "51b5848558fac238ebacc46a7f65e858d1dbc5c8863657a6e8010a3748e14bde",
+      "public_sha256": "fc7c49d493638249fcac680e8680ad9b49d1064ccdbf59bdf62be3cf8f172853",
+      "public_bytes": 24399
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/来源读取与图示校正/两方法比较准备/summarize_actual_comparison.py",
+      "source_commit_sha256": "9d1f7dc23ffd35429f7bdf85ff5f8b03978bd655e4fc397c5a59a1c7cb79fa6b",
+      "public_sha256": "e79754b0f9841d3d5ab37fa00dd3257bbae917d6274d533a083fc8bcd6e89cf2",
+      "public_bytes": 10102
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/测量与语义统一全量/既有AB诊断/diagnose_new_methods_against_existing_AB.py",
+      "source_commit_sha256": "ce43b80d0c4283c051ed45f3f93b0f0c0163e0a6bbac2dd82b57c4dff99b42ea",
+      "public_sha256": "d57521be6ca3d648ab5bbce824b86349bed930623ed79ef4481baff1837be202",
+      "public_bytes": 24059
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/独立数值审查/interface-repair-v1-preserved/review_classification420.py",
+      "source_commit_sha256": "38cd1973e25504db8168209685debb1076fdc67375183c3a2fb0705461f5491e",
+      "public_sha256": "b5d718fb3950e799631c9e9733e81a5fab6c33331a46be43749802c73911eb6a",
+      "public_bytes": 11419
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/独立数值审查/interface-repair-v1-preserved/review_classification420_before_empty_stratum_adapter.py",
+      "source_commit_sha256": "10a903e819fbaf8cc8baeb28c9e046d61a084afc58a80cacd92fbbbcc96b9a2c",
+      "public_sha256": "3933fe7ef911f10d2e58ba6e3e2ed20fe1c67edafab18191a3f4346818afea32",
+      "public_bytes": 11508
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/独立数值审查/interface-repair-v1-preserved/review_probability_attention.py",
+      "source_commit_sha256": "f84cd59043416283836e8831026cf14451693c6b14db69088e4d45c0335fef8f",
+      "public_sha256": "164adc3e2d7b2a625789e06248a3e06db6929539c79ffba6702edbdc8b8f3112",
+      "public_bytes": 9659
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/独立数值审查/review_classification420.py",
+      "source_commit_sha256": "01b4942c9e7533599badd2baa1cad77bbca1c24e7ece29e4f28f131075dcfd2d",
+      "public_sha256": "faacbf63032fcc7394c769997bda195ece1926a8e8d618b5cbc0a7377ca27707",
+      "public_bytes": 12365
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/独立数值审查/review_full4481.py",
+      "source_commit_sha256": "7bee3d2d0d858d6e675553be96cac3013512c3315cbb72b0a3e5947bf163b578",
+      "public_sha256": "e2d1df70ff6c0719bf7d878d6d9b0ce64fa1b19d5b79c26f4132da8582b4ab0c",
+      "public_bytes": 19654
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/独立数值审查/review_probability_attention.py",
+      "source_commit_sha256": "0065088a51800bdbd3e7a6054212dc61e44b906ed7efd2fc3891ca5c0c742dc7",
+      "public_sha256": "176409ad4ff1b606964ab575335dd6dea366deafc66840dfc8baee1d6a80ef33",
+      "public_bytes": 9659
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/统计复算/真人确认40条-指标验证-20261010/复算依据/指标计算.py",
+      "source_commit_sha256": "8aac4e13a971d9650a311dd89c4d14f8ed05b7eef1f72e5c6c254943ab421593",
+      "public_sha256": "a6719e7bbfc90989cca329772061a56f65cc0b463612448fb655ddcdfef44794",
+      "public_bytes": 10272
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/full-preparation-v1-snapshot/run_full_candidate_ONCE_AUTHORIZATION_REQUIRED.py",
+      "source_commit_sha256": "4c3b9cc396f7db85c33e3aecceca491a0f054e9a1bb82f42e869f0b45ddda733",
+      "public_sha256": "906f4b348fe9f57142d44493c4cfc38f7cc9f1e1d0200d09533cc9244befdf3e",
+      "public_bytes": 7630
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/implementation-v1-snapshot/run_bounded_candidate.py",
+      "source_commit_sha256": "f62141d2580db1b7ba3d2a7352bcb5ca9419d7e80531828e58b223a6abea8883",
+      "public_sha256": "c468e874baa7918153d8c4a214118646b07f300b50c5d9b3439c62b18778c779",
+      "public_bytes": 8009
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/implementation-v2-snapshot/run_bounded_candidate.py",
+      "source_commit_sha256": "d1b158ae17b5754bb06ba8dff39edaaf4d58948d4e2c986482e16b2af95ff09e",
+      "public_sha256": "d351d84bc0d5b9240308e512bcb10d27afcc758fbf863a4e67e4a0ab1fc7c354",
+      "public_bytes": 8610
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/implementation-v3-snapshot/run_bounded_candidate.py",
+      "source_commit_sha256": "40c309f7d8bd2043ac798ed57e35648f40242afceb994f794cd34f0195d924e0",
+      "public_sha256": "9224daa1c3c558e3ecab542a2e802e8fbd5dc66d6df059fbb1deb3d55d9f244b",
+      "public_bytes": 8610
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/implementation-v4-snapshot/run_bounded_candidate.py",
+      "source_commit_sha256": "46fc7db6ae930ecde357aabd7167f8f83a930a34ec6d3c46ae88792e70ae0387",
+      "public_sha256": "542a4a9bd412fd79521d68160ff0715121bc2e1a63e63f5a5429c2d54b39a920",
+      "public_bytes": 8635
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/independent-actual32-review/review_actual32.py",
+      "source_commit_sha256": "b0bf8db5765c8caeeb5449136c4a422e8c7edf0e1ef194ddea6eff59b1fc9417",
+      "public_sha256": "21f182e10cf86e19ae0096563e5a5f0f63572365dd3b6bd120ea5141d64fe77c",
+      "public_bytes": 17173
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/independent-design-v2-review/review_rules39_design_v2.py",
+      "source_commit_sha256": "f44ac110fbc4f2e19282f7fccf6c9e24ae96557e13694ae561f27ac879a55f69",
+      "public_sha256": "94b9c69c3d09db2459e99b2e323a35612676437e520df51dfa5cec49cc2b061a",
+      "public_bytes": 21433
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/independent-design-v2-review/review_rules39_design_v3_supplement.py",
+      "source_commit_sha256": "3344cb26524d1dc94b2776116cce8eea05738b6c919d6a57e2633ec4e53ff84a",
+      "public_sha256": "cc3c7af78e99eaa51dd296826a9c334e4e657a3311742db8d87a74a1d1ca5010",
+      "public_bytes": 6342
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/run_bounded_candidate.py",
+      "source_commit_sha256": "503fdaedfc945609b90202cd83bc6c572598aa11565fe290a20d2825432c753e",
+      "public_sha256": "c1b54df3ccc15341cfa17c0e38f1b90a5fdfa4db653291559ae22b85ba910a39",
+      "public_bytes": 8635
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/候选方案/rules39-five-relations-candidate01/run_full_candidate_ONCE_AUTHORIZATION_REQUIRED.py",
+      "source_commit_sha256": "4d4abc0a885d4b09433bd2a9e123d0914d6773edea711b351cef3f3795a04a83",
+      "public_sha256": "ab0a29af7ccd4533433cfea9a134c2d9b494b9d1a2eea3018efd679a32e806fe",
+      "public_bytes": 7658
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate12/source-recovery04/run_actual1_source04.py",
+      "source_commit_sha256": "ebb6e4bc1625c3013ed921ec61053bae92403c00b157f5c04dab59a997ad97f5",
+      "public_sha256": "0c21df2b75b5167103fbe92c14e63c8c12d2562bdec60eee03701625069efc71",
+      "public_bytes": 12171
+    },
+    {
+      "file": "05-代码/完整工作区脚本/outputs/编码修订核查-20261008/自动规则编码/来源读取修复/编号边界修复/静态影响范围.py",
+      "source_commit_sha256": "9b2bc6027f7260c0fd0c3452069fe81730d88899e4a986f5af8359e6b15c0540",
+      "public_sha256": "af7d0dd1e2d2d3400f83ce532b57e5610e75bd1084179478e162f140f00de1bc",
+      "public_bytes": 6182
+    },
+    {
+      "file": "06-历史文稿/20260813-论文构建档案/编码脚本-已恢复/词典编码脚本-policy_coding_v2.py",
+      "source_commit_sha256": "a492898010659607a168fba6e78def53c8c8960e0ff7c954a7a3a3403b02c324",
+      "public_sha256": "668cf26d8f188313a40574a5610626a33ae4d2044802d2171194a6cfde4adf20",
+      "public_bytes": 12747
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/01-论文历史版本/稿6构建脚本/build6.py",
+      "source_commit_sha256": "9e88c2c8b0cde35f46fcd221a470a6084487e326048732518496bc241b259927",
+      "public_sha256": "6dcdb4747bcfa00d289fe3e2c7a25db1e97b414ed8fe27051b532e9e8e379773",
+      "public_bytes": 11762
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/01-论文历史版本/稿6构建脚本/numbers_v3.py",
+      "source_commit_sha256": "89a22e406302f95a42b8095c201ebc62c0e803bfbc84bfa353bcd9568e6b233a",
+      "public_sha256": "1ffa8001af014239bab0671a24d63778e729a021be475f20fb8b0c553bda468e",
+      "public_bytes": 4695
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/01-论文历史版本/论文构建档案-0813/编码脚本-已恢复/词典编码脚本-policy_coding_v2.py",
+      "source_commit_sha256": "a492898010659607a168fba6e78def53c8c8960e0ff7c954a7a3a3403b02c324",
+      "public_sha256": "668cf26d8f188313a40574a5610626a33ae4d2044802d2171194a6cfde4adf20",
+      "public_bytes": 12747
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/03-编码数据与脚本/词典编码脚本-policy_coding_v2.py",
+      "source_commit_sha256": "cd5a3e3c221c24066a9b9d67eab6c6cff678e639209a6772334f2bd249bc8d90",
+      "public_sha256": "3ab3a5572916c8e93ba58d6485f9833b5eb7827b76c3d3032447b36bfd3ae2c1",
+      "public_bytes": 12990
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/11-编码检验复核-20260925/analyze.py",
+      "source_commit_sha256": "fe8d99615f7ed33c7c106cb3d6f961609c0302b4b6cc82ad4026c83b12b607f7",
+      "public_sha256": "52d48d28ccc62f1614116d5a7efde19b4bb7becc7e15b90fc475819e0db2b5a9",
+      "public_bytes": 11917
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/11-编码检验复核-20260925/llm_input_truncation.json",
+      "source_commit_sha256": "e35c373a6de5c939cff3d2edcd473b5e2e0c529d4d451d8e348498521dd53a59",
+      "public_sha256": "f9d3fb72b9b6d3a5c1c64d8cf6b24bea1ada5dc40aa9d593294af941b67da5db",
+      "public_bytes": 90066
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/11-编码检验复核-20260925/results.json",
+      "source_commit_sha256": "a91dc649c4b2356b1c8e5573601666d0ce641984ae1d2458209d43680fe9d658",
+      "public_sha256": "86df0fef05111d89ecfe1026fd6c78771b6d84e57fb9b661b3a5fbb87a4af845",
+      "public_bytes": 201264
+    },
+    {
+      "file": "06-历史文稿/20260914完整归档快照/11-编码检验复核-20260925/verification.json",
+      "source_commit_sha256": "62d9d730fd589ed8b234c16c5eae8aa817310699fc2563132bf286374b504c1b",
+      "public_sha256": "8e67b41f4d876096b92eb17fe009e25f18b6dd03f3726948c09cf8c7b4e20251",
+      "public_bytes": 386
+    },
+    {
+      "file": "06-历史文稿/论文构建档案-0813/编码脚本-已恢复/词典编码脚本-policy_coding_v2.py",
+      "source_commit_sha256": "a492898010659607a168fba6e78def53c8c8960e0ff7c954a7a3a3403b02c324",
+      "public_sha256": "668cf26d8f188313a40574a5610626a33ae4d2044802d2171194a6cfde4adf20",
+      "public_bytes": 12747
+    },
+    {
+      "file": "09-项目与关联材料/项目背景与工作文件/plan.md",
+      "source_commit_sha256": "cd2dab11edcfe4b4fe3aa6a6d7a5966cc394456af55712c6bb24f4ad1968afbb",
+      "public_sha256": "6d248772df800cfc219efdfac248a5259936666d347ceab046396a0fdb492dc0",
+      "public_bytes": 26807
+    },
+    {
+      "file": "90-完整归档/内部研究链接映射.json",
+      "source_commit_sha256": "a682a93915c827ab1311d21e673dcbb47f73d28bb5b4320ec8f42ac7f2933259",
+      "public_sha256": "3b7472845332c900aa1a2bf89539437ae218d0c74f67aa4c6b1730fbabaffb0b",
+      "public_bytes": 32385
+    },
+    {
+      "file": "90-完整归档/归档总览.json",
+      "source_commit_sha256": "7f105374cdd071769e999113f45c63703c4b535c34ae824ede10f634b668c645",
+      "public_sha256": "f4a69de9a98b77d8978e7585129ee385207adcabe7365351440727317fc8861a",
+      "public_bytes": 20988
+    },
+    {
+      "file": "90-完整归档/独立完整性核验报告.json",
+      "source_commit_sha256": "6feded70c11a22ae34fc99429302c003886eb95e2ea9ecac4df9d68c09dc5df7",
+      "public_sha256": "1934c99de29466c051945b3d67cb869688d20e6c44de90f2646c526b911d5bfe",
+      "public_bytes": 30378
+    }
+  ]
+}

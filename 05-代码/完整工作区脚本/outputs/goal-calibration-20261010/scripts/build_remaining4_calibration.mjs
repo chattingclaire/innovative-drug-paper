@@ -6,7 +6,7 @@ import { Workbook, SpreadsheetFile } from '@oai/artifact-tool';
 process.on('uncaughtException', error => { console.error(String(error?.message ?? error)); console.error(String(error?.stack ?? '').split('\n').slice(0, 6).join('\n')); process.exit(1); });
 process.on('unhandledRejection', error => { console.error(String(error?.message ?? error)); console.error(String(error?.stack ?? '').split('\n').slice(0, 6).join('\n')); process.exit(1); });
 
-const ROOT = '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010';
+const ROOT = '/PROJECT_ROOT/outputs/goal-calibration-20261010';
 const SUPPORT = path.join(ROOT, 'logs/remaining4-calibration-delivery');
 const INPUT = path.join(SUPPORT, 'report-inputs.json');
 const TARGET = path.join(ROOT, '09-delivery/agent-review-20261010/剩余4项单独校准表.xlsx');

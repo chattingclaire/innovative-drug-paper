@@ -7,7 +7,7 @@ import independent_numeric_core as n
 import independent_resampling_core as b
 from review_full4481 import Audit,leaves
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药');HERE=Path(__file__).resolve().parent
+ROOT=Path('/PROJECT_ROOT');HERE=Path(__file__).resolve().parent
 RULE='rules-v39';LLM='LLM-candidate03-single-unit-reconciled'
 
 def qarray(hits):

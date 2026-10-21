@@ -11,7 +11,7 @@ v2继承原entry，只改historical_closed的最后必要条件，并从GO包装
 未来唯一入口（只在83186真实末态、ROOT单独采纳后）：
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/stability-certified-PID-birth-compatibility-v2-sol/entry.py' --mode run --target stability13 --go '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native13-successor-terminal-compatibility-preparation-sol/ROOT-actual-stability13-GO-01.json' --adoption '<ROOT真实v2采纳文件>'
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/stability-certified-PID-birth-compatibility-v2-sol/entry.py' --mode run --target stability13 --go '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native13-successor-terminal-compatibility-preparation-sol/ROOT-actual-stability13-GO-01.json' --adoption '<ROOT真实v2采纳文件>'
 ```
 
 采纳模板需绑定本seal/entry/同GO、parent_PID_compatibility_adoption原6fd168、原prior_controller_terminal_evidence(86083)，以及未来current_controller_terminal_evidence(83186)。后者必须actual_controller_terminal/all_started_CLI_children_and_hosts_terminal/actual_exit_observed=true、真实整数actual_returncode、live_owned_processes=[]，prior_controller_identity与已封97797/lstart匹配；入口再查真实ps。所有selected/invalid/首答/剩余额度沿同campaign继续，不新建实验、不补第四槽。

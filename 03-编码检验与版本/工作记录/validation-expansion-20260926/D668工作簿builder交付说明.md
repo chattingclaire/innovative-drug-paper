@@ -42,20 +42,20 @@ builder同时要求两名AI各27批、668个分析单元完整，并确认主归
 仅在全部首次原始提交已封存、真实主统计JSON完成后执行。首次实际author前，由主任务运行下列marker**恰好一次**，预期输出是两份xlsx。本轮没有运行它。
 
 ```sh
-/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node \
-  /Users/rainbow/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.909.12148/skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs \
+/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node \
+  /LOCAL_HOME/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.909.12148/skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs \
   --operation-kind create --expected-output-count 2 --output-format xlsx
 ```
 
 紧接着运行统一builder，一次处理A/C两份：
 
 ```sh
-/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node \
-  '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/build_reviews_d668.mjs' \
-  --results '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668-原4924范围主统计.json' \
-  --freeze '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668-最终冻结清单.json' \
-  --holdout '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668' \
-  --receipts '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668-原始提交接收' \
+/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node \
+  '/PROJECT_ROOT/outputs/validation-expansion-20260926/build_reviews_d668.mjs' \
+  --results '/PROJECT_ROOT/outputs/validation-expansion-20260926/D668-原4924范围主统计.json' \
+  --freeze '/PROJECT_ROOT/outputs/validation-expansion-20260926/D668-最终冻结清单.json' \
+  --holdout '/PROJECT_ROOT/outputs/validation-expansion-20260926/D668' \
+  --receipts '/PROJECT_ROOT/outputs/validation-expansion-20260926/D668-原始提交接收' \
   --expected-freeze-sha256 ada4bc6a62c1bc55322e2fe0416eeda54b7575465ea766c2aabf4a61f24b23f7
 ```
 

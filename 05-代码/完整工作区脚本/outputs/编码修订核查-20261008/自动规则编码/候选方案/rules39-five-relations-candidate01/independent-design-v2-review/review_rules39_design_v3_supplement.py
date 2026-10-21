@@ -8,7 +8,7 @@ import sys
 sys.dont_write_bytecode = True
 OUT = Path(__file__).resolve().parent
 BASE = OUT.parent
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 def read(p): return json.loads(Path(p).read_text())
 def sha(p): return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def normalize_new_paths(x):

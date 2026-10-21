@@ -14,7 +14,7 @@ import shutil
 import sys
 import traceback
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 PREP = ROOT / '08-audits/joint-v4-independent-sol'
 CANDIDATE = ROOT / '06-coding/rule-five-dimension-joint-root/versions/joint-v4-structure-normalization-sol'
 OUT = Path(__file__).resolve().parent

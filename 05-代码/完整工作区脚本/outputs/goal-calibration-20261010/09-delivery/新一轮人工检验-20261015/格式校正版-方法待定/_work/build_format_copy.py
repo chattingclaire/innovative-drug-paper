@@ -3,7 +3,7 @@ from zipfile import ZipFile
 from lxml import etree as E
 import re, json, hashlib, difflib
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 SRC = ROOT/'outputs/goal-calibration-20261010/08-manuscript/submission-20261013/创新药评价的注意力配置差异与协调路径-署名阅读版-最终结果.docx'
 OUT = Path(__file__).resolve().parent.parent
 DST = OUT/'创新药评价的注意力配置差异与协调路径-格式校正版-方法待定.docx'

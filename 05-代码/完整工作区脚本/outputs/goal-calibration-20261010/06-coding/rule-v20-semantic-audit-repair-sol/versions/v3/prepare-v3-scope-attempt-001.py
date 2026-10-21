@@ -1,6 +1,6 @@
 from pathlib import Path
 import hashlib,json,shutil,copy,datetime
-root=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+root=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 v2=root/'06-coding/rule-v20-semantic-audit-repair-sol/versions/v2'
 v3=v2.parent/'v3'
 v3.mkdir(exist_ok=False)

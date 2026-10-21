@@ -18,4 +18,4 @@
 
 02588 已实际核同版 2019 原TXT：当前“谈判专家…负责…现场谈判”，与第91行“谈判专家根据评估意见与企业开展谈判，确定全国统一的医保支付标准和管理政策”相连；不是继承相邻测算专家的标签。00307 原规则确实留有同段引文，不属于凭空猜测，其争议在经济对象范围。
 
-逐条原文、packet SHA、JSON指针、来源页/段、手册原句与当前两机理由见 [完整诊断](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results/Ec-disagreement-source-diagnosis.json)。PDF定位采用已冻结packet所记物理页，未宣称本次重新OCR/视觉核页。本次未改任何标签、代码或材料，未运行分类、统计或新控件，未读取正在运行的 rule2082 或稳定性输出。
+逐条原文、packet SHA、JSON指针、来源页/段、手册原句与当前两机理由见 [完整诊断](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results/Ec-disagreement-source-diagnosis.json)。PDF定位采用已冻结packet所记物理页，未宣称本次重新OCR/视觉核页。本次未改任何标签、代码或材料，未运行分类、统计或新控件，未读取正在运行的 rule2082 或稳定性输出。

@@ -9,7 +9,7 @@
 - `未用于本次编写的开发检查/real12_rule_inputs_original_lines.jsonl` 的 `RECODE25-01432`（原 ID `3c93f0797a:u00056`）：当前直接引用只选择 p0022，即经绑定 HTML 全条两段对应认证的第七条第一款；最终语境锚点仅 p0022，新增 E 亦仅 p0022；未保留第五条递归证据，旧 E 为空。
 - `已曝光23条检查/real21_rule_inputs_original_lines.jsonl` 的 `RECODE25-02086`（原 ID `5f940f44cf:renew22_u014`）：最终语境锚点为 renew22_p025、p026、p027；“原支付范围满足条件(1)的情况下”前提锚点数为 0。此处记录证据定位，不报告新分数。
 
-环境及执行记录：首次系统 `python3 -B` 已完成 01432；继续认证 02086 的 PDF 语境时因 `ModuleNotFoundError: No module named 'pypdf'` 中止，02086 未完成该次完整管线。随后使用既有 bundled Python `/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -B` 完成 02086；支付 helper 更新后，使用该环境各复跑两条中的每一条一次。因此此前共有 2 个不同实际输入、4 次完整单条管线执行；未安装依赖。表格修复后的本次收束没有重跑这两条。
+环境及执行记录：首次系统 `python3 -B` 已完成 01432；继续认证 02086 的 PDF 语境时因 `ModuleNotFoundError: No module named 'pypdf'` 中止，02086 未完成该次完整管线。随后使用既有 bundled Python `/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -B` 完成 02086；支付 helper 更新后，使用该环境各复跑两条中的每一条一次。因此此前共有 2 个不同实际输入、4 次完整单条管线执行；未安装依赖。表格修复后的本次收束没有重跑这两条。
 
 支付语境问题已闭环：旧实现对整分句作过滤，却允许必需内容 fallback 的窄“医保支付范围”绕过。最新 `_payment_context_premise_only` 根据 relation 真实跨度回查所属完整分句；构造“(2)调整医保支付范围的药品:原支付范围满足条件(1)的情况下”两路径均被排除，“原医保支付范围满足条件的情况下”被排除，“应当确定新的医保支付范围”保留。此前实际两条复跑时使用的 38 个 runtime `.py` 合并 SHA256 为 `d9fcf3b6ab1a16d35abe1a6bfaccb116cf7b38b5d8d65d0fe91e17bc0a267bf8`。
 

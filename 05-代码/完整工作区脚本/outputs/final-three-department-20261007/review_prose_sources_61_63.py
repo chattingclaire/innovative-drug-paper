@@ -4,7 +4,7 @@ from pathlib import Path
 from docx import Document
 
 B=Path(__file__).resolve().parent
-A=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/04-访谈与研讨会原始资料')
+A=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/04-访谈与研讨会原始资料')
 def sha(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def anchors(fn,fragments):
     p=A/fn;d=Document(p);out=[]

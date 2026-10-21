@@ -8,7 +8,7 @@ from pathlib import Path
 
 D=Path(__file__).resolve().parent
 PREP=D.parent
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/goal-calibration-20261010'
 CODE=BASE/'06-coding/rule-five-dimension-joint-root/versions/joint-v5-primary-standard-bridge-sol'
 PREPSHA='74491ccf70822fc36b8426d0fb13c5f2b337cc9d7dd2bc36ef86435b128a941d'

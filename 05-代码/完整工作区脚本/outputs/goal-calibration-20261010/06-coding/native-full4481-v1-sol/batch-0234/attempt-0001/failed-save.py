@@ -2,9 +2,9 @@ import json, hashlib
 from pathlib import Path
 from datetime import datetime, timezone
 
-ap=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0234/assignment.json')
+ap=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0234/assignment.json')
 a=json.loads(ap.read_text())
-slot=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0234/attempt-0001')
+slot=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0234/attempt-0001')
 label='native_full4481v1_b0234_a01'
 transport='fresh_codex_cli_exec'
 all_ids=a['source_ids']

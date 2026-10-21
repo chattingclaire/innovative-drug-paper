@@ -4,9 +4,9 @@
 
 ## 同版来源
 
-结构化快照：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json`，14694字节，SHA256 `09d813b3014db4137d2bceab8bc280c396a5916fafa7bb4c216c5798ae824d06`。它与原包source_documents[0]及该包明确资源中记录的snapshot/source_sha256完全相符。原始结构化资产`/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NMPA-数据保护2026-完整结构化正文.json`也逐字节相同。
+结构化快照：`/PROJECT_ROOT/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json`，14694字节，SHA256 `09d813b3014db4137d2bceab8bc280c396a5916fafa7bb4c216c5798ae824d06`。它与原包source_documents[0]及该包明确资源中记录的snapshot/source_sha256完全相符。原始结构化资产`/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NMPA-数据保护2026-完整结构化正文.json`也逐字节相同。
 
-原始HTML：`/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NMPA-数据保护2026-白银政府转载.html`，49596字节，SHA256 `e0e9f205f2ba8bdd245da3ebeee78fe68f86b3c7d791b23585ff59acab9ba88b`。此SHA既见于绑定结构化资产source_sha256，又见原包既有原文资源raw_html绑定。实际字节哈希相符；第六条四段可见文本均与结构化快照原Unicode字符串严格相等。没有使用网页重抓、新版本文件或文件名年份来补文。这里不另推断真实公布或施行日期。
+原始HTML：`/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NMPA-数据保护2026-白银政府转载.html`，49596字节，SHA256 `e0e9f205f2ba8bdd245da3ebeee78fe68f86b3c7d791b23585ff59acab9ba88b`。此SHA既见于绑定结构化资产source_sha256，又见原包既有原文资源raw_html绑定。实际字节哈希相符；第六条四段可见文本均与结构化快照原Unicode字符串严格相等。没有使用网页重抓、新版本文件或文件名年份来补文。这里不另推断真实公布或施行日期。
 
 原01402 packet SHA256 `57ec2ec5e9da612eedd296c15b37e74eabeaddc424fd148c00f4ef42dbf8a298`，64993字节。当前位置p0021/u00026，仅本记录被用于材料关联。
 

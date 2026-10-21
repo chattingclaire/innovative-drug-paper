@@ -2,7 +2,7 @@ from pathlib import Path
 import json,hashlib,re
 from datetime import datetime
 OUT=Path(__file__).parent
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 DEST=OUT/'统一口径-v1.2'
 if DEST.exists():raise RuntimeError('Preserve issued protocol; create a new version')
 DEST.mkdir()

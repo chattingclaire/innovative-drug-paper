@@ -14,7 +14,7 @@ ROOT 交接的必要顺序：
 6. ROOT 根据 GO.template.json 写真实外部 GO，绑定本 seal、terminal observation、真实操作证据，并只授权这个入口。GO 前仍不得启动新 13。未来执行入口：
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-whole-capacity13-handoff-preparation-sol/runner.py' --mode run --go '<ROOT真实GO绝对路径>'
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-whole-capacity13-handoff-preparation-sol/runner.py' --mode run --go '<ROOT真实GO绝对路径>'
 ```
 
 观察器与 runner 均使用同一个本封印；run 另取排他 execution.lock，只允许一次 runtime。执行前会再次核 terminal 对应槽状态和全部旧进程不存在。GO 后只向原 manifest 的空预留槽追加真实执行，容量侧记和外部 receipts/runtime 在 H 内。绝不同时启动旧 v4/另一个 runner。

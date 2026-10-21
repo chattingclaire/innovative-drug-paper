@@ -3,7 +3,7 @@ import argparse, collections, hashlib, json, random, re, shutil, unicodedata
 from pathlib import Path
 from datetime import datetime
 
-BASE = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+BASE = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 OUT = Path(__file__).parent
 CAL = OUT.parent / '01a0dbb7-blind-review'
 parser=argparse.ArgumentParser();parser.add_argument('--audit-only',action='store_true');parser.add_argument('--version',default='1');parser.add_argument('--corpus',type=Path,default=BASE/'统一文本复核包.jsonl');parser.add_argument('--adapter',type=Path,default=BASE/'统计输入接入准备.json');args=parser.parse_args()

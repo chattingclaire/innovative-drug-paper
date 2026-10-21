@@ -9,7 +9,7 @@ import hashlib
 import json
 from pathlib import Path
 
-PROJECT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+PROJECT = Path('/PROJECT_ROOT')
 HERE = PROJECT/'outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定'
 OUT = HERE/'failure-mechanism-audit'
 SOURCE = PROJECT/'outputs/coding-revision-20261007-r3/effective_blind_inputs_v14.jsonl'

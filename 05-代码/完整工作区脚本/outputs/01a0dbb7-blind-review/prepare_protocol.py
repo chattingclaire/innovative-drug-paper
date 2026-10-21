@@ -2,7 +2,7 @@ from pathlib import Path
 import json, hashlib, ast
 
 root=Path(__file__).resolve().parent
-work=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+work=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 archive=work.parent
 protocol=root/'统一口径'
 protocol.mkdir(exist_ok=True)

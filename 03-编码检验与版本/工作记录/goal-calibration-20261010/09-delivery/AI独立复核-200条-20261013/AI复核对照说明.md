@@ -27,8 +27,8 @@
 
 ## 两份完整结果
 
-- [AI 复核者 A：完整 Excel](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/AI复核-A-200条.xlsx)。D 列为判断，E 列为理由与原文依据；材料文件夹与附件同置，B 列可打开原文。
-- [AI 复核者 B：完整 Excel](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx)。D 列为判断，E 列为理由与原文依据；材料文件夹与附件同置，B 列可打开原文。
+- [AI 复核者 A：完整 Excel](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/AI复核-A-200条.xlsx)。D 列为判断，E 列为理由与原文依据；材料文件夹与附件同置，B 列可打开原文。
+- [AI 复核者 B：完整 Excel](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx)。D 列为判断，E 列为理由与原文依据；材料文件夹与附件同置，B 列可打开原文。
 
 ## 明确分歧
 
@@ -54,7 +54,7 @@
 <a id="a-016-e"></a>
 ### A-016 / B-168 · 有效性 E
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-016.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-016.html)
 
 > 上述各种因果推断方法均有各自的适用条件和假设,例如未观测协变量的可交换性、一致性和正相关性,因此需要针对这些假设进行敏感性分析,以期对因果推断结果的稳健性进行评价。
 
@@ -65,7 +65,7 @@
 <a id="a-023-ec"></a>
 ### A-023 / B-002 · 经济性 Ec
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-023.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-023.html)
 
 > 支付标准的制定和调整规则另行制定。
 
@@ -76,7 +76,7 @@
 <a id="a-036-i"></a>
 ### A-036 / B-190 · 创新性 I
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-036.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-036.html)
 
 > 给予此类药品更宽裕的申报时间,有助于更好地确认其临床价值,避免因价值得到确认、转为常规批准时超过 5 年申报期而失去纳入目录的机会。
 
@@ -87,7 +87,7 @@
 <a id="a-084-s"></a>
 ### A-084 / B-127 · 安全性 S
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-084.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-084.html)
 
 > 在药物设计时,如果预期将用于老年患者长期给药,且与食物或饮品共同给药或混合用药的可能性大,鼓励评估药物与食品或饮品的相容性,包括允许合用的物质类别、接触时间、接触面积,以及服药操作和注意事项。
 
@@ -98,7 +98,7 @@
 <a id="a-088-s"></a>
 ### A-088 / B-035 · 安全性 S
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-088.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-088.html)
 
 > 第三十九条 综合审评结论通过的,批准药品上市,发给药品注册证书。
 
@@ -109,7 +109,7 @@
 <a id="a-088-e"></a>
 ### A-088 / B-035 · 有效性 E
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-088.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-088.html)
 
 > 第三十九条 综合审评结论通过的,批准药品上市,发给药品注册证书。
 
@@ -120,7 +120,7 @@
 <a id="a-105-i"></a>
 ### A-105 / B-040 · 创新性 I
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-105.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-105.html)
 
 > 申请人应当根据品种研发的实际需求,合理选择30日通道或者60日默示许可,并将临床试验开展等情况登记至药物临床试验登记与信息公示平台。
 
@@ -131,7 +131,7 @@
 <a id="a-119-s"></a>
 ### A-119 / B-118 · 安全性 S
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-119.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-119.html)
 
 > 第十一条药物临床试验的质量管理应当贯穿临床试验全过程,以保护试验参与者的权益和安全,确保临床试验结果可靠,并遵守相关法律法规。
 
@@ -142,7 +142,7 @@
 <a id="a-120-i"></a>
 ### A-120 / B-161 · 创新性 I
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-120.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-120.html)
 
 > 附条件上市药品除可在获批后 5 年内申报外,如果 5 年内任意时间转为常规批准,还可在常规批准后的 3 年内申报,原则上这些药品最多可获得“5 年+3年”的申报时间。
 
@@ -153,7 +153,7 @@
 <a id="a-122-i"></a>
 ### A-122 / B-045 · 创新性 I
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-122.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-122.html)
 
 > 优化医保部门企业接待机制,畅通医保部门与创新药企业沟通交流渠道,有针对性加强创新药在药品目录准入方面的政策指导。
 
@@ -164,7 +164,7 @@
 <a id="a-126-s"></a>
 ### A-126 / B-098 · 安全性 S
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-126.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-126.html)
 
 > 三、在本公告发布之日前已经进入行政审批阶段、尚未获得批准的药品注册申请,符合《实施办法》中给予药品试验数据保护条件的,申请人应当在公告发布之日起15日内向药审中心提出药品试验数据保护申请。
 
@@ -175,7 +175,7 @@
 <a id="a-126-e"></a>
 ### A-126 / B-098 · 有效性 E
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-126.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-126.html)
 
 > 三、在本公告发布之日前已经进入行政审批阶段、尚未获得批准的药品注册申请,符合《实施办法》中给予药品试验数据保护条件的,申请人应当在公告发布之日起15日内向药审中心提出药品试验数据保护申请。
 
@@ -186,7 +186,7 @@
 <a id="a-149-s"></a>
 ### A-149 / B-200 · 安全性 S
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-149.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-149.html)
 
 > (四)药物临床试验质量管理,对药物临床试验的质量实施管理,包括建立质量管理体系和开展具体的质量管理活动,目的是保护试验参与者的权益和安全,确保数据和结果科学、真实、可靠,试验全过程遵循试验方案、本规范和相关法律法规。
 
@@ -197,7 +197,7 @@
 <a id="a-160-ec"></a>
 ### A-160 / B-131 · 经济性 Ec
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-160.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-160.html)
 
 > 答:2025 年,经国务院同意,国家医保局会同国家卫生健康委印发了《支持创新药高质量发展的若干措施》,明确提出增设商保创新药目录。
 
@@ -208,7 +208,7 @@
 <a id="a-160-f"></a>
 ### A-160 / B-131 · 公平性 F
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-160.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-160.html)
 
 > 答:2025 年,经国务院同意,国家医保局会同国家卫生健康委印发了《支持创新药高质量发展的若干措施》,明确提出增设商保创新药目录。
 
@@ -219,7 +219,7 @@
 <a id="a-178-i"></a>
 ### A-178 / B-058 · 创新性 I
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-178.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-178.html)
 
 > 这一安排不仅更好与审评审批政策衔接,也充分体现了医保对创新的支持和证据的尊重。
 
@@ -231,7 +231,7 @@
 
 ### A-117 / B-197 · 创新性 I
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-117.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-117.html)
 
 > 2024年药审中心启动了“关爱计划”试点工作。
 
@@ -241,7 +241,7 @@
 
 ### A-117 / B-197 · 公平性 F
 
-[当前原文及完整语境](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-117.html)
+[当前原文及完整语境](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/材料/A-117.html)
 
 > 2024年药审中心启动了“关爱计划”试点工作。
 

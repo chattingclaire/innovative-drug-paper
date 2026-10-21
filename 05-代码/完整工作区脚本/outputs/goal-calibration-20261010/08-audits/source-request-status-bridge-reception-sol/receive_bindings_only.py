@@ -2,7 +2,7 @@
 import ast, datetime, hashlib, json
 from pathlib import Path
 
-BASE=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+BASE=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 HERE=Path(__file__).resolve().parent
 BRIDGE=BASE/'08-audits/source-request-status-bridge-sol'
 HISTORY=BASE/'08-audits/v5-historical-S3-ledger-interface-sol'

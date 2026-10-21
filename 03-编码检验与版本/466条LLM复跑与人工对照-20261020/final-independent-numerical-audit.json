@@ -8,28 +8,28 @@
   "method": "Independent integer marginal-product Cohen kappa and Counter-based contingency implementation; no existing collector/comparison/validator function imported or executed. New barrier/result hashes and original whole-batch selections rechecked before old fixed-sample labels were parsed. Only fixed466 old label records parsed; other old lines used only for immutable raw-file hash/line identity presence.",
   "evidence_bindings": {
     "new_answer_seal": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/新答案封存.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/新答案封存.json",
       "bytes": 538798,
       "sha256": "20a75448cc3e03db3dd9588db7578ff3eac2a9af7f9fd203bb2595299295291d"
     },
     "result_files": [
       {
-        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.jsonl",
+        "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.jsonl",
         "bytes": 1310006,
         "sha256": "fae526d2fb6e4de4fac63bc857ac29c2888d52fed8be6d52f59159d0f6dfcbcd"
       },
       {
-        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.json",
+        "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.json",
         "bytes": 1672253,
         "sha256": "a75f39fff8045b597d6be1893f0363fcc7621cab53d15e13717d3025b0a9d7bc"
       },
       {
-        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/逐条结果与依据.md",
+        "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/逐条结果与依据.md",
         "bytes": 1070727,
         "sha256": "f17df33df7ec7278f8785fd6b45a47622a3b55868aff07e9e8dae6c3ea133241"
       },
       {
-        "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/完整性核查.json",
+        "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/完整性核查.json",
         "bytes": 198979,
         "sha256": "ae2393b370ff46fff87322ce01727de551e79f95949d28bc26829370fa0efd15"
       }
@@ -37,93 +37,93 @@
     "postrun_code_versions": {
       "v1": {
         "collector": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers.py",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers.py",
           "bytes": 30954,
           "sha256": "3cb65e4634aa1ebf80f5c33f0d0fdb3c3e13a215cdaa613a9eff7e3cdbbc0e47"
         },
         "comparison": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm.py",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm.py",
           "bytes": 27990,
           "sha256": "c33abf2a9893cead9235dca61cc769ce5085649bfdbd7d790f3131366c43561f"
         },
         "audit": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit.json",
           "bytes": 11202,
           "sha256": "201bfd2464d65ef99c7ea9f6fde0d8e18f0c6204631af9b4ee1609b32cb2a071"
         }
       },
       "v2": {
         "collector": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v2.py",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v2.py",
           "bytes": 49958,
           "sha256": "bbab8f8f15400d7ec95c2f181f615eaca665545eb1af07a53df789c38fc4e5fa"
         },
         "comparison": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v2.py",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v2.py",
           "bytes": 30735,
           "sha256": "4258c601260e00015920ccd8d7e14cba38cb32856d3f9b566104f53ae162c514"
         },
         "audit": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v2.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v2.json",
           "bytes": 16179,
           "sha256": "1bc6092a1e38c1b3f031ee8806b2585dcee1769a8967df6df5d15f7b7c3fc37f"
         }
       },
       "v3": {
         "collector": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v3.py",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/seal_new_answers_v3.py",
           "bytes": 64374,
           "sha256": "f7466d26604485b862387cb91226da3467953721a3df4c8872e848d84ae0248e"
         },
         "comparison": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v3.py",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/compare_old_llm_v3.py",
           "bytes": 35728,
           "sha256": "9f7a13e09328cab0ca00d85596463e31da4026f015794c09d115399f8737eefb"
         },
         "audit": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v3.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/postrun-collector-code-audit-v3.json",
           "bytes": 16025,
           "sha256": "a80f8d23555f5935494517a3ccd74410b980f714db81a8f1ec2b8a7aa7c237cc"
         }
       }
     },
     "delivered_comparison": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/与旧LLM五维比较.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/与旧LLM五维比较.json",
       "bytes": 29015,
       "sha256": "c9b3ca8fd7521605f906099b15c0f7446b75e25f2ae87790d0612315f9a574c1"
     },
     "delivered_differences": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/差异逐条清单.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/差异逐条清单.json",
       "bytes": 32378,
       "sha256": "88ca988e3390671d1e61ba6aea16e9ba853132a2463826ac37470547a015400d"
     },
     "comparison_explanation": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/五维比较说明.md",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/五维比较说明.md",
       "bytes": 4929,
       "sha256": "81a473414e47880235c37ad3681a1b586319557f683fff347f10f3b306de189b"
     },
     "fixed_ids": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/approved_record_ids.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/approved_record_ids.json",
       "bytes": 9323,
       "sha256": "29bb889e8ebbf5dcc5868ac021e77b83d40bceb64a58caa3661a364bd4679352"
     },
     "source_input_metadata": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/source-inputs.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/source-inputs.json",
       "bytes": 1089128,
       "sha256": "cfe5d0394cf66350b748026327cd88ec2dbcf260d75aecdd3cb5780263989d2b"
     },
     "run_manifest": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/run-manifest.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/run-manifest.json",
       "bytes": 46881,
       "sha256": "3bef4f7acdcfda746b3259bbcc32bde40b305072d0e3145dc8709ff0fbb55cb6"
     },
     "old_archived_seal": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/seal.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/seal.json",
       "bytes": 1593,
       "sha256": "1184d15307a234920149e7ecb00048e54af357719595acdcb33f87ce0b26d710"
     },
     "old_llm_delivery": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/selected-records.jsonl",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/selected-records.jsonl",
       "bytes": 20556918,
       "sha256": "e5c0b8ac3c5b4b76f9e8a019d2b4e87a8930cb0f91d9234d9d537215b982fbb8"
     }
@@ -13608,7 +13608,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0001/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0001/attempt-0001/first.json",
           "bytes": 82835,
           "sha256": "4394e5afd827c17f5006d9e306a1269763a827878933e8394c248cc4c51f4e99"
         }
@@ -13623,7 +13623,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0002/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0002/attempt-0001/first.json",
           "bytes": 68413,
           "sha256": "cd1a8080155400ff87fecbbda63b87f1a97bf3b466f5c2ba4d21e308a33ab255"
         }
@@ -13638,7 +13638,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0003/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0003/attempt-0001/first.json",
           "bytes": 72368,
           "sha256": "bffab5eee0479bbee66d50d624bcd2f3afa58a34738a8752589725e85abce648"
         }
@@ -13653,7 +13653,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0004/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0004/attempt-0001/first.json",
           "bytes": 79498,
           "sha256": "f6447d10025a0ebbf21914c84cc7f26415927d6fe91a2d1da93c08e141c1f434"
         }
@@ -13668,7 +13668,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0005/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0005/attempt-0001/first.json",
           "bytes": 67059,
           "sha256": "05ed66285fcb16696e3c5f963be81c2681e3cc9a15b7d200b01f49c91da06bfd"
         }
@@ -13683,7 +13683,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0006/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0006/attempt-0001/first.json",
           "bytes": 83842,
           "sha256": "b8969fa93c70435acf8bf4712ffaec002bd67755948a4af4ab67ecd3b4ce376d"
         }
@@ -13698,7 +13698,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0007/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0007/attempt-0001/first.json",
           "bytes": 75146,
           "sha256": "bddcc4365f384136f333e3af4a59927f8daaa6e46326e60994de83b2b0fbc726"
         }
@@ -13713,7 +13713,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0008/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0008/attempt-0001/first.json",
           "bytes": 36311,
           "sha256": "6b6ca8ded4247e8fdcf22c90451e78f8650adbbd2498aa541a303b74fa9d6ce4"
         }
@@ -13728,7 +13728,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0009/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0009/attempt-0001/first.json",
           "bytes": 37799,
           "sha256": "7ac6f3abb573101e8b53870f6d451ce1d10797be2f50790b2fdd9b377d73dcab"
         }
@@ -13743,7 +13743,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0010/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0010/attempt-0001/first.json",
           "bytes": 69672,
           "sha256": "d0f8a686bee93788e2399775c828dccf792d70eeb51e08e805655d7ec5534626"
         }
@@ -13758,7 +13758,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0011/attempt-0001/first.json",
           "bytes": 78067,
           "sha256": "80ad815b122eeb7415aea9079acffc7b712d73bbcf82b3d2e5a5078e1eb7053f"
         }
@@ -13773,7 +13773,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0012/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0012/attempt-0001/first.json",
           "bytes": 62339,
           "sha256": "5e185b175b10cc5bf13c5792ed2f92f87d983d82f7d01001ae4851444c64c65b"
         }
@@ -13788,7 +13788,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0013/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0013/attempt-0001/first.json",
           "bytes": 64511,
           "sha256": "3d1b39d7e328e742b8113aa20f1bcf854608924a92db9b456c0506fc64719a16"
         }
@@ -13803,7 +13803,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0014/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0014/attempt-0001/first.json",
           "bytes": 95297,
           "sha256": "e311ca39f485f49cda3afd769e45258ba595b0ddd2352121d0f7193a96ab1259"
         }
@@ -13818,7 +13818,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0015/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0015/attempt-0001/first.json",
           "bytes": 65501,
           "sha256": "1e694df3f88e997933d490952959cfec40805b17d63ed8595344d411b037a042"
         }
@@ -13833,7 +13833,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0016/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0016/attempt-0001/first.json",
           "bytes": 70454,
           "sha256": "f983d7faae78a69f48bf1359098b1ac10e0bfb212d7c822d03fffc489169dc6e"
         }
@@ -13848,7 +13848,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0017/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0017/attempt-0001/first.json",
           "bytes": 84572,
           "sha256": "baac0f017e04aa70d0e4e5fcee23bf20f9194230d5e979b3717bf10c03f7fd7e"
         }
@@ -13865,7 +13865,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0018/attempt-0001/first.json",
           "bytes": 92198,
           "sha256": "f453302393c9a6bec11bec2fdf1cde4c7b4dfc04afba5dd811bc414c685d19a0"
         }
@@ -13882,7 +13882,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0019/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0019/attempt-0001/first.json",
           "bytes": 77234,
           "sha256": "e8dd9c98b32abc010c8c57e52a16696241855ab65e5d70c1c871ffbe3623f77a"
         }
@@ -13897,7 +13897,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0020/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0020/attempt-0001/first.json",
           "bytes": 74268,
           "sha256": "24788e44986a7ab7f01920798d24d479f4fa64825a7690ec4949f3137dd5f78c"
         }
@@ -13912,7 +13912,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0021/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0021/attempt-0001/first.json",
           "bytes": 66705,
           "sha256": "9143830c7c931ddcda003fd42647255fdf16fdae844c9ce9a334601acd43ec63"
         }
@@ -13927,7 +13927,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0022/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0022/attempt-0001/first.json",
           "bytes": 74365,
           "sha256": "63ff17be5f405b9909d9de55f0d3eb0060a7c9f62d151967e59a31083c570a04"
         }
@@ -13942,7 +13942,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0023/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0023/attempt-0001/first.json",
           "bytes": 69065,
           "sha256": "a7e8e94f3e8a3bac48feaad6c9106306017936d5221ba7f64b78d1c2dd5ea3eb"
         }
@@ -13957,7 +13957,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0024/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0024/attempt-0001/first.json",
           "bytes": 82790,
           "sha256": "cc7b8a119e0b7da06ad87fabed2bc71a9cf6136d108f1cfa67be12bb6af739a1"
         }
@@ -13972,7 +13972,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0025/attempt-0001/first.json",
           "bytes": 74998,
           "sha256": "34e8065499e522f24344e3c71377e0fa715b6483d59f2fb014712e8f18662180"
         }
@@ -13987,7 +13987,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0026/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0026/attempt-0001/first.json",
           "bytes": 66122,
           "sha256": "9d666ec9449f78730f33409295c421123347e9b9cfc59519c46686f6d2332650"
         }
@@ -14002,7 +14002,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0027/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0027/attempt-0001/first.json",
           "bytes": 79027,
           "sha256": "1a85898e14cd035e9ffa790da8dd7afe4a1f1f60aef48a6782f744666d59ef49"
         }
@@ -14021,7 +14021,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0028/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0028/attempt-0001/first.json",
           "bytes": 68874,
           "sha256": "ccc7505ed83362753319272557f10eeac372e2c3cf0509527631809ff8c870d3"
         }
@@ -14036,7 +14036,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0029/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0029/attempt-0001/first.json",
           "bytes": 78499,
           "sha256": "774da58d9c19c15c5c1b3ba2011b1115412a717925b5b7743ac5009474ebd0f1"
         }
@@ -14052,7 +14052,7 @@
         ],
         "selected_attempt_number": 2,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0030/attempt-0002/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0030/attempt-0002/first.json",
           "bytes": 81911,
           "sha256": "f944af2d16c5bd85f3e62b5567f3dbd2848c00fade632fdb331ba71176a4c105"
         }
@@ -14069,7 +14069,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0031/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0031/attempt-0001/first.json",
           "bytes": 73956,
           "sha256": "9907afa4f914e71bb8298e06189b50228cf608e70d3bae637d38ef03d55deefd"
         }
@@ -14084,7 +14084,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0032/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0032/attempt-0001/first.json",
           "bytes": 92548,
           "sha256": "2ffa35e659954be6a9fba4a2f2b350932f36a492bd142a3f131f8d1e5b486d76"
         }
@@ -14101,7 +14101,7 @@
         ],
         "selected_attempt_number": 3,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0033/attempt-0003/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0033/attempt-0003/first.json",
           "bytes": 86259,
           "sha256": "31cc74b53c830ed7c9ecc957a75b81775c0d9d2bb1d36020a1d1ef430cbda1bb"
         }
@@ -14116,7 +14116,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0034/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0034/attempt-0001/first.json",
           "bytes": 64845,
           "sha256": "6e93f8ac55c7ecc5204692a283092de789340c23c090106b735d3481835f8a5b"
         }
@@ -14131,7 +14131,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0035/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0035/attempt-0001/first.json",
           "bytes": 60805,
           "sha256": "5c020691ce509184976dec54a3e0a19c16ebe99e9681a62c59de12bdb81aff2f"
         }
@@ -14146,7 +14146,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0036/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0036/attempt-0001/first.json",
           "bytes": 25589,
           "sha256": "7964eeff0ead513e29a956ec7e54bb5fb0d732186f88437c626892e144b0ac83"
         }
@@ -14161,7 +14161,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0037/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0037/attempt-0001/first.json",
           "bytes": 28094,
           "sha256": "a897f54573f53d57a2e0e9c82aa6904770f2758aae064d5496a74729ee4100f8"
         }
@@ -14176,7 +14176,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0038/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0038/attempt-0001/first.json",
           "bytes": 25454,
           "sha256": "0d101a3528618b993d35101a652eb363a67d7e4aa4e7a05a243520d6af9c78bc"
         }
@@ -14191,7 +14191,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0039/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0039/attempt-0001/first.json",
           "bytes": 26809,
           "sha256": "b1d9eb7bffed3896a5321ef2e2426d0393b760ecbfa37a0e314eeee88c2c1c99"
         }
@@ -14206,7 +14206,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0040/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0040/attempt-0001/first.json",
           "bytes": 75838,
           "sha256": "4c8f6d05778b5ef8629b4de39c1702b70d9397cb3d9c2b11c64f7b6b44f8f4f7"
         }
@@ -14221,7 +14221,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0041/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0041/attempt-0001/first.json",
           "bytes": 60447,
           "sha256": "3ee983c4c642a86b7c1101d206fb1cb32d86db11835d8e3be3e92f9beaf23217"
         }
@@ -14236,7 +14236,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0042/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0042/attempt-0001/first.json",
           "bytes": 63344,
           "sha256": "cb19cea524768b2d746a7c95503c322d55bb7dfbf2f893451ecb58ca87993113"
         }
@@ -14251,7 +14251,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0043/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0043/attempt-0001/first.json",
           "bytes": 67596,
           "sha256": "351d8ae4b3c2aebc0ffb649be09c5b37a0e59b063db1deeb624a226cafb7bd9c"
         }
@@ -14266,7 +14266,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0044/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0044/attempt-0001/first.json",
           "bytes": 79644,
           "sha256": "159be45f4504bd1e68ff729a91233258aad72cf5a8f083e7593a47424d860a16"
         }
@@ -14281,7 +14281,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0045/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0045/attempt-0001/first.json",
           "bytes": 75435,
           "sha256": "8cf4614bd5ba5e49c2d22094c0d4bb5eb062de16d7e5ba361f1fdd839b9f1518"
         }
@@ -14296,7 +14296,7 @@
         ],
         "selected_attempt_number": 1,
         "original_first": {
-          "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0046/attempt-0001/first.json",
+          "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/batch-0046/attempt-0001/first.json",
           "bytes": 23709,
           "sha256": "3c8f9c48cbe090ec9ed187227f1e13e3f0350011dfedeb79d22468c5cb088a16"
         }

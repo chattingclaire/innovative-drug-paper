@@ -9,19 +9,19 @@
 1. Only after full03 actual QA closes; seal development inputs, no formal adoption
 
 ```sh
-python3 "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/statistics/prepare_candidate03_development_bindings_r3.py" --full-binding "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/llm-candidate03-development/full-corpus-candidate03-material-v14-development/full_development_binding.json" --full-binding-sha256 ACTUAL_CLOSED_FULL_BINDING_SHA256 --preparation-freeze-sha256 90d75536f4d90785b4c6d79ddd977626c51ef4c673992fd300bbf3bdc0320aaa --root-confirmed-development --out "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/actual-input-bindings-v1"
+python3 "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/statistics/prepare_candidate03_development_bindings_r3.py" --full-binding "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/llm-candidate03-development/full-corpus-candidate03-material-v14-development/full_development_binding.json" --full-binding-sha256 ACTUAL_CLOSED_FULL_BINDING_SHA256 --preparation-freeze-sha256 90d75536f4d90785b4c6d79ddd977626c51ef4c673992fd300bbf3bdc0320aaa --root-confirmed-development --out "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/actual-input-bindings-v1"
 ```
 
 2. Fresh5000 design statistics, probability180/challenge60 separated, all scopes/A/C/candidate
 
 ```sh
-python3 "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/statistics/run_candidate03_development_complete_statistics_r3.py" --bindings "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/actual-input-bindings-v1/rules-v36.2-plus-LLM03-development-bindings.json" --bindings-sha256 ACTUAL_NEW_DEVELOPMENT_BINDINGS_SHA256 --out "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/methods-20261008/rules-v36.2-plus-LLM03-development-complete-statistics"
+python3 "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/statistics/run_candidate03_development_complete_statistics_r3.py" --bindings "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/actual-input-bindings-v1/rules-v36.2-plus-LLM03-development-bindings.json" --bindings-sha256 ACTUAL_NEW_DEVELOPMENT_BINDINGS_SHA256 --out "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/methods-20261008/rules-v36.2-plus-LLM03-development-complete-statistics"
 ```
 
 3. Fresh4481 and same180 descriptive all10pairs, actual03 subtypes definition6 and metadata composition56; no inherited02 results
 
 ```sh
-python3 "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/statistics/run_candidate03_full_findings_r3.py" --bindings "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/actual-input-bindings-v1/rules-v36.2-plus-LLM03-development-bindings.json" --bindings-sha256 ACTUAL_NEW_DEVELOPMENT_BINDINGS_SHA256 --out "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/methods-20261008/rules-v36.2-plus-LLM03-development-findings"
+python3 "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/statistics/run_candidate03_full_findings_r3.py" --bindings "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/methods-20261008/candidate03-complete-statistics-preparation/actual-input-bindings-v1/rules-v36.2-plus-LLM03-development-bindings.json" --bindings-sha256 ACTUAL_NEW_DEVELOPMENT_BINDINGS_SHA256 --out "/PROJECT_ROOT/outputs/coding-revision-20261007-r3/methods-20261008/rules-v36.2-plus-LLM03-development-findings"
 ```
 
 步骤2：同180概率样本与60挑战样本分别计算；总体/部门、A/C/候选参照、四格/P/R/F1/κ、NA与适用主CI、同180注意力和部门/方法配对差值一并输出。N_h=947/760/60，B=5000、seed2026100731；NHC普查退化/稀有标签NA不修补。

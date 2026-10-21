@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,re,unicodedata,hashlib,collections
-O=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-v26-20260930/context_repair')
+O=Path('/PROJECT_ROOT/outputs/coding-v26-20260930/context_repair')
 def h(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def canon(s):return ''.join(t for t in unicodedata.normalize('NFKC',s) if t.isalnum()).lower()
 def save(name,obj):

@@ -206,7 +206,7 @@ print('生成 %s；引文 %d 篇（新增 %d）' % (OUT, len(order), sum(1 for k
 print('未被引用而删除的原文献：', [ '%s:%s' % (k, oldrefs[k][:14]) for k in sorted(oldrefs, key=lambda x: int(x[1:])) if k not in order])
 
 # ── 替换图2（雷达图）为按 v3 口径重绘的版本 ──
-NEWFIG = '/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/05-图表/图2-注意力占比雷达图-v3.png'
+NEWFIG = '/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/05-图表/图2-注意力占比雷达图-v3.png'
 if os.path.exists(NEWFIG):
     import shutil, tempfile
     src_zip = zipfile.ZipFile(OUT); tmp = OUT + '.tmp'

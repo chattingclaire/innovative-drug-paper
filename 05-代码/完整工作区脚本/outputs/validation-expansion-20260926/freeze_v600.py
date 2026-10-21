@@ -7,7 +7,7 @@ import sample_paired_holdout as sampler
 import paired_holdout_results as bridge
 
 O = Path(__file__).resolve().parent
-P = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+P = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 D = P / '后验证开发-v24'
 V = D / '同输入接入预览-v4-development-24-candidate-17'
 tracked = {}

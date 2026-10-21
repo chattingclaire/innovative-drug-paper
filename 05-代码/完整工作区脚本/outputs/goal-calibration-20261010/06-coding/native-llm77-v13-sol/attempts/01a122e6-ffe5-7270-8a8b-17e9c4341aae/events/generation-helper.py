@@ -1,5 +1,5 @@
 import pathlib,json,os,sys,hashlib
-ROOT=pathlib.Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding')
+ROOT=pathlib.Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding')
 sys.path.insert(0,str(ROOT/'protocol-necessary-read-v4'))
 import necessary_read_gate as g, native_records,packet_builder as pb
 U=os.environ['CODEX_THREAD_ID']; A=ROOT/'native-llm77-v13-sol/attempts'/U

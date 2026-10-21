@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 from unittest.mock import patch
 
 sys.dont_write_bytecode = True
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 BASE = ROOT/'outputs/编码修订核查-20261008/LLM编码'
 AUTHOR = BASE/'候选08-命题与证据判定'
 PRIVATE = BASE/'候选08-独立检查'
@@ -99,7 +99,7 @@ passed('Exposed240 and inherited106 inputs/order plus inherited expected file by
 # Exact limited adapter diff; original selection/validation logic is not replaced.
 old_audit = ROOT/'outputs/coding-revision-20261008-r4/llm-candidate05-preparation/audit_candidate05_v2.py'
 adapter = AUTHOR/'technical_audit_json_adapter.py'
-want = old_audit.read_text().replace("HERE = Path(__file__).resolve().parent", "HERE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261008-r4/llm-candidate05-preparation')")
+want = old_audit.read_text().replace("HERE = Path(__file__).resolve().parent", "HERE = Path('/PROJECT_ROOT/outputs/coding-revision-20261008-r4/llm-candidate05-preparation')")
 want = want.replace("    source = lines(run / 'frozen_input.jsonl')\n    assert sha(run / 'frozen_input.jsonl') == plan['input_sha256'] == sha(declared['input'])", "    frozen_input = run / plan['frozen_input_relative_path']\n    assert frozen_input.name in ['frozen_input.jsonl', 'frozen_input.json']\n    source = lines(frozen_input) if frozen_input.suffix == '.jsonl' else read(frozen_input)['rows']\n    assert sha(frozen_input) == plan['input_sha256'] == sha(declared['input'])")
 assert adapter.read_text() == want
 passed('Technical adapter changes limited to source HERE binding and JSON/JSONL input format')
@@ -117,7 +117,7 @@ assert plan['full_corpus_or_adoption'] is False
 for r in plan['runs']:
     assert r['logical_requests'] == math.ceil(r['n']/25)
     cmd = r['future_execution_command_after_separate_root_authorization_only']
-    assert cmd[0] == '/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+    assert cmd[0] == '/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
     assert cmd[1] == str(AUTHOR/'runtime-unchanged-v2/run_production_v32.py')
     assert cmd[cmd.index('--workers')+1] == str(r['workers'])
     assert '--start' not in cmd and '--limit-batches' not in cmd and '--plan-only' not in cmd

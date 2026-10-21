@@ -1,6 +1,6 @@
 from pathlib import Path
 import json, sys
-BASE=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A')
+BASE=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A')
 OUT=Path(__file__).parent
 ORDER=json.loads((OUT/'order.json').read_text())
 def read(a,b):

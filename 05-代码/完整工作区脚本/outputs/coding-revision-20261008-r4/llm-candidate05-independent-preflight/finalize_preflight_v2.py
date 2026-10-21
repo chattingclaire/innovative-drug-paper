@@ -5,7 +5,7 @@ import ast
 import hashlib
 import json
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 PREP=ROOT/'outputs/coding-revision-20261008-r4/llm-candidate05-preparation'
 OUT=Path(__file__).resolve().parent
 

@@ -24,7 +24,7 @@ corpus.write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in records
 prepared=prepare(corpus,W/'55条部门与系列映射-核验中.json',W/'部门归属与年度系列-冻结v1.json')
 write(output/'统计输入接入准备.json',prepared)
 by={r['review_id']:r for r in records}
-manual=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/统一口径-v1.3/五维共用编码协议.md')
+manual=Path('/PROJECT_ROOT/outputs/validation-expansion-20260926/统一口径-v1.3/五维共用编码协议.md')
 artifacts=[]
 for label,module,path in [('旧版',old,oldpath),('新版',new,newpath)]:
     rows=[dict(id=u['id'],record_sha256=u['record_sha256'],**module.code_unit(by[u['id']])) for u in prepared['units']]

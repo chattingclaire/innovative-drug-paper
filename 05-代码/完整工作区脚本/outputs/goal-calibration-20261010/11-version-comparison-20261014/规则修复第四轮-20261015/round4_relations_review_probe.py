@@ -1,6 +1,6 @@
 import sys,pathlib,json,copy,hashlib
 sys.dont_write_bytecode=True
-P=pathlib.Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第四轮-20261015')
+P=pathlib.Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/11-version-comparison-20261014/规则修复第四轮-20261015')
 e={'__file__':str(P/'round4_relations_tests.py')};exec((P/'round4_relations_tests.py').read_text().split('results=[]')[0],e)
 run=e['run'];transform=e['transform'];units=e['units'];out=[]
 def record(name,u):

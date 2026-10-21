@@ -1,7 +1,7 @@
 import json, pathlib, sys, hashlib, os
 sys.dont_write_bytecode = True
 ROOT = pathlib.Path(__file__).parent
-sys.path.insert(0, '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/protocol-necessary-read-v4')
+sys.path.insert(0, '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/protocol-necessary-read-v4')
 import necessary_read_gate as gate
 
 def write_new(name, value):

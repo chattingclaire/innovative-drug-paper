@@ -20,7 +20,7 @@ first=json.loads((RUN/'actual_command.json').read_text());second=json.loads((RUN
 assert first[1:]==second[1:] and first[0]!=second[0]
 assert (RUN/'actual_exit_code.txt').read_text().strip()=='1' and (RUN/'attempt2_exit_code.txt').read_text().strip()=='0'
 run=json.loads((RUN/'all_predictions_material_v14_shadow.run.json').read_text())
-assert second[0]==run['python_executable']=='/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+assert second[0]==run['python_executable']=='/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
 primary=Counter()
 for line in INPUT.read_text().splitlines():
  if not line.strip():continue

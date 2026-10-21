@@ -2,9 +2,9 @@ from pathlib import Path
 import hashlib
 import json
 
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定')
+BASE = Path('/PROJECT_ROOT/outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定')
 OUT = BASE / 'independent-preflight'
-PROTOCOL = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3/protocol')
+PROTOCOL = Path('/PROJECT_ROOT/outputs/coding-revision-20261007-r3/protocol')
 
 def sha(p):
     return hashlib.sha256(p.read_bytes()).hexdigest()

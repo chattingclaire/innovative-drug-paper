@@ -6,7 +6,7 @@ import hashlib
 import json
 import subprocess
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 AI = ROOT.parent / 'ai-audit800-20261010'
 BASE = Path(__file__).resolve().parent
 OUT = BASE / 'complete-review-reception-root'

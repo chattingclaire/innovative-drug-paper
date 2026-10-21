@@ -3,7 +3,7 @@
 唯一入口为 `native_attention_adapter.py`。实际完整父collector和v16整批0216三成员结果合并、封存后，ROOT可运行：
 
 ```bash
-python3 "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-attention-compatible-adapter-preparation-sol/native_attention_adapter.py" run --parent "<完整v15父collector目录>" --compatible "<实际v16三成员合并目录>" --selection "<真实0216 root-selection.json>" --rule-attention "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/rule-v11-v16-conditional-attention-robustness-root" --output "<新的统计输出目录>"
+python3 "/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/full4481-native-attention-compatible-adapter-preparation-sol/native_attention_adapter.py" run --parent "<完整v15父collector目录>" --compatible "<实际v16三成员合并目录>" --selection "<真实0216 root-selection.json>" --rule-attention "/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/rule-v11-v16-conditional-attention-robustness-root" --output "<新的统计输出目录>"
 ```
 
 准入要求父及合并均为4481记录/504原批次、无缺失维项或技术问题，完整实际seal存在。合并status必须表明实际完成，并绑定同一父seal和真实新selection。每条ID/顺序、packet路径/字节/SHA逐项匹配固定v16清单；source bundle通过该清单的ID→packet哈希桥绑定。其余4478行必须与父JSONL原行含换行字节相同；01402/01403/01404必须完整取同一实际first、receipt、actor seal、attempt及五维，且有同版材料实际阅读和终止收据。仅契约、未完成父、3条delta或无seal结果全部拒绝。stat入口不重读事件语义、不重新判定临床/政策内容。

@@ -5,7 +5,7 @@ import hashlib
 import json
 import numpy as np
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 RUN=ROOT/'outputs/agent-validation-20261007-r2'
 OUT=RUN/'statistics'
 OLD=ROOT/'outputs/recall-revision-20261007'

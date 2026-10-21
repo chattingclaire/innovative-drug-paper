@@ -2,11 +2,11 @@
   "commands": [
     {
       "timestamp": "2026-09-24T17:53:50.756Z",
-      "command": "cd \"/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本\" && python3 - <<'EOF'\nimport json,re\nD=json.load(open('coding_v3_dict.json',encoding='utf-8'))\nkept=[x for x in D if not x['junk']]\nwith open('/tmp/llm_in.txt','w',encoding='utf-8') as f:\n    for x in kept:\n        f.write('%d|%s\\n'%(x['id'],re.sub(r'\\s+',' ',x['sent'])[:150]))\nprint(len(kept),'句已导出，平均长度 %.0f 字'%(sum(len(x['sent']) for x in kept)/len(kept)))\nEOF\nhead -3 /tmp/llm_in.txt; wc -l /tmp/llm_in.txt"
+      "command": "cd \"/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本\" && python3 - <<'EOF'\nimport json,re\nD=json.load(open('coding_v3_dict.json',encoding='utf-8'))\nkept=[x for x in D if not x['junk']]\nwith open('/tmp/llm_in.txt','w',encoding='utf-8') as f:\n    for x in kept:\n        f.write('%d|%s\\n'%(x['id'],re.sub(r'\\s+',' ',x['sent'])[:150]))\nprint(len(kept),'句已导出，平均长度 %.0f 字'%(sum(len(x['sent']) for x in kept)/len(kept)))\nEOF\nhead -3 /tmp/llm_in.txt; wc -l /tmp/llm_in.txt"
     },
     {
       "timestamp": "2026-09-24T17:54:24.394Z",
-      "command": "cd \"/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本\" && python3 - <<'EOF'\nimport json,re\nD=json.load(open('coding_v3_dict.json',encoding='utf-8'))\nkept=[x for x in D if not x['junk']]\nwith open('/tmp/llm_in.txt','w',encoding='utf-8') as f:\n    for x in kept:\n        s=re.sub(r'\\s+','',x['sent'])          # 去掉PDF换行造成的空格与行号更易读\n        s=re.sub(r'(?<=[一-鿿])\\d{1,3}(?=[一-鿿])','',s)\n        f.write('%d|%s\\n'%(x['id'],s[:120]))\nprint('已导出',len(kept))\nEOF\nsed -n 1,80p /tmp/llm_in.txt"
+      "command": "cd \"/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本\" && python3 - <<'EOF'\nimport json,re\nD=json.load(open('coding_v3_dict.json',encoding='utf-8'))\nkept=[x for x in D if not x['junk']]\nwith open('/tmp/llm_in.txt','w',encoding='utf-8') as f:\n    for x in kept:\n        s=re.sub(r'\\s+','',x['sent'])          # 去掉PDF换行造成的空格与行号更易读\n        s=re.sub(r'(?<=[一-鿿])\\d{1,3}(?=[一-鿿])','',s)\n        f.write('%d|%s\\n'%(x['id'],s[:120]))\nprint('已导出',len(kept))\nEOF\nsed -n 1,80p /tmp/llm_in.txt"
     }
   ],
   "truncated": [

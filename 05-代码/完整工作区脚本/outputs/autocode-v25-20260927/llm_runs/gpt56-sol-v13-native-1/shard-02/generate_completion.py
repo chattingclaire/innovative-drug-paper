@@ -2,7 +2,7 @@ import hashlib,json,subprocess
 from datetime import datetime
 from pathlib import Path
 HERE=Path(__file__).resolve().parent
-PY='/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+PY='/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
 def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 batches=[]
 for i in range(1,43):

@@ -3,7 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { Workbook, SpreadsheetFile, FileBlob } from '@oai/artifact-tool';
 
-const out = '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol';
+const out = '/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol';
 const data = JSON.parse(await fs.readFile(path.join(out, 'inputs/mechanical-workbook-input.json'), 'utf8'));
 const version = process.env.WORKBOOK_BUILD_VERSION || 'v1';
 const versionDir = path.join(out, 'versions', version);

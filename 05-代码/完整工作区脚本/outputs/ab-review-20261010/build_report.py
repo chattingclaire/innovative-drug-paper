@@ -1,7 +1,7 @@
 from pathlib import Path
 import json, hashlib, collections
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 OUT = ROOT / 'outputs/ab-review-20261010'
 BASE = ROOT / 'outputs/goal-calibration-20261010'
 data = json.loads((BASE / '07-statistics/agent-blind-tables-current-recompute-sol/review-rows.json').read_text())

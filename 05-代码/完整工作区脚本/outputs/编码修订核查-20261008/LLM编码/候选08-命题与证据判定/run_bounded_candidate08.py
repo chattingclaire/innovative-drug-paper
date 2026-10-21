@@ -25,7 +25,7 @@ def main():
             'max_identical_technical_attempts':51,'requires_separate_root_authorization':True,
             'note':'Does not call runner --plan-only, which would invoke CLI --version.'},ensure_ascii=False))
         return
-    assert Path(sys.executable).resolve() == Path('/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3').resolve()
+    assert Path(sys.executable).resolve() == Path('/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3').resolve()
     assert args.phase and args.authorization_file, 'Explicit phase and separate root authorization required.'
     _, plan = verify_freeze()
     check_authorization(read(args.authorization_file), sha(FREEZE), plan, args.phase)

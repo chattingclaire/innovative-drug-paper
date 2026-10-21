@@ -107,10 +107,10 @@ P074按直接 `w:body/w:p` 第74段定位，计空段/图片段，不计表内�
 
 ## 六、可复核输入
 
-- 当前规则：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v15-v17-received-root/predictions.jsonl`
-- 当前LLM：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/selected-records.jsonl`
-- 开发参照逐项对照：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results-v17-development/joined-dimension-records.jsonl`
-- 开发指标：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results-v17-development/comparison.json`
-- 共同手册：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/full4481-common-release-20261010-root/manual.txt`，重点为第二节必要语境与有限补全、第七节F定义。
+- 当前规则：`/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-full4481-v15-v17-received-root/predictions.jsonl`
+- 当前LLM：`/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/selected-records.jsonl`
+- 开发参照逐项对照：`/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results-v17-development/joined-dimension-records.jsonl`
+- 开发指标：`/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/human-review-comparison/results-v17-development/comparison.json`
+- 共同手册：`/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/full4481-common-release-20261010-root/manual.txt`，重点为第二节必要语境与有限补全、第七节F定义。
 - 4项原包与逐字引文核验、上述输入SHA、完整四格表见同目录 `current-v17-findings.json`。
-- P074原稿：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-manuscript/original-continuation/创新药评价的注意力配置差异与协调路径-原稿格式修订.docx`。
+- P074原稿：`/PROJECT_ROOT/outputs/goal-calibration-20261010/08-manuscript/original-continuation/创新药评价的注意力配置差异与协调路径-原稿格式修订.docx`。

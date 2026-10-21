@@ -44,4 +44,4 @@ P071拟图注：
 
 原稿工作副本SHA256：`e769e3b3dd753328637dcd4c1d2c81d8f65b1f16ce96524533af90e0dbaf1780`。
 
-来源：[当前两机注意力比较](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/machine-attention-comparison.json)；[规则冻结统计](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/frozen-core-evaluation/conditional-robustness.json)；[LLM冻结统计](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/frozen-core-evaluation/conditional-robustness.json)。
+来源：[当前两机注意力比较](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/machine-attention-comparison.json)；[规则冻结统计](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-rule-impact/frozen-core-evaluation/conditional-robustness.json)；[LLM冻结统计](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/frozen-core-evaluation/conditional-robustness.json)。

@@ -2,7 +2,7 @@
 from pathlib import Path
 from datetime import datetime,timezone
 import hashlib,json
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药');R3=ROOT/'outputs/coding-revision-20261007-r3';R4=ROOT/'outputs/coding-revision-20261008-r4';OUT=R4/'old180-IF-disagreement-independent-review'
+ROOT=Path('/PROJECT_ROOT');R3=ROOT/'outputs/coding-revision-20261007-r3';R4=ROOT/'outputs/coding-revision-20261008-r4';OUT=R4/'old180-IF-disagreement-independent-review'
 def sha(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def save(name,obj):(OUT/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')
 SRC=OUT/'all_IF_disagreements_source_projection_PRIVATE.json';j=json.loads(SRC.read_text());source_by_id={r['id']:r for r in j['rows']}

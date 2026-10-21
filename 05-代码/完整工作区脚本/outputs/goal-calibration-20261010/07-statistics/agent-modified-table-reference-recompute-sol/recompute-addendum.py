@@ -4,7 +4,7 @@ from pathlib import Path
 from fractions import Fraction
 import ast,json,hashlib,datetime,math,warnings
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 OUT=Path(__file__).resolve().parent
 OLD=ROOT/'07-statistics/agent-blind-tables-current-recompute-sol'
 DIMS=['S','E','Ec','I','F'];MISSING='unfilled_or_execution_failure';CHECKS=[]

@@ -386,8 +386,8 @@
     ]
   },
   "source_workbook_hashes": {
-    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/AI复核-A-200条.xlsx": "745e2f7cc1d05943570a72912cac3b1254ccee539895c66797ca695cd27197a2",
-    "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx": "23bb0f9ab743f695d8df7825486ac52246ab5791d8f2b3f7da16b377019475a3"
+    "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者A/AI复核-A-200条.xlsx": "745e2f7cc1d05943570a72912cac3b1254ccee539895c66797ca695cd27197a2",
+    "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/AI复核者B/AI复核-B-200条.xlsx": "23bb0f9ab743f695d8df7825486ac52246ab5791d8f2b3f7da16b377019475a3"
   },
   "final_labels": [
     {
@@ -7393,7 +7393,7 @@
   ],
   "original_blank_template_check": {
     "A": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/发给编码者A/独立判读-A-200条.xlsx",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/发给编码者A/独立判读-A-200条.xlsx",
       "header": {
         "A": "材料盲号",
         "B": "原文材料（点击打开）",
@@ -7406,7 +7406,7 @@
       "row_order_equals_AI_workbook": true
     },
     "B": {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/发给编码者B/独立判读-B-200条.xlsx",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/独立真人判读-200条-20261013/发给编码者B/独立判读-B-200条.xlsx",
       "header": {
         "A": "材料盲号",
         "B": "原文材料（点击打开）",

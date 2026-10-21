@@ -147,7 +147,7 @@ for index, rid in enumerate(order, 1):
     if rid == 'RECODE25-02233':
         # The current 2025 introduction explicitly names the 2024 pilot. Supply
         # that exact policy to both coders, rather than borrowing the 2025 channel.
-        pilot = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/网页正文/NMPA-优化创新药临床试验审评审批试点-2024.txt')
+        pilot = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/网页正文/NMPA-优化创新药临床试验审评审批试点-2024.txt')
         pilot_lines = pilot.read_text().splitlines()
         additions = [
             (pilot_lines[0], '通知名称；国药监药注〔2024〕21号'),

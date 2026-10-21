@@ -3,7 +3,7 @@
 唯一可执行入口为 `full4481_attention_robustness.py`。`prepare`和`selftest`已执行并封存；ROOT只需在新的输出目录实际运行一次：
 
 ```bash
-python3 "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/full4481_attention_robustness.py" analyze --output "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/rule-v11-v16-conditional-attention-robustness-root"
+python3 "/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/full4481-attention-robustness-preparation-sol/full4481_attention_robustness.py" analyze --output "/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/rule-v11-v16-conditional-attention-robustness-root"
 ```
 
 入口先核本目录总seal、所有输入/适配产物/自身代码哈希，再核4481记录顺序、22405维项、零技术失败和全部合法null数。只读取当前机器labels，不读取证据语义或人工答案。输出 `conditional-robustness.json` 与执行seal；已经存在的输出目录拒绝覆盖。它绑定本次规则版本，其他版本必须另封输入，不能在本目录替换预测。

@@ -2,7 +2,7 @@ import hashlib,json
 from pathlib import Path
 HERE=Path(__file__).resolve().parent;RUN=HERE/'production-25-v29';IDS=['RECODE25-00932','RECODE25-01008','RECODE25-01241','RECODE25-01959','RECODE25-02158','RECODE25-02287','RECODE25-02914','RECODE25-04282'];BATCHES=[38,41,50,79,87,92,117,172]
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
-source=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NHSA-2020用药办法-官方-正文.txt');records=[]
+source=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NHSA-2020用药办法-官方-正文.txt');records=[]
 for rid,b in zip(IDS,BATCHES):
  batch=RUN/'batches'/f'batch-{b:04d}'
  if b==87:base=batch/'repairs/full-batch-context-repair'

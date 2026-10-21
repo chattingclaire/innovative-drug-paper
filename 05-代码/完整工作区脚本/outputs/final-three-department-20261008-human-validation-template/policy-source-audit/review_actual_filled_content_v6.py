@@ -2,7 +2,7 @@ from pathlib import Path
 from zipfile import ZipFile
 from lxml import etree
 import json,hashlib,re
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药');D=R/'outputs/final-three-department-20261008-human-validation-template';B=R/'outputs/coding-revision-20261007-r3';ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+R=Path('/PROJECT_ROOT');D=R/'outputs/final-three-department-20261008-human-validation-template';B=R/'outputs/coding-revision-20261007-r3';ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 def read(p):
  with ZipFile(p) as z:

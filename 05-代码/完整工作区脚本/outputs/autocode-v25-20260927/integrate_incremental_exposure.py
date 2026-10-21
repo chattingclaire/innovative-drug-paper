@@ -7,7 +7,7 @@ from collections import Counter,defaultdict
 from pathlib import Path
 import hashlib,json,re,unicodedata
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 OUT=ROOT/'outputs/autocode-v25-20260927'
 OLD=ROOT/'outputs/validation-expansion-20260926'
 FRAME=OUT/'方法与新验证框评估.json'

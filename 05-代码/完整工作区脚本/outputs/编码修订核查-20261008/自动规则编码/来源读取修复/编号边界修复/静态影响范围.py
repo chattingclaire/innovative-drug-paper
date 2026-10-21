@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,re,hashlib
-W=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008')
+W=Path('/PROJECT_ROOT/outputs/编码修订核查-20261008')
 OUT=W/'自动规则编码/来源读取修复/编号边界修复'
 INPUT=W/'统计复算/来源读取与图示校正/规则输入4480.jsonl'
 BASE=W/'自动规则编码/来源读取修复/图示校正运行目录'

@@ -1,7 +1,7 @@
 from pathlib import Path
 from datetime import datetime,timezone
 import json,hashlib,os
-OUT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926')
+OUT=Path('/PROJECT_ROOT/outputs/validation-expansion-20260926')
 T=OUT/'tmp/附录A压缩独立核对快照'
 m=json.loads((T/'manifest.json').read_text()); standards=json.loads((T/'protocol-manifest.json').read_text())
 A=[{r['p']:r['text'] for r in json.loads(Path(x['paragraphs_path']).read_text())} for x in m]

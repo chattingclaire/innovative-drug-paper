@@ -14,7 +14,7 @@ ROOT = HERE.parents[3]
 OLD = HERE.parent / '候选方案'
 OLD03 = ROOT / 'outputs/coding-revision-20261007-r3/llm-candidate03-development'
 PROTOCOL = ROOT / 'outputs/coding-revision-20261007-r3/protocol'
-PYTHON = '/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+PYTHON = '/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
 MARKER = b'--- \xe5\x86\xbb\xe7\xbb\x93\xe7\x9a\x84\xe5\xae\x8c\xe6\x95\xb4\xe6\x89\x8b\xe5\x86\x8c\xef\xbc\x88\xe5\x8e\x9f\xe6\xa0\xb7\xef\xbc\x89 ---'
 DIMS = ['S', 'E', 'Ec', 'I', 'F']
 

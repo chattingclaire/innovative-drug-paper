@@ -2,7 +2,7 @@
 import argparse, ast, collections, hashlib, json, re, unicodedata
 from datetime import datetime
 from pathlib import Path
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 OUT=Path(__file__).parent
 parser=argparse.ArgumentParser();parser.add_argument('--version',default='2');parser.add_argument('--prior',default='开发暴露映射-当前语料.json');parser.add_argument('--corpus',type=Path,default=BASE/'统一文本复核包.jsonl');parser.add_argument('--adapter',type=Path,default=BASE/'统计输入接入准备.json');args=parser.parse_args()
 def load(p): return json.loads(p.read_text())

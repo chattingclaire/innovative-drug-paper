@@ -3,7 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import crypto from 'node:crypto';
 import {Workbook,SpreadsheetFile} from '@oai/artifact-tool';
-const HERE='/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/targeted-calibration35-root';
+const HERE='/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/targeted-calibration35-root';
 const d=JSON.parse(await fs.readFile(path.join(HERE,'workbook-input.json'),'utf8'));
 const output=path.join(HERE,'需要定向核定-34条35项.xlsx');
 if(await fs.access(output).then(()=>true,()=>false)){

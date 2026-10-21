@@ -24,7 +24,7 @@ EXPECTED = {
     'freeze': 'a6d45e3a74f213194a900a9a65b47392f201bea3f09ceefdcbeb14239c95d209',
     'python': 'ac60cfe0268614638d0ffa35f3b0284fc7b3a11482723793455e17eeb278509e',
 }
-BUNDLED_PYTHON = Path('/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3')
+BUNDLED_PYTHON = Path('/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3')
 VERSION = 'common-definitions-development-candidate12'
 
 

@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,hashlib,datetime,sys
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3');D=Path(__file__).parent;S=R/'statistics';C=R/'methods-20261008/rules-v36.2-development-complete-statistics'
+R=Path('/PROJECT_ROOT/outputs/coding-revision-20261007-r3');D=Path(__file__).parent;S=R/'statistics';C=R/'methods-20261008/rules-v36.2-development-complete-statistics'
 sha=lambda p:hashlib.sha256(Path(p).read_bytes()).hexdigest()
 read=lambda p:json.loads(Path(p).read_text())
 def bind(p):return {'path':str(p),'sha256':sha(p)}

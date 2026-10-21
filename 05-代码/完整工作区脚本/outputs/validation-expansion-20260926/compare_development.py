@@ -1,7 +1,7 @@
 import json, hashlib, argparse
 from pathlib import Path
 from score_blind import DIMS, validate
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 OUT=Path(__file__).parent
 parser=argparse.ArgumentParser();parser.add_argument('--versions',nargs='+',default=['18','20']);parser.add_argument('--output',default='开发60-词典版本逐条对照.json');args=parser.parse_args()
 target=OUT/args.output

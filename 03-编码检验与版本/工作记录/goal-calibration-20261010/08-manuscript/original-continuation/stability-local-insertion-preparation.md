@@ -41,7 +41,7 @@
 
 - 格式工作副本：`创新药评价的注意力配置差异与协调路径-原稿格式修订.docx`；SHA256：`e769e3b3dd753328637dcd4c1d2c81d8f65b1f16ce96524533af90e0dbaf1780`。
 - 定位依据：同目录 `required-update-locations.json`，重点为U05、U10、U12、U14及P109—P111；旧 `CURRENT_STABILITY` 涵盖的定义/构成检验，不能因本次重复与请求敏感性统计完成而整体改为通过。
-- 数值依据：[重复稳定性与请求敏感性结果](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/stability-results/稳定性与敏感性结果.md)。
+- 数值依据：[重复稳定性与请求敏感性结果](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/stability-results/稳定性与敏感性结果.md)。
 - 原始统计JSON的既核SHA256：`76179c6749bab591cb1774c750bfdafddfb67e123ff5b907dad8b290fd9a68a5`。
 - 版本与验收边界：本次对应原冻结800条的v16材料快照，不自动覆盖v17全部材料。当前24条更新与4457条继承结果已严格合并，当前两机描述统计已有结果；真实独立人工验收仍待完成。这些过程信息只用于整合核对，不进入上述正文或拟发表表注。
 - 推断边界：共同有效记录结果不替代完整800条或全4481条的稳定性结论，不支持全量部门排序不变。原历史分组remaining600/exposed200若在补充统计中保留，仍为抽样时分组，不能据名称认定当前未参与开发。未设统一0.80通过线，未计算的置信区间不补写。
@@ -67,12 +67,12 @@ LLM编码的请求模型名为gpt-6.1-sol，请求推理强度为ultra，按完�
 
 直接依据：
 
-- 完整结果及实际覆盖：[v16状态](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/status.json)、[覆盖记录](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/coverage.json)。
-- 实际批量与来源选择：[已选择整批绑定](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/selected-whole-batch-bindings.json)。仅汇总其 `source_ids` 长度，并读取所选尝试目录中的启动元数据：原始调度1批、原始CLI执行295批、运输恢复207批、v16材料更新1批，模型/推理请求组合全部为gpt-6.1-sol/ultra。
-- 请求配置的直接记录示例：[原始调度](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0001/attempt-0001/ROOT-dispatch-tool-receipt.json)、[原始CLI启动](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0002/attempt-0001/ROOT-cli-dispatch-start.json)、[运输恢复启动](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-transport-recovery-v2-sol/batch-0296/attempt-0001/dispatch-start.json)、[材料更新启动](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v16-batch0216-material-delta-preparation-sol/batch-0216/attempt-0002/dispatch-start.json)。
-- 当前两批配置及状态：[0325实际启动](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/batch-0325/attempt-0001/dispatch-start.json)、[0325选择记录](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/batch-0325/root-selection.json)、[0485实际启动](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/batch-0485/attempt-0001/dispatch-start.json)。各批 `assignment.json` 的 `expected_N` 均为12。
-- 24条更新与4457条继承的约束：[整批合并准备](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-merge-preparation-root/preparation-summary.json)、[更新范围准备](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/preparation-summary.json)。这两份准备文件定义合并关系，不作为实际完成收据。
-- 最新实际完成依据：[v17严格合并状态](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/status.json)，`actual_merge_performed=true`、`actual_record_N=4481`、`actual_new_inference_record_N=24`、`parent_raw_line_preserved_N=4457`、`unresolved_technical_dimension_N=0`、`formal_validation_complete=false`。本次仅定点读取该状态，未重复全目录校验。
+- 完整结果及实际覆盖：[v16状态](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/status.json)、[覆盖记录](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/coverage.json)。
+- 实际批量与来源选择：[已选择整批绑定](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/selected-whole-batch-bindings.json)。仅汇总其 `source_ids` 长度，并读取所选尝试目录中的启动元数据：原始调度1批、原始CLI执行295批、运输恢复207批、v16材料更新1批，模型/推理请求组合全部为gpt-6.1-sol/ultra。
+- 请求配置的直接记录示例：[原始调度](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0001/attempt-0001/ROOT-dispatch-tool-receipt.json)、[原始CLI启动](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v1-sol/batch-0002/attempt-0001/ROOT-cli-dispatch-start.json)、[运输恢复启动](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-transport-recovery-v2-sol/batch-0296/attempt-0001/dispatch-start.json)、[材料更新启动](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v16-batch0216-material-delta-preparation-sol/batch-0216/attempt-0002/dispatch-start.json)。
+- 当前两批配置及状态：[0325实际启动](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/batch-0325/attempt-0001/dispatch-start.json)、[0325选择记录](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/batch-0325/root-selection.json)、[0485实际启动](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/batch-0485/attempt-0001/dispatch-start.json)。各批 `assignment.json` 的 `expected_N` 均为12。
+- 24条更新与4457条继承的约束：[整批合并准备](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-merge-preparation-root/preparation-summary.json)、[更新范围准备](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/preparation-summary.json)。这两份准备文件定义合并关系，不作为实际完成收据。
+- 最新实际完成依据：[v17严格合并状态](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v17-two-whole-batch-compatible-root/status.json)，`actual_merge_performed=true`、`actual_record_N=4481`、`actual_new_inference_record_N=24`、`parent_raw_line_preserved_N=4457`、`unresolved_technical_dimension_N=0`、`formal_validation_complete=false`。本次仅定点读取该状态，未重复全目录校验。
 
 
 ## 当前结果段落的原句→拟替换句清单
@@ -81,8 +81,8 @@ LLM编码的请求模型名为gpt-6.1-sol，请求推理强度为ultra，按完�
 
 ### 本节整合元数据（不进入发表文字）
 
-- 数值来源：[当前两机注意力与稳健性结果](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/当前两机注意力与稳健性结果.md)。主表为当前已接收两机标签的描述性结果，未作新分类。
-- 案例来源：[当前机间分歧与开发复核F案例核查](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/disagreements/current-v17-findings.md)。新说明限于该报告已核四项开发案例；没有读取政策原包、标签全文或扩展候选域材料。
+- 数值来源：[当前两机注意力与稳健性结果](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/当前两机注意力与稳健性结果.md)。主表为当前已接收两机标签的描述性结果，未作新分类。
+- 案例来源：[当前机间分歧与开发复核F案例核查](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/disagreements/current-v17-findings.md)。新说明限于该报告已核四项开发案例；没有读取政策原包、标签全文或扩展候选域材料。
 - ROOT已反馈5.2联合比例独立数值复核通过：14个主表点值、全部NULL条件界、排除联合来源、删除2024基层联动来源、两种均值口径及0/0=NA均复算一致。P076/P077/P083数值已独审；最终正文仍随独立人工验收完成后整合。
 - 当前没有真实独立A/B结果。P047—P058及表2中涉及旧验证身份、样本、指标或区间的句子继续待填，本清单不以机间一致性或开发复核代替。P073末句涉及旧抽样框的部分亦不补成新验证结论。
 - 九个列名口径和来源留一均使用实际已完成结果，不继承旧6种定义、56种构成数字。两种均值口径在当前材料中相同；两日期口径亦相同。全库51次留一包含删除比较部门以外来源的情形，不把它们称为51项独立验证。本文未采用800条重复稳定性结果来证明部门全量排序。
@@ -323,10 +323,10 @@ P108有一处确定需改及两处应收窄表述的地方。原稿把“临床�
 
 安全性S指药物损害、用药风险及其识别、评价与控制，质量内容须明确关联药物风险；有效性E指防治效果、临床获益及对应证据；经济性Ec指药品价格、费用、支付和成本效果；创新性I指技术创新、实质改良及其资格评价、当前创新资格与实质权利义务的联系，以及明确的创新研发支持；公平性F指对药品或患者治疗公平性的实质评价要求，或患者按治疗需要获得、持续接受所需药品的机会与负担关系。临床管理难度、一般可及性或程序名称本身不构成公平性依据。同一单元同维至多计一次，可多标签；一般名称、事务性程序及其他对象的同名词不自动赋标签。全文及必要上下文只解释本单元的对象、条件和引用。
 
-定义核对依据为[当前共同手册](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/full4481-common-release-20261010-root/manual.txt)：第三节S纳入/排除，第六节I定义及I3/I4，第七节F两条路径及排除项。该文件SHA-256为`5ea7ab74d30fb79c4cbd1d7d6b2ae40c4f52a52360075f3552199de949f9cc7b`。这里只修论文摘要性定义与既有手册的对应，不修改手册或标签，也不新做边界实验。
+定义核对依据为[当前共同手册](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/full4481-common-release-20261010-root/manual.txt)：第三节S纳入/排除，第六节I定义及I3/I4，第七节F两条路径及排除项。该文件SHA-256为`5ea7ab74d30fb79c4cbd1d7d6b2ae40c4f52a52360075f3552199de949f9cc7b`。这里只修论文摘要性定义与既有手册的对应，不修改手册或标签，也不新做边界实验。
 
 ### 本节证据与未解依赖
 
-本节直接读取格式工作副本P045、P046、P108、P109、P111、P114及上述手册；机器事实取自已独审的[当前两机注意力与稳健性结果](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/当前两机注意力与稳健性结果.md)、[重复稳定性与请求敏感性结果](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/stability-results/稳定性与敏感性结果.md)及[当前分歧核查](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/disagreements/current-v17-findings.md)。未读取1151未开发域政策语义、未重算统计、未运行分类，未改原稿、工作副本、进度登记或66条参考文献。
+本节直接读取格式工作副本P045、P046、P108、P109、P111、P114及上述手册；机器事实取自已独审的[当前两机注意力与稳健性结果](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v15/full-machine-attention/当前两机注意力与稳健性结果.md)、[重复稳定性与请求敏感性结果](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/stability-results/稳定性与敏感性结果.md)及[当前分歧核查](/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/disagreements/current-v17-findings.md)。未读取1151未开发域政策语义、未重算统计、未运行分类，未改原稿、工作副本、进度登记或66条参考文献。
 
 仍需外部材料支持的项目是两位真人的协商前独立提交、随后裁定及相应验证区间与验收结论。本文档先完成可证实的机器资料与术语修订；这些建议不能把独立验证状态改为完成。最终整合时，P111和P114须与实际验证资料清单再次对齐。

@@ -15,7 +15,7 @@ import {spawn} from 'node:child_process';
 
 const HERE=path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT=path.join(HERE,'D668工作簿交付');
-const RUNTIME='/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies';
+const RUNTIME='/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies';
 const DIMS=['S','E','Ec','I','F'], PENDING='待定';
 const GROUPS=['NMPA','NHSA','NHC','GOV'], DN={NMPA:1077,NHSA:1662,NHC:329,GOV:325},Dn={NMPA:133,NHSA:222,NHC:148,GOV:165};
 const FROZEN_KEYS=['corpus','adapter','classification','exposure','protocol','protocol_clarifications','sample_helpers','legacy_results_helpers','results_bridge','v600_sampler','v600_freeze','v600_sampling_manifest','v600_seal','reviewer_instructions','analysis_plan','sampler','statistics','admin_receiver','analysis_bridge','r600_source_manifest'];

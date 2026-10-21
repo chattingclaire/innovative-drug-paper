@@ -7,7 +7,7 @@ import hashlib
 import json
 import re
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 BASE = ROOT / '06-coding/development-rule-sol/coverage36'
 OUT = ROOT / '06-coding/root-machine-review/rule-v06-v07-source-quality-sol'
 VERSIONS = ['implementation06-source-v12', 'implementation07-source-v12-receipts']

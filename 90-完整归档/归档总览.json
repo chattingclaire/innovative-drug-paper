@@ -3,12 +3,12 @@
   "repository": "chattingclaire/innovative-drug-paper",
   "release_tag": "archive-20261016",
   "sources": [
-    "/Users/rainbow/Desktop/战略院/药企项目-创新药",
-    "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914",
-    "/Users/rainbow/Desktop/战略院/创新药论文.md",
-    "/Users/rainbow/Desktop/战略院/创新药动态简报",
-    "/Users/rainbow/Desktop/战略院/美国生物医药产业研究",
-    "/Users/rainbow/Desktop/国科大研一/国科大研一-春季课/创新发展政策导论"
+    "/PROJECT_ROOT",
+    "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914",
+    "/LOCAL_HOME/Desktop/战略院/创新药论文.md",
+    "/LOCAL_HOME/Desktop/战略院/创新药动态简报",
+    "/LOCAL_HOME/Desktop/战略院/美国生物医药产业研究",
+    "/LOCAL_HOME/Desktop/国科大研一/国科大研一-春季课/创新发展政策导论"
   ],
   "file_count": 135380,
   "source_bytes": 24951965411,

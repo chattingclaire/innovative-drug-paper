@@ -72,10 +72,10 @@
 
 ## 可复核文件
 
-- 当前分歧表：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/machine-pair-disagreements.jsonl`
-- 当前四格表及指标：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/metrics.json`
-- 原130项逐条审核：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/current-machine-rare-disagreement-semantic-20261011-sol/final130/semantic-reviews130.json`
-- 受限母对象补充意见：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/current-machine-rare-disagreement-semantic-20261011-sol/supplement-restricted-mother-object-20261012-sol/report.json`
+- 当前分歧表：`/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/machine-pair-disagreements.jsonl`
+- 当前四格表及指标：`/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/metrics.json`
+- 原130项逐条审核：`/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/current-machine-rare-disagreement-semantic-20261011-sol/final130/semantic-reviews130.json`
+- 受限母对象补充意见：`/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/current-machine-rare-disagreement-semantic-20261011-sol/supplement-restricted-mother-object-20261012-sol/report.json`
 - findings.json记录输入哈希、逐条纳入/排除原因、当前样例材料绑定和全部未覆盖分歧。
 - build_findings.py可重复运行以上机械核对；不会发起分类调用。
 

@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,hashlib,itertools,collections
-P=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/autocode-v25-20260927')
-O=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-v26-20260930/context_repair')
+P=Path('/PROJECT_ROOT/outputs/autocode-v25-20260927')
+O=Path('/PROJECT_ROOT/outputs/coding-v26-20260930/context_repair')
 def rows(p):return [json.loads(x) for x in p.read_text().splitlines() if x.strip()]
 def h(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 paths=[P/x for x in ['current_rule_inputs.jsonl','current_llm_inputs.jsonl','current_1268_references.jsonl','rule_runs/v25-candidate-3/all_predictions.jsonl','llm_runs/gpt56-sol-v13-native-1/all_predictions.jsonl','H427/admin_mapping.json']]

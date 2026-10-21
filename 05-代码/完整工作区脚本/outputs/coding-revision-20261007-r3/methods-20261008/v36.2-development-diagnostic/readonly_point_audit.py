@@ -2,7 +2,7 @@ from pathlib import Path
 from fractions import Fraction as F
 from collections import Counter
 import json,hashlib,math,datetime
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3');D=Path(__file__).parent
+R=Path('/PROJECT_ROOT/outputs/coding-revision-20261007-r3');D=Path(__file__).parent
 DIMS=['S','E','Ec','I','F'];GROUPS=['ALL','NMPA','NHSA','NHC'];CELLS=['TP','FP','FN','TN'];METRICS=['kappa','agreement','precision','recall','f1','left_positive_rate','right_positive_rate']
 read=lambda p:json.loads(Path(p).read_text())
 sha=lambda p:hashlib.sha256(Path(p).read_bytes()).hexdigest()

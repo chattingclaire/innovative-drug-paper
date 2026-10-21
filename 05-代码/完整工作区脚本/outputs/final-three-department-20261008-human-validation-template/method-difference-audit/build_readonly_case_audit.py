@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,hashlib,collections,datetime
-W=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药');R=W/'outputs/coding-revision-20261007-r3'; O=W/'outputs/final-three-department-20261008-human-validation-template/method-difference-audit';H=R/'llm-candidate03-development/full-corpus-candidate03-material-v14-single-unit-reconciled-development'
+W=Path('/PROJECT_ROOT');R=W/'outputs/coding-revision-20261007-r3'; O=W/'outputs/final-three-department-20261008-human-validation-template/method-difference-audit';H=R/'llm-candidate03-development/full-corpus-candidate03-material-v14-single-unit-reconciled-development'
 files={'source':R/'effective_blind_inputs_v14.jsonl','rule_input':R/'rule_inputs_shared_v14.jsonl','rules':R/'rules-v36.2-development/all_predictions_material_v14.jsonl','LLM':H/'all_predictions.jsonl','row_provenance':H/'row_provenance.jsonl','classification':W/'outputs/validation-expansion-20260926/frozen-inputs/classification--部门归属与年度系列-冻结v1.json','manual':R/'protocol/完整五维手册-v1.3.md','operation':R/'protocol/共用操作说明-v1.4.md'}
 def sha(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def bind(p):return {'path':str(p),'sha256':sha(p)}

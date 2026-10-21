@@ -1,7 +1,7 @@
 from pathlib import Path
 import json, hashlib
 from datetime import datetime, timezone
-B=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+B=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 D=B/'08-audits/current-freeze-stability-readiness-20261012-sol'
 O=D/'supplement-two-design-options'
 O.mkdir(exist_ok=False)

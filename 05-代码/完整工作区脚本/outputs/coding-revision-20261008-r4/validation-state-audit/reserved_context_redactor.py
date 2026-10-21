@@ -7,7 +7,7 @@ must also be excluded before projection, regardless of text matching.
 from pathlib import Path
 import hashlib, json, unicodedata
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 EXCLUSION_REL='outputs/coding-revision-20261008-r4/validation-state-audit/future_human_v5_development_exclusion_metadata.json'
 INPUT_REL='outputs/coding-revision-20261007-r3/effective_blind_inputs_v14.jsonl'
 EXCLUSION_SHA='a3ea2e0aaabbf9d00fafb4f3511b3a8910b182111d1cff803c0bb5f03040d135'

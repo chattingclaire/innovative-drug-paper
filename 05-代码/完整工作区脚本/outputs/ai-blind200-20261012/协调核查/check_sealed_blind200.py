@@ -16,7 +16,7 @@ from pathlib import Path
 
 DIMS = ("S", "E", "Ec", "I", "F")
 STATES = ("0", "1", "null", "missing", "invalid", "duplicate")
-DEFAULT_PACKAGE = Path("/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root")
+DEFAULT_PACKAGE = Path("/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root")
 LOCKS = {
     "coordinator-private/draw-and-mapping.json": "5690672e10612371def277f7d98ed332e22cb281cfb5b636a9cbc93eaba1bd55",
     "coordinator-private/pre-draw-freeze.json": "042ed0065cd66fbb55571f70f7bcc2f51e079e7f5857604360a25fe59f056f95",

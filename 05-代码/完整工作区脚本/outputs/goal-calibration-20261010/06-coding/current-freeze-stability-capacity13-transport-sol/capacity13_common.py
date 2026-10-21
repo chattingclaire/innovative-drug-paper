@@ -6,7 +6,7 @@ import sys
 import types
 sys.dont_write_bytecode = True
 HERE13 = Path(__file__).resolve().parent
-BASE_COMMON_BINDING = {'path': '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/transport_common.py', 'bytes': 10574, 'sha256': '2624060c822cd22e96b8c3b784f8026022c1a6c72c3771af08de0dc011f1d7aa'}
+BASE_COMMON_BINDING = {'path': '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/transport_common.py', 'bytes': 10574, 'sha256': '2624060c822cd22e96b8c3b784f8026022c1a6c72c3771af08de0dc011f1d7aa'}
 raw_base = Path(BASE_COMMON_BINDING["path"]).read_bytes()
 import hashlib
 if len(raw_base) != BASE_COMMON_BINDING["bytes"] or hashlib.sha256(raw_base).hexdigest() != BASE_COMMON_BINDING["sha256"]:

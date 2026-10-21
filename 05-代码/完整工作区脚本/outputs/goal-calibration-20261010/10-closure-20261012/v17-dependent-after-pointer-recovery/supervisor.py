@@ -21,7 +21,7 @@ import time
 sys.dont_write_bytecode = True
 HERE = Path(__file__).resolve().parent
 CONFIG = HERE / 'config.json'
-SHARED_QUEUE_LOCK = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/v17-dependent-continuation/queue.lock')
+SHARED_QUEUE_LOCK = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/v17-dependent-continuation/queue.lock')
 
 
 def require(ok, message):

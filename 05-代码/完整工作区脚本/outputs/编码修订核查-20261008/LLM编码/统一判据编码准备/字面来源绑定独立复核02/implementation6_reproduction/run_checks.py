@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.dont_write_bytecode = True
 HERE = Path(__file__).resolve().parent
-CODE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/LLM编码/统一判据编码准备/字面来源绑定02/literal_source_binder.py')
+CODE = Path('/PROJECT_ROOT/outputs/编码修订核查-20261008/LLM编码/统一判据编码准备/字面来源绑定02/literal_source_binder.py')
 sha = lambda p: hashlib.sha256(Path(p).read_bytes()).hexdigest()
 contract = json.loads((HERE / 'implementation_contract_before02.json').read_text())
 spec = importlib.util.spec_from_file_location('root_binder02_checks', CODE)

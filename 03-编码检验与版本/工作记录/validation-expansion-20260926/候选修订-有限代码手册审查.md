@@ -10,7 +10,7 @@ candidate17：`bd14ffab886876c383a4464151e82878b44e7fd61db189cd70ef0aaab13f4af3`
 
 只读候选源码、开发测试源码、SEC/IF有限实现说明、冻结v1.3手册、旧SEC需求及适配器/统计函数。所有输入哈希列于同名JSON；JSON内保留candidate15、candidate16、candidate17完整源码快照，以及11个原构造输入的15/16两版输出与17最后2项核对。未读取真实预测、新候选正文或盲评材料，未抽样，也未追消旧78/46分歧。
 
-手册：[v1.3](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/frozen-inputs/protocol--五维共用编码协议.md)，SHA-256 `75ff8ebda018a15e008bc1075892000fb9c9c053943d05f04bbe193176c605a6`。
+手册：[v1.3](/PROJECT_ROOT/outputs/validation-expansion-20260926/frozen-inputs/protocol--五维共用编码协议.md)，SHA-256 `75ff8ebda018a15e008bc1075892000fb9c9c053943d05f04bbe193176c605a6`。
 
 ## 四项原问题的15→16复核记录
 

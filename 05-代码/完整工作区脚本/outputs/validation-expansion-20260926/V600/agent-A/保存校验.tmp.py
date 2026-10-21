@@ -2,7 +2,7 @@ from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import json, hashlib, os, tempfile
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/V600/agent-A')
+ROOT=Path('/PROJECT_ROOT/outputs/validation-expansion-20260926/V600/agent-A')
 DIMS=['S','E','Ec','I','F']
 def row(n, labels, reasons, evidence, rationale, basis, F=None, I=None, quality='no_quality_basis', status='sufficient', issue='无'):
     return {'id':f'V600-{n:04d}','labels':dict(zip(DIMS,labels)), 'dimension_reasons':dict(zip(DIMS,reasons)), 'evidence':evidence,'rationale':rationale,'material_issue':issue,'fairness_subtypes':F or [],'innovation_subtypes':I or [],'safety_quality_basis':quality,'input_assessment':{'status':status,'basis':basis}}

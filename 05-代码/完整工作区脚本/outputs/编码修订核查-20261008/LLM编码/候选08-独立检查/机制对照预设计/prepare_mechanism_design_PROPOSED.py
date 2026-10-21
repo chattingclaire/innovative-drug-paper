@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime,timezone
 import hashlib,importlib.util,json,sys
 sys.dont_write_bytecode=True
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/编码修订核查-20261008/LLM编码'
 A=BASE/'候选08-命题与证据判定';P=BASE/'候选08-独立检查';O=P/'机制对照预设计'
 D=['S','E','Ec','I','F'];NOW=datetime.now(timezone.utc).isoformat()

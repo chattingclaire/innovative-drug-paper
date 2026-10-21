@@ -5,7 +5,7 @@ import html
 import json
 import os
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 SOURCE=ROOT/'08-audits/ai800-disagreement-semantic-root/complete-review-reception-root/targeted-human-calibration-items.json'
 OUT=ROOT/'09-delivery/targeted-calibration35-root'
 items=json.loads(SOURCE.read_text())['items']
@@ -70,5 +70,5 @@ bindings=[]
 for p in dict.fromkeys(inputs):
     raw=p.read_bytes();bindings.append({'path':str(p),'bytes':len(raw),'sha256':hashlib.sha256(raw).hexdigest()})
 (OUT/'input-and-material-bindings.json').write_text(json.dumps({'inputs':bindings,'material_pages':34,'dimension_rows':35,'actual_human_review_results':0},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-os.symlink('/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules',OUT/'node_modules')
+os.symlink('/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules',OUT/'node_modules')
 print(json.dumps({'directory':str(OUT),'rows':len(rows),'unresolved_blank_D':sum(x['values'][3] is None for x in rows)},ensure_ascii=False))

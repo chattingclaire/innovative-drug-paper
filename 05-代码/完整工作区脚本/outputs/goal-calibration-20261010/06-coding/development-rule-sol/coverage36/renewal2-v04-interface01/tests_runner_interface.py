@@ -44,7 +44,7 @@ class RunnerInterfaceTests(unittest.TestCase):
                 runner.load_frozen_coders(Path(__file__).parent,[])
     def test_wrong_source_scope_refused_before_coder_import(self):
         b=Path(__file__).parent
-        design=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/04-calibration/renewal-rejudge-v11/admin/design.json')
+        design=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/04-calibration/renewal-rejudge-v11/admin/design.json')
         import json
         config=json.loads(design.read_text())
         argv=['runner.py','--source',config['source']['path'],'--manual',config['manual']['path'],'--manifest',str(design),'--source-sha256',config['source']['sha256'],'--expected-n','3','--approved-output-root',str(b),'--out',str(b/'not-created-wrong-count-test')]

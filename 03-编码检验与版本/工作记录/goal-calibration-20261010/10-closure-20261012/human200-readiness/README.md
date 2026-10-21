@@ -9,12 +9,12 @@
 真人交回 A/B 原件后，先用 `receive_originals_compatible.py` 接收（替换原件路径与尚不存在的接收子目录名称）。它复用封存 `receive.py` 的逐字复制、分配/模板/标准化检查和不覆盖规则，只在精确绑定的 reader 导入时补入 `posixpath`。实际输出仍在旧接收目录的新子目录内：
 
 ```sh
-"/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-metrics/.venv/bin/python" -B \
-  "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/human200-readiness/receive_originals_compatible.py" \
+"/PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-metrics/.venv/bin/python" -B \
+  "/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/human200-readiness/receive_originals_compatible.py" \
   --A /absolute/path/to/returned-A.xlsx \
   --B /absolute/path/to/returned-B.xlsx \
   --mode receive \
-  --output-dir "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/05-validation/human200-reception-root/actual-AB-initial-new"
+  --output-dir "/PROJECT_ROOT/outputs/goal-calibration-20261010/05-validation/human200-reception-root/actual-AB-initial-new"
 ```
 
 报告与 seal 都增加 `runtime_compatibility`，如实绑定兼容入口、所复用的旧 receiver/reader 和标准库补入说明；原 `receiver_bindings` 字段仍保留，增强后的报告哈希进入原 seal 的文件清单。接收不认证真人身份或独立性，也不自动准入统计。临时 NONHUMAN 空提交与小表检查见 `receive-originals-compatibility-check.json`；未在项目接收目录创建任何假首交记录。
@@ -22,8 +22,8 @@
 实际提交与复核完成后，再使用已核的项目统计环境运行以下 A/B 入口。`--receive-dir` 指向上一步接收目录，`--review` 指向实际执行证据复核；输出必须是本目录 `runs` 下尚不存在的新目录：
 
 ```sh
-"/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-metrics/.venv/bin/python" -B \
-  "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/human200-readiness/human_first_repaired.py" \
+"/PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-metrics/.venv/bin/python" -B \
+  "/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/human200-readiness/human_first_repaired.py" \
   --receive-dir /absolute/path/to/actual-human200-reception \
   --review /absolute/path/to/actual-AB-execution-review.json \
   --output-dir /absolute/path/to/human200-readiness/runs/actual-AB-initial

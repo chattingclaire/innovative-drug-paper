@@ -1,8 +1,8 @@
 最小调用（只绑定组件，不读取800正文、不生成包）
 
 ```sh
-python3 -B "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/formal-frozen-native-interface-v1-sol/builder.py" bind \
-  --binding "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/formal-frozen-native-interface-v1-sol/runtime-binding.json" --binding-sha 4a7a6f9c65cc99a7a81e6c1df29511fb761f9a9c74d31e8c663552147b051a4f
+python3 -B "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/formal-frozen-native-interface-v1-sol/builder.py" bind \
+  --binding "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/formal-frozen-native-interface-v1-sol/runtime-binding.json" --binding-sha 4a7a6f9c65cc99a7a81e6c1df29511fb761f9a9c74d31e8c663552147b051a4f
 ```
 
 Python scope/read/use 入口：在新的独立进程将本目录加入 sys.path，`import necessary_read_gate as gate; gate.configure(binding_path,binding_file_sha); import native_records`。随后原 `gate.prepare_scope/check_scope`、`native_records.check_saved_scopes/select_technical_receipts` 接口参数不变，scope/read/use 只据真实执行记录。

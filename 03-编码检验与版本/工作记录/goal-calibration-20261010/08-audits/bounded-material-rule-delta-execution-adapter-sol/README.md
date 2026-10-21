@@ -9,7 +9,7 @@ Use the exact required keys in ROOT-contract-obligations.json. candidate_code_se
 Future prepare entry (placeholders must be resolved to final sealed artifacts; this example was not executed):
 
 ```sh
-/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/bounded-material-rule-delta-execution-adapter-sol/prepare.py' \
+/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 '/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/bounded-material-rule-delta-execution-adapter-sol/prepare.py' \
   --selection "$DELTA_SELECTION" \
   --candidate-directory "$DELTA_CANDIDATE_DIRECTORY" --candidate-version "$DELTA_CANDIDATE_VERSION" \
   --driver-version "$DELTA_DRIVER_VERSION" \
@@ -17,10 +17,10 @@ Future prepare entry (placeholders must be resolved to final sealed artifacts; t
   --required-candidate-members "$DELTA_REQUIRED_CANDIDATE_MEMBERS" \
   --parent-composite "$DELTA_TRUE_COMPLETED_PARENT" --original-preparation "$DELTA_ORIGINAL_COMPLETE_PREPARATION" \
   --authorization-id "$DELTA_AUTHORIZATION_ID" --mutable-dimensions I \
-  --material-seal '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/output-seal.json' \
-  --material-correspondence '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/full4481-material-correspondence.json' \
-  --material-packet-bindings '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/packet-bindings-v16.json' \
-  --material-byteproof '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/byte-and-source-interface-proof.json' \
+  --material-seal '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/output-seal.json' \
+  --material-correspondence '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/full4481-material-correspondence.json' \
+  --material-packet-bindings '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/packet-bindings-v16.json' \
+  --material-byteproof '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/byte-and-source-interface-proof.json' \
   --output "$DELTA_PREPARATION_OUTPUT"
 ```
 
@@ -31,14 +31,14 @@ Preparation never creates ROOT adoption. ROOT must separately bind the actual pr
 Future merge entry, only after one genuinely sealed complete affected pass:
 
 ```sh
-/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/bounded-material-rule-delta-execution-adapter-sol/merge.py' \
+/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 '/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/bounded-material-rule-delta-execution-adapter-sol/merge.py' \
   --preparation "$DELTA_PREPARATION_OUTPUT" --parent-composite "$DELTA_TRUE_COMPLETED_PARENT" \
   --original-preparation "$DELTA_ORIGINAL_COMPLETE_PREPARATION" \
   --candidate-version "$DELTA_CANDIDATE_VERSION" --mutable-dimensions I \
-  --material-seal '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/output-seal.json' \
-  --material-correspondence '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/full4481-material-correspondence.json' \
-  --material-packet-bindings '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/packet-bindings-v16.json' \
-  --material-byteproof '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/byte-and-source-interface-proof.json' \
+  --material-seal '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/output-seal.json' \
+  --material-correspondence '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/full4481-material-correspondence.json' \
+  --material-packet-bindings '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/packet-bindings-v16.json' \
+  --material-byteproof '/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v16-article6-addendum-sol/byte-and-source-interface-proof.json' \
   --output "$DELTA_COMPOSITE_OUTPUT"
 ```
 

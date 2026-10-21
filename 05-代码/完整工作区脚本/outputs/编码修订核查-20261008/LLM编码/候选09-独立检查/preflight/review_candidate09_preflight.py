@@ -5,7 +5,7 @@ import copy, datetime, hashlib, importlib.util, json, subprocess, tempfile
 from pathlib import Path
 from types import SimpleNamespace
 
-PROJECT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+PROJECT = Path('/PROJECT_ROOT')
 HERE = Path(__file__).resolve().parent
 CAND = HERE.parent.parent / '候选09-分步判读'
 CHECKS = []

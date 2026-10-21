@@ -8,9 +8,9 @@
 
 | 文件 | SHA256 |
 |---|---|
-| [validation-design-v2.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/02-methods/prospective-statistical-contract-v2/validation-design-v2.json) | `e53487ee355a1a8872833f7740edef1368035565b35a35817c4e171b976e2266` |
-| [统计契约说明与勘误.md](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/02-methods/prospective-statistical-contract-v2/统计契约说明与勘误.md) | `3752307f5b63cd9d1efea7c8ab6dbfd274f0756cd245349dcecd5675531148da` |
-| [metrics_engine.py](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py) | `7d6f75594745f0e2d6cf9e211c789bd5006630064089116c7553e2f7770ba0f1` |
+| [validation-design-v2.json](/PROJECT_ROOT/outputs/goal-calibration-20261010/02-methods/prospective-statistical-contract-v2/validation-design-v2.json) | `e53487ee355a1a8872833f7740edef1368035565b35a35817c4e171b976e2266` |
+| [统计契约说明与勘误.md](/PROJECT_ROOT/outputs/goal-calibration-20261010/02-methods/prospective-statistical-contract-v2/统计契约说明与勘误.md) | `3752307f5b63cd9d1efea7c8ab6dbfd274f0756cd245349dcecd5675531148da` |
+| [metrics_engine.py](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py) | `7d6f75594745f0e2d6cf9e211c789bd5006630064089116c7553e2f7770ba0f1` |
 
 哈希亦存于本目录 `statistical-contract-v2-read-manifest.json`。该清单只绑定此次实际读过的三份文件，不声称已审核它们引用的其他材料。
 
@@ -20,9 +20,9 @@
 |---|---|---|
 | 固定单阶段分层 SRSWOR、基础权重 $N_h/n_h$、保留 FPC | `prepare` 的设计及 n/N 检查；`rao_wu_weights` 的 $m_h=n_h-1$ 多项重抽及 $1+\sqrt{1-n_h/N_h}(n_hk_{hi}/m_h-1)$ 因子 | 一致。全取层因子 1；非全取 singleton 拒绝。不是可选 union/两阶段设计的实现。 |
 | primary 预设 5000 次、seed=20261010 | `rao_wu_weights`、`analyze` 及 CLI 的默认值均为 5000/20261010 | 默认参数一致。bootstrap seed 与尚待冻结的真实抽样 seed 是不同参数。 |
-| 所有方法及五维共用每个单位的重复权重 | [analyze](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py:378) 在任何比较/维度循环前生成一张 W；后续 A/B、rule/reference、LLM/reference、所有维度及 attention 均使用这张 W | 一致，保留配对与跨指标协方差，不重新抽标签或重跑模型。 |
+| 所有方法及五维共用每个单位的重复权重 | [analyze](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py:378) 在任何比较/维度循环前生成一张 W；后续 A/B、rule/reference、LLM/reference、所有维度及 attention 均使用这张 W | 一致，保留配对与跨指标协方差，不重新抽标签或重跑模型。 |
 | primary 为逐指标 percentile 95% | `vector_metrics(W@X)` 后 `_interval` 取 .025/.975 分位；明确 `method='linear'`；输出逐指标近似区间声明 | 一致，不声称有限样本精确覆盖或 45 项同时 95%。 |
-| secondary 为四格设计协方差与解析梯度、保留 FPC | [analytic_covariance 与梯度调用](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py:400) 使用原 assigned-unit n，层内样本协方差乘 $N_h^2(1-f_h)/n_h$；`metric_gradients` 得到 $g$，诊断 SE=$\sqrt{g^TVg}$ | 一致。解析 SE 与 primary CI 并列诊断，不重新构造可供择优的另一套主 CI。可比较四格的随机分母包含在齐次指标梯度内，没有删除未知行后重新定义原抽样 n。 |
+| secondary 为四格设计协方差与解析梯度、保留 FPC | [analytic_covariance 与梯度调用](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py:400) 使用原 assigned-unit n，层内样本协方差乘 $N_h^2(1-f_h)/n_h$；`metric_gradients` 得到 $g$，诊断 SE=$\sqrt{g^TVg}$ | 一致。解析 SE 与 primary CI 并列诊断，不重新构造可供择优的另一套主 CI。可比较四格的随机分母包含在齐次指标梯度内，没有删除未知行后重新定义原抽样 n。 |
 | 未定义重复与稀疏退化须明示 | `_interval` 不把有无定义重复混合后宣称无条件 95%；非全取退化抑制充分性 CI；全取域依 `domain_is_census` 单独识别 | 一致，全取零抽样误差仍条件于现有标签，不能证明参照或构念无误。 |
 | 零类别/稀有格使用有限总体保护；联合 $H\times C$ 区域须保留格数约束 | `finite_count_interval` 超几何参数反演；单类别跨层 Bonferroni；完整含 null/failure 状态的 joint guard 使用 $C=16$、$\alpha/(16H)$ | 一致。当前联合指标可行极值投影明确未实现；输出为计数约束，不能改称 κ/P/R/F1 的精确联合置信限。 |
 | 非概率开发材料不报总体 CI | `nonprobability` 不生成 W，`_interval` 返回无总体 CI | 一致，不将开发合成例或历史算术当正式验证。 |
@@ -33,7 +33,7 @@
 
 两个方法文件均声明：当前剩余池范围是 1444；被开发曝光闭包排除的 3037 项在 remaining-only 设计下 $\pi=0$。HT 设计加权只能恢复具有正纳入概率的该剩余有限总体；不能把 1444 的机器参照比较、错误率或信度重加权成 full 4481 的相同验证结论。另做 full 4481 审计需在全部目标 ID 上实施正概率抽样及真实参照流程；开发曝光项可以被审计，但不能重新叫未见泛化验证。
 
-当前 [review_eligibility](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py:339) 将 `remaining_1444` 与 `full_4481_audit` 分为两种范围；分别核对声明总体 N 为 1444/4481，并对 remaining 输出 `remaining_1444_cannot_validate_all4481=True`。`prepare` 另要求总体 N 等于所有已声明正概率层总体大小之和。实现与该范围约束相符。
+当前 [review_eligibility](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/prospective-engine-sol/metrics_engine.py:339) 将 `remaining_1444` 与 `full_4481_audit` 分为两种范围；分别核对声明总体 N 为 1444/4481，并对 remaining 输出 `remaining_1444_cannot_validate_all4481=True`。`prepare` 另要求总体 N 等于所有已声明正概率层总体大小之和。实现与该范围约束相符。
 
 这些 checks 只检查输入声明和绑定，不能自行鉴证总体 ID 框的真实性或证明遗漏层未被隐去；正式身份/冻结/框范围证据仍须外部审查。当前引擎保留 `formal_acceptance=False`，没有将 metadata 完整或数值点值达标自动当正式项目验收。
 

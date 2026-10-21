@@ -1,17 +1,17 @@
 {
   "created_at_utc": "2026-10-19T17:28:17.019432+00:00",
-  "scope": "固定466条与用户最终确认人工编码的未加权样本内比较；非4481总体加权估计。待定不当0，按维度剔除待定配对。",
+  "scope": "固定466条与经人工复核的参考编码的未加权样本内比较；非4481总体加权估计。待定不当0，按维度剔除待定配对。",
   "input_files": [
     {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/全量结论补充人工审计-466条-20261017/agent独立编码/人工确认后完整核算-20261019/最终人工编码-941条-4705项.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/全量结论补充人工审计-466条-20261017/agent独立编码/人工确认后完整核算-20261019/最终人工编码-941条-4705项.json",
       "sha256": "db642bb5ae69adfa71f62197692da6907b42daa50a2b3877917a1acae5b6e605"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/13-repeat466-20261019/run-01/复跑结果-466条.json",
       "sha256": "a75f39fff8045b597d6be1893f0363fcc7621cab53d15e13717d3025b0a9d7bc"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/正文写作最终结果-20261019/最终编码与指标-4481条.json",
+      "path": "/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/正文写作最终结果-20261019/最终编码与指标-4481条.json",
       "sha256": "396256fe27b22bf7db37febcf007a47bf57c34428eb4a8a141d0105e8f0a5b0b"
     }
   ],

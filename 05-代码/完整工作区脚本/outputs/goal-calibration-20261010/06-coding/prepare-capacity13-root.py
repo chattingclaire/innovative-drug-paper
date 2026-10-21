@@ -5,7 +5,7 @@ import difflib
 import hashlib
 import json
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 OLD = ROOT / '06-coding/full4481-cli-fixed-batch-scheduler-v2-root'
 NEW = ROOT / '06-coding/full4481-cli-fixed-batch-scheduler-v3-capacity13-root'
 

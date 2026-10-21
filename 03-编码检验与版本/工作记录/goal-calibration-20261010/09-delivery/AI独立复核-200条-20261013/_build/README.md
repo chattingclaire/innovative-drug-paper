@@ -5,7 +5,7 @@
 两份 predictions.json 都提交并经协调者明确通知后，执行：
 
 ```sh
-/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/build-ai-workbooks.mjs' --confirmed
+/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node '/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/AI独立复核-200条-20261013/_build/build-ai-workbooks.mjs' --confirmed
 ```
 
 程序填入原始空白工作簿的 D、E 两列，并将两列表头明确标为 AI 判定及 AI 理由。D 表头主动分行。保留原有“独立初判”工作表名称、A–C 列、材料链接、顺序和单元格样式。按每行理由的中文、英文显示宽度和显式换行估算所需行高，行高不低于原模板；E 列按理由长度分布最多扩到 96 列宽单位，D 列适度扩宽。每项可读性变化都记录在对应 layout-adjustments.json 中。超出 Excel 安全行高时停止，不能截断交付。原始真人工作簿不变。导出分别保存到 AI复核者A/AI复核-A-200条.xlsx 和 AI复核者B/AI复核-B-200条.xlsx。

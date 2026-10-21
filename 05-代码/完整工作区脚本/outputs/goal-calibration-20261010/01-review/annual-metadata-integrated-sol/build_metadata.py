@@ -10,12 +10,12 @@ import json
 import re
 import unicodedata
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 OUT = ROOT / '01-review/annual-metadata-integrated-sol'
-ARCHIVE = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+ARCHIVE = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 PLAN_DIR = ROOT / '02-methods/department-year-analysis-plan-sol'
 AUDIT_DIR = ROOT / '01-review/annual-publication-date-audit-sol'
-FROZEN = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/frozen-inputs')
+FROZEN = Path('/PROJECT_ROOT/outputs/validation-expansion-20260926/frozen-inputs')
 CUTOFF = '2026-07-31'
 STAMP = datetime.now(ZoneInfo('Asia/Shanghai')).isoformat()
 INPUTS = {}

@@ -1,6 +1,6 @@
 # v9 通用关系修正：最终隔离候选
 
-已冻结可交ROOT实际delta的完整候选，尚未作最终语义验收或独立准确率评价。当前五模块在 `/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v9-generic-relationship-sol`，静态selector为该目录 `select_static_impact.py`；总封印在本目录 `output-seal.json`。共同手册SHA `5ea7ab74d30fb79c4cbd1d7d6b2ae40c4f52a52360075f3552199de949f9cc7b`、v8原件、human标签和LLM prompt均未改变。本轮未跑全4481、未打开human200/remaining或未选邻近正文。
+已冻结可交ROOT实际delta的完整候选，尚未作最终语义验收或独立准确率评价。当前五模块在 `/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v9-generic-relationship-sol`，静态selector为该目录 `select_static_impact.py`；总封印在本目录 `output-seal.json`。共同手册SHA `5ea7ab74d30fb79c4cbd1d7d6b2ae40c4f52a52360075f3552199de949f9cc7b`、v8原件、human标签和LLM prompt均未改变。本轮未跑全4481、未打开human200/remaining或未选邻近正文。
 
 最终有限控制189项 = 130已暴露维项 + 59中性控制；174有硬断言，165硬通过、9硬失败，15待定。15项不计为hard通过；既有passed_N=180含pending不能作为通过数。所有原expected、8轮实际失败、warning和快照全部保留。98个原包的实际打开及输入哈希见actual-opened-input-bindings.json。最终控制S/E/Ec完整决策、gate外完整决策、受限母对象未证新阳性检查均无差异/异常；分类过程中FS尝试0、技术异常0。
 
@@ -26,4 +26,4 @@
 
 静态影响必须选择全部同入口可达记录，不论旧1/0/null、native标签或是否在开发130；被选择的记录整条重算全部旧/新unit与完整依据链。ROOT的全4481无标签manifest及actual-v8-compatible mixed baseline都已哈希绑定；作者没有打开该manifest的其他正文或执行全体selector。已知baseline是4474实际v7兼容结果+7实际v8，不能说4481都实际执行v8。独立混合baseline证明另绑定A phase02。
 
-selector-contract.json刻意approved=false，等待A/C/ROOT对最终实际代码封印审核；ROOT应在新路径冻结批准contract，运行 `python3 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v9-generic-relationship-sol/select_static_impact.py --contract <ROOT-approved-contract>`。输出为 status、record_N、selected_N/reusable_N、full_fallback_reasons、affected_records[{id,reasons,recompute_scope}]及所有binding。闭包证据不能证明、hash/adapter/wrapper变化或输入不能复用时必须全4481 fallback；未统计真实selected_N，不承诺阈值或成绩。
+selector-contract.json刻意approved=false，等待A/C/ROOT对最终实际代码封印审核；ROOT应在新路径冻结批准contract，运行 `python3 /PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-five-dimension-joint-root/versions/joint-v9-generic-relationship-sol/select_static_impact.py --contract <ROOT-approved-contract>`。输出为 status、record_N、selected_N/reusable_N、full_fallback_reasons、affected_records[{id,reasons,recompute_scope}]及所有binding。闭包证据不能证明、hash/adapter/wrapper变化或输入不能复用时必须全4481 fallback；未统计真实selected_N，不承诺阈值或成绩。

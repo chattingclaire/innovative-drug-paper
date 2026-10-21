@@ -3,7 +3,7 @@ import hashlib
 import json
 from pathlib import Path
 
-W = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008')
+W = Path('/PROJECT_ROOT/outputs/编码修订核查-20261008')
 OLD = W / 'LLM编码/共同操作判据准备'
 HERE = Path(__file__).resolve().parent
 MANUAL = W / '定义溯源核查/测量与计数统一/共用编码手册.md'

@@ -4,7 +4,7 @@
 
 ## 来源与复用
 
-唯一版式来源为 `official-current-template.docx` 的逐字副本，原件：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/evidence/official-current-template.docx`，SHA-256 `9d53ceb26f2f3b869edf09c4ce260af1ba1dd39971a543f21a565c3b8014a7e3`。官方文字规范优先于该文件遗留样式的默认值：例如中文题名样式内部为 22 pt，但规范明确为四号 14 pt；底稿按规范将使用角色校正。
+唯一版式来源为 `official-current-template.docx` 的逐字副本，原件：`/PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/evidence/official-current-template.docx`，SHA-256 `9d53ceb26f2f3b869edf09c4ce260af1ba1dd39971a543f21a565c3b8014a7e3`。官方文字规范优先于该文件遗留样式的默认值：例如中文题名样式内部为 22 pt，但规范明确为四号 14 pt；底稿按规范将使用角色校正。
 
 `build_style_base.py` 默认写 `科学决策排版底稿.docx`，仅读取本目录官方副本，不读取研究结果。可指定 `--output /绝对路径/副本.docx`，默认拒绝覆盖；重建本底稿时显式加 `--replace`。正式组稿可复制 DOCX 后替换示例文字，也可复用脚本中的段落、三线表函数。两页展示中的手动分页可删除；章节序号由组稿者按实际结构维护。
 

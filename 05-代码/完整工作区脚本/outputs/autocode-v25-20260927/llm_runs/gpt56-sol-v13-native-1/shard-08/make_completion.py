@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 here=Path(__file__).resolve().parent
-py="/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+py="/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
 def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 records=[]
 for n in range(1,43):

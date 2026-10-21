@@ -3,7 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import {FileBlob, SpreadsheetFile} from '@oai/artifact-tool';
 
-const ROOT='/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010';
+const ROOT='/PROJECT_ROOT/outputs/goal-calibration-20261010';
 const SUPPORT=path.join(ROOT,'logs/human4-reference-v2-delivery');
 const data=JSON.parse(await fs.readFile(path.join(SUPPORT,'edit-inputs.json'),'utf8'));
 const sha=bytes=>crypto.createHash('sha256').update(bytes).digest('hex');

@@ -9,7 +9,7 @@
 只能等session86083及全部已启动CLI/host真实末态后，ROOT审阅并写实际采纳。模板不是授权。未来唯一入口：
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/stability-historical-PID-reuse-compatibility-sol/entry.py' --mode run --target stability13 --go '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native13-successor-terminal-compatibility-preparation-sol/ROOT-actual-stability13-GO-01.json' --adoption '<ROOT实际采纳文件>'
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/stability-historical-PID-reuse-compatibility-sol/entry.py' --mode run --target stability13 --go '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native13-successor-terminal-compatibility-preparation-sol/ROOT-actual-stability13-GO-01.json' --adoption '<ROOT实际采纳文件>'
 ```
 
 采纳须绑定本seal/entry/同GO及prior_controller_terminal_evidence。真实终態证据须提供actual_session=86083、actual_controller_terminal=true、all_started_CLI_children_and_hosts_terminal=true、actual_exit_observed=true、实际整数actual_returncode、live_owned_processes=[]及prior_controller_identity(pid/lstart)。入口另核真实ps并保留原outer fresh检查。无采纳会在载入原bootstrap前拒绝。

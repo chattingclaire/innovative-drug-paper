@@ -4,7 +4,7 @@ from copy import deepcopy
 from lxml import etree as E
 import json, re, hashlib
 
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE = Path('/PROJECT_ROOT')
 M = BASE / 'outputs/goal-calibration-20261010/08-manuscript'
 OC = M / 'original-continuation'
 OUT = M / 'submission-20261013'

@@ -85,7 +85,7 @@ for short,(first,last) in ranges.items():
 
 # Supply the actual text of the named, explicitly incorporated articles. These
 # are references, not additional current propositions or transferred labels.
-cp=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/PDF段落与句子候选/NHSA-基本医疗保险用药管理暂行办法-2020.json')
+cp=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/PDF段落与句子候选/NHSA-基本医疗保险用药管理暂行办法-2020.json')
 cd=json.loads(cp.read_text());articles={}
 for article in ('第七条','第八条','第九条','第十条'):
     out=[]

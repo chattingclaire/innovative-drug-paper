@@ -24,10 +24,10 @@
 下列命令仅说明接续方法，本次没有执行。运行目录须不存在。ROOT 按 `release.UNRELEASED.json` 原格式提供实际 release，保留已绑定输入/实现/范围，填入真实授权身份和已发布状态；不要直接改写候选模板。
 
 ```sh
-cd '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation'
+cd '/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation'
 python3 finalize_scope.py --release '<ROOT实际release绝对路径>' --release-sha256 '<实际release SHA256>' --scope-out '<新frozen-scope绝对路径>'
-python3 rule_driver.py --scope '<新frozen-scope绝对路径>' --scope-sha256 '<finalize_scope返回的SHA256>' --input "$PWD/affected-current-v16-common-lines.jsonl" --input-sha256 e9ffbf6554e1e095f27fe912f7617003be0633f0c3224315592403a3b2ef1625 --out '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v12-sf-v16-affected-root/run-affected-first'
-python3 receive_merge.py --scope '<同一个frozen-scope绝对路径>' --delta '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v12-sf-v16-affected-root/run-affected-first' --output '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v12-sf-v16-delta-merged-root'
+python3 rule_driver.py --scope '<新frozen-scope绝对路径>' --scope-sha256 '<finalize_scope返回的SHA256>' --input "$PWD/affected-current-v16-common-lines.jsonl" --input-sha256 e9ffbf6554e1e095f27fe912f7617003be0633f0c3224315592403a3b2ef1625 --out '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v12-sf-v16-affected-root/run-affected-first'
+python3 receive_merge.py --scope '<同一个frozen-scope绝对路径>' --delta '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v12-sf-v16-affected-root/run-affected-first' --output '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-full4481-v12-sf-v16-delta-merged-root'
 ```
 
 需要只核接收而不写合并产物时，在最后一个命令添加 `--validate-only`。不得使用 Python `-O`。失败首轮按原 driver 留存，不重试覆盖原目录；此接收器只合并 2082 条完整成功且 10410 槽均保留的单次运行，不把技术失败改为 NULL。

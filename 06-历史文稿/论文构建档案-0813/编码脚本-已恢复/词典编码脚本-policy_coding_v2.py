@@ -10,7 +10,7 @@ import json
 import csv
 from collections import defaultdict
 
-POLICY_DIR = '/Users/rainbow/Desktop/战略院/药企项目-创新药/政策文件'
+POLICY_DIR = '/PROJECT_ROOT/政策文件'
 TXT_DIR = os.path.join(POLICY_DIR, 'txt_extracted')
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 

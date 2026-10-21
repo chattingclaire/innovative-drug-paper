@@ -5,7 +5,7 @@
 actor 使用本批索引中的真实文件byte SHA调用：
 
 ```sh
-python3 "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/source-read-transport-fix-sol/source_view_chunk.py" \
+python3 "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/source-read-transport-fix-sol/source_view_chunk.py" \
   --file "<本批packet绝对路径>" --file-sha256 "<冻结索引文件byte SHA>" \
   --pointer /source_bundle/source_record/text --encoding utf8_text \
   --start-byte 0 --max-bytes 6000 --audit-log "<自身attempt内唯一chunk-emission.json>"

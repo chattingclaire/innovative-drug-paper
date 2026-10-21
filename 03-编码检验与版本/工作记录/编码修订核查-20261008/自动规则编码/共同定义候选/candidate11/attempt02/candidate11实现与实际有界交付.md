@@ -35,13 +35,13 @@ attempt02的17/21/33条各执行一次，均无运行异常、无材料未决；
 
 交付文件：
 
-- [最终相对candidate10代码diff](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/candidate10_to11_runtime.diff)
-- [首次→attempt02仅技术差异](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/attempt01_to02_technical_only.diff)
-- [执行前冻结契约与环境身份](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/execution_contract_before_attempt02.json)
-- [首次环境失败证据](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/first_environment_failure_evidence11.json)
-- [17/21/33逐项新增证据及零值保护](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/actual_change_diagnoses11.json)
-- [原文件SHA与运行QA](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/implementation_actual_QA11.json)
-- [中性material supplement候选](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/material_supplement_candidates11.jsonl)
-- [材料范围差异与raw_pointer](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/source_context_difference_report11.json)
+- [最终相对candidate10代码diff](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/candidate10_to11_runtime.diff)
+- [首次→attempt02仅技术差异](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/attempt01_to02_technical_only.diff)
+- [执行前冻结契约与环境身份](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/execution_contract_before_attempt02.json)
+- [首次环境失败证据](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/first_environment_failure_evidence11.json)
+- [17/21/33逐项新增证据及零值保护](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/actual_change_diagnoses11.json)
+- [原文件SHA与运行QA](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/implementation_actual_QA11.json)
+- [中性material supplement候选](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/material_supplement_candidates11.jsonl)
+- [材料范围差异与raw_pointer](/PROJECT_ROOT/outputs/编码修订核查-20261008/自动规则编码/共同定义候选/candidate11/attempt02/source_context_difference_report11.json)
 
 停在此处等待root独立复核。未启动完整4924运行、未采用结果进入正文。

@@ -1,6 +1,6 @@
 # 冻结后独立检验与开发试填方案（Sol复核版）
 
-2026-10-10；负责人：validation_design_sol（GPT-6.1 Sol，按任务要求ultra）。本次只核查历史证据、来源接口和统计设计，未执行新模型、未抽最终样本、未生成真人标签。配套机器可读参数见[validation-design-sol.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/validation-design-sol.json)，材料接口见[packet-source-schema-sol.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/packet-source-schema-sol.json)，实际曝光核查见[exposure-audit-sol.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/exposure-audit-sol.json)。**真人独立检验与可信裁定尚未完成，不得以AI代理试填替代。**
+2026-10-10；负责人：validation_design_sol（GPT-6.1 Sol，按任务要求ultra）。本次只核查历史证据、来源接口和统计设计，未执行新模型、未抽最终样本、未生成真人标签。配套机器可读参数见[validation-design-sol.json](/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/validation-design-sol.json)，材料接口见[packet-source-schema-sol.json](/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/packet-source-schema-sol.json)，实际曝光核查见[exposure-audit-sol.json](/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/exposure-audit-sol.json)。**真人独立检验与可信裁定尚未完成，不得以AI代理试填替代。**
 
 ## 1. 已核事实与适用总体
 

@@ -1,6 +1,6 @@
 此目录是v12的有限纯来源接口增补，按来源文档SHA `09d813b3014db4137d2bceab8bc280c396a5916fafa7bb4c216c5798ae824d06` 为同源59条记录增加第三条全文4段、第五条全文5段的可用原文库存，不按记录标签或得分选择材料。未改v12接口、原始4481记录、正文或27,534个旧CTX；01423原25CTX保持不变。
 
-默认接口为 `/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/source-interface-v13-addendum/source_only_interface_v13.py`，Python调用 `lookup(record_id, selector='model')`，CLI调用 `python3 source_only_interface_v13.py model RECODE25-01423`。`rule`、`model`、`human`返回相同完整对象。`--inventory`提供可用资源定位/视图SHA，保留“未记录实际读入/使用”；`unit`与`--record-only`仍原样委托v12，属于不含全套增补库存的窄视图。
+默认接口为 `/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/context-projection-sol/source-interface-v13-addendum/source_only_interface_v13.py`，Python调用 `lookup(record_id, selector='model')`，CLI调用 `python3 source_only_interface_v13.py model RECODE25-01423`。`rule`、`model`、`human`返回相同完整对象。`--inventory`提供可用资源定位/视图SHA，保留“未记录实际读入/使用”；`unit`与`--record-only`仍原样委托v12，属于不含全套增补库存的窄视图。
 
 对增补文档，新增一个中性原文章节集合到 `explicit_or_primary_source_resources`，九段完整原文到 `source_full_text_resources`。所有旧根字段保留；仅这两个集合追加，以及新增 `source_bundle_extension`。原 `common_source_bundle_version` 的v12值保留，表示原核心版本；增补版本/来源SHA/旧bundle SHA另记在新根字段，完整新bundle SHA在 `frame-bundle-bindings.jsonl`。其他4422条整个默认对象与v12逐值、逐字节相同。
 

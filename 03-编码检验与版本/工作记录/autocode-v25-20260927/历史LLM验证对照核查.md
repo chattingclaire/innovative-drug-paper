@@ -10,9 +10,9 @@
 
 原稿6方法段50、表2和附录A2明确：LLM语义编码作为词典编码的对照。稿6的LLM数据是清洗后2965句；表2总体κ=0.654是**词典—LLM方法间一致性**，不是LLM相对作者的召回率。方法段54的296条新人工验证写“结果待补”，现存新A/B表也没有完成标签。
 
-- [原稿6清洁版](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/00-论文最新稿/0925论文修订稿6-创新药评价的注意力配置差异-清洁版.docx)：顶层正文段50、54、157；具体段落原文和文档哈希见配套JSON。段号按`word/document.xml`顶层正文段计，不是页码。
-- [历史v3 LLM输出](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/coding_v3_llm.json)：2965条，字段为id/dept/file/dims。
-- [更早v2 LLM输出](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/llm_all_results.json)：3387条，字段为id/dims。
+- [原稿6清洁版](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/00-论文最新稿/0925论文修订稿6-创新药评价的注意力配置差异-清洁版.docx)：顶层正文段50、54、157；具体段落原文和文档哈希见配套JSON。段号按`word/document.xml`顶层正文段计，不是页码。
+- [历史v3 LLM输出](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/coding_v3_llm.json)：2965条，字段为id/dept/file/dims。
+- [更早v2 LLM输出](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/llm_all_results.json)：3387条，字段为id/dims。
 
 模型身份仅作来源核对：v2脚本配置`claude-sonnet-4-20250514`；稿6对v3自述“Claude Opus 5”。二者是历史执行/口径版本信息，不把用户问题改成“两个模型验证”。标签文件不含逐请求模型、提示词或运行哈希，稿件自述与脚本配置的证据强度须区分。
 
@@ -58,13 +58,13 @@
 
 ## 5. 证据和本次核验
 
-- [原历史完整统计](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/results.json)：`matched_text_pairs_338`与`cross_version_diagnostic_only`两个区块，逐维n、TP、FP、FN、TN、precision、recall、F1均在。
-- [逐句历史对照CSV](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/sentence_comparison.csv)：本次据此独立复核20个LLM混淆表；结果与存档JSON完全一致。没有重新编码。
-- [历史背景复核报告](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/论文背景与编码检验复核.md)：作者身份、339/338/299/296分母、非法格及历史方法边界。
-- [LLM输入截断审计](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/llm_input_truncation.json)：历史导出命令及139条受影响ID。未在本文重印政策正文。
-- [当前完成阶段口径核对](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/维度口径与正文衔接-完成阶段核对.md)、[当前投稿候选稿](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/投稿候选稿-匿名审稿版.docx)段109：明确历史外部LLM未按同输入重跑。
-- [18条校准事后对照](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/01a0dbb7-blind-review/与正文历史编码对照说明.md)：12/16、11/15及其限制。
-- [本核查结构化记录](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/autocode-v25-20260927/历史LLM验证对照核查.json)：分子分母、precision/F1、原稿段落、全部来源哈希及核验信息。
+- [原历史完整统计](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/results.json)：`matched_text_pairs_338`与`cross_version_diagnostic_only`两个区块，逐维n、TP、FP、FN、TN、precision、recall、F1均在。
+- [逐句历史对照CSV](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/sentence_comparison.csv)：本次据此独立复核20个LLM混淆表；结果与存档JSON完全一致。没有重新编码。
+- [历史背景复核报告](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/论文背景与编码检验复核.md)：作者身份、339/338/299/296分母、非法格及历史方法边界。
+- [LLM输入截断审计](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/11-编码检验复核-20260925/llm_input_truncation.json)：历史导出命令及139条受影响ID。未在本文重印政策正文。
+- [当前完成阶段口径核对](/PROJECT_ROOT/outputs/validation-expansion-20260926/维度口径与正文衔接-完成阶段核对.md)、[当前投稿候选稿](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/投稿候选稿-匿名审稿版.docx)段109：明确历史外部LLM未按同输入重跑。
+- [18条校准事后对照](/PROJECT_ROOT/outputs/01a0dbb7-blind-review/与正文历史编码对照说明.md)：12/16、11/15及其限制。
+- [本核查结构化记录](/PROJECT_ROOT/outputs/autocode-v25-20260927/历史LLM验证对照核查.json)：分子分母、precision/F1、原稿段落、全部来源哈希及核验信息。
 
 本次复核六份历史源数据的SHA256均与9月25日统计绑定一致。未打开v25新验证候选文件、未抽样或调用LLM产生新结果，未修改原作者标签、历史报告或投稿文件。区间未移用：旧存档bootstrap对应339条范围，不能直接贴到338条主比较或299条跨版本诊断上。
 
@@ -72,4 +72,4 @@
 
 核查过程中有一次直接读取旧`llm_input_truncation.json`，工具虽截断输出，仍展示了头尾部分政策`preview`/`hidden`原文；此外，`results.json`结构摘要显示了非法格ID2687、1009的原文。不能把“未打开新候选文件”说成“没有与候选重叠的正文暴露”。为避免遗漏，已将截断审计全部139个旧ID、加上述2个非法格共141条保守登记；其中能从可见输出明确识别的24条标为确认展示，其余117条标为可能展示、保守排除。
 
-详见[本轮历史LLM核查新增暴露登记](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/autocode-v25-20260927/历史LLM核查新增暴露登记.json)，含历史ID、原语料JSON指针、原文与归一化文字哈希、展示来源及字段。后续验证框须程序映射这些片段并排除重叠；本报告不宣称该框仍完全未暴露。未向模型展示全部2965/3387句，其他全量文件仅程序处理标签、长度、字段和哈希；本次登记不隐瞒工具已产生的可见片段。
+详见[本轮历史LLM核查新增暴露登记](/PROJECT_ROOT/outputs/autocode-v25-20260927/历史LLM核查新增暴露登记.json)，含历史ID、原语料JSON指针、原文与归一化文字哈希、展示来源及字段。后续验证框须程序映射这些片段并排除重叠；本报告不宣称该框仍完全未暴露。未向模型展示全部2965/3387句，其他全量文件仅程序处理标签、长度、字段和哈希；本次登记不隐瞒工具已产生的可见片段。

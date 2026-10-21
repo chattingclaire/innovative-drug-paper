@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-PYTHON = Path('/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3')
+PYTHON = Path('/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3')
 
 
 def sha(path):

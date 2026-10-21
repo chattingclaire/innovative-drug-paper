@@ -4,7 +4,7 @@ import hashlib
 import json
 from pathlib import Path
 
-P=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+P=Path('/PROJECT_ROOT')
 H=P/'outputs/编码修订核查-20261008/LLM编码/候选08-命题与证据判定'
 O=H/'failure-mechanism-audit'
 R=H/'runtime-unchanged-v2'

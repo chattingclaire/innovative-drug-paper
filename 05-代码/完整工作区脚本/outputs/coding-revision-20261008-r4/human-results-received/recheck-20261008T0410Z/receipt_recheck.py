@@ -3,8 +3,8 @@
 import csv, datetime as dt, hashlib, io, json
 from collections import Counter
 from pathlib import Path
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
-ARCHIVE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+ROOT=Path('/PROJECT_ROOT')
+ARCHIVE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 OUT=Path(__file__).parent
 NOW=dt.datetime.now(dt.timezone.utc).isoformat()
 DIMS=('S','E','Ec','I','F')

@@ -4,7 +4,7 @@ from collections import Counter
 import numpy as np
 from openpyxl import load_workbook
 
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 OUT=Path(__file__).resolve().parent
 DIMS=['安全性','有效性','经济性','创新性','公平性']
 OLD=BASE/'10-人工编码基准/旧口径-作废'

@@ -10,7 +10,7 @@ total=0
 for n in range(1,43):
     b=f"{n:03d}"
     ip=here/f"input-{b}.json"; op=here/f"output-{b}.json"
-    proc=subprocess.run(["/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",str(here/"validate_output.py"),str(ip),str(op)],capture_output=True,text=True)
+    proc=subprocess.run(["/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",str(here/"validate_output.py"),str(ip),str(op)],capture_output=True,text=True)
     audit=json.loads(proc.stdout)
     if proc.returncode or not audit.get("valid"):
         raise SystemExit(f"batch {b} validation failed: {audit}")

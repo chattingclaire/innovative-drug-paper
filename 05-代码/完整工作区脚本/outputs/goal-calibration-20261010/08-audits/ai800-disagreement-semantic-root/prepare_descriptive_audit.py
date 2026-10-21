@@ -3,7 +3,7 @@ from pathlib import Path
 from collections import Counter
 import json, hashlib
 
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE = Path('/PROJECT_ROOT')
 OUT = Path(__file__).resolve().parent
 AI = BASE / 'outputs/ai-audit800-20261010'
 RULE = BASE / 'outputs/goal-calibration-20261010/06-coding/rule-full4481-v2-root'

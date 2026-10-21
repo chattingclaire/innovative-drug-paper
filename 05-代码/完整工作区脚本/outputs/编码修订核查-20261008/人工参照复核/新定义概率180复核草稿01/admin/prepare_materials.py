@@ -1,7 +1,7 @@
 from pathlib import Path
 import collections, copy, hashlib, html, json, random, secrets, shutil
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 OUT = Path(__file__).resolve().parent.parent
 PF = ROOT/'outputs/编码修订核查-20261008/LLM编码/统一判据编码准备'
 DESIGN = ROOT/'outputs/coding-revision-20261007-r3/admin/confirmation_sampling_PRIVATE.json'

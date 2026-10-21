@@ -1,7 +1,7 @@
 import json, hashlib
 from pathlib import Path
 from collections import Counter
-root=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+root=Path('/PROJECT_ROOT')
 out=root/'outputs/ab-review-20261010/semantic-first'
 source=json.loads((out/'extracted.json').read_text())
 annotations=json.loads((out/'annotations.json').read_text())

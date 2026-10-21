@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,hashlib,datetime,importlib.util,re,zipfile,xml.etree.ElementTree as E
-root=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+root=Path('/PROJECT_ROOT')
 out=root/'outputs/编码修订核查-20261008/定义映射独立核查'
 spec=importlib.util.spec_from_file_location('red',root/'outputs/coding-revision-20261008-r4/validation-state-audit/reserved_context_redactor.py');m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m);red=m.ReservedContextRedactor()
 paths={

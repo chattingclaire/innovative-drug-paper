@@ -2,7 +2,7 @@
 from pathlib import Path
 import json, hashlib, datetime, importlib.util
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/编码修订核查-20261008/LLM编码/候选方案'
 OUT=BASE/'semantic-review/independent-controls'
 SOURCE=BASE/'execution-audit/candidate07_all106_controls_PRIVATE.json'

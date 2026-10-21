@@ -6,7 +6,7 @@ import pypdfium2 as pdfium
 
 HERE = Path(__file__).resolve().parent
 BASE = HERE.parent / 'final-three-department-20261007'
-ARCHIVE = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+ARCHIVE = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 
 def sha(path): return sha256(Path(path).read_bytes()).hexdigest()
 def canonical(text): return ''.join(c for c in unicodedata.normalize('NFKC', text) if c.isalnum())

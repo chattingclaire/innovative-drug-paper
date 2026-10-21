@@ -536,7 +536,7 @@ def make_review():
                           'canonical_path':str(CANONICAL_PATH),'actual_read_canonical_sha256':CANONICAL_SHA,
                           'canonical_read_scope':'Only selected 14 records and their 28 target occurrence fields; no other bodies, labels or predictions.',
                           'additional_authorized_canonical_binding':ADDITIONAL_BINDING,
-                          'skill_path':'/Users/rainbow/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.12148/skills/pdf/SKILL.md'},
+                          'skill_path':'/LOCAL_HOME/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.12148/skills/pdf/SKILL.md'},
         'counts':{'unique_jobs':13,'diagram_jobs':9,'table_geometry_jobs':4,'occurrences':30,'distinct_records':15,
                   'source_pdfs':5,'primary_physical_pages_actually_viewed':12,'adjacent_header_physical_pages_actually_viewed':1,
                   'full_pages_actually_viewed':12,'crop_assets_actually_viewed':6,'rendered_png_assets':19,

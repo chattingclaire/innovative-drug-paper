@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 import csv, hashlib, json, re
 from pypdf import PdfReader
 
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE = Path('/PROJECT_ROOT')
 OUT = Path(__file__).parent
 def read(p): return json.loads(Path(p).read_text())
 def sha(p): return hashlib.sha256(Path(p).read_bytes()).hexdigest()

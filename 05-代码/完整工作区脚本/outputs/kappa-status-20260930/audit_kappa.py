@@ -2,7 +2,7 @@ from pathlib import Path
 import sys,json,hashlib
 from fractions import Fraction
 from collections import Counter
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/autocode-v25-20260927'
 OUT=ROOT/'outputs/kappa-status-20260930'
 sys.path.insert(0,str(BASE))
@@ -35,7 +35,7 @@ def checked(pairs):
  return a
 new={d:checked([(r[k][d],l[k][d],1) for k in r]) for d in DIMS}
 new['pooled_five_dimensions']=checked([(r[k][d],l[k][d],1) for k in r for d in DIMS])
-oldbase=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本')
+oldbase=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本')
 odp=oldbase/'coding_v3_dict.json';olp=oldbase/'coding_v3_llm.json'
 odrows=json.loads(odp.read_text());olrows=json.loads(olp.read_text());od={z['id']:z for z in odrows};ol={z['id']:z for z in olrows}
 assert len(od)==len(odrows) and len(ol)==len(olrows)==2965 and set(ol)<=set(od)

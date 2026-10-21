@@ -1,7 +1,7 @@
 from pathlib import Path
 from tempfile import TemporaryDirectory
 import sys,hashlib,json,subprocess
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs')
+R=Path('/PROJECT_ROOT/outputs')
 NEW=R/'coding-revision-20261008-r4/rules-v37-development'
 OLD=R/'coding-revision-20261007-r3/rules-v36.2-development'
 assert hashlib.sha256((NEW/'candidate_freeze.json').read_bytes()).hexdigest()=='bddc8b3403539d3ead6f1488864d7f5498be2369464ba91e525ba0a7b465b47c'

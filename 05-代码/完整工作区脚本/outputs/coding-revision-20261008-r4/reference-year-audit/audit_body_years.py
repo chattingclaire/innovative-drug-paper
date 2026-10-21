@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 import hashlib, json, re
 
 OUT=Path(__file__).parent
-BASE=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE=Path('/PROJECT_ROOT')
 inv=json.loads((OUT/'current_docx_reference_year_inventory.json').read_text())
 def sha(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 sources={

@@ -11,7 +11,7 @@
 运行：
 
 ```bash
-python3 /Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/build_projection.py
+python3 /PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/context-projection-sol/build_projection.py
 ```
 
 源doc标识D2不是坏SHA：实际导出器算法为`D2- + sha256(json.dumps((original_path, source_sha256), ensure_ascii=False, sort_keys=True))[:20]`，已逐节点核对。UNBOUND文本叶来自早期不完整pair的可见投影，后续source-only sidecar已恢复完整path/SHA；该完整pair及文本SHA实际核对。无text容器只在关联子节点来源唯一时推导源身份；这属于结构来源关联，不冒称其自身有原文证据。

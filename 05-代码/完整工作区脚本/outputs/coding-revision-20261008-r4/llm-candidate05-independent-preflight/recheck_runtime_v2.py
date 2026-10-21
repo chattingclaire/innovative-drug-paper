@@ -11,7 +11,7 @@ import sys
 import types
 
 sys.dont_write_bytecode=True
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 PREP=ROOT/'outputs/coding-revision-20261008-r4/llm-candidate05-preparation'
 OUT=Path(__file__).resolve().parent
 RUNTIME=PREP/'runtime-v2/run_production_v32.py'

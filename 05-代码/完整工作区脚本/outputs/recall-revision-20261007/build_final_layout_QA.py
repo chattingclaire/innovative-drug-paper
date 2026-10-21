@@ -20,7 +20,7 @@ import pypdfium2 as pdfium
 
 OUT=Path(__file__).resolve().parent
 PROJECT=OUT.parents[1]
-SOFFICE=Path('/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice')
+SOFFICE=Path('/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice')
 TEMPLATE=PROJECT/'outputs/manuscript-completion-20261006/期刊官网快照/现行格式附件69.docx'
 GUIDANCE=TEMPLATE.parent/'contribution-invited-正文.txt'
 NS={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main',

@@ -24,4 +24,4 @@ batch4首条01562的完整packet实际返回12726B，与原包相同，结束标
 
 审计边界事件：一次命令过滤漏掉转义JSON形式的commit脚本，工具输出意外展示少量旧候选判断文本。随后排除所有commit/labels持久化命令；未引用或使用这些值，不作盲审声明。报告不含标签、维度裁定或性能计算。
 
-全部证据事件ID、指令块范围、38条源绑定、原图资产和71个实际文件SHA/bytes见[review.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/root-machine-review/native38-observable-technical-evidence-sol/review.json)。71个输入绑定在审计结束时再次核SHA/bytes相同；原件保持只读。
+全部证据事件ID、指令块范围、38条源绑定、原图资产和71个实际文件SHA/bytes见[review.json](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/root-machine-review/native38-observable-technical-evidence-sol/review.json)。71个输入绑定在审计结束时再次核SHA/bytes相同；原件保持只读。

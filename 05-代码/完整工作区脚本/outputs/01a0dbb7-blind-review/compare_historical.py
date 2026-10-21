@@ -4,7 +4,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 root=Path(__file__).resolve().parent
-archive=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+archive=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 work=archive/'12-投稿定稿工作区'
 paths={'mapping':work/'校准材料-候选边界/研究者编号映射-不提供编码员.json','dictionary':archive/'03-编码数据与脚本/coding_v3_dict.json','llm':archive/'03-编码数据与脚本/coding_v3_llm.json','truncation_audit':archive/'11-编码检验复核-20260925/llm_input_truncation.json','A':root/'agent-A/result-A.json','C':root/'agent-C/result-C.json'}
 loaded={k:json.loads(p.read_text()) for k,p in paths.items()}

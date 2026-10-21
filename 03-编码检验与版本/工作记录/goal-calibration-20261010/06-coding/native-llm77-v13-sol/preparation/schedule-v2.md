@@ -9,7 +9,7 @@ Actor 机械入口使用新的独立 Python 进程并优先 v4 路径：
 ```python
 import sys
 sys.dont_write_bytecode = True
-sys.path.insert(0, "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/protocol-necessary-read-v4")
+sys.path.insert(0, "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/protocol-necessary-read-v4")
 import necessary_read_gate as gate
 import native_records as records
 scope = gate.prepare_scope(packet, scope_run_id, runtime_thread_id)

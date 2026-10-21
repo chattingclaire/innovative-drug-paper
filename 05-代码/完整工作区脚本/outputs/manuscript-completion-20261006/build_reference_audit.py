@@ -3,8 +3,8 @@ import json
 import hashlib
 from collections import Counter
 
-OUT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/manuscript-completion-20261006')
-ARCHIVE = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+OUT = Path('/PROJECT_ROOT/outputs/manuscript-completion-20261006')
+ARCHIVE = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 PDFS = ARCHIVE / '06-参考文献/原文PDF与MD'
 INV = json.loads((OUT / 'reference_inventory.json').read_text())
 UPDATES = json.loads((OUT / 'reference_updates.json').read_text())
@@ -41,9 +41,9 @@ add(3, '已核实', [('https://wap.china-pharmacy.com/523/9/29/275/279/24303.htm
 add(4, '已核实', [('https://doi.org/10.7664/CHE20200318','DOI原始标识')], '本地发表原文3页确认前三位作者、2020年39卷3期77–79页。支持价值定价支付的多维讨论，不等于已验证五维量表。', '10.7664/CHE20200318', [PDFS/'价值医疗背景下创新药品的定价和支付模式综述_艾丹丹.pdf'])
 add(5, '已核实', [('https://www.china-pharmacy.com/','期刊官方入口；本条以存档原文为核验依据')], '本地发表原文5页确认2010年21卷21期1921–1925页及三位作者。博弈模型结论依赖假设；正文没有将其写成现行部门行为的独立实证。', local=[PDFS/'药品上市决策中的多方利益博弈_康姗姗.pdf'])
 add(6, '已核实', [('https://www.kygl.net.cn/CN/Y2017/V38/I10/68','期刊官网')], '题名作者、2017年38卷10期68–75页一致。动态博弈模型对价格管制、创新激励与绩效的条件分析支持文献综述概括。')
-add(7, '已核实', [('https://www.sinomed.ac.cn/article.do?ui=2024345082','中国生物医学文献数据库'),('https://tsg.ymun.edu.cn/__local/A/09/29/14FC126419DE660445A0C4D2BE7_EB14DFA7_1473CF2.pdf','高校保存的CNKI本期目录')], '又核对本地发表原文6页，41卷6期5–9、15页，作者谭清立/李永盈/崔洪瑞一致。非合作不完全信息博弈的模型设定应与实证观察区分。', local=['/Users/rainbow/Desktop/战略院/创新药论文.md/创新药论文/文献阅读/3.24-3.30/创新药医保谈判的博弈分析_谭清立.pdf'])
+add(7, '已核实', [('https://www.sinomed.ac.cn/article.do?ui=2024345082','中国生物医学文献数据库'),('https://tsg.ymun.edu.cn/__local/A/09/29/14FC126419DE660445A0C4D2BE7_EB14DFA7_1473CF2.pdf','高校保存的CNKI本期目录')], '又核对本地发表原文6页，41卷6期5–9、15页，作者谭清立/李永盈/崔洪瑞一致。非合作不完全信息博弈的模型设定应与实证观察区分。', local=['/LOCAL_HOME/Desktop/战略院/创新药论文.md/创新药论文/文献阅读/3.24-3.30/创新药医保谈判的博弈分析_谭清立.pdf'])
 add(8, '已核实', [('https://journal.healthpolicy.cn/html/20230207.htm','期刊官网全文')], '作者、题名、2023年16卷2期44–51页一致。原文确有三种谈判药品销售资料与演化博弈分析，正文所述范围正确。', '10.3969/j.issn.1674-2982.2023.02.007')
-add(9, '已核实', [('https://guoyanwang.clcn.net.cn/DRCNet.Mirror.Documents.Web/DocSummary.aspx?DocID=7750079&leafID=24999','国研文献摘要镜像，辅助')], '主核验依据是本地发表原文7页：2024年41卷12期、文章编号1393–07，末页1399；作者三人一致。摘要确为65份政策、政策工具/参与主体/创新过程三维分析；该三维不是本文的五个药品评价维度。', local=['/Users/rainbow/Desktop/战略院/创新药论文.md/创新药论文/文献阅读/3.24-3.30/政策工具视角下我国创新药物研发政策量化研究_吕倩鹏.pdf'])
+add(9, '已核实', [('https://guoyanwang.clcn.net.cn/DRCNet.Mirror.Documents.Web/DocSummary.aspx?DocID=7750079&leafID=24999','国研文献摘要镜像，辅助')], '主核验依据是本地发表原文7页：2024年41卷12期、文章编号1393–07，末页1399；作者三人一致。摘要确为65份政策、政策工具/参与主体/创新过程三维分析；该三维不是本文的五个药品评价维度。', local=['/LOCAL_HOME/Desktop/战略院/创新药论文.md/创新药论文/文献阅读/3.24-3.30/政策工具视角下我国创新药物研发政策量化研究_吕倩鹏.pdf'])
 add(10, '已核实', [('https://doi.org/10.14055/j.cnki.33-1056/f.2021.07.009','DOI原始标识')], '本地发表原文6页确认2021年38卷7期38–43页。制度创新/制度变迁视角与institutional logics并非同一理论；正文只在文献综述分别介绍，不能将本条作制度逻辑定义出处。', '10.14055/j.cnki.33-1056/f.2021.07.009', [PDFS/'制度创新理论视角下我国药品研发制度变迁设计_毛心仪.pdf'])
 add(11, '已核实', [('https://journal.healthpolicy.cn/html/20240105.htm','期刊官网全文')], '发表原文和官网文章作者均为胡婉慈，当前著录正确；期刊目录/部分搜索结果的胡婉慧不能据以改作者。17卷1期24–29页及省际比较内容一致。', '10.3969/j.issn.1674-2982.2024.01.004', [PDFS/'我国医疗保险国谈药品单独支付政策省际比较研究_杨钰婷.pdf'])
 add(12, '已核实', [('https://www.morethanaccess.com/wp-content/uploads/2024/03/do-france-germany-and-italy-agree-on-the-added-therapeutic-value-of-medicines.pdf','作者机构保存的发表原文'),('https://doi.org/10.1017/S026646232300048X','DOI出版标识')], '原文2023年39:e54、189个药品/适应症、三组一致率82%/52%/57%及次级分析72%/74%与稿件一致。样本仅意大利创新认定申请，不能说代表三国全部药品。', '10.1017/S026646232300048X')

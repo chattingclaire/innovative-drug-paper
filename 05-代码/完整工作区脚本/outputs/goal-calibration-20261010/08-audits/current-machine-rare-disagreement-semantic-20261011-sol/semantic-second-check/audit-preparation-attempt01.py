@@ -9,7 +9,7 @@ import json
 from pathlib import Path
 from datetime import datetime, timezone
 
-G = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+G = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 BASE = G / '08-audits/current-machine-rare-disagreement-semantic-20261011-sol'
 OUT = BASE / 'semantic-second-check'
 REVIEW = BASE / 'phase01-first40/semantic-reviews40.json'

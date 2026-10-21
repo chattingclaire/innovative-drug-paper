@@ -3,7 +3,7 @@
 import json, os, re
 from collections import Counter, defaultdict
 
-ARCH = '/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本'
+ARCH = '/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本'
 DIMS = ['安全性', '有效性', '经济性', '创新性', '公平性']
 RAW = json.load(open(os.path.join(ARCH, 'coding_v3_dict.json'), encoding='utf-8'))
 KEPT = [x for x in RAW if not x['junk']]

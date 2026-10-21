@@ -25,27 +25,27 @@
   },
   "manifest": [
     {
-      "path": "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/10-人工编码基准/旧口径-作废/编码表-编码员A-已填写（旧口径）.xlsx",
+      "path": "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/10-人工编码基准/旧口径-作废/编码表-编码员A-已填写（旧口径）.xlsx",
       "sha256": "f1af0382a41c5d7daa00141d9b47069c1b1036cf395f4b576246333d279859eb"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/10-人工编码基准/旧口径-作废/编码表-编码员C（机器编码-Claude）.xlsx",
+      "path": "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/10-人工编码基准/旧口径-作废/编码表-编码员C（机器编码-Claude）.xlsx",
       "sha256": "fb16c5110101dcf7ba1d768641d5a53f87a15ea7c453552dea9183bfcaff279f"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/all_sentences.json",
+      "path": "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/all_sentences.json",
       "sha256": "368f1f06cbc93c4a05053744798ca66c068966106a028c3396f41e37b8f9d4f7"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/llm_all_results.json",
+      "path": "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/llm_all_results.json",
       "sha256": "9094d00d2fafd56141e7e7c7aa0b282f43d366c15ba32aa3aa675bd4ef4098f1"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/coding_v3_dict.json",
+      "path": "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/coding_v3_dict.json",
       "sha256": "002d835584c88e48a5814e35f6e245abcd99e11d4d9cb88c15e326b389e0d385"
     },
     {
-      "path": "/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/coding_v3_llm.json",
+      "path": "/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本/coding_v3_llm.json",
       "sha256": "62583687696b1fd332d80e375dc52354770ab117a510e5aa991a217bcad00748"
     }
   ],

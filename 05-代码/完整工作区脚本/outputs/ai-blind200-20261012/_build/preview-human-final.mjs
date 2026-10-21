@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
-const root='/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/ai-blind200-20261012';
+const root='/PROJECT_ROOT/outputs/ai-blind200-20261012';
 const workbook=await SpreadsheetFile.importXlsx(await FileBlob.load(`${root}/真人复核/真人标注汇总-200条.xlsx`));
 const manifest=JSON.parse(await fs.readFile(`${root}/真人复核/录入记录.json`,'utf8'));
 const selections=[['header','A1:E2'],...[

@@ -5,7 +5,7 @@ import hashlib
 import json
 import re
 
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE = Path('/PROJECT_ROOT')
 SOURCE = BASE / 'outputs/编码修订核查-20261008/本轮结果/创新药评价的注意力配置差异与协调路径.docx'
 OUTDIR = Path(__file__).resolve().parent
 OUTPUT = OUTDIR / '创新药评价的注意力配置差异与协调路径-原稿格式修订.docx'

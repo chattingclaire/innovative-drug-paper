@@ -4,7 +4,7 @@
 
 六条主张找到原文或出版方原始摘要定位；[29] 的 1963 年原书归属仍未核实，建议改用已核 [27] 的有限理论含义，并由主稿负责人移除失用条目、统一重编号。此结论不表示全文验收，也不证明本研究效度。
 
-缺口清点：[原始清点文件](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/参考文献实质证据覆盖-缺口清点.json)。主稿为 [0925稿7-论证修订工作稿-统计待重算.docx](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/0925稿7-论证修订工作稿-统计待重算.docx)。段落号为 **从 0 开始的直接 w:body/w:p 序号，不是页码**。
+缺口清点：[原始清点文件](/PROJECT_ROOT/outputs/validation-expansion-20260926/参考文献实质证据覆盖-缺口清点.json)。主稿为 [0925稿7-论证修订工作稿-统计待重算.docx](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/0925稿7-论证修订工作稿-统计待重算.docx)。段落号为 **从 0 开始的直接 w:body/w:p 序号，不是页码**。
 
 清点记录的主稿 SHA256：`8969b90f4c003e13325010e552db080458d38ed708c3f9c8cc6aade8c7f7a011`；本次定点读取的 SHA256：`0c8ffc2be5f21b1f14a1566bc1735467d532ceab49b64e22ce28248359a7087d`。初次定点读取时七条文献所在完整段落均与清点一致；整理期间主稿发生并行修订，第 19 段完整文字有变化，但本次核对的七条目标原句仍逐一存在。最终目标句核对所见主稿 SHA256：`5e01af79fb36ce2da30741ed37c52e7f0918d101316e9c7a6edc648b1896e81d`。本报告保留的段落全文为清点版本，核验和替换建议只针对列出的目标原句。没有回写主稿。
 
@@ -44,7 +44,7 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 **来源、哈希与实际阅读范围**
 
-- [15-Monleon2022.xml](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/理论及HTA补核来源/15-Monleon2022.xml)；[原始来源](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9267410/fullTextXML)
+- [15-Monleon2022.xml](/PROJECT_ROOT/outputs/validation-expansion-20260926/理论及HTA补核来源/15-Monleon2022.xml)；[原始来源](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9267410/fullTextXML)
   - 来源性质：Europe PMC 保存的该文结构化原文，PMCID PMC9267410；DOI 10.1080/20016689.2022.2094047。不是文献数据库摘要。
   - SHA256：`895bb8579f98b936abd824d25203c7edbd23d9c8e0df5e27f8d2144a7cbdeb26`（downloaded_or_existing_original_file_bytes）。
   - 实际范围：完整阅读 Introduction、Materials and methods、Results（含表 1–3）、Discussion、Strengths and limitations；未取得/验看排版 PDF。
@@ -76,7 +76,7 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 **来源、哈希与实际阅读范围**
 
-- [17-Mundy2024.pdf](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/理论及HTA补核来源/17-Mundy2024.pdf)；[原始来源](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F02F822F745638845DA35D004477E976/S026646232400059Xa.pdf/div-class-title-health-technology-assessment-and-innovation-here-to-help-or-hinder-div.pdf)
+- [17-Mundy2024.pdf](/PROJECT_ROOT/outputs/validation-expansion-20260926/理论及HTA补核来源/17-Mundy2024.pdf)；[原始来源](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F02F822F745638845DA35D004477E976/S026646232400059Xa.pdf/div-class-title-health-technology-assessment-and-innovation-here-to-help-or-hinder-div.pdf)
   - 来源性质：Cambridge University Press 官方排版 PDF；DOI 10.1017/S026646232400059X。
   - SHA256：`bc12068aa0d2ac8c4955b74642f68d61302a9391f2f97d79b57faa72dd9397bc`（downloaded_or_existing_original_file_bytes）。
   - 实际范围：针对主张实际阅读 PDF/文内 pp. 1–3；p. 2 已渲染并视觉核对。
@@ -107,11 +107,11 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 **来源、哈希与实际阅读范围**
 
-- [25-Thornton2008-web-original.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/理论及HTA补核来源/25-Thornton2008-web-original.json)；[原始来源](https://www.researchgate.net/publication/235413160_Institutional_Logics)
+- [25-Thornton2008-web-original.json](/PROJECT_ROOT/outputs/validation-expansion-20260926/理论及HTA补核来源/25-Thornton2008-web-original.json)；[原始来源](https://www.researchgate.net/publication/235413160_Institutional_Logics)
   - 来源性质：ResearchGate 作者上传原文；页面明确标示 William Ocasio 于 2014-08-26 上传。内容有 2008 年 SAGE 章页码和排版标记；不是后人论文中的转引。
   - SHA256：`1febff7def44e9dacb98348327cd9001977e3053952f0bbc95bded52ced664e1`（web_tool_extracted_text_snapshot_JSON_bytes）。
   - 实际范围：阅读作者归属信息、章节原文 pp. 100–102 的定义与上下文。
-- [25-Thornton2008-p119-web-original.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/理论及HTA补核来源/25-Thornton2008-p119-web-original.json)；[原始来源](https://www.researchgate.net/publication/235413160_Institutional_Logics)
+- [25-Thornton2008-p119-web-original.json](/PROJECT_ROOT/outputs/validation-expansion-20260926/理论及HTA补核来源/25-Thornton2008-p119-web-original.json)；[原始来源](https://www.researchgate.net/publication/235413160_Institutional_Logics)
   - 来源性质：同一作者上传的 2008 年书章；网页原文保留印刷页码。
   - SHA256：`25b3ab193ffd98e4ec9797cde6c2e549d4c6e9fc040542bb3788d584637ac537`（web_tool_extracted_text_snapshot_JSON_bytes）。
   - 实际范围：阅读 p. 119 的 Misconceptions regarding institutional logics 相关段及邻近上下文。
@@ -145,7 +145,7 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 **来源、哈希与实际阅读范围**
 
-- [26-Greenwood2011-web-original.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/理论及HTA补核来源/26-Greenwood2011-web-original.json)；[原始来源](https://www.researchgate.net/publication/232976474_Institutional_Complexity_and_Organizational_Responses)
+- [26-Greenwood2011-web-original.json](/PROJECT_ROOT/outputs/validation-expansion-20260926/理论及HTA补核来源/26-Greenwood2011-web-original.json)；[原始来源](https://www.researchgate.net/publication/232976474_Institutional_Complexity_and_Organizational_Responses)
   - 来源性质：ResearchGate 页面明确标示内容由共同作者 Michael Lounsbury 上传；原文保留 Routledge 出版信息、DOI 和页码。
   - SHA256：`737471163cb1c6417b4147064c2c2495c25e8bf896196b3fb26e1641adb4b65a`（web_tool_extracted_text_snapshot_JSON_bytes）。
   - 实际范围：阅读作者上传信息以及原文 pp. 317–319 的摘要、引言与限定。
@@ -176,7 +176,7 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 **来源、哈希与实际阅读范围**
 
-- [27-Ocasio1997-publisher-abstract-success.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/理论及HTA补核来源/27-Ocasio1997-publisher-abstract-success.json)；[原始来源](https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0266(199707)18:1%2B%3C187::AID-SMJ936%3E3.0.CO;2-K)
+- [27-Ocasio1997-publisher-abstract-success.json](/PROJECT_ROOT/outputs/validation-expansion-20260926/理论及HTA补核来源/27-Ocasio1997-publisher-abstract-success.json)；[原始来源](https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0266(199707)18:1%2B%3C187::AID-SMJ936%3E3.0.CO;2-K)
   - 来源性质：Wiley/Strategic Management Society 官方出版页面原始 Abstract；并非书目摘要的二手概括。
   - SHA256：`2773bc779bdcc26cfefdafefd5eea813cc8e7704362e4f03a17c00b30f9123ac`（web_tool_extracted_text_snapshot_JSON_bytes）。
   - 实际范围：完整阅读出版方 Abstract 的 4 句，并核对卷期与页范围；未取得官方全文 PDF。
@@ -208,7 +208,7 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 **来源、哈希与实际阅读范围**
 
-- [府际结构下领导注意力的议题分配与优先_基于公开批示的分析_陶鹏.pdf](/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/06-参考文献/原文PDF与MD/府际结构下领导注意力的议题分配与优先_基于公开批示的分析_陶鹏.pdf)；既有本地原件，未新增来源 URL。
+- [府际结构下领导注意力的议题分配与优先_基于公开批示的分析_陶鹏.pdf](/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/06-参考文献/原文PDF与MD/府际结构下领导注意力的议题分配与优先_基于公开批示的分析_陶鹏.pdf)；既有本地原件，未新增来源 URL。
   - 来源性质：论文资料库既有 primary PDF，版面标有《公共行政评论》2020 年第 1 期。未依赖伴随 MD 或旧 QA 的全页已读声明。
   - SHA256：`f0717e25e61fe230b5a6b531375f5a6dfffd3bd23fec8710c0e8c7affd86e141`（downloaded_or_existing_original_file_bytes）。
   - 实际范围：实际读取摘要、研究问题、方法与数据、格兰杰结果和结论限制（PDF 第 1、3–7、12–14 页）；视觉核对 PDF 第 7、12、13、14 页的版面和页码。
@@ -251,4 +251,4 @@ PDF 页码从 1 开始。[25]/[26] 的页码来自作者上传原文保留的印
 
 只新增本报告、结构化 JSON 与本次核验来源/渲染文件。未改主 Word、旧原件、编码标签、统计或冻结结果；未核对 [19]，也未追加全稿验收。
 
-完整结构化记录见 [参考文献缺口-理论及HTA原文补核.json](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/参考文献缺口-理论及HTA原文补核.json)。
+完整结构化记录见 [参考文献缺口-理论及HTA原文补核.json](/PROJECT_ROOT/outputs/validation-expansion-20260926/参考文献缺口-理论及HTA原文补核.json)。

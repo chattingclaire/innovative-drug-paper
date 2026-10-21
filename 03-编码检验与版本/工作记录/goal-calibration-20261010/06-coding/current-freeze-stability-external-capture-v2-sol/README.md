@@ -42,9 +42,9 @@ ROOT先确认当前生产与恢复controller及真实子进程组全部末态，
 
 ```sh
 /opt/homebrew/opt/python@3.14/bin/python3.14 \
-  "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/controller.py" \
-  --run "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/prepared-fixed800-87-v2" \
-  --go "/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/ROOT-execution-GO.json"
+  "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/controller.py" \
+  --run "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/prepared-fixed800-87-v2" \
+  --go "/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/current-freeze-stability-external-capture-v2-sol/ROOT-execution-GO.json"
 ```
 
 本次435个首轮批次进程仍未调用；1305只是五条件×87批×3attempt的预留上限。并发上限是3个真实CLI进程，实际服务API请求数不可从本地事件推定。

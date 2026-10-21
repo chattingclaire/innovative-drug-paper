@@ -1,7 +1,7 @@
 from pathlib import Path
 from docx import Document
 import json,hashlib
-root=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/04-访谈与研讨会原始资料')
+root=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/04-访谈与研讨会原始资料')
 items=[('权重与健康需求','史录文教授访谈会议纪要-0605.docx',6),('背对背经济测算','史录文教授访谈会议纪要-0605.docx',7),('商保数据限制','史录文教授访谈会议纪要-0605.docx',30),('四层评价及经济性评价','医保局专家调研-0616.docx',2),('PPT及个人打分','医保局专家调研-0616.docx',3),('比较临床价值','医保局专家调研-0616.docx',5)]
 rows=[]
 for claim,name,i in items:

@@ -5,7 +5,7 @@ import re
 import zipfile
 import xml.etree.ElementTree as ET
 
-PROJECT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+PROJECT = Path('/PROJECT_ROOT')
 W = PROJECT / 'outputs/编码修订核查-20261008'
 OUT = W / '正文同步/用途澄清独立核查'
 NS = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}

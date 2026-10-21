@@ -17,7 +17,7 @@ import re
 import xml.etree.ElementTree as ET
 import zipfile
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 OUT = ROOT / '07-statistics/human4-metrics-independent-audit-sol'
 DELIVERY = ROOT / '09-delivery/agent-review-20261010/真人4项复核后-v2'
 DIMENSIONS = ('S', 'E', 'Ec', 'I', 'F')

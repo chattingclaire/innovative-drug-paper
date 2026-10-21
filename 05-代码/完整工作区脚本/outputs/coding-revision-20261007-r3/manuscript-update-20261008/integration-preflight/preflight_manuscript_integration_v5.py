@@ -7,7 +7,7 @@ from collections import Counter
 import argparse,hashlib,json,re,sys,datetime
 from lxml import etree as E
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 R3=ROOT/'outputs/coding-revision-20261007-r3'
 D=R3/'manuscript-update-20261008'
 BASE=ROOT/'outputs/final-three-department-20261007/论文修订稿-三部门版.docx'

@@ -2,7 +2,7 @@ from pathlib import Path
 from fractions import Fraction as F
 from itertools import product
 import json,sys,hashlib
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3');S=R/'statistics';D=R/'methods-20261008';D.mkdir(exist_ok=True);sys.path.insert(0,str(S))
+R=Path('/PROJECT_ROOT/outputs/coding-revision-20261007-r3');S=R/'statistics';D=R/'methods-20261008';D.mkdir(exist_ok=True);sys.path.insert(0,str(S))
 import statistical_core_r3 as c,final_binding_io_r3 as io
 m=c.read(S/'final_bindings_v14_CONFIRMED_r3.json');ctx=io.context_from_manifest(m);refs,_=io.final_references(m,ctx)
 ids=sorted(r for r,x in ctx['sample'].items() if x['component']=='probability_canonical')

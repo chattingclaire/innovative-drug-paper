@@ -14,7 +14,7 @@ import {spawn} from 'node:child_process';
 
 const HERE=path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT=path.join(HERE,'V600工作簿交付');
-const RUNTIME='/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies';
+const RUNTIME='/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies';
 const DIMS=['S','E','Ec','I','F'], PENDING='待定';
 const DOCS={protocol:'五维共用编码协议.md',reviewer_instructions:'评审任务说明.md',protocol_clarifications:'共同执行澄清.md'};
 const COLOR={navy:'#17384B',teal:'#126B70',text:'#1F2937',pale:'#E8F4EF',amber:'#FFF0C2'};

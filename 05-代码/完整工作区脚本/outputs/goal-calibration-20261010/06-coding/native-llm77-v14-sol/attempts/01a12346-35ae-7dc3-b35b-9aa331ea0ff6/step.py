@@ -1,7 +1,7 @@
 import os, pathlib, json, hashlib, uuid, subprocess, sys
 ROOT = pathlib.Path(__file__).resolve().parent
 assert ROOT.name == os.environ['CODEX_THREAD_ID']
-READER = '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/source-read-transport-fix-sol/source_view_chunk.py'
+READER = '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/source-read-transport-fix-sol/source_view_chunk.py'
 def save(path, obj):
     with path.open('x', encoding='utf-8') as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)

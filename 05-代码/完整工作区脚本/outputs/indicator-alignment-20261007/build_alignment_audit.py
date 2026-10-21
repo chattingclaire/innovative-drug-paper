@@ -5,7 +5,7 @@ import hashlib
 import json
 import random
 
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE = Path('/PROJECT_ROOT')
 OUT = BASE / 'outputs/indicator-alignment-20261007'
 read = json.loads((OUT/'只读提取.json').read_text())
 manual = BASE/'outputs/autocode-v25-20260927/protocol-v1.3.md'

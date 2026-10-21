@@ -4,7 +4,7 @@
 
 新增 `source_full_text_resources` 是一个可被旧通用 FULLSOURCE inventory 与 receipt adapter 消费的完整 payload，`paragraphs` 为四个整页全文。`source_sha256` 和 `source_pdf_sha256` 都绑定原 PDF；整页 UTF-8 SHA 单独存放在页 locator 中。没有使用 PDF 不适用的 `verbatim_UTF8_snapshot_text`。
 
-`source_documents` 仅新增该 PDF 的 `source_text_resource` 文件绑定。relative_path 以旧 scope 的 v12_source_base（/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight）解析，真实指向本目录 source-library 的封存 payload JSON。`common_source_bundle_version` 保留原 identity；已有 extension 原样保留并新增 `v15_same_pdf_physical_page_text`。仅新增 source availability，不授予语义适用性，也不建立实际阅读或使用记录。
+`source_documents` 仅新增该 PDF 的 `source_text_resource` 文件绑定。relative_path 以旧 scope 的 v12_source_base（/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/context-projection-sol/full-frame-preflight）解析，真实指向本目录 source-library 的封存 payload JSON。`common_source_bundle_version` 保留原 identity；已有 extension 原样保留并新增 `v15_same_pdf_physical_page_text`。仅新增 source availability，不授予语义适用性，也不建立实际阅读或使用记录。
 
 机械遍历原 4481 束，224 个同 PDF 束新增资源，其余 4257 束的 canonical bytes 不变。77 个固定输入仍使用既有全局顺序，5 束改变；13 个批次使用 native-v16 的实际历史 source-ID assignment 元数据。两个机器都指向同一裸 JSONL 和相同逐束 SHA，尚未实际消费。packet_version 与原包其他字段、资产绑定保持原值。
 

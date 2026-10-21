@@ -3,21 +3,21 @@
 当前接续说明（2026-10-12，实际session83186）：固定800条、87批、R1→R2→R3→W→H稳定性检验已按原进度接续，实际13并发。旧控制器因历史PID被新进程复用而误阻断，现仅修复运行身份检查；37次真实调用已全部结束，11批有效结果和2批三次耗尽保留。旧错误与全部记录不回填。新运行已观察到13个CLI启动。尚无完成的独立重复，正式真人检验和全文修订仍待完成；当前状态以progress.json为准。
 
 
-最终交付目标是完成并核验符合《科学决策》要求的整篇修订论文、DOCX/PDF和配套材料。指标验收在正文修订之前，完整八步及既定标准见[完整Goal指令](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/完整Goal指令.md)。Goal仍为active，最终稿尚未完成。
+最终交付目标是完成并核验符合《科学决策》要求的整篇修订论文、DOCX/PDF和配套材料。指标验收在正文修订之前，完整八步及既定标准见[完整Goal指令](/PROJECT_ROOT/outputs/goal-calibration-20261010/完整Goal指令.md)。Goal仍为active，最终稿尚未完成。
 
 最近核验时间：2026-10-11T21:15:55.220822+00:00（UTC）。以下为本轮实际状态；后面的旧记录只描述当时版本。
 
 | 配套项目 | 当前完成范围 | 结果依据／下一项依赖 |
 |---|---|---|
-| 自动规则全量编码 | 已完成4481条、22405维；242维合法待定，未补0 | [同版材料规则组合与执行来源](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v11-v16-receipt-delta-merged-root/composite-status.json)；原失败和43条真实初次输出＋1条收据恢复的区别保留 |
-| LLM全量编码 | 已完成4481／4481条、504／504批，同版材料匹配4481条 | [全量同版覆盖](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/coverage.json)；60维合法待定，无遗漏和引用指针问题。4478父原行保留，0216整批三条取自同一真实新first |
+| 自动规则全量编码 | 已完成4481条、22405维；242维合法待定，未补0 | [同版材料规则组合与执行来源](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-full4481-v11-v16-receipt-delta-merged-root/composite-status.json)；原失败和43条真实初次输出＋1条收据恢复的区别保留 |
+| LLM全量编码 | 已完成4481／4481条、504／504批，同版材料匹配4481条 | [全量同版覆盖](/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-full4481-v16-three-member-compatible-root/coverage.json)；60维合法待定，无遗漏和引用指针问题。4478父原行保留，0216整批三条取自同一真实新first |
 | LLM同版材料补充 | 三条实际更新并合并完成 | 01402材料补充，01403/01404同批原顺序重判；第二技术尝试通过原检查，第一次拒绝原样保留。不是独立稳定性重复 |
-| 核定参照的开发诊断 | 已覆盖完整77条、两机五维核心全部≥0.80；正式验收未完成 | [完整同版指标](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/metrics.json)：规则五维κ/P/R/F1全1；LLM安全κ0.948905、P0.916667、R1、F1=0.956522，公平κ0.957529、P0.933333、R1、F1=0.965517，其余三维全1。该77条已用于校准，不代替新独立检验 |
-| A/B参照用途 | 77条经用户复核的校准表已用于调整；不能代替冻结后的新独立检验 | [A表](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/agent-review-20261010/真人4项复核后-v2/编码复核表-A.xlsx)、[B表](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/agent-review-20261010/真人4项复核后-v2/编码复核表-B.xlsx)保留。A/B修改后一致不证明逐条语义正确 |
-| 冻结后真人独立检验 | 待实际提交，当前没有收到新的已填A/B首判 | [A独立包](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/独立编码表-A-200条.xlsx)、[B独立包](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/独立编码表-B-200条.xlsx)已准备。200是现有方案规模，不是理论必需最小样本；80条已有开发接触，120条未参与本轮调整，应分开报告适用范围，不把全部200混作未曝光总体检验 |
+| 核定参照的开发诊断 | 已覆盖完整77条、两机五维核心全部≥0.80；正式验收未完成 | [完整同版指标](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/current-full4481-v11-v16-source-aligned-diagnostics-root/metrics.json)：规则五维κ/P/R/F1全1；LLM安全κ0.948905、P0.916667、R1、F1=0.956522，公平κ0.957529、P0.933333、R1、F1=0.965517，其余三维全1。该77条已用于校准，不代替新独立检验 |
+| A/B参照用途 | 77条经用户复核的校准表已用于调整；不能代替冻结后的新独立检验 | [A表](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/agent-review-20261010/真人4项复核后-v2/编码复核表-A.xlsx)、[B表](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/agent-review-20261010/真人4项复核后-v2/编码复核表-B.xlsx)保留。A/B修改后一致不证明逐条语义正确 |
+| 冻结后真人独立检验 | 待实际提交，当前没有收到新的已填A/B首判 | [A独立包](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-A/独立编码表-A-200条.xlsx)、[B独立包](/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root/coder-B/独立编码表-B-200条.xlsx)已准备。200是现有方案规模，不是理论必需最小样本；80条已有开发接触，120条未参与本轮调整，应分开报告适用范围，不把全部200混作未曝光总体检验 |
 | 正式κ／Precision／Recall／F1及95%区间 | 尚未完成正式验证的数值 | 须实际独立首判、保存协商前结果并另行裁定后，按预定纳入概率和适用域计算。开发样本不能用于总体区间推断；p值与星号不作为编码合格的必要条件 |
 | 同版独立重复稳定性 | 已真实启动容量13；目前在R1，完整重复完成0 | 固定800条、87批按R1/R2/R3/W/H执行。技术重试、分批补齐和材料更新不算重复；R不是原504批上下文复现，W/H是敏感性条件 |
-| 部门／年份注意力及稳健性 | 规则和LLM全量同口径均已实际计算，最终论文结论待验收 | [LLM完整条件分析与机间比较](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/machine-attention-comparison.json)；各含792情景分组、21年度系列及408留一结果。待定的条件界不是95%置信区间；机间比较不是准确率 |
+| 部门／年份注意力及稳健性 | 规则和LLM全量同口径均已实际计算，最终论文结论待验收 | [LLM完整条件分析与机间比较](/PROJECT_ROOT/outputs/goal-calibration-20261010/07-statistics/full4481-native-v16-compatible-attention-comparison-root/machine-attention-comparison.json)；各含792情景分组、21年度系列及408留一结果。待定的条件界不是95%置信区间；机间比较不是准确率 |
 | 完整论文与最终交付 | 待指标验收后开始完整修订 | 仍需合格结果、完整正文、引用精简、统一表图、DOCX/PDF渲染逐页检查及必要匿名版；当前没有新的最终投稿稿 |
 
 核心指标须逐维附正负例数、TP/FP/FN/TN、观察一致率、正负类一致性、待定/失败/覆盖、真实分歧及适用权重和95%区间。两机器之间的一致性用于诊断，不能当作准确率或强行要求κ＝1。待定与失败不补0，NA不写1，稀少正类或退化区间不作为充分验证。

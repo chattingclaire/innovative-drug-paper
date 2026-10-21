@@ -5,7 +5,7 @@ from lxml import etree as E
 from datetime import datetime,timezone
 import hashlib,json
 
-BASE=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+BASE=Path('/PROJECT_ROOT')
 ARCHIVE=BASE.parent/'创新药论文-完整归档-20260914'
 OUT=BASE/'outputs/goal-calibration-20261010/08-manuscript/submission-20261013/_work'
 NS={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}

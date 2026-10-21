@@ -8,7 +8,7 @@ import numpy as np
 import independent_numeric_core as n
 import independent_resampling_core as b
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药');HERE=Path(__file__).resolve().parent
+ROOT=Path('/PROJECT_ROOT');HERE=Path(__file__).resolve().parent
 RULE='rules-v39';LLM='LLM-candidate03-single-unit-reconciled'
 DEFS=('primary','exclude_quality_only_S','exclude_qualification_only_I','exclude_clinical_management_only_F','exclude_dimension_information_only_F','retain_access_affordability_F')
 

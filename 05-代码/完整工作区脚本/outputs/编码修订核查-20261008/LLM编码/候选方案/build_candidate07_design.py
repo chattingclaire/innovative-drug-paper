@@ -9,7 +9,7 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[3]
 OLD = ROOT / 'outputs/coding-revision-20261008-r4/llm-candidate06-design/revision-v2'
 DRAFT = ROOT / 'outputs/coding-revision-20261008-r4/llm-candidate07-design'
-PYTHON = '/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+PYTHON = '/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
 DIMS = ['S', 'E', 'Ec', 'I', 'F']
 
 

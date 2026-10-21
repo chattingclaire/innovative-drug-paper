@@ -3,7 +3,7 @@ import json, hashlib, re
 import fitz
 
 OUT = Path(__file__).resolve().parent
-ARCH = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+ARCH = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 SUP = ARCH / '12-投稿定稿工作区/原文补全'
 RAW = ARCH / '02-原始数据-政策文本/政策文件原件'
 

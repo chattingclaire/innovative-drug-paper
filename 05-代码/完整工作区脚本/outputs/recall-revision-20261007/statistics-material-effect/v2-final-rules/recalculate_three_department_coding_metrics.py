@@ -18,7 +18,7 @@ import math
 import numpy as np
 from sklearn.metrics import cohen_kappa_score, accuracy_score, precision_recall_fscore_support
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 OUT = Path(__file__).resolve().parent
 RULE_DIR = ROOT / 'outputs/autocode-v28-review-20261004-111306'
 INPUT = RULE_DIR / 'rule_inputs_v27.jsonl'

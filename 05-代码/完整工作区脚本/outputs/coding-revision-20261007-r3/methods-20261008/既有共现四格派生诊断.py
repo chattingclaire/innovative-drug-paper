@@ -1,7 +1,7 @@
 from pathlib import Path
 from fractions import Fraction
 import json,hashlib,collections
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261007-r3'); D=R/'methods-20261008'; I=R/'insights-20261008'
+R=Path('/PROJECT_ROOT/outputs/coding-revision-20261007-r3'); D=R/'methods-20261008'; I=R/'insights-20261008'
 files=[I/'完整十对共现.json',I/'共现稳定性计算.json']
 base=json.loads(files[0].read_text());stab=json.loads(files[1].read_text())
 keys=['both_n','a_only_n','b_only_n','neither_n']

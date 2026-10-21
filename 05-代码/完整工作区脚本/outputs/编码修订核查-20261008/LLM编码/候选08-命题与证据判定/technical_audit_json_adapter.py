@@ -8,7 +8,7 @@ import importlib.util
 import json
 from pathlib import Path
 
-HERE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-revision-20261008-r4/llm-candidate05-preparation')
+HERE = Path('/PROJECT_ROOT/outputs/coding-revision-20261008-r4/llm-candidate05-preparation')
 DIMS = ['S', 'E', 'Ec', 'I', 'F']
 
 

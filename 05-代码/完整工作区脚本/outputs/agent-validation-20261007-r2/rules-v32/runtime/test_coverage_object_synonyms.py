@@ -4,7 +4,7 @@ from pathlib import Path
 import policy_coding_v27 as coder
 from rules_recall_v31 import _covered_negotiated_object
 
-HERE=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/recall-revision-20261007')
+HERE=Path('/PROJECT_ROOT/outputs/recall-revision-20261007')
 def record(text,parent=''):
  r={'unit_text':text,'source_sha256':'constructed-coverage-boundary','paragraph_context':[]}
  if parent:r['verified_parent_context']=[{'text':parent,'paragraph_id':'constructed-object-scope','pages':[1]}]

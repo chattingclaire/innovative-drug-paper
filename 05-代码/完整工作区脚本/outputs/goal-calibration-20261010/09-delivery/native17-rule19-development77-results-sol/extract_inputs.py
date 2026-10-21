@@ -4,7 +4,7 @@ import json
 import shutil
 import openpyxl
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 OUT = ROOT / '09-delivery/native17-rule19-development77-results-sol'
 STAT = ROOT / '07-statistics/native-v17-rule-v19-human-confirmed77-root'
 DIMS = {'S': 'S 安全性', 'E': 'E 有效性', 'Ec': 'Ec 经济性', 'I': 'I 创新性', 'F': 'F 公平性'}

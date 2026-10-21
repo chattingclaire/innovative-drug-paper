@@ -8,15 +8,15 @@
 
 | 文件 | SHA256 |
 |---|---|
-| [投稿候选稿-正文与精简附录.docx](</Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/投稿候选稿-正文与精简附录.docx>) | `735de301cddb85fc037f1519ac9fd2140a5c8a2bbae48489ba1877a78d1447ea` |
-| [0925稿7-论证修订工作稿-统计待重算.docx](</Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/0925稿7-论证修订工作稿-统计待重算.docx>) | `9a6c0ef76fb2a4ad38f672a14770960fffbce266e9d9eebfd3fe22d30486902f` |
-| [投稿配套-编码执行细则.docx](</Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/投稿配套-编码执行细则.docx>) | `0a82ee122e240f601c38414e5756c640b402941ebcd8c82757c34ee74a3d03fc` |
+| [投稿候选稿-正文与精简附录.docx](</LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/投稿候选稿-正文与精简附录.docx>) | `735de301cddb85fc037f1519ac9fd2140a5c8a2bbae48489ba1877a78d1447ea` |
+| [0925稿7-论证修订工作稿-统计待重算.docx](</LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/0925稿7-论证修订工作稿-统计待重算.docx>) | `9a6c0ef76fb2a4ad38f672a14770960fffbce266e9d9eebfd3fe22d30486902f` |
+| [投稿配套-编码执行细则.docx](</LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/投稿配套-编码执行细则.docx>) | `0a82ee122e240f601c38414e5756c640b402941ebcd8c82757c34ee74a3d03fc` |
 
 三份Word于2026-09-26 13:25:57 UTC读取；精确时间、字节快照路径与输出时源文件是否变化见JSON。语义依据为本人既往使用的冻结v1.3及共同澄清，本次完整重读，未读取正式样本或标签。
 
-- [五维共用编码协议.md](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668/agent-A/五维共用编码协议.md>)：`75ff8ebda018a15e008bc1075892000fb9c9c053943d05f04bbe193176c605a6`。
+- [五维共用编码协议.md](</PROJECT_ROOT/outputs/validation-expansion-20260926/D668/agent-A/五维共用编码协议.md>)：`75ff8ebda018a15e008bc1075892000fb9c9c053943d05f04bbe193176c605a6`。
 
-- [共同执行澄清.md](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668/agent-A/共同执行澄清.md>)：`88245a168c3193b87340ccf1ce11c881875abf2a168c8530521b828a3f95ee27`。
+- [共同执行澄清.md](</PROJECT_ROOT/outputs/validation-expansion-20260926/D668/agent-A/共同执行澄清.md>)：`88245a168c3193b87340ccf1ce11c881875abf2a168c8530521b828a3f95ee27`。
 
 ## 唯一确认的问题及最小修订
 

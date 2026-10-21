@@ -262,7 +262,7 @@ def main():
                           'Do not compare candidate kappa/F1 to select a winner. Do not average, vote, cherry-pick attempts or splice different candidates.',
                           'This fixed run cannot establish repeat stability, provider-version stability or causal attribution to the prompt. Any separate repetition/order study requires a separately bounded decision and cannot replace true labels.']})
 
-    python = '/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+    python = '/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
     plans = []
     for n, inp, name, workers in [(240, HERE / 'exposed240_inputs_UNCHANGED.jsonl', 'exposed240-candidate06-first-run', 3), (62, HERE / 'synthetic62_inputs_UNCHANGED.jsonl', 'synthetic62-candidate06-first-run', 1), (24, HERE / 'synthetic24_inputs_PROPOSED.jsonl', 'synthetic24-candidate06-first-run', 1)]:
         command = [python, str(runtime / 'run_production_v32.py'), '--input', str(inp), '--expected-input-sha256', sha(inp), '--prompt', str(HERE / 'candidate06_prompt_PROPOSED.txt'), '--expected-n', str(n), '--run-name', name, '--batch-size', '25', '--workers', str(workers), '--max-attempts', '3', '--purpose', 'Single proposed candidate06 complete development run; no semantic retries, independent-validation claim, production-label update or manuscript update.']

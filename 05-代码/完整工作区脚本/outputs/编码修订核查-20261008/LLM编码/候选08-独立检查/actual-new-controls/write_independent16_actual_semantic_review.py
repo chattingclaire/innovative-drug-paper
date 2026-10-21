@@ -7,7 +7,7 @@ import json
 import sys
 
 sys.dont_write_bytecode=True
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/编码修订核查-20261008/LLM编码'
 PRIVATE=BASE/'候选08-独立检查'
 AUTHOR=BASE/'候选08-命题与证据判定'

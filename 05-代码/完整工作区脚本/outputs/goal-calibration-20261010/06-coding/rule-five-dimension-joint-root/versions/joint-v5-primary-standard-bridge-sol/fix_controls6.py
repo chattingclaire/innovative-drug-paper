@@ -1,6 +1,6 @@
 from pathlib import Path
 import hashlib,json,datetime,shutil
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+R=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 B=R/'06-coding/rule-five-dimension-joint-root/versions/joint-v4-structure-normalization-sol'
 P=B.parent/'joint-v5-primary-standard-bridge-sol'
 P.mkdir(exist_ok=False)

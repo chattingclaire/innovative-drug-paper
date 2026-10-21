@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,hashlib,struct,datetime,subprocess
 from zoneinfo import ZoneInfo
-R=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+R=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 B=R/'01-review/context-projection-sol/full-frame-preflight'
 O=R/'01-review/source-slide-example-sol'
 H=['1be84453158f1e9232c845d36577b9055e87c03ea9a39c7415032ffc7d49ff54','da218af12c655b8b8a3156529820b7d12545decc2f9799dfb70272565408c877']
@@ -119,7 +119,7 @@ for e in entries:
 # Deliver only additive neutral resources. No existing canonical body is edited.
 now=datetime.datetime.now(ZoneInfo('Asia/Shanghai')).isoformat()
 identity={'identity_type':'AI','agent':'/root/pilot01_a_sol','model':'GPT-6.1 Sol','reasoning_setting':'ultra','task':'指定两份原PDF九页的来源图文转写核验','is_human':False,'is_label_coding':False,'start_at':'2026-10-10T04:18:58+08:00','end_at':now}
-input_manifest={'source_gap_file':{'path':str(B/'source-material-gaps-v11.json'),'sha256':sh((B/'source-material-gaps-v11.json').read_bytes())},'source_library_file':{'path':str(B/'source-library/library-v11.jsonl'),'sha256':sh((B/'source-library/library-v11.jsonl').read_bytes())},'selected_issue_id':gap['issue_id'],'selected_source_sha256':H,'skill':{'path':'/Users/rainbow/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.12148/skills/pdf/SKILL.md','sha256':sh(Path('/Users/rainbow/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.12148/skills/pdf/SKILL.md').read_bytes()),'read_and_announced':True,'read_only_PDF_work_no_authoring_marker_required':True},'read_scope':'只选该gap与library中两源条目、两同SHA PDF和其九原页；未读12条标签、正文/预测或其他政策材料。'}
+input_manifest={'source_gap_file':{'path':str(B/'source-material-gaps-v11.json'),'sha256':sh((B/'source-material-gaps-v11.json').read_bytes())},'source_library_file':{'path':str(B/'source-library/library-v11.jsonl'),'sha256':sh((B/'source-library/library-v11.jsonl').read_bytes())},'selected_issue_id':gap['issue_id'],'selected_source_sha256':H,'skill':{'path':'/LOCAL_HOME/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.12148/skills/pdf/SKILL.md','sha256':sh(Path('/LOCAL_HOME/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.12148/skills/pdf/SKILL.md').read_bytes()),'read_and_announced':True,'read_only_PDF_work_no_authoring_marker_required':True},'read_scope':'只选该gap与library中两源条目、两同SHA PDF和其九原页；未读12条标签、正文/预测或其他政策材料。'}
 dump('input-manifest.json',input_manifest)
 dump('source-page-assets.json',{'source_pdf_N':2,'physical_page_N':9,'actual_original_page_views':9,'actual_new_300dpi_page_views':9,'assets':assets})
 dump('source-region-structure.json',{'representation':'source_display_geometry_not_continuous_normative_sentence','page_coordinate_system':'PDF points from top-left; page 540x720','bbox_accuracy':'人工有界区域，非逐字精确框；边框及文本框均有padding。','source_pdfs':docs,'regions':geometry,'arrows_or_normative_implication_edges_added':False})

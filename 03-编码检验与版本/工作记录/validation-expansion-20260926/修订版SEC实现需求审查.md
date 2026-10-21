@@ -18,7 +18,7 @@ v24读取快照：`v4-development-24-candidate-3`，读取时间 `2026-09-26T15:
 
 四项S/E/Ec局部修复：用药错误；仿制药/参比制剂对象；数值报价；极窄组织价格协商程序排除。下面“覆盖”均为代码静态分析，没有运行修订版。
 
-冻结语义依据为 [CAL-5D-20260926-v1.3](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/frozen-inputs/protocol--五维共用编码协议.md)。原始标签、原文和逐项理由完整保留在配套JSON，仅新增需求映射，没有新裁定标签。
+冻结语义依据为 [CAL-5D-20260926-v1.3](/PROJECT_ROOT/outputs/validation-expansion-20260926/frozen-inputs/protocol--五维共用编码协议.md)。原始标签、原文和逐项理由完整保留在配套JSON，仅新增需求映射，没有新裁定标签。
 
 ## 有限需求总览
 

@@ -5,7 +5,7 @@ No model, classifier, prompt edit, original-unit inspection, or label mutation.
 from pathlib import Path
 import datetime, hashlib, importlib.util, json
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 HERE = Path(__file__).resolve().parent
 DIMS = ('S', 'E', 'Ec', 'I', 'F')
 sha = lambda p: hashlib.sha256(Path(p).read_bytes()).hexdigest()

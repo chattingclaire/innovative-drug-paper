@@ -10,7 +10,7 @@ import re
 import sys
 
 ROOT=Path(__file__).resolve().parent
-ARCHIVE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本')
+ARCHIVE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/03-编码数据与脚本')
 sys.path.insert(0,str(ROOT.parent/'autocode-v25-20260927'))
 from comparison_statistics import agreement
 

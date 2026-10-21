@@ -1,6 +1,6 @@
 from pathlib import Path
 import json, hashlib, datetime
-O=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/coding-v26-20260930/context_repair')
+O=Path('/PROJECT_ROOT/outputs/coding-v26-20260930/context_repair')
 D=O/'r2-official-reference-check'
 h=lambda p:hashlib.sha256(Path(p).read_bytes()).hexdigest()
 prior=json.loads((O/'machine_pending_context_supplements_v26.json').read_text())

@@ -6,7 +6,7 @@ OLD=HERE.parent/'recall-revision-20261007'
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def jl(p):return [json.loads(x) for x in p.read_text().splitlines() if x.strip()]
 def dump(p,d):p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
-source=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NMPA-数据保护2026-完整结构化正文.json')
+source=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全/NMPA-数据保护2026-完整结构化正文.json')
 doc=json.loads(source.read_text());rr=jl(OLD/'rule_inputs_v31_shared_v3.jsonl');ll=jl(OLD/'effective_blind_inputs_v30_v3.jsonl');byid={x['id']:x for x in ll}
 matches=[];certificates={}
 for r in rr:

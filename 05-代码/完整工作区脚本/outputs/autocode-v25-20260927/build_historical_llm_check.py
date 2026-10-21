@@ -6,8 +6,8 @@ from pathlib import Path
 from zipfile import ZipFile
 from xml.etree import ElementTree as ET
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
-ARCH=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+ROOT=Path('/PROJECT_ROOT')
+ARCH=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 OUT=ROOT/'outputs/autocode-v25-20260927'
 CHECK=ARCH/'11-编码检验复核-20260925'
 source=CHECK/'results.json'

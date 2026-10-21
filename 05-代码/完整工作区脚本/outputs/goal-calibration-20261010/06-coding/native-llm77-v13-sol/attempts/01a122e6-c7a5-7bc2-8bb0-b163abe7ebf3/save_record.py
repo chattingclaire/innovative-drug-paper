@@ -1,6 +1,6 @@
 import os, sys, json, hashlib
 from pathlib import Path
-BASE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding')
+BASE = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding')
 ATTEMPT = BASE / 'native-llm77-v13-sol/attempts' / os.environ['CODEX_THREAD_ID']
 sys.path.insert(0, str(BASE / 'protocol-necessary-read-v4'))
 import necessary_read_gate as gate

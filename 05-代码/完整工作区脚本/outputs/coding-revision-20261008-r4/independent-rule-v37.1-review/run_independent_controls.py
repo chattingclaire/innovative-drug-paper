@@ -8,7 +8,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 PROJECT = HERE.parents[2]
-PYTHON = '/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+PYTHON = '/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
 RUNTIMES = {
     'v36.2': PROJECT / 'outputs/coding-revision-20261007-r3/rules-v36.2-development/runtime',
     'v37.1': PROJECT / 'outputs/coding-revision-20261008-r4/rules-v37.1-development/runtime',

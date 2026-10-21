@@ -61,7 +61,7 @@ def main():
         '新验证框-新增暴露接入-根复现.json','integrate_incremental_exposure.py',
         'release_residual_review.py','workbook_verification.json','workbook_layout_verification.json','full_corpus_handoff_verification.json']
     for name in root_names:add(HERE/name,'研究复现/'+name)
-    paper_root=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+    paper_root=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
     full_script=paper_root/'重跑接入准备/summarize_parallel_full_corpus.py'
     full_summary=json.loads(parallel.read_text())
     assert sha(full_script)==full_summary['script_sha256']

@@ -3,7 +3,7 @@ import argparse, collections, hashlib, json, math, random, re
 from pathlib import Path
 from datetime import datetime, date
 OUT=Path(__file__).parent
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 SEED=2026092602
 def load(p):return json.loads(p.read_text())
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()

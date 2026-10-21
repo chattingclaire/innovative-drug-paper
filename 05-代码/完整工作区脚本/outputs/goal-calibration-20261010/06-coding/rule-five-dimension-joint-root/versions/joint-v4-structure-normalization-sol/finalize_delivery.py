@@ -1,6 +1,6 @@
 from pathlib import Path
 import ast,difflib,json,hashlib,datetime,re
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+ROOT=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 P=ROOT/'06-coding/rule-five-dimension-joint-root/versions/joint-v4-structure-normalization-sol'
 B=P.parent/'joint-v3-interface-sol'
 AUDIT=ROOT/'08-audits/five-dimension-joint-v3-independent-sol'

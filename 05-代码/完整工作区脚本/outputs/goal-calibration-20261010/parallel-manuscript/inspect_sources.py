@@ -3,9 +3,9 @@ import json,hashlib,re
 from docx import Document
 from pypdf import PdfReader
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 OUT=ROOT/'outputs/goal-calibration-20261010/parallel-manuscript'
-ARC=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914')
+ARC=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914')
 paths=list((ROOT/'outputs/final-three-department-20261008-human-validation-template').glob('*.docx'))+list((ROOT/'outputs/final-three-department-20261008-adopted-results').glob('*.docx'))
 paths+=list((ARC/'12-投稿定稿工作区').glob('*.docx'))+list((ARC/'12-投稿定稿工作区/期刊论述修订-20260927').glob('*.docx'))
 paths+=[ARC/'12-投稿定稿工作区/原文补全/科学决策投稿要求-20260925/科学决策稿件模板及规范要求-2026年9月修订.docx']

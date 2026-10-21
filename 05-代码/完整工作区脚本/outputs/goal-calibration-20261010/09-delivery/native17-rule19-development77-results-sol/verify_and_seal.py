@@ -6,7 +6,7 @@ import math
 import shutil
 import openpyxl
 
-OUT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol')
+OUT = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/09-delivery/native17-rule19-development77-results-sol')
 ROOT = OUT.parent.parent
 final = OUT / '当前77条机器编码与指标.xlsx'
 if not final.exists():

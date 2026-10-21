@@ -9,15 +9,15 @@
 只读预检（本轮已执行；不会创建 attempt/lock/first）：
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode preflight --batch-id batch-0325
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode preflight --batch-id batch-0485
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode preflight --batch-id batch-0325
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode preflight --batch-id batch-0485
 ```
 
 ROOT 审查后填实当前容量观察、单槽预留、入口与 preparation-seal 绑定。然后按顺序执行（此处仅列命令，尚未执行）：
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode run --batch-id batch-0325 --go '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/ROOT-execution-binding.json'
-/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode run --batch-id batch-0485 --go '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/ROOT-execution-binding.json'
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode run --batch-id batch-0325 --go '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/ROOT-execution-binding.json'
+/opt/homebrew/opt/python@3.14/bin/python3.14 -B '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/runner.py' --mode run --batch-id batch-0485 --go '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-v17-two-whole-batch-material-delta-preparation-root/ROOT-execution-binding.json'
 ```
 
 ROOT 收据由 runner 调用 strict-readback-receiver.py 的 verify(manifest, assignment, first) 产生，路径为每批 attempt-NNNN/root-reception.json；最早有效批次记录在各自 root-selection.json。所有真实首答、进程事件、失败及 attempt 原件保留。不得用预检/材料准备代替实际 READ 或编码。

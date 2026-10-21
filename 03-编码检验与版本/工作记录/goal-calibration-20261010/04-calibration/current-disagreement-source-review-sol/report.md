@@ -16,25 +16,25 @@
 
 完整固定表行包含6年基础安排及4年例外。第三条把附表接入数据保护制度；第五条第二款与原研6年对象/待遇相同，第三款明确保护用于证明安全性、有效性的试验数据。因此ROOT v3和规则S=1的可核关系是本行基础待遇→同一安排的安全证据内容，不是数据保密或数据安全等同药物安全。最新A/B S=0关于七条第二款→六条4年分支没有独立安全内容的分析可以保留，但没有覆盖本行另一条基础分支；不应以例外删除基础。原研6年也不能借用七条第一款全部首次申请条件来给4年分支加S。
 
-连续源引文（[第五条第二款：境外原研6年基础](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json)，JSON Pointer `/normative_paragraphs/9`）：
+连续源引文（[第五条第二款：境外原研6年基础](/PROJECT_ROOT/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json)，JSON Pointer `/normative_paragraphs/9`）：
 
 > 境外已上市境内未上市的原研药品，自首次境内上市许可之日起，给予6年数据保护期。
 
-连续源引文（[第五条第三款：基础保护数据范围含安全性/有效性](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json)，JSON Pointer `/normative_paragraphs/10`）：
+连续源引文（[第五条第三款：基础保护数据范围含安全性/有效性](/PROJECT_ROOT/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json)，JSON Pointer `/normative_paragraphs/10`）：
 
 > 本条款中药品的数据保护范围包括药品上市许可申报资料中用于证明药品安全性、有效性和质量可控性的全部试验数据。
 
-连续源引文（[第七条第二款：后续适应症4年](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json)，JSON Pointer `/normative_paragraphs/18`）：
+连续源引文（[第七条第二款：后续适应症4年](/PROJECT_ROOT/outputs/goal-calibration-20261010/00-baseline/source-files/09d813b3014db413-NMPA-数据保护2026-完整结构化正文.json)，JSON Pointer `/normative_paragraphs/18`）：
 
 > 该药品后续增加适应症的，按照本办法第六条执行，对相应保护范围数据给予4年数据保护期。
 
 原图已实际目视核对：6年在原研本行，4年是备注例外；改良型4年在下一行。最新A/B source_packet在当前复核表为null，不能凭此认定当时没有提供补材，只能确认其S理由未处理基础分支。
 
-冻结手册依据（[第62行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:62)）：
+冻结手册依据（[第62行](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:62)）：
 
 > 1. **分别读取基础安排和例外。** 完整表行或句段同时含基础待遇和条件例外时，先列出本记录的每一实质分支，再按各自对象、适用条件和直接后果判断。备注中的确切援引不能删除本行另一列的基础安排。基础分支可补同版同一安排的条内定义；例外仅用其确指范围。不要把基础的全部条件移给例外，也不要把例外推广到基础或兄弟行。同维只要本记录一个实际分支成立即记1，仍至多计一次；不同分支的待遇不自行相加。
 
-冻结手册依据（[第44行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:44)）：
+冻结手册依据（[第44行](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:44)）：
 
 > 确指关系的补全适用于五维。当前明确设立、实施、开放、适用、限制或终止同一制度安排时，可用共同材料中已经核明的该安排定义、适用对象和直接机制补全所指；仅名称、已纳入等身份状态、印发文件、一般宗旨或未承接的历史介绍，不展开全部制度内容。只使用同一版本、同一安排且与当前行动直接对应的有限片段；不把后续新版本条件倒灌此前文本，不继续沿一般“有关规定”递归查读。须记录当前行动锚点、语境位置和实际补足的关系；所需片段缺失登记补材，不记0。设立与撤回、肯定与否定使用同一门槛。创新支持依此规则补足后仍须满足I3，公平支持仍须满足F的对象与公平关系。
 
@@ -48,7 +48,7 @@
 
 真实原句表达药物设计/开发、试验、上市后监测中充分考虑老年需求并关注体验偏好，也明说减少用药差错、提升整体健康。A/B和ROOT/规则以这些药物相关风险/健康目标作为当前议题；native38则把它们视为概括宗旨，当前的一般适老化考虑尚未表达独立风险问题、具体控制关系或效果评价/证据要求。1.3F不因旨在/概述位置统一清零，但也不从全篇后文借具体措施。当前没有单独疗效比较或健康收益证据要求，药物设计→减少差错/健康提升是目标链；是否已达实质风险/健康收益命题门槛是本项剩余规则判断，而非漏字/机器运行问题。
 
-源PDF连续提取引文（[物理第4页](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/462725c510f77f46-CDE-创新药适老化设计一般原则及考虑要点-2025.pdf)，保持换行）：
+源PDF连续提取引文（[物理第4页](/PROJECT_ROOT/outputs/goal-calibration-20261010/00-baseline/source-files/462725c510f77f46-CDE-创新药适老化设计一般原则及考虑要点-2025.pdf)，保持换行）：
 
 >   本指导原则旨在完全实施ICH E7的前提下，提出创新
 > 药研发中的适老化设计考虑，指导在药物设计和开发、临
@@ -57,11 +57,11 @@
 > 善老年患者的用药体验，减少用药差错，提升老年患者的
 > 整体健康水平。
 
-冻结手册依据（[第9行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:9)）：
+冻结手册依据（[第9行](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:9)）：
 
 > **五维使用同一实质门槛：** 当前句段实质讨论、规定、评价、比较、要求证据，或实际安排直接对应某维内容的措施，均可表示关注；否定、不确定、尚未实现的要求也可纳入。仅有程序名称、对象身份、文件背景、沟通形式、资料流转或格式，不据此赋维度。措施不必已经有效，但须在原文中有明确的对象、内容及关系；不由编码员推测政策将产生某种效果。
 
-冻结手册依据（[第63行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:63)）：
+冻结手册依据（[第63行](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:63)）：
 
 > 2. **制定文件的目的不等于实质措施。** 完整记录仅说明为何制定/印发文件，虽出现药物安全、效果、经济、创新或公平宗旨，也不据此继承该文件后文的全部安排。须在当前本身找出已表达的实质问题、评价/证据要求或可使用措施。反之，目的句若同时明确风险问题及控制要求、效果比较、支付信息核验等内容，仍按这些内容判断；不因总则、目的或背景位置清零，不要求已产生效果，也不要求每句列具体不良反应。
 
@@ -75,15 +75,15 @@
 
 原始第一条完整谓词为“制定本规范”，规范审核/促进合理用药/保障用药安全均为其目的；本条没有另外要求审核何种风险信息、拒绝何种危险处方或实施控制。1.3F §二明确把几乎同构的安全宗旨制定规范例列为S=0。ROOT v3、规则和native38的S=0与这条执行边界一致。旧A/B S=1理由把对象明确+安全目的视为实质风险防护，需由真人核定此推断是否越过共同门槛。原始后文第七条确有严重不合理用药/错误时拒绝调配的控制命题，但不成为第一条的当前要求。
 
-同文后段对照（[第七条，实际文件第23行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/00-baseline/source-files/0d4b904755a8425b-NHC-医疗机构处方审核规范-2018-恢复正文.txt:23)；不并入当前第一条）：
+同文后段对照（[第七条，实际文件第23行](/PROJECT_ROOT/outputs/goal-calibration-20261010/00-baseline/source-files/0d4b904755a8425b-NHC-医疗机构处方审核规范-2018-恢复正文.txt:23)；不并入当前第一条）：
 
 > 第七条 经药师审核后，认为存在用药不适宜时，应当告知处方医师，建议其修改或者重新开具处方；药师发现不合理用药，处方医师不同意修改时，药师应当作好记录并纳入处方点评；药师发现严重不合理用药或者用药错误时，应当拒绝调配，及时告知处方医师并记录，按照有关规定报告。
 
-冻结手册依据（[第63行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:63)）：
+冻结手册依据（[第63行](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:63)）：
 
 > 2. **制定文件的目的不等于实质措施。** 完整记录仅说明为何制定/印发文件，虽出现药物安全、效果、经济、创新或公平宗旨，也不据此继承该文件后文的全部安排。须在当前本身找出已表达的实质问题、评价/证据要求或可使用措施。反之，目的句若同时明确风险问题及控制要求、效果比较、支付信息核验等内容，仍按这些内容判断；不因总则、目的或背景位置清零，不要求已产生效果，也不要求每句列具体不良反应。
 
-冻结手册依据（[第70行](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:70)）：
+冻结手册依据（[第70行](/PROJECT_ROOT/outputs/goal-calibration-20261010/03-manual/common-manual-v1.3F-frozen/manual.txt:70)）：
 
 > |安全宗旨与实际风险内容|“为促进合理用药、保障患者用药安全，制定本规范。”S=0|“为降低相互作用风险，药师应审核用药禁忌并拒绝调配严重错误处方。”S=1|
 

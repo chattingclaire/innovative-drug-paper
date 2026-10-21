@@ -6,7 +6,7 @@ import hashlib
 from pathlib import Path
 from datetime import datetime, timezone
 
-G=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010')
+G=Path('/PROJECT_ROOT/outputs/goal-calibration-20261010')
 O=G/'08-audits/v9-repair-adoption-independent-20261012-sol/baseline-compatibility-phase02'
 V=G/'06-coding/rule-five-dimension-joint-root/versions'
 P=G/'08-audits/v8-bounded-execution-independent-20261011-sol'

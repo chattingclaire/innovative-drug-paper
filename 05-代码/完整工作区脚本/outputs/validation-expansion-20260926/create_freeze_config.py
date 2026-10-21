@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,hashlib
 OUT=Path(__file__).parent.resolve()
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区')
 proof=BASE/'独立验证候选-v23-输入QA.json'
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 assert sha(proof)=='59aa1f94ca02549dd12ba4e52a7122c76af929d255aed41bf0e60ebc869c76f3'

@@ -4,7 +4,7 @@ from fractions import Fraction
 from collections import Counter
 import openpyxl
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 CAL=ROOT/'outputs/编码修订核查-20261008/人工参照复核/手册校准准备-20261010'
 WORK=CAL/'代理试填-20261010/复核反馈处理-20261010'
 OUT=ROOT/'outputs/编码修订核查-20261008/统计复算/真人确认40条-指标验证-20261010'

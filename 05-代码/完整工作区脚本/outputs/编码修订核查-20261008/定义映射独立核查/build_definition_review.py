@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,hashlib,datetime,zipfile,xml.etree.ElementTree as E
-root=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药');out=root/'outputs/编码修订核查-20261008/定义映射独立核查'
+root=Path('/PROJECT_ROOT');out=root/'outputs/编码修订核查-20261008/定义映射独立核查'
 ex=json.loads((out/'definition_reading_exposure_addendum_METADATA.json').read_text())
 doc=Path(ex['local_source_bindings']['current_docx']['path'])
 with zipfile.ZipFile(doc) as z: tree=E.fromstring(z.read('word/document.xml'))

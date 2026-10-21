@@ -8,7 +8,7 @@
 
 现有来源约束继续存在：JSON 绑定原 HTML 散列；当前完整条文与实际 p 数量、顺序和规范化正文逐段相等；款序有效；完整引用区间认证；不从递归引用的第五条选择上下文。外层布局修复没有放宽这些条件。
 
-执行结果：bundled Python `/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -B` 运行授权 `selftest_common_reference03.py`，9 个结构检查、3 个 E 边界检查、3 个支付前提检查全部通过。结构夹具含来源散列绑定的临时 HTML/JSON：稳定 layout table 接受，条内 table p 反例拒绝，跨 td 反例拒绝；真实输入执行数为 0。临时夹具由自测自动清理，未新增政策样本。
+执行结果：bundled Python `/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -B` 运行授权 `selftest_common_reference03.py`，9 个结构检查、3 个 E 边界检查、3 个支付前提检查全部通过。结构夹具含来源散列绑定的临时 HTML/JSON：稳定 layout table 接受，条内 table p 反例拒绝，跨 td 反例拒绝；真实输入执行数为 0。临时夹具由自测自动清理，未新增政策样本。
 
 root 已报告实际网页的第七条、两款与下一条处于稳定三层外部 table。该真实来源诊断仅作为本次任务背景，本审查未重新打开真实网页，也未据此宣称 candidate04 的实际回归已经成功；后续冻结与 33 条回归由 root 执行。此前 candidate03 审查与结果保留。
 

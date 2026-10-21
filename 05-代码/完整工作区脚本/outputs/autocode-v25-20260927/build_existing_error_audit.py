@@ -6,7 +6,7 @@ import hashlib
 import json
 from pathlib import Path
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 OLD = ROOT / 'outputs/validation-expansion-20260926'
 OUT = ROOT / 'outputs/autocode-v25-20260927'
 FROZEN = OLD / 'V600-frozen-inputs'

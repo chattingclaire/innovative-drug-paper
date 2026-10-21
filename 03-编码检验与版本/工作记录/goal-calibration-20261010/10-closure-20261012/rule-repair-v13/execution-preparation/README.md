@@ -16,7 +16,7 @@
 
 ## 材料与来源
 
-直接复用原源文件：`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation/affected-current-v16-common-lines.jsonl`，SHA e9ffbf6554e1e095f27fe912f7617003be0633f0c3224315592403a3b2ef1625。
+直接复用原源文件：`/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation/affected-current-v16-common-lines.jsonl`，SHA e9ffbf6554e1e095f27fe912f7617003be0633f0c3224315592403a3b2ef1625。
 
 本目录 `packet-bindings.json` 和 `original-input-lineage-sidecar.json` 是原文件逐字副本，源数据文件没有重新生成。旧 scope 内 v12 来源协议名、历史 v15 描述及旧中间身份均保留其原契约意义；实际材料仍由当前 v16 绑定核验。01402 继续使用原中立 literal inventory bridge 和现行 packet；旧29项事件和新协议 BODY 的层级不变，旧 recovery 不冒称本轮真实读取。
 
@@ -25,11 +25,11 @@
 以下命令仅供 ROOT 接续；本次没有执行。运行目录与合并目录须不存在。ROOT 另行提供与模板绑定相同的原格式实际 release，填写真实授权身份。不得直接改写模板，不得使用 Python `-O`。
 
 ```sh
-cd '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v13/execution-preparation'
+cd '/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v13/execution-preparation'
 python3 finalize_scope.py --release '<ROOT实际release绝对路径>' --release-sha256 '<实际release SHA256>' --scope-out '<新frozen-scope绝对路径>'
-python3 rule_driver.py --scope '<新frozen-scope绝对路径>' --scope-sha256 '<finalize_scope返回的SHA256>' --input '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation/affected-current-v16-common-lines.jsonl' --input-sha256 e9ffbf6554e1e095f27fe912f7617003be0633f0c3224315592403a3b2ef1625 --out '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v13b-sf-v16-affected-root/run-affected-first'
-python3 receive_merge.py --scope '<同一个frozen-scope绝对路径>' --delta '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v13b-sf-v16-affected-root/run-affected-first' --output '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v13b-sf-v16-delta-merged-root'
-python3 compare_v12.py --candidate-composite '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v13b-sf-v16-delta-merged-root' --output '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v13/v13b-vs-completed-v12-comparison.json'
+python3 rule_driver.py --scope '<新frozen-scope绝对路径>' --scope-sha256 '<finalize_scope返回的SHA256>' --input '/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v12/execution-preparation/affected-current-v16-common-lines.jsonl' --input-sha256 e9ffbf6554e1e095f27fe912f7617003be0633f0c3224315592403a3b2ef1625 --out '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v13b-sf-v16-affected-root/run-affected-first'
+python3 receive_merge.py --scope '<同一个frozen-scope绝对路径>' --delta '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v13b-sf-v16-affected-root/run-affected-first' --output '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-full4481-v13b-sf-v16-delta-merged-root'
+python3 compare_v12.py --candidate-composite '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-full4481-v13b-sf-v16-delta-merged-root' --output '/PROJECT_ROOT/outputs/goal-calibration-20261010/10-closure-20261012/rule-repair-v13/v13b-vs-completed-v12-comparison.json'
 ```
 
 接收器可先加 `--validate-only` 只核验。仅完整2082条/10410槽、技术失败为0、实际首轮封存成功才可合并；失败原件保留，不改为NULL、不覆盖重试。最后一步独占创建比较结果，遇非S完整决定差异立即拒绝，不改写已完成的合并或原 v12 结果。

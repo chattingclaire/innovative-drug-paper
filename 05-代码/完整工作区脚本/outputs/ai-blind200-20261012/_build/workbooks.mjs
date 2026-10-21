@@ -3,7 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { FileBlob, SpreadsheetFile } from '@oai/artifact-tool';
 
-const project = '/Users/rainbow/Desktop/战略院/药企项目-创新药';
+const project = '/PROJECT_ROOT';
 const inputRoot = path.join(project, 'outputs/goal-calibration-20261010/09-delivery/human200-independent-preparation-root');
 const outputRoot = path.join(project, 'outputs/ai-blind200-20261012');
 const mode = process.argv[2] || 'inspect';

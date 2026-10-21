@@ -2,7 +2,7 @@ from pathlib import Path
 import json, hashlib, shutil
 import openpyxl
 
-src=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/outputs/paper-calibration-20260926')
+src=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/outputs/paper-calibration-20260926')
 out=Path(__file__).resolve().parent
 manifest={}
 allrows=[]

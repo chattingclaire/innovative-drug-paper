@@ -5,7 +5,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT = Path('/PROJECT_ROOT')
 HERE = Path(__file__).resolve().parent
 OLD = HERE.parent / '候选08-命题与证据判定'
 R4 = ROOT / 'outputs/coding-revision-20261008-r4/validation-state-audit'

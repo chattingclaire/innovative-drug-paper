@@ -7,7 +7,7 @@ import hashlib
 import json
 from pathlib import Path
 
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药')
+ROOT=Path('/PROJECT_ROOT')
 BASE=ROOT/'outputs/goal-calibration-20261010'
 D=Path(__file__).resolve().parent
 MANUAL=BASE/'03-manual/full4481-common-release-20261010-root/manual.txt'

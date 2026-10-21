@@ -10,7 +10,7 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
 ROOT=Path(__file__).resolve().parent
-BASE=Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/重跑修订稿-20260927/论文修订稿-匿名审稿版.docx')
+BASE=Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/重跑修订稿-20260927/论文修订稿-匿名审稿版.docx')
 MET=ROOT.parent/'autocode-v28-review-20261004-111306'
 NS={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
 def W(s): return '{'+NS['w']+'}'+s

@@ -8,7 +8,7 @@
 
 规范化族只用于识别重复、设计或方差分析：NFKC后去Unicode空白与P*标点，不改变原正文；族内所有成员及其语境分别保留。实际导出3754个完整目标框正文族。共享语境身份同时记录source04模型contexts与规则shared字段的规范JSON指纹及文件行位置；两种接口指纹分别记录，不因指纹不同虚称接口完全相同。
 
-完整列表为[source_only_frame_all4481.jsonl](/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/编码修订核查-20261008/人工参照复核/全量目标框验证准备01/source_only_frame_all4481.jsonl)，族成员索引另存。输入文件和导出文件的SHA本次实际计算。每行source/candidate SHA承载source04冻结记录，本次未重新认证全部原始来源，也未做全量材料内容审查。
+完整列表为[source_only_frame_all4481.jsonl](/PROJECT_ROOT/outputs/编码修订核查-20261008/人工参照复核/全量目标框验证准备01/source_only_frame_all4481.jsonl)，族成员索引另存。输入文件和导出文件的SHA本次实际计算。每行source/candidate SHA承载source04冻结记录，本次未重新认证全部原始来源，也未做全量材料内容审查。
 
 RECODE25-00064保留在框中并标记未核定来源援引。应先核清确指原文、另存恢复凭据，并向人工、规则、LLM同步完整中性材料；当前原句不得改变。若最终仍不能判读，A/B记录unknown及原因，不能猜0或无说明删单元。材料变化需另冻结来源版本与语境SHA，不沿用旧指纹声称已同步。
 

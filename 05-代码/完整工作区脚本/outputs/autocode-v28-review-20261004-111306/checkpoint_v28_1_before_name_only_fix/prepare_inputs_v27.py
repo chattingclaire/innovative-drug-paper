@@ -73,7 +73,7 @@ def main():
     assert len(log) == len(pending) == 8
     # Source-defined program scope is added consistently to the whole verified
     # component, never selected by reference labels or desired predictions.
-    source_root = Path('/Users/rainbow/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全')
+    source_root = Path('/LOCAL_HOME/Desktop/战略院/创新药论文-完整归档-20260914/12-投稿定稿工作区/原文补全')
     source_path = source_root/'NMPA-突破性治疗等三程序-2020-附件正文.txt'
     candidate_path = source_root/'PDF段落与句子候选/NMPA-突破性治疗等三程序-2020.json'
     source_sha, candidate_sha = file_hash(source_path), file_hash(candidate_path)

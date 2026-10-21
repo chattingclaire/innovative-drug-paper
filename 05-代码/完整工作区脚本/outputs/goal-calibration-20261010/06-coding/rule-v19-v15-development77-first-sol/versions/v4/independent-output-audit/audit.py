@@ -14,7 +14,7 @@ import json
 V = Path(__file__).resolve().parent.parent
 OUT = Path(__file__).resolve().parent
 R = V / 'run77-first'
-SOURCE = Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/development77/common-source-bundles-v15.jsonl')
+SOURCE = Path('/PROJECT_ROOT/outputs/goal-calibration-20261010/01-review/source-interface-v15-price-context-sol/development77/common-source-bundles-v15.jsonl')
 SOURCE_SHA = '6c8623909a30566fd5348df3679f14c74cba1b86ccda5602b45707dd55fcb16a'
 SEAL_SHA = '2d6318c7b5db190061259e73ee2023cc50ebd15cac84b539a00d34ab9beb205a'
 DIMS = ['S', 'E', 'Ec', 'I', 'F']

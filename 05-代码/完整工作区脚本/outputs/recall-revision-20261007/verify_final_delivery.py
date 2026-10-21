@@ -6,7 +6,7 @@ import json,argparse
 
 ROOT=Path(__file__).resolve().parent
 PROJECT=ROOT.parents[1]
-BUNDLED_SOFFICE='/Users/rainbow/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice'
+BUNDLED_SOFFICE='/LOCAL_HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice'
 def digest(path):return sha256(Path(path).read_bytes()).hexdigest()
 def read(name):return json.loads((ROOT/name).read_text())
 def resolve(path):

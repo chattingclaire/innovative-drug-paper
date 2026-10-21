@@ -3,11 +3,11 @@
 本目录仅准备接口；未执行收据恢复、合并、分类器或模型。ROOT 审阅本封印后，分别运行以下两个入口。输出目录必须此前不存在。
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovery-preparation-sol/recover.py' --mode recover --go '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/08-audits/ROOT-v11-01402-receipt-only-causal-recovery-adoption.json' --output '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovered44-root'
+/opt/homebrew/opt/python@3.14/bin/python3.14 '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovery-preparation-sol/recover.py' --mode recover --go '/PROJECT_ROOT/outputs/goal-calibration-20261010/08-audits/ROOT-v11-01402-receipt-only-causal-recovery-adoption.json' --output '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovered44-root'
 ```
 
 ```sh
-/opt/homebrew/opt/python@3.14/bin/python3.14 '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovery-preparation-sol/merge.py' --delta '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovered44-root' --output '/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/rule-full4481-v11-v16-receipt-delta-merged-root'
+/opt/homebrew/opt/python@3.14/bin/python3.14 '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovery-preparation-sol/merge.py' --delta '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-v11-v16-receipt-only-recovered44-root' --output '/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/rule-full4481-v11-v16-receipt-delta-merged-root'
 ```
 
 原 44 条实际运行仍是失败封印：43 条有效、01402 五个维度技术失败。纠正先前“在 judge 之前失败”的说法：原 judge 与 validate_decisions 已完成，完整五维候选保存在原 first；失败发生在后续读取收据清单核对。

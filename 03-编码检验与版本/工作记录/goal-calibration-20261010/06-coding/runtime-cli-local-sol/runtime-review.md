@@ -3,7 +3,7 @@
 固定版本：wrapper0.130.0，官方平台包0.130.0-darwin-arm64。采用官方npm包及正常脚本，以npm标准prefix安装；缓存及空npm配置在本目录，全局wrapper字节核对未变。官方入口以模块相对路径定位平台依赖，本次曾实际补齐缺文件。官方文档提供[npm安装途径](https://learn.chatgpt.com/docs/codex/cli)，不能把安装成功等同运行成功。
 
 入口绝对路径（目前其新native缺失）：
-`/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/runtime-cli-local-sol/node_modules/.bin/codex`
+`/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/runtime-cli-local-sol/node_modules/.bin/codex`
 
 准确模型/设置组合未核明。公共models_cache(client_version0.160.1)列出gpt-6.1-sol和ultra，但不证明0.130.0 CLI可按同设置运行。[同版本配置schema](https://github.com/openai/codex/blob/rust-v0.130.0/codex-rs/core/config.schema.json)只接受none、minimal、low、medium、high、xhigh，不能原样指定ultra。[官方GPT-6.1 Sol模型页](https://developers.openai.com/api/docs/models/gpt-6.1-sol)核明精确slug、API档位列到max；桌面ultra的CLI/API等效映射保留unknown，未替换为gpt-6.1、Astra或其他档位。
 

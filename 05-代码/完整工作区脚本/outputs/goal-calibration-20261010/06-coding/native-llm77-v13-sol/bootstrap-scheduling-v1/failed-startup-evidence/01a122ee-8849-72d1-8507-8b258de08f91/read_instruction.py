@@ -1,6 +1,6 @@
 from pathlib import Path
 import sys, hashlib, json, datetime
-p=Path("/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/scheduling/initial-prompts/batch-0001.txt")
+p=Path("/PROJECT_ROOT/outputs/goal-calibration-20261010/06-coding/native-llm77-v13-sol/scheduling/initial-prompts/batch-0001.txt")
 root=Path(__file__).parent
 b=p.read_bytes()
 assert len(b)==159060 and hashlib.sha256(b).hexdigest()=="7a4e8c7507f1f045f7ac30cfa0f0787c5ed67dd7cf032e240c5dc9fbb3e0a44b"

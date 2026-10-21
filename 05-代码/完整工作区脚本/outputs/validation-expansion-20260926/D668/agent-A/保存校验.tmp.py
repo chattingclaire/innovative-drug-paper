@@ -2,7 +2,7 @@ from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import hashlib,json,os,tempfile
-ROOT=Path('/Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/validation-expansion-20260926/D668/agent-A')
+ROOT=Path('/PROJECT_ROOT/outputs/validation-expansion-20260926/D668/agent-A')
 DIMS=['S','E','Ec','I','F']
 def row(n,labels,reasons,evidence,rationale,basis,F=None,I=None,quality='no_quality_basis',status='sufficient',issue='无'):
     assert len(labels)==len(reasons)==5

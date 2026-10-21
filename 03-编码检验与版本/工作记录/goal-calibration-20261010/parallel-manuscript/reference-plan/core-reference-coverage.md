@@ -173,7 +173,7 @@ SHA、ID完整性、待定台账、未知值边界、文件/系列/归属敏感�
 
 直接依据为Beaumont–Émond（2022）§3.3式20，p344–345。RWY（1992）式3.4提供历史重缩放形式，单独不能支持本式的完整有限总体修正。2022标题提到多阶段/两相不代表本项目执行了该设计。
 
-后续事前契约v2拟选共同重缩放bootstrap为主要区间（5000次、seed20261010、逐指标百分位95%），全部方法和五维共用记录权重；解析线性化作复核/诊断。实际抽样、独立参照和整体冻结尚未完成，方法引用仍以执行触发。后续输入单独保存于 [later-steering-input.json](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/later-steering-input.json>)，原输入清单和快照未改。
+后续事前契约v2拟选共同重缩放bootstrap为主要区间（5000次、seed20261010、逐指标百分位95%），全部方法和五维共用记录权重；解析线性化作复核/诊断。实际抽样、独立参照和整体冻结尚未完成，方法引用仍以执行触发。后续输入单独保存于 [later-steering-input.json](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/later-steering-input.json>)，原输入清单和快照未改。
 
 - 全取层因子固定1；非全取单例层无该有效重缩放式，需修改设计，不能任意补一个因子。
 - 引用总量无偏文献不证明κ、P/R/F1或注意力比率无偏；先算加权总量/混淆表，再构成统计量。
@@ -183,7 +183,7 @@ SHA、ID完整性、待定台账、未知值边界、文件/系列/归属敏感�
 
 ## 七、书目修正与未取得全文事项
 
-按核定书目补缺失DOI、机构全称、正式文件/附件标题和经核日期。2025/2026医保问答合并与重抽样来源调整属于未来的主张/引文同步修改，不是本次执行。具体修正逐项见 [bibliographic-fixes.json](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/bibliographic-fixes.json>)。
+按核定书目补缺失DOI、机构全称、正式文件/附件标题和经核日期。2025/2026医保问答合并与重抽样来源调整属于未来的主张/引文同步修改，不是本次执行。具体修正逐项见 [bibliographic-fixes.json](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/bibliographic-fixes.json>)。
 
 R043保留正式卷年2026；R033保留1997；R049保留1952；R051原件核定保持2025。R026按原刊卷期指定引用保留2023，另记2024-05-08在线日，不能依据DOI中的2024改年。Oliver正式出版2004，作者稿名2003和仓储上线2005均不替换出版年。
 
@@ -197,7 +197,7 @@ R001未核唯一机构责任者；R037精确网页公开日、R057成文落款�
 
 最终写作按真实发现确定结构，逐主张采用本清单。保留原语料/开发来源档案；正文书目精简后保存旧号—新首引编号crosswalk。
 
-- [机器可读主张覆盖与66条去向](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/core-reference-coverage.json>)
-- [书目修正预案](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/bibliographic-fixes.json>)
-- [冻结输入清单](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/planning_input_manifest.json>)
-- [方法核查](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/methods-review.json>)；[理论核查](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/theory-review.json>)；[制度核查](</Users/rainbow/Desktop/战略院/药企项目-创新药/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/policy-review.json>)
+- [机器可读主张覆盖与66条去向](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/core-reference-coverage.json>)
+- [书目修正预案](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/bibliographic-fixes.json>)
+- [冻结输入清单](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/planning_input_manifest.json>)
+- [方法核查](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/methods-review.json>)；[理论核查](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/theory-review.json>)；[制度核查](</PROJECT_ROOT/outputs/goal-calibration-20261010/parallel-manuscript/reference-plan/policy-review.json>)
