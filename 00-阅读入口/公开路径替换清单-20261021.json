@@ -53,8 +53,9 @@
     {
       "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/与最终人工编码比较.json",
       "source_commit_sha256": "fcdfe7669b566715c0c7300439125e6e1008d08ebdfe6b186c47f7aabbf1e059",
-      "public_sha256": "a21e67c16a2664d8b3886b4b7767a12e3d172ee91523d740ccef5fa4b83569a2",
-      "public_bytes": 28264
+      "public_sha256": "b592543588a66c0bdef7d7454bb083b16d5905416cc4141fb0a74dc58d852055",
+      "public_bytes": 28291,
+      "subsequent_update": "2026-10-23统一最终人工编码的说明，数值未改。"
     },
     {
       "file": "03-编码检验与版本/466条LLM复跑与人工对照-20261020/交付封存.json",

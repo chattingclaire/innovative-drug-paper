@@ -1,0 +1,440 @@
+{
+  "date": "2026-10-23",
+  "scope": "466条讨论、合并前A/B逐维未加权一致性；不含原表待定4项；不代表4481条总体加权估计。",
+  "files": [
+    {
+      "coder": "A",
+      "file": "编码者A-466条独立判读原表.xlsx",
+      "sha256": "8c84ea9194cb0b29766f3172967139093cd2c390455706201ee71efe8ce47a64",
+      "records": 466,
+      "dimension_values": 2330,
+      "additional_sheet_items_excluded": 4,
+      "identity_confirmation": "作者于2026-10-23确认该具体文件为讨论、合并前保留的人工原表；原样复制。"
+    },
+    {
+      "coder": "B",
+      "file": "编码者B-466条独立判读原表.xlsx",
+      "sha256": "3c4dfddb8c3d60f69a23bb37ce2522f9097f000c7cd40c3bb53a0202d4fd4994",
+      "records": 466,
+      "dimension_values": 2330,
+      "additional_sheet_items_excluded": 4,
+      "identity_confirmation": "作者于2026-10-23确认该具体文件为讨论、合并前保留的人工原表；原样复制。"
+    }
+  ],
+  "alignment": "按原始记录ID和维度对齐，A、B盲号顺序不同，不按行号直接比较。",
+  "mapping_sha256": "4bab987a932eba51a8d849c631d3469b9c09f1eff5cb32f9c5b36749fb548414",
+  "metrics": {
+    "S": {
+      "dimension": "安全性",
+      "N": 466,
+      "A_positive": 119,
+      "B_positive": 134,
+      "A0_B0": 332,
+      "A0_B1": 15,
+      "A1_B0": 0,
+      "A1_B1": 119,
+      "agreement": 0.9678111587982833,
+      "cohen_kappa": 0.9187266004697348
+    },
+    "E": {
+      "dimension": "有效性",
+      "N": 466,
+      "A_positive": 85,
+      "B_positive": 96,
+      "A0_B0": 370,
+      "A0_B1": 11,
+      "A1_B0": 0,
+      "A1_B1": 85,
+      "agreement": 0.9763948497854077,
+      "cohen_kappa": 0.9246464587069648
+    },
+    "Ec": {
+      "dimension": "经济性",
+      "N": 466,
+      "A_positive": 107,
+      "B_positive": 114,
+      "A0_B0": 351,
+      "A0_B1": 8,
+      "A1_B0": 1,
+      "A1_B1": 106,
+      "agreement": 0.98068669527897,
+      "cohen_kappa": 0.9466344318615602
+    },
+    "I": {
+      "dimension": "创新性",
+      "N": 466,
+      "A_positive": 29,
+      "B_positive": 33,
+      "A0_B0": 432,
+      "A0_B1": 5,
+      "A1_B0": 1,
+      "A1_B1": 28,
+      "agreement": 0.9871244635193133,
+      "cohen_kappa": 0.8963599970346204
+    },
+    "F": {
+      "dimension": "公平性",
+      "N": 466,
+      "A_positive": 37,
+      "B_positive": 42,
+      "A0_B0": 418,
+      "A0_B1": 11,
+      "A1_B0": 6,
+      "A1_B1": 31,
+      "agreement": 0.9635193133047211,
+      "cohen_kappa": 0.7649676615439391
+    }
+  },
+  "disagreement_items": 58,
+  "disagreement_records": 42,
+  "disagreements": [
+    {
+      "record_id": "RECODE25-00009",
+      "dimension": "I",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00202",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00287",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00308",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00335",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00336",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00612",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00612",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00612",
+      "dimension": "I",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00612",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-00663",
+      "dimension": "F",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-00918",
+      "dimension": "Ec",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-00918",
+      "dimension": "F",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-01055",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01138",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01258",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01258",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01258",
+      "dimension": "I",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01258",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01358",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-01747",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-02082",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-02263",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-02272",
+      "dimension": "F",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-02376",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-02519",
+      "dimension": "F",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-02529",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-02530",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-02864",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03034",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03050",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03082",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03082",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03082",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03091",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03321",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03493",
+      "dimension": "I",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-03671",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03671",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03671",
+      "dimension": "I",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03671",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03717",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03762",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03766",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03766",
+      "dimension": "E",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03766",
+      "dimension": "Ec",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03766",
+      "dimension": "I",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03766",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03782",
+      "dimension": "F",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-03825",
+      "dimension": "F",
+      "A": 1,
+      "B": 0
+    },
+    {
+      "record_id": "RECODE25-03875",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-03930",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-04068",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-04069",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-04882",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-04883",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-04909",
+      "dimension": "F",
+      "A": 0,
+      "B": 1
+    },
+    {
+      "record_id": "RECODE25-04913",
+      "dimension": "S",
+      "A": 0,
+      "B": 1
+    }
+  ]
+}

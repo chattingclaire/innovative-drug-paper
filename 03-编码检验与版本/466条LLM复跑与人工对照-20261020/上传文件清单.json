@@ -6,8 +6,8 @@
   },
   {
     "file": "README.md",
-    "bytes": 2970,
-    "sha256": "0dd49e9f30f3b5dedae3723c5ae8bb2b3119cc1706666dde2f61d063adce19a6"
+    "bytes": 3121,
+    "sha256": "e1ed8bde710211638838f31f7128f7e5ef05fe037fdea41b371b348462730be8"
   },
   {
     "file": "final-independent-execution-audit.json",
@@ -31,13 +31,13 @@
   },
   {
     "file": "与最终人工编码比较.json",
-    "bytes": 28264,
-    "sha256": "a21e67c16a2664d8b3886b4b7767a12e3d172ee91523d740ccef5fa4b83569a2"
+    "bytes": 28291,
+    "sha256": "b592543588a66c0bdef7d7454bb083b16d5905416cc4141fb0a74dc58d852055"
   },
   {
     "file": "与最终人工编码比较.md",
-    "bytes": 1334,
-    "sha256": "11bc643441df12d962e0fb0d095b4cfb4f0aaceb5d461c904b226dbaca9477f1"
+    "bytes": 1361,
+    "sha256": "d78f2b968be77c582a09836239467acc97e6a18ae4991624789d9ae517165f34"
   },
   {
     "file": "五维比较说明.md",
