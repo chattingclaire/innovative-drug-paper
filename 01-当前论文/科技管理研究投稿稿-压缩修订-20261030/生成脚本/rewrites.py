@@ -220,3 +220,7 @@ from final import apply3 as _final3
 _final3(R)
 from final import apply4 as _final4
 _final4(R)
+from final import apply5 as _final5
+_final5(R)
+from final import apply6 as _final6
+_final6(R)
