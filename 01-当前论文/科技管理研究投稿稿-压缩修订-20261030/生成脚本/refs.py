@@ -1,5 +1,5 @@
 # 参考文献：新增条目（临时编号 101–107）与依据原件更正的条目（按旧编号）；REMOVED 为删除的旧编号。
-REMOVED = {24, 56}
+REMOVED = {24, 56, 4, 32, 36, 38, 43, 44, 50, 54}
 
 NEW = {
     101: "Rogge K S, Reichardt K. Policy mixes for sustainability transitions: An extended concept and framework for analysis[J]. Research Policy, 2016, 45(8): 1620-1635.",

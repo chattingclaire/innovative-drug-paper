@@ -108,3 +108,17 @@ def apply2(R):
     rep(13, "The leading dimensions of the first two departments remain stable across robustness checks, whereas the ranking for the National Health Commission is sensitive to the composition of policy sources.",
         "The leading dimensions of the first two departments remain stable across robustness checks.")
     rep(109, "申请品种仍需参加正式评审[54]，其结果不构成对准入或价格的承诺。", "申请品种仍需参加正式评审[54]。")
+
+
+def apply3(R):
+    """精简参考文献至53条：删去非论证必需的引文及其对应表述。"""
+    def rep(i, a, b):
+        assert a in R[i], (i, a)
+        R[i] = R[i].replace(a, b)
+    rep(16, "“十四五”期间，我国共批准创新药230个，其中2025年76个[4]；2025年", "2025年")
+    rep(42, "2017年，人力资源社会保障部将36种谈判药品纳入医保目录乙类范围[32]，中办、国办印发", "2017年，中办、国办印发")
+    rep(53, "词典分类的质量检验参照Kroon等[36]，LLM编码参照Gilardi等[37]及Halterman和Keith[38]。", "")
+    rep(68, "并作Bonferroni校正[43]，", "并作Bonferroni校正，")
+    rep(68, "整群重抽样5 000次[44]，", "整群重抽样5 000次，")
+    rep(90, "《常用问答（2025年版）》明确支付费用监测与药品供应要求，并说明谈判药品支付标准包含基金与参保人员共同支付的费用[50]。", "")
+    rep(109, "需要强调的是，预沟通旨在明确比较基础，申请品种仍需参加正式评审[54]。", "")

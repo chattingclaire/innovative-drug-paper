@@ -216,3 +216,5 @@ from final import apply as _final
 _final(R)
 from final import apply2 as _final2
 _final2(R)
+from final import apply3 as _final3
+_final3(R)
