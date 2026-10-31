@@ -238,3 +238,5 @@ from finalC import apply2 as _fC2
 _fC2(R)
 from finalC import apply3 as _fC3
 _fC3(R, INS2)
+from finalC import apply4 as _fC4
+_fC4(R, INS2)
