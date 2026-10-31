@@ -1,0 +1,17953 @@
+# Rogge-2016-Policy mixes for sustainability transitions
+
+> 原件：参考文献原件-按论文编号-20261023/待核新增-20261031/Rogge-2016-Policy mixes for sustainability transitions.pdf
+
+<!-- 第1页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+Contents lists available at ScienceDirect
+Research
+ Policy
+journal homepage: www.elsevier.com/locate/respol
+Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis
+Karoline
+ S. Rogge a,b,∗, Kristin
+ Reichardt c
+a Fraunhofer
+ Institute
+ for
+ Systems
+ and
+ Innovation
+ Research
+ (Fraunhofer
+ ISI),
+ Breslauer
+ Straße
+ 48,
+ 76139
+ Karlsruhe,
+ Germany
+b SPRU—Science
+ Policy
+ Research
+ Unit,
+ Jubilee
+ Building,
+ University
+ of
+ Sussex,
+ Brighton
+ BN1
+ 9SL,
+ UK
+c Copernicus
+ Institute
+ of
+ Sustainable
+ Development,
+ Utrecht
+ University,
+ Heidelberglaan
+ 2,
+ 3584
+ CS
+ Utrecht,
+ The
+ Netherlands
+a
+ r
+ t i c l e 
+i n
+ f o
+Article
+ history:
+Received
+ 19
+ July
+ 2013
+Received
+ in
+ revised
+ form
+ 24
+ March
+ 2016
+Accepted
+ 19
+ April
+ 2016
+Available
+ online
+ xxx
+Keywords:
+Policy
+ mix
+Policy
+ strategy
+Policy
+ making
+ and
+ implementation
+Consistency
+Coherence
+Credibility
+Sustainability
+ transitions
+Innovation
+Technological
+ change
+a
+ b
+ s t r
+ a c t
+Reaching
+ a better
+ understanding
+ of the policies
+ and politics
+ of transitions
+ presents
+ a main
+ agenda
+ item
+in
+ the emerging
+ ﬁeld of sustainability
+ transitions.
+ One important
+ requirement
+ for these transitions,
+ such
+as the move towards
+ a decarbonized
+ energy
+ system, is the redirection
+ and acceleration
+ of technological
+change,
+ for which
+ policies play a key role. In this regard, several
+ studies
+ have argued
+ for
+ the need to
+combine
+ different
+ policy
+ instruments
+ in so-called
+ policy
+ mixes.
+ However,
+ existing
+ policy
+ mix studies often
+fall
+ short
+ of reﬂecting
+ the complexity
+ and dynamics
+ of actual policy mixes,
+ the underlying
+ politics
+ and the
+evaluation
+ of their impacts.
+ In this paper we take a ﬁrst step towards an extended,
+ interdisciplinary
+ policy
+mix
+ concept
+ based
+ on a review
+ of the
+ bodies of literature
+ on innovation
+ studies, environmental
+ economics
+and policy analysis.
+ The concept
+ introduces
+ a clear terminology
+ and consists
+ of the three building
+ blocks
+elements,
+ policy processes
+ and characteristics,
+ which can be delineated
+ by several
+ dimensions.
+ Based
+ on
+this,
+ we discuss
+ its application
+ as analytical
+ framework
+ for empirical
+ studies
+ analyzing
+ the impact
+ of the
+policy
+ mix on technological
+ change.
+ Throughout
+ the paper
+ we illustrate
+ the proposed
+ concept
+ by using
+the
+ example
+ of the policy
+ mix for fostering
+ the transition
+ of the German
+ energy system to renewable
+power
+ generation
+ technologies.
+ Finally,
+ we derive
+ policy
+ implications
+ and suggest avenues
+ for
+ future
+research.
+©
+ 2016 The
+ Author(s).
+ Published
+ by Elsevier
+ B.V. This is an open access
+ article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+1.
+ Introduction
+One
+ of
+ the
+ main
+ challenges
+ in
+ the
+ emerging
+ ﬁeld
+ of
+ sustain-
+ability
+ transitions
+ is
+ to
+ improve
+ our
+ understanding
+ of
+ the
+ policies
+and
+ politics
+ of
+ transitions,
+ such
+ as
+ for
+ the
+ move
+ towards
+ a
+ decar-
+bonized
+ energy
+ system
+ (Markard
+ et
+ al.,
+ 2012).
+ One
+ important
+requirement
+ for
+ such
+ a
+ transition
+ is
+ the
+ redirection
+ and
+ acceleration
+of
+ technological
+ change
+ towards
+ sustainability
+ objectives.
+ How-
+ever,
+ in
+ this
+ context
+ technological
+ change,
+ often
+ characterized
+ by
+its
+ three
+ major
+ stages
+ of
+ invention,
+ innovation
+ and
+ diffusion
+ (del
+Río
+ González,
+ 2009b),
+ is
+ faced
+ with
+ multiple
+ market,
+ system
+ and
+institutional
+ failures
+ and
+ thus
+ requires
+ multi-faceted
+ policy
+ inter-
+ventions
+ (Lehmann,
+ 2010;
+ Twomey,
+ 2012;
+ Weber
+ and
+ Rohracher,
+2012).
+ Responding
+ to
+ this
+ challenge,
+ in
+ recent
+ years
+ scholars
+and
+ practitioners
+ in
+ ﬁelds
+ particularly
+ relevant
+ to
+ eco-innovation
+(Kemp,
+ 2011;
+ Rennings,
+ 2000)
+ have
+ called
+ for
+ a
+ policy
+ mix
+ which
+∗Corresponding
+ author
+ at:
+ SPRU—Science
+ Policy
+ Research
+ Unit,
+ Jubilee
+ Building,
+University
+ of
+ Sussex,
+ Brighton
+ BN1
+ 9SL,
+ UK.
+E-mail
+ address:
+ k.rogge@sussex.ac.uk
+ (K.S.
+ Rogge).
+combines
+ several
+ policy
+ instruments
+ (IEA,
+ 2011b;
+ Nauwelaers
+ et
+ al.,
+2009;
+ OECD,
+ 2007).
+ However,
+ policy
+ mix
+ studies
+ tend
+ to
+ be
+ lim-
+ited
+ to
+ examining
+ instrument
+ interactions
+ (del
+ Río
+ González,
+ 2006;
+IEA,
+ 2011a) or
+ the
+ policy
+ processes
+ associated
+ with
+ designing
+ such
+mixes
+ (Howlett
+ and
+ Rayner,
+ 2007).
+ Furthermore,
+ the
+ terminology
+applied
+ in
+ these
+ studies
+ is
+ often
+ ambiguous,
+ particularly
+ regarding
+the
+ desired
+ characteristics
+ of
+ a
+ policy
+ mix.1
+This
+ limited
+ scope
+ and
+ ambiguous
+ terminology
+ of
+ existing
+ policy
+mix
+ studies
+ have
+ two
+ major
+ consequences
+ for
+ the
+ analysis
+ of
+ pol-
+icy
+ mixes
+ and
+ their
+ impacts.
+ First,
+ the
+ narrow
+ scope
+ of
+ policy
+ mix
+concepts
+ may
+ cause
+ researchers
+ to
+ neglect
+ important
+ policy
+ mix
+1 For
+ instance,
+ given
+ the
+ limitations
+ of
+ the
+ EU
+ emissions
+ trading
+ system,
+ Matthes
+(2010)
+ (p.6)
+ calls
+ for
+ a
+ “comprehensive,
+ effective,
+ economically
+ efﬁcient,
+ robust,
+politically
+ achievable,
+ and
+ inclusive
+ climate
+ policy
+ mix.”
+ Regarding
+ climate
+ inno-
+vations
+ in
+ the
+ power
+ sector
+ Schmidt
+ et
+ al.
+ (2012a)
+ (p.476)
+ stress
+ the
+ need
+ for
+a
+ “consistent
+ and
+ effective
+ policy
+ mix
+ which
+ is
+ congruent
+ to
+ long-term
+ targets.”
+Likewise,
+ OECD
+ (2007)
+ (p.
+ 22)
+ recommends
+ an
+ increase
+ of
+ “the
+ coherence
+ of
+ the
+instrument
+ mix”
+ for
+ environmental
+ policy
+ and
+ Nauwelaers
+ et
+ al.
+ (2009)
+ (p.11)
+ under-
+line
+ the
+ “need
+ for
+ coherence,
+ coordination,
+ and
+ effectiveness
+ of
+ policy
+ mixes”
+ for
+R&D.
+http://dx.doi.org/10.1016/j.respol.2016.04.004
+0048-7333/©
+ 2016
+ The
+ Author(s).
+ Published
+ by
+ Elsevier
+ B.V.
+ This
+ is
+ an
+ open
+ access
+ article
+ under
+ the
+ CC
+ BY
+ license
+ (http://creativecommons.org/licenses/by/4.0/).
+
+<!-- 第2页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+2
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+Table
+ 1
+Deﬁnitions
+ of
+ the
+ term
+ policy
+ mix
+ in
+ the
+ literature.
+Source
+ 
+Deﬁnition
+Guy
+ et
+ al.
+ (2009)
+ (p.1)
+ 
+“An
+ R&D
+ and
+ Innovation
+ Policy
+ Mix
+ can
+ be
+ deﬁned
+ as
+ that
+ set
+ of
+ government
+ policies
+ which,
+ by
+design
+ or
+ fortune,
+ has
+ direct
+ or
+ indirect
+ impacts
+ on
+ the
+ development
+ of
+ an
+ R&D
+ and
+ innovation
+system.”
+Kern
+ and
+ Howlett
+ (2009)
+ (p.395)
+ 
+“Policy
+ mixes
+ are
+ complex
+ arrangements
+ of
+ multiple
+ goals
+ and
+ means
+ which,
+ in
+ many
+ cases,
+ have
+developed
+ incrementally
+ over
+ many
+ years.”
+Nauwelaers
+ et
+ al.
+ (2009)
+ (p.3)
+ 
+“A
+ policy
+ mix
+ is
+ deﬁned
+ as:
+ The
+ combination
+ of
+ policy
+ instruments,
+ which
+ interact
+ to
+ inﬂuence
+ the
+quantity
+ and
+ quality
+ of
+ R&D
+ investments
+ in
+ public
+ and
+ private
+ sectors.”
+Boekholt
+ (2010)
+ (p.353)
+“A
+ policy
+ mix
+ can
+ be
+ deﬁned
+ as
+ the
+ combination
+ of
+ policy
+ instruments,
+ which
+ interact
+ to
+ inﬂuence
+the
+ quantity
+ and
+ quality
+ of
+ R&D
+ investments
+ in
+ public
+ and
+ private
+ sectors.”
+de
+ Heide
+ (2011)
+ (p.2)
+ 
+“A
+ policy
+ mix
+ is
+ the
+ combined
+ set
+ of
+ interacting
+ policy
+ instruments
+ of
+ a country
+ addressing
+ R&D
+and
+ innovation.”
+Ring
+ and
+ Schröter-Schlaack
+ (2011)
+ (p.15)
+ 
+“A
+ policy
+ mix
+ is
+ a
+ combination
+ of
+ policy
+ instruments
+ which
+ has
+ evolved
+ to
+ inﬂuence
+ the
+ quantity
+and
+ quality
+ of
+ biodiversity
+ conservation
+ and
+ ecosystem
+ service
+ provision
+ in
+ public
+ and
+ private
+sectors.”
+elements
+ or
+ processes
+ in
+ their
+ analyses.
+ This
+ may
+ lead
+ to
+ an
+ insuf-
+ﬁcient
+ understanding
+ of
+ the
+ role
+ of
+ policy
+ mixes
+ for
+ sustainability
+transitions,
+ potentially
+ resulting
+ in
+ fragmentary
+ and
+ oversimpliﬁed
+policy
+ recommendations
+ on
+ how
+ to
+ redirect
+ and
+ accelerate
+ techno-
+logical
+ change.
+ Second,
+ the
+ lack
+ of
+ a
+ uniform
+ terminology
+ could
+ lead
+to
+ apparently
+ ambiguous
+ ﬁndings
+ and
+ may
+ render
+ policy
+ mix
+ anal-
+yses
+ difﬁcult
+ to
+ assess,
+ compare
+ and
+ synthesize.
+ Ultimately,
+ these
+obstacles
+ to
+ integrating
+ our
+ insights
+ on
+ the
+ link
+ between
+ policy
+and
+ innovation
+ may
+ further
+ reduce
+ the
+ substance
+ and
+ impact
+ of
+resulting
+ policy
+ advice.
+In
+ this
+ study
+ we
+ address
+ the
+ identiﬁed
+ lack
+ of
+ a
+ compre-
+hensive,
+ uniformly
+ deﬁned
+ policy
+ mix
+ concept
+ for
+ analyzing
+ the
+link
+ between
+ policy
+ and
+ technological
+ change,
+ thereby
+ heeding
+Flanagan
+ et
+ al.’s
+ (2011)
+ call
+ for
+ a
+ reconceptualization
+ of
+ the
+ pol-
+icy
+ mix
+ for
+ innovation.
+ As
+ a
+ prerequisite
+ of
+ such
+ empirical
+ analysis,
+we
+ take
+ a
+ ﬁrst
+ step
+ in
+ identifying
+ and
+ deﬁning
+ the
+ key
+ elements,
+processes,
+ characteristics
+ and
+ dimensions
+ of
+ such
+ an
+ extended
+ pol-
+icy
+ mix
+ concept.
+ For
+ this,
+ we
+ review
+ and
+ synthesize
+ the
+ literature
+on
+ innovation
+ studies,
+ environmental
+ economics,
+ policy
+ analysis
+and
+ strategic
+ management.
+ In
+ doing
+ so,
+ we
+ aim
+ at
+ deriving
+ a
+ pol-
+icy
+ mix
+ concept
+ that
+ assists
+ in
+ a
+ more
+ systematic
+ understanding
+of
+ real-world
+ policy
+ mixes
+ and
+ serves
+ as
+ an
+ integrating
+ frame-
+work
+ for
+ empirical
+ analyses
+ addressing
+ the
+ role
+ of
+ policy
+ mixes
+ for
+technological
+ change.
+ Thereby,
+ such
+ an
+ interdisciplinary
+ analytical
+framework
+ should
+ enhance
+ our
+ understanding
+ of
+ the
+ role
+ of
+ policy
+mixes
+ for
+ sustainability
+ transitions
+ and
+ thus
+ enable
+ more
+ precise
+policy
+ recommendations.
+Throughout
+ the
+ paper
+ we
+ illustrate
+ the
+ proposed
+ policy
+ mix
+concept
+ using
+ the
+ example
+ of
+ the
+ decarbonization
+ of
+ the
+ German
+energy
+ system,
+ which
+ requires
+ accelerated
+ development
+ and
+ diffu-
+sion
+ of
+ renewable
+ power
+ generation
+ technologies
+ (RPGTs)
+ to
+ realize
+the
+ aspired
+ system
+ transition.
+ The
+ associated
+ policy
+ mix
+ represents
+a
+ good
+ example
+ with
+ its
+ feed-in
+ law
+ and
+ several
+ other
+ policy
+ mix
+elements
+ as
+ well
+ as
+ lively
+ policy
+ debates
+ as
+ to
+ the
+ best
+ way
+ to
+achieve
+ the
+ “Energiewende”
+ (Agora
+ Energiewende,
+ 2012).
+The
+ remainder
+ of
+ the
+ paper
+ is
+ structured
+ as
+ follows.
+ In
+ Section
+2
+ we
+ review
+ the
+ literature
+ on
+ policy
+ mixes
+ and
+ their
+ characteris-
+tics
+ and
+ derive
+ requirements
+ for
+ an
+ extended
+ policy
+ mix
+ concept.
+Based
+ on
+ this,
+ in
+ Section
+ 3
+ we
+ present
+ the
+ three
+ building
+ blocks
+ of
+the
+ proposed
+ policy
+ mix
+ concept:
+ elements
+ (Section
+ 3.1),
+ policy
+processes
+ (Section
+ 3.2)
+ and
+ characteristics
+ (Section
+ 3.3).
+ In
+ Sec-
+tion
+ 3.4
+ we
+ introduce
+ relevant
+ dimensions
+ for
+ delineating
+ policy
+mixes,
+ while
+ Section
+ 3.5
+ synthesizes
+ the
+ proposed
+ policy
+ mix
+ con-
+cept.
+ Finally,
+ in
+ Section
+ 4
+ we
+ discuss
+ how
+ the
+ extended
+ policy
+ mix
+concept
+ may
+ be
+ used
+ as
+ a
+ framework
+ for
+ analysis
+ for
+ investigating
+the
+ link
+ between
+ policy
+ mixes
+ and
+ technological
+ change
+ (Section
+4.1),
+ and
+ how
+ to
+ address
+ the
+ associated
+ challenges
+ of
+ such
+ empir-
+ical
+ analysis,
+ including
+ boundary
+ setting
+ and
+ operationalizing
+ the
+policy
+ mix
+ (Section
+ 4.2).
+ Section
+ 5
+ derives
+ policy
+ implications
+ and
+concludes
+ the
+ paper.
+2.
+ Literature
+ review
+2.1.
+ Policy
+ mix
+A
+ growing
+ number
+ of
+ studies
+ in
+ various
+ scientiﬁc
+ ﬁelds
+ use
+ the
+term
+ policy
+ mix, e.g.
+ Lehmann
+ (2010)
+ in
+ environmental
+ economics,
+Nauwelaers
+ et
+ al.
+ (2009)
+ and
+ de
+ Heide
+ (2011)
+ in
+ innovation
+ studies,
+and
+ Howlett
+ and
+ Rayner
+ (2007)
+ in
+ the
+ ﬁeld
+ of
+ policy
+ analysis.2 In
+ its
+most
+ basic
+ form,
+ studies
+ implicitly
+ or
+ explicitly
+ deﬁne
+ a
+ policy
+ mix
+as
+ the
+ combination
+ of
+ several
+ policy
+ instruments
+ (Lehmann,
+ 2012;
+Matthes,
+ 2010).
+ However,
+ as
+ stressed
+ by
+ Flanagan
+ et
+ al.
+ (2011), a
+policy
+ mix
+ encompasses
+ more
+ than
+ just
+ a
+ combination
+ of
+ policy
+instruments;
+ it
+ also
+ includes
+ the
+ processes
+ by
+ which
+ such
+ instru-
+ments
+ emerge
+ and
+ interact.
+ As
+ a
+ consequence,
+ studies
+ focusing
+solely
+ on
+ the
+ interaction
+ of
+ instruments
+ should,
+ more
+ precisely,
+refer
+ to
+ the
+ term
+ ‘instrument
+ mix’
+ (see
+ Section
+ 3.1.3).3 Table
+ 1
+ gives
+an
+ overview
+ of
+ some
+ policy
+ mix
+ deﬁnitions,
+ with
+ the
+ more
+ elabo-
+rate
+ ones
+ mainly
+ originating
+ from
+ innovation
+ studies
+ and
+ the
+ policy
+analysis
+ literature.
+Three
+ general
+ features
+ emerge
+ from
+ these
+ deﬁnitions:
+ First,
+ they
+typically
+ include
+ the
+ ultimate
+ objective(s)
+ of
+ the
+ policy
+ mix,
+ either
+in
+ an
+ abstract
+ form
+ (Kern
+ and
+ Howlett,
+ 2009) or
+ more
+ typically
+as
+ a
+ speciﬁc
+ objective
+ of
+ a
+ certain
+ policy
+ ﬁeld,
+ such
+ as
+ innovation
+(Boekholt,
+ 2010;
+ Guy
+ et
+ al.,
+ 2009;
+ Nauwelaers
+ et
+ al.,
+ 2009)
+ or
+ bio-
+diversity
+ (Ring
+ and
+ Schröter-Schlaack,
+ 2011).
+ Second,
+ interaction
+ is
+a
+ central
+ feature
+ of
+ the
+ existing
+ policy
+ mix
+ deﬁnitions
+ (Boekholt,
+2010;
+ de
+ Heide,
+ 2011;
+ Nauwelaers
+ et
+ al.,
+ 2009).
+ It
+ has
+ been
+ studied
+most
+ extensively
+ in
+ the
+ climate
+ and
+ energy
+ ﬁelds,
+ where
+ the
+ focus
+is
+ often
+ on
+ its
+ inﬂuence
+ on
+ the
+ effectiveness
+ and
+ efﬁciency
+ of
+ instru-
+ments
+ in
+ the
+ mix
+ (del
+ Río
+ González
+ 2009a,
+ 2010;
+ IEA,
+ 2011b;
+ Sorrell
+et
+ al.,
+ 2003).
+ Third,
+ some
+ of
+ the
+ deﬁnitions
+ point
+ to
+ the
+ dynamic
+nature
+ of
+ the
+ policy
+ mix,
+ referring
+ to
+ it
+ as
+ having
+ “evolved”
+ (Ring
+ and
+Schröter-Schlaack,
+ 2011)
+ and
+ “developed
+ incrementally
+ over
+ many
+years”
+ (Kern
+ and
+ Howlett,
+ 2009).
+ This
+ reﬂects
+ that
+ instruments
+and
+ their
+ meanings
+ may
+ change
+ over
+ time,
+ causing
+ interactions
+between
+ them
+ to
+ change
+ (IEA,
+ 2011b;
+ Sorrell
+ et
+ al.,
+ 2003).
+Yet,
+ in
+ the
+ context
+ of
+ sustainability
+ transitions
+ a
+ policy
+ mix
+ con-
+cept
+ is
+ needed
+ which
+ goes
+ beyond
+ this
+ narrow
+ scope
+ –
+ interacting
+2 A
+ review
+ of
+ the
+ origins
+ of
+ the
+ term
+ in
+ economic
+ policy
+ and
+ its
+ subsequent
+ uptake
+in
+ the
+ ﬁelds
+ of
+ environmental
+ and
+ later
+ also
+ innovation
+ policy
+ can
+ be
+ found
+ in
+Flanagan
+ et
+ al.
+ (2011).
+3 This
+ is
+ done,
+ for
+ example,
+ by
+ OECD
+ (2007), Braathen
+ (2007)
+ and
+ Murphy
+ et
+ al.
+(2012). Similarly,
+ Borrás
+ and
+ Edquist
+ (2013)
+ argue
+ for
+ a
+ distinction
+ between
+ instru-
+ment
+ mix
+ and
+ policy
+ mix,
+ while
+ others
+ use
+ the
+ term
+ ‘policy
+ mix’
+ interchangeably
+with
+ ‘instrument
+ mix’
+ (Ring
+ and
+ Schröter-Schlaack,
+ 2011).
+
+<!-- 第3页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+3
+instruments
+ aimed
+ at
+ achieving
+ objectives
+ in
+ a
+ dynamic
+ setting
+ –
+at
+ least
+ in
+ three
+ respects.
+ First,
+ aside
+ from
+ capturing
+ its
+ dynamic
+nature,
+ an
+ extended
+ concept
+ should
+ consider
+ more
+ of
+ the
+ complex-
+ity
+ of
+ real-world
+ policy
+ mixes,
+ thereby
+ going
+ beyond
+ combinations
+of
+ policy
+ instruments
+ and
+ their
+ interactions
+ (Flanagan
+ et
+ al.,
+ 2011).
+Second,
+ it
+ needs
+ to
+ more
+ explicitly
+ incorporate
+ policy
+ processes
+“by
+ which
+ policies
+ emerge,
+ interact
+ and
+ have
+ effects”
+ (Flanagan
+et
+ al.,
+ 2011,
+ p.
+ 702) since
+ such
+ processes
+ and
+ related
+ politics
+ help
+explain
+ the
+ evolution
+ of
+ policy
+ mixes,
+ but
+ also
+ the
+ resulting
+ effects
+(Foxon
+ and
+ Pearson,
+ 2007,
+ 2008).
+ Third,
+ a
+ policy
+ mix
+ concept
+ for
+sustainability
+ transitions
+ ought
+ to
+ include
+ a
+ strategic
+ component.
+This
+ tends
+ to
+ be
+ neglected
+ despite
+ early
+ works
+ of
+ Jänicke
+ on
+ the
+role
+ of
+ strategic
+ approaches
+ in
+ environmental
+ policy
+ (Jänicke,
+ 1998,
+2009),
+ the
+ necessity
+ of
+ long
+ time
+ horizons
+ for
+ sustainability
+ tran-
+sitions
+ (Markard
+ et
+ al.,
+ 2012)
+ and
+ recent
+ empirical
+ evidence
+ on
+ the
+importance
+ of
+ long-term
+ climate
+ targets
+ for
+ companies’
+ innovation
+strategies
+ (Rogge
+ et
+ al.,
+ 2011b,c;
+ Schmidt
+ et
+ al.,
+ 2012b).
+2.2.
+ Characteristics
+ of
+ policy
+ mixes
+To
+ describe
+ the
+ nature
+ and
+ performance
+ of
+ policy
+ mixes
+ it
+is
+ useful
+ to
+ differentiate
+ between
+ policy
+ mix
+ characteristics
+ and
+assessment
+ criteria
+ (OECD,
+ 2003a;
+ Sorrell
+ et
+ al.,
+ 2003).
+ Terms
+belonging
+ to
+ the
+ latter
+ group
+ represent
+ well-established
+ ex-ante
+and
+ ex-post
+ assessment
+ criteria
+ applied
+ in
+ impact
+ assessments
+ and
+evaluations
+ of
+ single
+ policy
+ instruments,
+ such
+ as
+ effectiveness,
+ efﬁ-
+ciency,
+ equity
+ or
+ feasibility
+ (del
+ Rio
+ et
+ al.,
+ 2012;
+ IRENA,
+ 2012).
+ In
+contrast,
+ the
+ former
+ group
+ comprises
+ terms
+ speciﬁcally
+ used
+ for
+characterizing
+ the
+ policy
+ mix,
+ such
+ as
+ consistency,
+ coherence,
+ cred-
+ibility
+ or
+ comprehensiveness
+ (Foxon
+ and
+ Pearson,
+ 2008;
+ Howlett
+and
+ Rayner,
+ 2007;
+ Kern
+ and
+ Howlett,
+ 2009;
+ Majone,
+ 1997;
+ Matthes,
+2010).
+ These
+ characteristics
+ may
+ impact
+ the
+ performance
+ of
+ a
+ pol-
+icy
+ mix
+ in
+ terms
+ of
+ the
+ standard
+ assessment
+ criteria,
+ particularly
+regarding
+ effectiveness
+ and
+ efﬁciency.
+However,
+ most
+ policy
+ mix
+ studies
+ refer
+ to
+ these
+ often
+ ambigu-
+ously
+ deﬁned
+ characteristics
+ without
+ clarifying
+ what
+ is
+ actually
+meant.
+ We will
+ illustrate
+ this
+ ambiguity
+ for
+ the
+ frequently
+ used
+ but
+particularly
+ heterogeneously
+ deﬁned
+ terms
+ consistency
+ and
+ coher-
+ence
+ (Den
+ Hertog
+ and
+ Stroß,
+ 2011;
+ Picciotto,
+ 2005).
+ Based
+ on
+ a
+review
+ of
+ the
+ –
+ predominantly
+ policy
+ analysis
+ –
+ literature
+ on
+ these
+terms
+ we
+ identify
+ three
+ important
+ points
+ to
+ be
+ taken
+ into
+ account
+when
+ establishing
+ a
+ more
+ uniform
+ terminology.
+First,
+ consistency
+ and
+ coherence
+ are
+ either
+ seen
+ as
+ identical
+ or
+different
+ characteristics.
+ The
+ former
+ suggests
+ coherence
+ is
+ synony-
+mous
+ with
+ consistency
+ (Carbone,
+ 2008;
+ Hoebink,
+ 2004;
+ Matthews,
+2011).
+ As
+ a
+ result,
+ coherence
+ is
+ often
+ simply
+ deﬁned
+ using
+ the
+term
+ consistency
+ (Hydén,
+ 1999;
+ Picciotto
+ et
+ al.,
+ 2004),
+ but
+ there
+is
+ no
+ uniform
+ deﬁnition.4 In
+ contrast,
+ the
+ latter
+ distinguishes
+ con-
+sistency
+ and
+ coherence
+ as
+ different
+ characteristics
+ (Howlett
+ and
+Rayner,
+ 2007;
+ Mickwitz
+ et
+ al.,
+ 2009a;
+ OECD,
+ 2001),
+ but
+ again
+ there
+is
+ no
+ agreement
+ on
+ the
+ exact
+ nature
+ of
+ this
+ difference.
+ However,
+ the
+majority
+ of
+ these
+ studies
+ assert
+ that
+ coherence
+ is
+ more
+ encompass-
+ing
+ than
+ consistency
+ (Jones
+ 2002;
+ OECD,
+ 2003a).
+ That
+ is,
+ in
+ its
+ most
+basic
+ form,
+ consistency
+ is
+ seen
+ as
+ the
+ absence
+ of
+ contradictions
+ (Den
+Hertog
+ and
+ Stroß,
+ 2011;
+ Gauttier,
+ 2004),
+ while
+ coherence
+ calls
+ for
+an
+ achievement
+ of
+ synergy
+ or
+ positive
+ connections
+ (Missiroli,
+ 2001;
+Tietje,
+ 1997).5
+4 While
+ some
+ base
+ their
+ deﬁnition
+ on
+ the
+ absence
+ of
+ contradictions
+ and
+ non-
+conﬂicting
+ signals
+ (Forster
+ and
+ Stokke,
+ 1999; Van
+ Bommel
+ and
+ Kuindersma,
+ 2008),
+others
+ refer
+ to
+ the
+ consistency
+ or
+ coherence
+ among
+ policies
+ (Bigsten
+ 2007;
+ Di
+Francesco
+ 2001;
+ OECD,
+ 1996),
+ while
+ still
+ others
+ speak
+ of
+ consistency
+ or
+ coherence
+between
+ objectives
+ and
+ instruments
+ (Fukasaku
+ and
+ Hirata,
+ 1995;
+ Picciotto
+ 2005).
+5 An
+ alternative
+ view
+ was
+ developed
+ by
+ Howlett
+ et
+ al.
+ who
+ speak
+ of
+ consistency
+ of
+instruments
+ and
+ coherence
+ of
+ goals
+ (Howlett
+ and
+ Rayner,
+ 2007) and
+ also
+ introduce
+Second,
+ the
+ literature
+ differentiates
+ between
+ a
+ state
+ and
+ pro-
+cess
+ perspective
+ of
+ consistency
+ and
+ coherence,
+ i.e.
+ between
+ what
+ is
+being
+ achieved
+ and
+ how
+ it
+ is
+ achieved
+ (Carbone,
+ 2008),
+ but
+ again
+this
+ is
+ not
+ treated
+ uniformly.
+ A
+ ﬁrst
+ set
+ of
+ studies
+ addresses
+ the
+state
+ of
+ affairs
+ at
+ a
+ certain
+ point
+ in
+ time
+ only
+ (Duraiappah
+ and
+Bhardwaj,
+ 2007;
+ Fukasaku
+ and
+ Hirata,
+ 1995;
+ Hoebink,
+ 2004).
+ A
+second
+ set
+ instead
+ captures
+ the
+ process
+ perspective
+ (Jones,
+ 2002;
+Lockhart,
+ 2005; OECD,
+ 2003a),
+ often
+ concentrating
+ on
+ the
+ organiza-
+tional
+ setup
+ to
+ attain
+ consistency/coherence.
+ A
+ third
+ set
+ of
+ studies
+mentions
+ –
+ either
+ implicitly
+ or
+ explicitly
+ –
+ both
+ state
+ and
+ pro-
+cess
+ perspectives,
+ but
+ uses
+ the
+ same
+ term
+ –
+ typically
+ coherence
+–
+ for
+ both
+ (Den
+ Hertog
+ and
+ Stroß,
+ 2011;
+ Forster
+ and
+ Stokke,
+ 1999;
+McLean
+ Hilker,
+ 2004).
+Third,
+ some
+ studies
+ focus
+ on
+ tools
+ for
+ enhancing
+ consistency
+and
+ coherence
+ (Ashoff,
+ 2005; OECD,
+ 1996,
+ 2003a),
+ a
+ discussion
+which
+ is
+ closely
+ linked
+ to
+ the
+ literature
+ on
+ policy
+ coordination6 and
+integration7 (Mickwitz
+ et
+ al.,
+ 2009a; Van
+ Bommel
+ and
+ Kuindersma,
+2008).
+ However,
+ as
+ before,
+ there
+ is
+ no
+ common
+ understanding
+ of
+the
+ terms
+ consistency
+ and
+ coherence
+ and
+ how
+ they
+ relate
+ to
+ other
+concepts,
+ such
+ as
+ coordination.
+ One
+ reason
+ for
+ this
+ lack
+ of
+ a uni-
+form
+ terminology
+ may
+ be
+ the
+ often
+ largely
+ separated
+ contributions
+addressing
+ distinct
+ policy
+ ﬁelds,
+ such
+ as
+ development
+ policy
+ (EU,
+2005,
+ 2010;
+ Weston
+ and
+ Pierre-Antoine,
+ 2003),
+ climate
+ policy
+ (Kern
+and
+ Howlett,
+ 2009; Mickwitz
+ et
+ al.,
+ 2009b)
+ and
+ eco-innovation
+ pol-
+icy
+ (Reid
+ and
+ Miedzinski,
+ 2008;
+ Ruud
+ and
+ Larsen,
+ 2004).
+To
+ better
+ deal
+ with
+ such
+ diversity
+ in
+ meaning
+ and
+ the
+ result-
+ing
+ difﬁculties
+ in
+ integrating
+ ﬁndings
+ across
+ studies,
+ an
+ extended
+policy
+ mix
+ concept
+ needs
+ to
+ propose
+ uniform
+ deﬁnitions
+ of
+ these
+terms
+ that
+ fulﬁll
+ the
+ following
+ two
+ requirements:
+ First,
+ these
+ def-
+initions
+ need
+ to
+ clearly
+ specify
+ whether
+ they
+ refer
+ to
+ the
+ state
+ or
+process
+ perspective
+ of
+ the
+ policy
+ mix,
+ which
+ might
+ best
+ be
+ accom-
+plished
+ by
+ separate
+ terms
+ for
+ each
+ of
+ these
+ perspectives.
+ Second,
+at
+ a
+ minimum
+ they
+ should
+ allow
+ for
+ the
+ differentiation
+ of
+ a
+ weak
+and
+ strong
+ form
+ to
+ capture
+ the
+ distinction
+ between
+ the
+ absence
+ of
+contradictions
+ and
+ actual
+ synergies
+ within
+ a
+ policy
+ mix.
+3.
+ Building
+ blocks
+ of
+ the
+ policy
+ mix
+ concept
+As
+ derived
+ in
+ the
+ literature
+ review,
+ an
+ extended
+ policy
+ mix
+concept
+ for
+ sustainability
+ transitions
+ needs
+ to
+ address
+ three
+ basic
+requirements:
+ ﬁrst,
+ the
+ inclusion
+ of
+ a
+ strategic
+ component,
+ sec-
+ond,
+ the
+ incorporation
+ of
+ associated
+ policy
+ processes,
+ and
+ third,
+ the
+consideration
+ of
+ characteristics
+ of
+ policy
+ mixes.
+ In
+ capturing
+ this
+complexity
+ of
+ actual
+ policy
+ mixes
+ it
+ should
+ also
+ pay
+ attention
+ to
+their
+ dynamic
+ nature.
+ Finally,
+ to
+ resolve
+ concerns
+ over
+ ambiguous
+terminology,
+ it
+ needs
+ to
+ suggest
+ precise
+ deﬁnitions
+ of
+ key
+ terms.
+Based
+ on
+ these
+ requirements,
+ we
+ deﬁne
+ the
+ policy
+ mix
+ as
+ a
+combination
+ of
+ the
+ three
+ building
+ blocks
+ elements,
+ processes
+ and
+characteristics,
+ which
+ can
+ be
+ speciﬁed
+ using
+ different
+ dimensions.
+Elements
+ comprise
+ the
+ (i)
+ policy
+ strategy
+ with
+ its
+ objectives
+ and
+principal
+ plans
+ for
+ achieving
+ them
+ and
+ (ii)
+ the
+ instrument
+ mix
+ with
+its
+ interacting
+ policy
+ instruments.
+ The
+ content
+ of
+ these
+ elements
+ is
+an
+ outcome
+ of
+ policy
+ processes.
+ Both
+ elements
+ and
+ processes
+ can
+be
+ described
+ by
+ their
+ characteristics,
+ including
+ the
+ consistency
+ of
+congruence
+ among
+ instruments
+ and
+ goals
+ as
+ a
+ third
+ category
+ (Kern
+ and
+ Howlett,
+2009).
+6 Policy
+ coordination
+ is
+ a
+ formal
+ policy
+ process
+ aiming
+ to
+ get
+ “the
+ various
+ insti-
+tutional
+ and
+ managerial
+ systems,
+ which
+ formulate
+ policy,
+ to
+ work
+ together”
+ (OECD
+2003a,
+ p.
+ 9OECD,
+ 2003aOECD
+ 2003a,
+ p.
+ 9).
+ Subsets
+ of
+ policy
+ coordination
+ are
+ coop-
+eration
+ and
+ collaboration
+ (Bouckaert
+ et
+ al.,
+ 2010).
+7 Environmental
+ policy
+ integration
+ means
+ “the
+ incorporation
+ of
+ environmental
+objectives
+ into
+ all
+ stages
+ of
+ policy
+ making
+ in
+ non-environmental
+ policy
+ sectors
+ [..]
+accompanied
+ by
+ an
+ attempt
+ to
+ aggregate
+ presumed
+ environmental
+ consequences
+into
+ an
+ overall
+ evaluation
+ of
+ policy,
+ and
+ a commitment
+ to
+ minimize
+ contradictions
+between
+ environmental
+ and
+ sectoral
+ policies”
+ (Lafferty
+ and
+ Hovden,
+ 2003,
+ p.
+ 9).
+
+<!-- 第4页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+4
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+elements,
+ the
+ coherence
+ of
+ processes,
+ as
+ well
+ as
+ the
+ credibility
+and
+ comprehensiveness
+ of
+ a
+ policy
+ mix.
+ Finally,
+ the
+ policy
+ mix
+ can
+be
+ delineated
+ by
+ several
+ dimensions,
+ including
+ policy
+ ﬁeld,
+ gover-
+nance
+ level,
+ geography
+ and
+ time.
+3.1.
+ Building
+ block
+ 1:
+ elements
+3.1.1.
+ Policy
+ strategy
+The
+ importance
+ of
+ a
+ long-term
+ strategic
+ orientation
+ and
+ strate-
+gic
+ policy
+ frameworks
+ has
+ been
+ increasingly
+ underscored
+ in
+ the
+literature
+ addressing
+ sustainability
+ transitions
+ (Foxon
+ and
+ Pearson,
+2008; Quitzow,
+ 2015a; Weber
+ and
+ Rohracher,
+ 2012)
+ and
+ policy-
+triggered
+ environmental
+ technological
+ change
+ (Rogge
+ et
+ al.,
+ 2011c;
+Schmidt
+ et
+ al.,
+ 2012b).
+ We therefore
+ incorporate
+ policy
+ strategy
+ as
+one
+ of
+ the
+ elements
+ in
+ the
+ policy
+ mix
+ concept
+ and
+ draw
+ on
+ the
+strategic
+ management
+ literature
+ to
+ derive
+ a
+ common
+ deﬁnition
+ for
+the
+ content
+ of
+ a
+ policy
+ strategy.
+ This
+ literature
+ highlights
+ that
+ strat-
+egy
+ consists
+ of
+ a
+ combination
+ of
+ interdependent
+ ends
+ (goals)
+ and
+means
+ (policies)
+ to
+ achieve
+ the
+ ends
+ (Andrews,
+ 1987; Miles
+ and
+Snow,
+ 1978;
+ Mintzberg,
+ 1999;
+ Porter,
+ 1980).
+Building
+ on
+ Andrews
+ (1987)
+ and
+ Porter
+ (1980), we
+ thus
+ deﬁne
+policy
+ strategy
+ as
+ a
+ combination
+ of
+ policy
+ objectives
+ and
+ the
+ prin-
+cipal
+ plans
+ for
+ achieving
+ them.
+ That
+ is,
+ the
+ deﬁnition
+ puts
+ an
+emphasis
+ on
+ the
+ output
+ –
+ the
+ ends
+ and
+ means
+ –
+ of
+ the
+ strategy
+ pro-
+cess,
+ while
+ the
+ adaptive
+ process
+ of
+ formulating,
+ implementing
+ and
+revising
+ objectives
+ and
+ plans
+ is
+ captured
+ by
+ the
+ processes
+ build-
+ing
+ block
+ (see
+ 3.2).
+ We will
+ discuss
+ these
+ two
+ main
+ components
+ of
+objectives
+ and
+ plans
+ in
+ turn,
+ while
+ recognizing
+ that
+ they
+ are
+ closely
+interlinked.
+The
+ ﬁrst
+ component
+ of
+ the
+ policy
+ strategy
+ deﬁnition
+ concerns
+policy
+ objectives
+ associated
+ with
+ sustainability
+ transitions.
+ These
+objectives
+ tend
+ to
+ be
+ substantiated
+ by
+ long-term
+ targets
+ with
+ quan-
+tiﬁed
+ ambition
+ levels
+ (Rennings
+ et
+ al.,
+ 2003;
+ Schmidt
+ et
+ al.,
+ 2012b)
+and
+ may
+ be
+ based
+ on
+ visions
+ of
+ the
+ future
+ (del
+ Río
+ et
+ al.,
+ 2010; Kemp
+and
+ Rotmans,
+ 2005).8,9 For
+ example,
+ one
+ of
+ the
+ policy
+ objectives
+ of
+the
+ EU
+ is
+ the
+ reduction
+ of
+ greenhouse
+ gas
+ (GHG)
+ emissions.
+ This
+ is
+concretized
+ by
+ a
+ 20%
+ GHG
+ reduction
+ target
+ for
+ 2020
+ and
+ 40%
+ for
+2030,
+ aiming
+ at
+ arriving
+ at
+ numbers
+ in
+ line
+ with
+ the
+ internationally
+agreed
+ target
+ of
+ 2 ◦C
+ (EU,
+ 2013).10 In
+ addition
+ to
+ environmental
+objectives,
+ the
+ policy
+ strategy
+ may
+ also
+ include
+ social
+ and
+ eco-
+nomic
+ issues
+ (Daly
+ and
+ Farley,
+ 2010),
+ such
+ as
+ the
+ support
+ of
+ growth,
+competitiveness
+ and
+ jobs
+ (EU,
+ 2013).
+ Besides
+ content-oriented
+objectives,
+ a
+ policy
+ strategy
+ can
+ also
+ contain
+ process
+ and
+ learn-
+ing
+ objectives,
+ which
+ may
+ be
+ particularly
+ relevant
+ in
+ the
+ context
+ of
+sustainability
+ transitions
+ (Kemp,
+ 2007; Rotmans
+ et
+ al.,
+ 2001), e.g.
+in
+ terms
+ of
+ the
+ build-up
+ or
+ enhancement
+ of
+ the
+ strategic
+ capacity
+of
+ governments
+ (Quitzow,
+ 2015b).
+The
+ second
+ component
+ of
+ the
+ strategy
+ deﬁnition
+ addresses
+ the
+principal
+ plans
+ for
+ achieving
+ these
+ objectives.
+ Such
+ plans
+ outline
+ the
+general
+ path
+ that
+ governments
+ propose
+ to
+ take
+ for
+ the
+ attainment
+of
+ their
+ objectives
+ and
+ include
+ framework
+ conventions,
+ guidelines,
+8 In
+ making
+ this
+ distinction
+ between
+ objectives
+ and
+ targets
+ we follow
+ Tuominen
+and
+ Himanen
+ (2007,
+ p.
+ 390)
+ who
+ deﬁne
+ a
+ policy
+ objective
+ as
+ “what
+ the
+ policy
+ is
+trying
+ to
+ achieve,
+ the
+ overall
+ goal;
+ often
+ quite
+ abstract
+ and
+ qualitative”
+ and
+ a
+ policy
+target
+ as
+ “more
+ speciﬁc
+ and
+ quantitative
+ than
+ an
+ objective
+ [..]
+ (e.g.
+ 10%
+ less
+ emissions
+of
+ air
+ pollutants
+ within
+ 5
+ years).
+ The
+ target
+ points
+ out
+ a clear
+ sense
+ of
+ direction
+ for
+policy measures.”
+9 Targets
+ can
+ be
+ characterized
+ by
+ a
+ number
+ of
+ factors,
+ including
+ their
+ ambition
+level,
+ their
+ type
+ (e.g.
+ speciﬁc,
+ absolute),
+ their
+ governance
+ level
+ (e.g.
+ EU,
+ national),
+their
+ scope
+ (e.g.
+ headline
+ target,
+ sub-target),
+ their
+ time
+ horizon
+ (e.g.
+ long-term,
+interim),
+ or
+ their
+ legal
+ nature
+ (e.g.
+ binding,
+ aspirational,
+ voluntary),
+ see
+ EU
+ (2013)
+and
+ Philibert
+ and
+ Pershing
+ (2001).
+10 This
+ target
+ (20%
+ GHG
+ reduction
+ until
+ 2020
+ compared
+ to
+ 1990)
+ is
+ one
+ of
+ the
+ three
+EU
+ headline
+ targets
+ (20-20-20
+ targets)
+ which
+ also
+ include
+ a
+ 20%
+ share
+ for
+ renewable
+energy
+ sources
+ in
+ the
+ energy
+ consumed
+ in
+ the
+ EU
+ (EU,
+ 2008a) and
+ 20%
+ savings
+ in
+energy
+ consumption
+ compared
+ to
+ projections
+ for
+ 2020
+ (EU,
+ 2008b).
+strategic
+ action
+ plans
+ and
+ roadmaps.11 In
+ communicating
+ not
+ only
+the
+ ends
+ but
+ also
+ the
+ intended
+ means
+ to
+ achieve
+ these,
+ the
+ policy
+strategy
+ gives
+ direction
+ to
+ actions
+ and
+ decisions
+ (Grant,
+ 2005).
+ An
+example
+ of
+ principal
+ plans
+ at
+ the
+ EU
+ level
+ is
+ the
+ Strategic
+ Energy
+Technology
+ (SET)
+ Plan,
+ while
+ at
+ the
+ national
+ level
+ the
+ German
+Energy
+ Concept
+ provides
+ a
+ key
+ example.
+The
+ long-term
+ perspective
+ inherent
+ in
+ the
+ policy
+ strategy
+(Hillman
+ and
+ Hitt,
+ 1999) can
+ play
+ a
+ fundamental
+ role
+ in
+ providing
+actors
+ with
+ needed
+ guidance
+ in
+ their
+ search
+ and
+ can
+ thus
+ support
+one
+ of
+ the
+ functions
+ of
+ innovation
+ systems
+ (Hekkert
+ et
+ al.,
+ 2007).
+ For
+example,
+ research
+ has
+ shown
+ the
+ vital
+ role
+ of
+ ambitious
+ and
+ stable
+long-term
+ climate
+ targets
+ in
+ steering
+ R&D
+ activities
+ of
+ companies
+in
+ the
+ power
+ sector
+ (Rogge
+ et
+ al.,
+ 2011b,c; Schmidt
+ et
+ al.,
+ 2012b).
+However,
+ the
+ same
+ research
+ has
+ also
+ pointed
+ out
+ that
+ this
+ strate-
+gic
+ element
+ of
+ the
+ policy
+ mix
+ on
+ its
+ own
+ is
+ not
+ sufﬁcient
+ to
+ change
+companies’
+ innovation
+ strategies
+ but
+ needs
+ to
+ be
+ operationalized
+through
+ concrete
+ policy
+ instruments.
+3.1.2.
+ Instruments
+As
+ the
+ second
+ element
+ in
+ the
+ policy
+ mix,
+ policy
+ instruments
+ con-
+stitute
+ the
+ concrete
+ tools
+ to
+ achieve
+ overarching
+ objectives.
+ More
+precisely,
+ they
+ can
+ be
+ seen
+ as
+ tools
+ (Salamon,
+ 2002)
+ or
+ techniques
+of
+ governance
+ (Howlett,
+ 2005)
+ that
+ address
+ policy
+ problems
+ (Pal,
+2006).
+ They
+ are
+ introduced
+ by
+ a
+ governing
+ body
+ (Sorrell
+ et
+ al.,
+ 2003)
+in
+ order
+ to
+ achieve
+ policy
+ objectives
+ (Howlett
+ and
+ Rayner,
+ 2007),
+thereby
+ translating
+ plans
+ of
+ action
+ (de
+ Heide,
+ 2011).
+ Examples
+ of
+policy
+ instruments
+ include
+ the
+ German
+ feed-in
+ tariffs
+ incorporated
+in
+ the
+ Renewable
+ Energy
+ Act
+ (EEG)
+ and
+ the
+ EU
+ Emissions
+ Trading
+System
+ (ETS).
+A
+ number
+ of
+ alternative
+ terms
+ are
+ used,
+ such
+ as
+ implementing
+measures
+ (EU,
+ 2013),
+ programs
+ (Komor
+ and
+ Bazilian,
+ 2005),
+ poli-
+cies
+ (IRENA,
+ 2012),
+ or
+ policies
+ and
+ measures
+ (UNFCCC,
+ 2011).
+ For
+simplicity,
+ we
+ use
+ the
+ term
+ ‘instrument’
+ in
+ the
+ policy
+ mix
+ concept,
+with
+ the
+ clear
+ understanding
+ that
+ it
+ encompasses
+ these
+ alternative
+terms.
+ However,
+ as
+ the
+ term
+ ‘policy’
+ is
+ very
+ broad
+ and
+ used
+ differ-
+ently
+ across
+ disciplines
+ (Dye,
+ 2008; Fischer
+ and
+ Preonas,
+ 2010),
+ we
+prefer
+ not
+ using
+ it
+ synonymously
+ for
+ ‘instrument’.
+Policy
+ instruments
+ are
+ typically
+ associated
+ with
+ speciﬁc
+ goals.
+That
+ is,
+ while
+ the
+ policy
+ strategy
+ contains
+ objectives
+ which
+ tend
+to
+ be
+ speciﬁed
+ by
+ long-term
+ targets,
+ we
+ use
+ the
+ term
+ ‘goal’
+ to
+characterize
+ the
+ intended
+ effect
+ of
+ instruments
+ that
+ contribute
+to
+ achieving
+ overarching
+ policy
+ objectives.
+ In
+ addition,
+ two
+ key
+attributes
+ of
+ policy
+ instruments
+ are
+ particularly
+ relevant
+ for
+ inno-
+vation,
+ namely
+ instrument
+ type
+ (Section
+ 3.1.2.1) and
+ instrument
+design
+ feature
+ (Section
+ 3.1.2.2).
+3.1.2.1.
+ Instrument
+ type.
+ The
+ type
+ of
+ an
+ instrument
+ has
+ been
+ iden-
+tiﬁed
+ as
+ a
+ major
+ determinant
+ of
+ environmental
+ innovation,
+ both
+in
+ theoretical
+ (Jaffe
+ et
+ al.,
+ 2002;
+ Popp
+ et
+ al.,
+ 2009;
+ Requate,
+2005
+ Requate,
+ 2005)
+ and
+ empirical
+ studies
+ (Haˇscic
+ et
+ al.,
+ 2009;
+Hemmelskamp,
+ 1999;
+ Johnstone
+ et
+ al.,
+ 2010).
+ First
+ attempts
+ at
+ a
+combined
+ typology
+ of
+ environmental
+ and
+ innovation
+ policy
+ instru-
+ment
+ types
+ tend
+ to
+ lack
+ either
+ a
+ differentiated
+ set
+ of
+ innovation
+(Rennings
+ et
+ al.,
+ 2008) or
+ environmental
+ policy
+ types
+ (Nauwelaers
+et
+ al.,
+ 2009).
+ Therefore,
+ in
+ Table
+ 2
+ we
+ propose
+ a
+ more
+ balanced
+ 3 ×
+ 3
+matrix
+ typology
+ that
+ combines
+ three
+ instrument
+ types
+ (economic
+instruments,
+ regulation
+ and
+ information)
+ with
+ three
+ instrument
+purposes
+ (technology
+ push,
+ demand
+ pull
+ and
+ systemic
+ concerns).
+It
+ may
+ be
+ most
+ noteworthy
+ that
+ we include
+ a
+ systemic
+ purpose
+of
+ instruments
+ by
+ which
+ we
+ refer
+ to
+ “instruments
+ that
+ support
+functions
+ operating
+ at
+ system
+ level”
+ (Smits
+ and
+ Kuhlmann,
+ 2004,
+11 An
+ alternative
+ analytical
+ lense
+ is
+ provided
+ by
+ Quitzow
+ (2011,
+ 2015a), which
+includes
+ existing
+ policy
+ instruments
+ and
+ their
+ design
+ in
+ the
+ deﬁnition
+ of
+ the
+ content
+of
+ a policy
+ strategy.
+
+<!-- 第5页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+5
+Table 2
+Type-purpose
+ instrument
+ typology
+ (with
+ instrument
+ examples).
+PRIMARY
+ PURPOSE
+PRIMARY
+ TYPE
+ 
+Technology
+ push
+ 
+Demand
+ pull
+ 
+Systemic
+Economic
+ instruments
+ 
+RD&D* grants
+ and
+ loans,
+ tax
+ incentives,
+state
+ equity
+ assistance
+Subsidies,
+ feed-in
+ tariffs,
+ trading
+systems,
+ taxes,
+ levies,
+deposit-refund-systems,
+ public
+procurement,
+ export
+ credit
+ guarantees
+Tax
+ and
+ subsidy
+ reforms,
+ infrastructure
+provision,
+ cooperative
+ RD&D
+ grants
+Regulation
+ 
+Patent
+ law,
+intellectual
+ property
+ rights
+Technology/performance
+ standards,
+prohibition
+ of
+ products/practices,
+application
+ constraints
+Market
+ design,
+ grid
+ access
+ guarantee,
+priority
+ feed-in,
+ environmental
+liability
+ law
+Information
+ 
+Professional
+ training
+ and
+ qualiﬁcation,
+entrepreneurship
+ training,
+ scientiﬁc
+workshops
+Training
+ on
+ new
+ technologies,
+ rating
+and
+ labelling
+ programs,
+ public
+information
+ campaigns
+Education
+ system,
+ thematic
+ meetings,
+public
+ debates,
+ cooperative
+ RD&D*
+programs,
+ clusters
+Source:
+ Own
+ elaboration
+ (based
+ on
+ del
+ Río
+ González,
+ 2009a; Edler
+ and
+ Georghiou,
+ 2007; Hemmelskamp,
+ 1999;
+ Hufnagl,
+ 2010; IEA,
+ 2011b; Mowery,
+ 1995;
+ Rammer,
+ 2009;
+Rennings
+ et
+ al.,
+ 2008; Smits
+ and
+ Kuhlmann,
+ 2004; Sterner,
+ 2000; Wieczorek
+ and
+ Hekkert,
+ 2012).
+* RD&D
+ = Research,
+ development
+ and
+ demonstration.
+p.
+ 25).12 Since
+ this
+ matrix
+ is
+ an
+ oversimpliﬁcation
+ of
+ reality,
+ and
+ as
+such
+ not
+ free
+ of
+ overlaps,13 we
+ qualify
+ both
+ instrument
+ purpose
+ and
+type
+ with
+ the
+ word
+ ‘primary’.
+ For
+ each
+ of
+ the
+ nine
+ possible
+ type-
+purpose-combinations,
+ Table
+ 2
+ includes
+ some
+ selected
+ examples
+ of
+instruments
+ relevant
+ for
+ technological
+ change.
+3.1.2.2.
+ Instrument
+ design
+ features.
+ In
+ the
+ environmental
+ eco-
+nomics
+ literature
+ it
+ has
+ been
+ increasingly
+ pointed
+ out
+ that
+ a
+ policy
+instrument’s
+ design
+ features
+ may
+ actually
+ be
+ more
+ inﬂuential
+ for
+innovation
+ than
+ the
+ instrument
+ type
+ (Kemp
+ and
+ Pontoglio,
+ 2011;
+Vollebergh,
+ 2007).
+ Therefore,
+ an
+ increasing
+ number
+ of
+ studies
+explicitly
+ consider
+ them
+ when
+ analyzing
+ policy
+ instruments
+ and
+their
+ innovation
+ effects
+ (Ashford
+ et
+ al.,
+ 1985; Blazejczak
+ et
+ al.,
+ 1999;
+Norberg-Bohm,
+ 1999).
+ In
+ addition,
+ design
+ features
+ may
+ also
+ impact
+an
+ instrument’s
+ effectiveness
+ and
+ efﬁciency
+ and
+ may
+ be
+ a
+ prereq-
+uisite
+ for
+ interaction
+ analyses
+ (del
+ Río
+ González,
+ 2009a).
+Design
+ features
+ can
+ be
+ differentiated
+ by
+ abstract
+ and
+ descrip-
+tive
+ features.
+ Descriptive
+ design
+ features, such
+ as
+ an
+ instrument’s
+legal
+ form,14 its
+ target
+ actors,
+ and
+ its
+ duration,
+ summarize
+ the
+ con-
+tent
+ of
+ a
+ policy
+ instrument
+ (del
+ Río,
+ 2012),
+ which
+ can
+ serve
+ as
+ a
+ﬁrst
+ step
+ in
+ identifying
+ how
+ a
+ policy
+ instrument
+ performs
+ regard-
+ing
+ abstract
+ design
+ features.
+ A
+ number
+ of
+ abstract
+ design
+ features
+have
+ been
+ proposed
+ in
+ the
+ literature
+ (Haˇscic
+ et
+ al.,
+ 2009; Kemp
+and
+ Pontoglio,
+ 2011),15 but
+ there
+ is
+ no
+ universally
+ accepted
+ list.
+In
+ the
+ context
+ of
+ sustainability
+ transitions
+ we
+ argue
+ that
+ at
+ least
+the
+ following
+ six
+ may
+ be
+ important
+ to
+ consider:
+ stringency,
+ level
+ of
+support,
+ predictability,
+ ﬂexibility,
+ differentiation
+ and
+ depth.
+First,
+ stringency
+ addresses
+ the
+ ambition
+ level
+ of
+ an
+ instrument
+and
+ is
+ typically
+ associated
+ with
+ regulatory
+ and
+ economic
+ instru-
+ments,
+ such
+ as
+ emissions
+ standards
+ or
+ emissions
+ trading.
+ It
+ can
+ refer
+12 Smits
+ and
+ Kuhlmann
+ (2004,
+ p.
+ 25)
+ distinguish
+ between
+ ﬁve
+ systemic
+ functions:
+“management
+ of
+ interfaces,
+ building
+ and
+ organizing
+ systems,
+ providing
+ a platform
+for
+ learning
+ and
+ experimenting,
+ provision
+ of
+ strategic
+ intelligence
+ and
+ demand
+ artic-
+ulation.”
+13 For
+ example,
+ a
+ trading
+ system,
+ such
+ as
+ the
+ EU
+ ETS,
+ is
+ primarily
+ viewed
+ as
+ a
+demand-pull
+ instrument,
+ but
+ the
+ change
+ in
+ relative
+ prices
+ not
+ only
+ affects
+ diffu-
+sion
+ but
+ also
+ innovation
+ (Jaffe
+ et
+ al.,
+ 2002),
+ making
+ it
+ reasonable
+ to
+ classify
+ it
+ as
+an
+ economic
+ instrument
+ serving
+ a
+ system-wide
+ purpose.
+ However,
+ empirical
+ evi-
+dence
+ suggests
+ that
+ the
+ primary
+ effect
+ occurs
+ in
+ the
+ adoption
+ of
+ technologies,
+ not
+on
+ RD&D
+ (Rogge
+ et
+ al.,
+ 2011c; Schmidt
+ et
+ al.,
+ 2012b),
+ thus
+ making
+ it
+ meaningful
+ to
+classify
+ trading
+ schemes
+ as
+ economic
+ instruments
+ that
+ primarily
+ serve
+ demand-pull
+purposes.
+14 The
+ legal
+ form
+ determines,
+ for
+ example,
+ the
+ binding
+ character
+ of
+ an
+ instrument,
+which
+ can
+ range
+ from
+ voluntary
+ agreements
+ to
+ compulsory
+ measures.
+15 Not
+ all
+ of
+ the
+ abstract
+ design
+ features
+ found
+ in
+ the
+ literature
+ concern
+ instruments
+only,
+ but
+ also
+ include
+ aspects
+ relevant
+ for
+ policy
+ making
+ and
+ implementation,
+ such
+as
+ continuous
+ improvement
+ (Kivimaa
+ and
+ Mickwitz,
+ 2006) and
+ enforcement
+ (Kemp,
+1997),
+ as
+ well
+ as
+ for
+ the
+ overall
+ policy
+ mix,
+ such
+ as
+ credibility
+ (Kemp
+ and
+ Pontoglio,
+2011).
+both
+ to
+ an
+ instrument’s
+ goal
+ and
+ its
+ design,
+ with
+ the
+ individually
+perceived
+ stringency
+ ultimately
+ determined
+ by
+ the
+ characteristics
+of
+ the
+ instrument’s
+ target
+ actor,
+ such
+ as
+ its
+ technology
+ portfo-
+lio
+ (Rogge,
+ 2010).
+ Although
+ deﬁnitions
+ and
+ operationalizations
+ of
+stringency
+ vary
+ across
+ studies,
+ ﬁndings
+ point
+ to
+ a
+ positive
+ impact
+ of
+stringency
+ on
+ innovation
+ (Ashford
+ et
+ al.,
+ 1985; Frondel
+ et
+ al.,
+ 2007;
+Rogge
+ et
+ al.,
+ 2011a,c; Schmidt
+ et
+ al.,
+ 2012b).
+Second,
+ level
+ of
+ support
+ captures
+ the
+ magnitude
+ of
+ positive
+incentives
+ provided
+ by
+ a
+ policy
+ instrument,
+ which
+ may
+ be
+ par-
+ticularly
+ relevant
+ for
+ instruments
+ providing
+ ﬁnancial
+ incentives.
+ A
+prime
+ example
+ is
+ the
+ level
+ of
+ feed-in
+ tariffs,
+ which
+ aim
+ at
+ increasing
+the
+ return
+ on
+ investments
+ in
+ renewable
+ power
+ generation
+ tech-
+nologies
+ (Steinhilber
+ et
+ al.,
+ 2011).
+ Another
+ example
+ is
+ the
+ volume
+of
+ RD&D
+ support,
+ e.g.
+ for
+ fostering
+ research
+ and
+ development
+ activ-
+ities
+ for
+ niche
+ technologies.
+Third,
+ predictability,
+ having
+ gained
+ attention
+ particularly
+ in
+relation
+ to
+ the
+ EU
+ ETS
+ and
+ a
+ post-Kyoto
+ international
+ climate
+ agree-
+ment
+ (Engau
+ and
+ Hoffmann,
+ 2009; Hoffmann
+ et
+ al.,
+ 2008),
+ “captures
+the
+ degree
+ of
+ certainty
+ associated
+ with
+ a
+ policy
+ instrument
+ and
+ its
+future
+ development.
+ This
+ concerns
+ the
+ instrument’s
+ overall
+ direc-
+tion,
+ detailed
+ rules,
+ and
+ timing“
+ (Rogge
+ et
+ al.,
+ 2011c,
+ p.
+ 515).
+ As
+such
+ it
+ ultimately
+ addresses
+ the
+ effect
+ of
+ a
+ policy
+ instrument
+ on
+investor
+ uncertainty
+ (Haˇscic
+ et
+ al.,
+ 2009),
+ which
+ may
+ be
+ particularly
+important
+ for
+ long-lived
+ capital-intensive
+ investments
+ and
+ RD&D
+decisions.
+ For
+ example,
+ the
+ German
+ EEG
+ increases
+ its
+ predictability
+by
+ granting
+ support
+ to
+ investors
+ for
+ 20
+ years.
+Fourth,
+ ﬂexibility
+ captures
+ the
+ extent
+ to
+ which
+ innovators
+are
+ allowed
+ to
+ freely
+ choose
+ their
+ preferred
+ way
+ of
+ achieving
+compliance
+ with
+ an
+ instrument
+ (Kivimaa
+ and
+ Mickwitz,
+ 2006;
+Norberg-Bohm,
+ 1999).
+ Johnstone
+ and
+ Haˇscic
+ (2009,
+ p.
+ 1)
+ ﬁnd
+ that
+for
+ “a
+ given
+ level
+ of
+ policy
+ stringency,
+ countries
+ with
+ more
+ ﬂexi-
+ble
+ environmental
+ policies
+ are
+ more
+ likely
+ to
+ generate
+ innovations
+which
+ are
+ diffused
+ widely
+ and
+ are
+ more
+ likely
+ to
+ beneﬁt
+ from
+ inno-
+vations
+ generated
+ elsewhere”.
+ A
+ prime
+ example
+ in
+ this
+ regard
+ is
+the
+ EU
+ ETS
+ which
+ allows
+ ﬁrms
+ to
+ freely
+ choose
+ between
+ various
+compliance
+ options.
+A
+ ﬁfth
+ abstract
+ design
+ feature
+ concerns
+ the
+ differentiation
+ spec-
+iﬁed
+ in
+ policy
+ instruments
+ (Kemp
+ and
+ Pontoglio,
+ 2011),
+ e.g.
+ with
+regard
+ to
+ industrial
+ sector,
+ size
+ of
+ the
+ plant,
+ technology
+ or
+ geo-
+graphical
+ location.16 Sixth,
+ the
+ depth
+ of
+ the
+ policy
+ instrument
+addresses
+ the
+ range
+ of
+ its
+ innovation
+ incentives,
+ that
+ is
+ whether
+its
+ incentives
+ extend
+ all
+ the
+ way
+ to
+ potential
+ solutions
+ with
+ zero
+emissions
+ (Haˇscic
+ et
+ al.,
+ 2009).
+16 In
+ the
+ innovation
+ policy
+ literature
+ this
+ feature
+ is
+ also
+ referred
+ to
+ as
+ the
+ “speci-
+ﬁcity
+ of
+ a
+ policy
+ measure”
+ which
+ serves
+ as
+ indicator
+ as
+ to
+ whether
+ an
+ instrument
+“quite
+ precisely
+ describes
+ the
+ research
+ target
+ or
+ whether
+ this
+ is
+ rather
+ open”
+(Cantner
+ and
+ Pyka,
+ 2001,
+ p.
+ 764).
+
+<!-- 第6页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+6
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+The
+ interwoven
+ nature
+ of
+ design
+ features
+ requires
+ them
+ to
+ be
+mutually
+ balanced
+ (Kemp,
+ 2007).
+ For
+ example,
+ empirical
+ studies
+recommend
+ a
+ gradual
+ tightening
+ of
+ the
+ stringency
+ in
+ a
+ predictable
+manner,
+ while
+ at
+ the
+ same
+ time
+ providing
+ enough
+ ﬂexibility
+ to
+allow
+ for
+ the
+ exploration
+ of
+ new
+ technological
+ developments
+(Kivimaa,
+ 2007).
+3.1.3.
+ Instrument
+ mix
+Moving
+ from
+ single
+ instruments
+ to
+ their
+ combination
+ brings
+ us
+to
+ the
+ instrument
+ mix,
+ which
+ we
+ conceptualize
+ as
+ being
+ only
+ a
+ part
+of
+ the
+ overarching
+ policy
+ mix.
+ This
+ calls
+ for
+ a
+ distinction
+ between
+instrument
+ mix
+ and
+ policy
+ mix,
+ with
+ the
+ latter
+ encompassing
+ the
+former.
+ Regarding
+ the
+ instruments
+ in
+ this
+ mix
+ it
+ may
+ be
+ useful
+ to
+distinguish
+ between
+ core
+ (or
+ cornerstone)
+ instruments
+ and
+ com-
+plementary
+ (or
+ supplementary)
+ instruments
+ of
+ an
+ instrument
+ mix
+(IEA,
+ 2011b; Matthes,
+ 2010;
+ Schmidt
+ et
+ al.,
+ 2012b).
+ For
+ the
+ exam-
+ple
+ of
+ the
+ instrument
+ mix
+ for
+ renewable
+ energies
+ in
+ Germany,
+ the
+core
+ instrument
+ would
+ be
+ the
+ EEG
+ with
+ its
+ feed-in
+ tariffs,
+ which
+ is
+complemented
+ by
+ other
+ instruments
+ such
+ as
+ the
+ KfW
+ renewable
+energy
+ program.
+At
+ the
+ heart
+ of
+ the
+ concept
+ of
+ instrument
+ mixes
+ are
+ interac-
+tions
+ between
+ the
+ instruments,
+ which
+ signify
+ “that
+ the
+ inﬂuence
+of
+ one
+ policy
+ instrument
+ is
+ modiﬁed
+ by
+ the
+ co-existence
+ of
+ other
+[instruments]”
+ (Nauwelaers
+ et
+ al.,
+ 2009).
+ This
+ inﬂuence
+ originates
+from
+ the
+ direct
+ or
+ indirect
+ effect
+ that
+ the
+ operation
+ or
+ outcomes
+of
+ instruments
+ have
+ on
+ each
+ other
+ (Oikonomou
+ and
+ Jepma,
+ 2008;
+Sorrell
+ et
+ al.,
+ 2003).
+ Clearly,
+ these
+ interdependencies
+ of
+ instruments
+largely
+ inﬂuence
+ the
+ combined
+ effect
+ of
+ the
+ instrument
+ mix
+ and
+thus
+ the
+ achievement
+ of
+ policy
+ objectives
+ (Flanagan
+ et
+ al.,
+ 2011).
+ It
+is
+ for
+ this
+ reason
+ that
+ interactions
+ of
+ policy
+ instruments
+ represent
+a
+ central
+ component
+ of
+ any
+ policy
+ mix
+ concept.
+However,
+ as
+ pointed
+ out
+ by
+ Gunningham
+ and
+ Grabosky
+ (1998),
+without
+ considering
+ the
+ particular
+ context
+ in
+ which
+ interactions
+occur,
+ only
+ tentative
+ conclusions
+ on
+ instrument
+ interactions
+ can
+ be
+reached,
+ thus
+ calling
+ for
+ empirical
+ analyses.
+ Such
+ analyses
+ ought
+ to
+understand
+ the
+ mechanisms
+ and
+ consequences
+ of
+ policy
+ interac-
+tions,
+ which
+ requires
+ considering
+ a
+ number
+ of
+ aspects,
+ including
+the
+ scope
+ of
+ the
+ interacting
+ instruments,
+ the
+ nature
+ of
+ their
+ goals,
+their
+ timing,
+ and
+ operation
+ and
+ implementation
+ processes
+ (Sorrell
+et
+ al.,
+ 2003).
+ This
+ suggests
+ that
+ interaction
+ outcomes
+ are
+ not
+ only
+determined
+ by
+ the
+ instrument
+ mix
+ but
+ also
+ shaped
+ by
+ the
+ overar-
+ching
+ policy
+ mix.
+Thus
+ far,
+ interactions
+ have
+ been
+ predominantly
+ dealt
+ with
+ in
+ the
+environmental
+ domain,
+ particularly
+ on
+ climate
+ and
+ energy
+ issues
+(del
+ Río
+ González
+ 2009a; Gunningham
+ and
+ Grabosky,
+ 1998; Sorrell
+et
+ al.,
+ 2003).
+ More
+ recently,
+ innovation
+ studies
+ have
+ also
+ started
+ to
+highlight
+ interactions
+ (Flanagan
+ et
+ al.,
+ 2011; Guerzoni
+ and
+ Raiteri,
+2015; Nauwelaers
+ et
+ al.,
+ 2009).
+ For
+ example,
+ Flanagan
+ et
+ al.,
+ 2011
+differentiate
+ between
+ four
+ types
+ of
+ interactions,
+ including
+ interac-
+tions
+ between
+ the
+ same
+ instruments
+ across
+ different
+ dimensions
+(see
+ Section
+ 3.4),
+ and
+ similarly
+ between
+ different
+ instruments
+either
+ targeting
+ the
+ same
+ or
+ different
+ actors/groups
+ involved
+ in
+ the
+same
+ process,
+ or
+ targeting
+ different
+ processes
+ in
+ a
+ broader
+ system.
+These
+ studies
+ acknowledge
+ the
+ need
+ to
+ avoid
+ negative
+ interactions
+and
+ to
+ strive
+ for
+ positive
+ or
+ complementary
+ interaction
+ outcomes.
+3.2.
+ Building
+ block
+ 2:
+ policy
+ processes
+Rather
+ than
+ looking
+ only
+ at
+ the
+ content
+ of
+ the
+ policy
+ strategy
+and
+ instrument
+ mix
+ with
+ its
+ interacting
+ instruments,
+ we
+ now
+ turn
+our
+ attention
+ to
+ the
+ policy
+ making
+ process,
+ or
+ policy
+ process
+ for
+short
+ (Dunn,
+ 2004;
+ Dye,
+ 2008).
+ It
+ is
+ these
+ processes
+ that
+ determine
+the
+ elements
+ of
+ the
+ policy
+ mix
+ and
+ thus
+ how
+ both
+ the
+ strategy
+ and
+corresponding
+ instruments
+ change
+ over
+ time.
+ In
+ addition,
+ policy
+processes
+ may
+ also
+ impact
+ technological
+ change
+ by
+ shaping
+ policy
+mix characteristics.
+ Given
+ their
+ importance
+ these
+ processes
+ con-
+stitute
+ another
+ building
+ block
+ of
+ the
+ proposed
+ policy
+ mix
+ concept
+(Howlett
+ and
+ Rayner,
+ 2007;
+ Kay,
+ 2006;
+ Majone,
+ 1976).
+Since
+ there
+ is
+ no
+ uniform
+ deﬁnition
+ of
+ the
+ policy
+ making
+ pro-
+cess,
+ we build
+ on
+ Howlett
+ et
+ al.
+ (2009)
+ and
+ Sabatier
+ and
+ Weible
+(2014)
+ and
+ refer
+ to
+ it
+ as
+ political
+ problem-solving
+ process
+ among
+constrained
+ social
+ actors
+ in
+ the
+ search
+ for
+ solutions
+ to
+ societal
+problems
+ –
+ with
+ the
+ government
+ as
+ primary
+ agent
+ taking
+ con-
+scious,
+ deliberate,
+ authoritative
+ and
+ often
+ interrelated
+ decisions.
+As
+ such,
+ these
+ interactive
+ and
+ continuous
+ reconciliation
+ processes
+with
+ various
+ feedback
+ loops
+ involve
+ power,
+ agency
+ and
+ politics.
+Clearly,
+ this
+ is
+ of
+ high
+ relevance
+ in
+ the
+ context
+ of
+ sustainability
+transitions
+ with
+ their
+ complex
+ and
+ messy
+ policy
+ processes
+ with
+ a
+plethora
+ of
+ involved
+ actors
+ and
+ their
+ conﬂicting
+ interests
+ and
+ ideas
+(Meadowcroft,
+ 2009;
+ Stirling,
+ 2014).
+ Finally,
+ policy
+ processes
+ are
+shaped
+ by
+ socio-economic
+ conditions,
+ infrastructure
+ and
+ biophys-
+ical
+ conditions,
+ but
+ also
+ by
+ culture
+ and
+ institutions
+ (Sabatier
+ and
+Weible,
+ 2014),
+ and
+ can
+ thus
+ differ
+ signiﬁcantly
+ across
+ space
+ and
+time.
+Policy
+ processes
+ cover
+ all
+ stages
+ of
+ the
+ policy
+ cycle,
+ including
+problem
+ identiﬁcation,
+ agenda
+ setting,
+ policy
+ formulation,
+ legit-
+imization
+ and
+ adoption,
+ implementation,
+ evaluation
+ or
+ assessment,
+policy
+ adaptation,
+ succession
+ and
+ termination
+ (Dunn,
+ 2004;
+ Dye,
+2008; Schubert
+ and
+ Bandelow,
+ 2009).
+ As
+ such,
+ the
+ policy
+ making
+process
+ can
+ be
+ seen
+ “as
+ a
+ cycle
+ of
+ problem-solving
+ attempts,
+ which
+result
+ in
+ ‘policy
+ learning’
+ through
+ the
+ repeated
+ analysis
+ of
+ problems
+and
+ experimentation
+ with
+ solutions”
+ (Howlett
+ et
+ al.,
+ 2009,
+ p.
+ 3).
+This
+ ongoing
+ and
+ reactive
+ nature
+ of
+ policy
+ processes
+ both
+ shapes
+the
+ setting
+ and
+ adjustment
+ of
+ the
+ policy
+ strategy
+ as
+ well
+ as
+ the
+(re)design
+ of
+ instruments
+ in
+ the
+ mix.
+Because
+ of
+ the
+ fundamental
+ importance
+ of
+ policy
+ implemen-
+tation
+ in
+ determining
+ the
+ effectiveness
+ and
+ efﬁciency
+ of
+ a
+ policy
+instrument,
+ we
+ follow
+ others
+ in
+ differentiating
+ policy
+ processes
+into
+ policy
+ making
+ and
+ policy
+ implementation
+ (Richardson,
+ 1982).
+Regarding
+ policy
+ making, we stress
+ two
+ aspects:
+ First,
+ due
+ to
+the
+ dynamic,
+ multifaceted
+ and
+ uncertain
+ nature
+ of
+ technological
+change
+ and
+ sustainability
+ transitions,
+ policy
+ adaptation
+ and
+ thus
+policy
+ learning
+ is
+ a
+ crucial
+ feature
+ of
+ policy
+ making
+ processes
+ (Allen
+et
+ al.,
+ 2011;
+ Bennett
+ and
+ Howlett,
+ 1992; Boekholt,
+ 2010;
+ Kemp
+et
+ al.,
+ 2007;
+ Loorbach,
+ 2007).
+ To
+ facilitate
+ such
+ interactive
+ pro-
+cesses,
+ the
+ monitoring
+ and
+ evaluation
+ of
+ the
+ impacts
+ of
+ policy
+ mixes
+are
+ of
+ fundamental
+ importance
+ (Kemp,
+ 2011).
+ Also,
+ participatory
+processes
+ of
+ envisioning,
+ negotiating,
+ learning
+ and
+ experimenting
+can
+ strengthen
+ policy
+ learning
+ (Frantzeskaki
+ et
+ al.,
+ 2012).
+ Sec-
+ond,
+ policy
+ making
+ is
+ a
+ highly
+ political
+ process
+ characterized
+ by
+resistance
+ to
+ change,
+ particularly
+ from
+ actors
+ with
+ vested
+ inter-
+ests
+ (Unruh,
+ 2002).
+ In
+ that
+ sense,
+ the
+ adoption
+ of
+ a
+ policy
+ strategy
+with
+ clear
+ objectives
+ but
+ without
+ the
+ simultaneous
+ adoption
+ of
+a
+ set
+ of
+ instruments
+ can
+ be
+ understood
+ as
+ an
+ attempt
+ of
+ setting
+the
+ agenda
+ for
+ upcoming
+ changes
+ in
+ the
+ instrument
+ mix.
+ However,
+given
+ the
+ political
+ nature
+ of
+ policy
+ making
+ processes
+ it
+ may
+ remain
+difﬁcult
+ to
+ radically
+ adjust
+ the
+ instrument
+ mix
+ even
+ if
+ new
+ policy
+objectives
+ are
+ in
+ place.
+ This
+ may
+ be
+ one
+ reason
+ why
+ new
+ instru-
+ments
+ supporting
+ niches
+ may
+ be
+ added
+ to
+ those
+ supporting
+ existing
+regimes
+ instead
+ of
+ replacing
+ them
+ (Kern
+ and
+ Howlett,
+ 2009).17
+By
+ policy
+ implementation
+ we
+ mean
+ “the
+ arrangements
+ by
+ author-
+ities
+ and
+ other
+ actors
+ for
+ putting
+ policy
+ instruments
+ into
+ action”
+(Nilsson
+ et
+ al.,
+ 2012;
+ Fig.
+ 1),
+ that
+ is,
+ for
+ executing
+ and
+ enforcing
+ them
+(Sabatier
+ and
+ Mazmanian,
+ 1981),
+ implying
+ that
+ policy
+ implemen-
+tation
+ is
+ particularly
+ relevant
+ to
+ the
+ instrument
+ mix.
+ Complex
+ and
+insufﬁcient
+ implementation
+ structures
+ but
+ also
+ political
+ resistance
+at
+ sub-ordinate
+ governance
+ levels
+ may
+ lead
+ to
+ implementation
+difﬁculties
+ such
+ that
+ ultimately
+ a
+ policy
+ instrument
+ may
+ not
+ tap
+17 Arguably,
+ policy
+ making
+ may
+ often
+ be
+ more
+ affected
+ by
+ such
+ politics
+ than
+ policy
+implementation.
+
+<!-- 第7页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+7
+Table 3
+Broad
+ overview
+ of
+ key
+ policy
+ processes
+ describing
+ the
+ evolution
+ of
+ the
+ German
+ policy
+ mix
+ for
+ renewable
+ energies
+ (until
+ 2004).
+Time
+ 
+Involved
+ actors
+Policy
+ processes
+Aftermath
+ of
+ oil
+ crises
+ and
+ Chernobyl
+ 
+Renewables
+ advocacy
+ groups,
+ parliament
+ 
+Promotion
+ of
+ initial
+ support
+ programs
+ for
+ wind
+ and
+ solar
+power,
+ e.g.
+ 1000
+ roofs
+ program
+Late
+ 1980s
+ to
+ 1990
+ 
+Renewables
+ advocacy
+ associations
+ 
+Proposal
+ of
+ Feed-in
+ Law
+ (StrEG),
+ predecessor
+ of
+ Renewable
+Energy
+ Act
+ (EEG)
+1990
+ 
+Ministry
+ of
+ Economic
+ Affairs,
+ big
+ utilities
+ 
+Opposition
+ to
+ StrEG
+German
+ Bundestag
+ 
+Adoption
+ of
+ StrEG
+ in
+ all-party
+ consensus
+Mid
+ 1990s
+German
+ Länder,
+ municipal
+ utilities
+Support
+ for
+ renewables
+ through
+ speciﬁc
+ local
+ programs
+2000
+ 
+German
+ Bundestag
+ 
+Accelerating
+ the
+ fast
+ adoption
+ of
+ the
+ ﬁrst
+ EEG
+2000
+ to
+ 2004
+ 
+Government
+ opposition,
+ utilities,
+ associations,
+ interest
+groups
+Different
+ degrees
+ of
+ disagreement
+ on
+ drafting
+ ﬁrst
+ EEG
+amendment
+Source:
+ Own
+ compilation
+ (based
+ on
+ Jacobsson
+ and
+ Lauber,
+ 2006; Wüstenhagen
+ and
+ Bilharz,
+ 2006).
+its
+ full
+ potential.
+ Such
+ difﬁculties
+ may
+ partly
+ be
+ overcome
+ by
+ an
+appropriate
+ crafting
+ of
+ policy
+ instruments
+ (May,
+ 2003;
+ Mazmanian
+and
+ Sabatier,
+ 1981),
+ including
+ the
+ provision
+ of
+ sufﬁcient
+ funding
+and
+ staff
+ for
+ implementation,
+ thereby
+ illustrating
+ the
+ close
+ link
+between
+ policy
+ making
+ and
+ implementation.
+Table
+ 3
+ illustrates
+ the
+ evolution
+ of
+ the
+ German
+ policy
+ mix
+ for
+renewable
+ power
+ generation
+ technologies
+ by
+ linking
+ actors
+ and
+policy-making
+ processes,
+ ranging
+ from
+ the
+ promotion
+ of
+ initial
+support
+ programs
+ by
+ advocacy
+ groups
+ and
+ the
+ parliament
+ to
+ the
+adoption
+ and
+ ﬁrst
+ amendments
+ of
+ the
+ German
+ Renewable
+ Energy
+Act
+ (EEG).
+Finally,
+ we
+ highlight
+ the
+ role
+ of
+ the
+ style
+ of
+ policy
+ processes.
+More
+ precisely,
+ we
+ refer
+ to
+ the
+ policy
+ making
+ and
+ implementation
+style,
+ i.e.
+ the
+ “standard
+ operating
+ procedures
+ for
+ making
+ and
+ imple-
+menting
+ policies”
+ (Richardson
+ 1982,
+ p.2).
+ The
+ policy
+ style
+ captures,
+for
+ example,
+ the
+ typical
+ kind
+ of
+ goal
+ setting
+ or
+ ﬂexibility
+ in
+ instru-
+ment
+ application
+ (Blazejczak
+ et
+ al.,
+ 1999;
+ Jänicke
+ et
+ al.,
+ 2000).
+ It
+ may
+directly
+ and
+ indirectly
+ inﬂuence
+ the
+ policy
+ mix,
+ e.g.
+ regarding
+ its
+credibility
+ or
+ the
+ design
+ and
+ implementation
+ of
+ policy
+ instruments
+and
+ thus
+ may
+ play
+ an
+ important
+ role
+ in
+ how
+ the
+ overall
+ policy
+ mix
+affects
+ innovation.
+3.3.
+ Building
+ block
+ 3:
+ characteristics
+3.3.1.
+ Consistency
+ of
+ elements
+We
+ suggest
+ that
+ consistency
+ captures
+ how
+ well
+ the
+ elements
+ of
+the
+ policy
+ mix
+ are
+ aligned
+ with
+ each
+ over,
+ thereby
+ contributing
+ to
+the
+ achievement
+ of
+ policy
+ objectives.
+ It
+ may
+ range
+ from
+ the
+ absence
+of
+ contradictions
+ to
+ the
+ existence
+ of
+ synergies
+ within
+ and
+ between
+the
+ elements
+ of
+ the
+ policy
+ mix.
+We
+ highlight
+ two
+ key
+ features
+ of
+ this
+ consistency
+ deﬁnition.
+First,
+ it
+ focuses
+ on
+ the
+ state
+ of
+ the
+ elements
+ of
+ the
+ policy
+ mix
+ at
+any
+ given
+ point
+ in
+ time,
+ i.e.
+ its
+ content.
+ In
+ this
+ regard,
+ the
+ devel-
+opment
+ of
+ the
+ alignment
+ of
+ the
+ elements
+ of
+ the
+ policy
+ mix
+ over
+time
+ is
+ captured
+ by
+ the
+ term
+ temporal
+ consistency.
+ Second,
+ it
+ may
+be
+ most
+ useful
+ to
+ understand
+ consistency
+ in
+ relative
+ terms,
+ i.e.
+ dif-
+ferentiating
+ between
+ the
+ degree
+ of
+ consistency
+ and
+ its
+ variation
+across
+ dimensions,
+ such
+ as
+ time,
+ geography
+ or
+ governance
+ level.
+ A
+consistent
+ policy
+ mix
+ at
+ a
+ minimum
+ needs
+ to
+ be
+ free
+ of
+ contradic-
+tions
+ or
+ conﬂicts
+ (Forster
+ and
+ Stokke,
+ 1999),
+ as
+ this
+ may
+ impair
+ the
+achievement
+ of
+ objectives
+ (Ashoff,
+ 2005;
+ Hoebink,
+ 2004;
+ McLean
+Hilker,
+ 2004).
+ If
+ on
+ top
+ of
+ such
+ weak
+ consistency
+ complementari-
+ties,
+ mutual
+ support
+ and
+ synergies
+ exist
+ we
+ refer
+ to
+ this
+ as
+ strong
+consistency.
+We
+ distinguish
+ between
+ consistency
+ of
+ the
+ policy
+ strategy,
+ con-
+sistency
+ of
+ the
+ instrument
+ mix,
+ and
+ consistency
+ of
+ the
+ instrument
+mix
+ with
+ the
+ policy
+ strategy.
+ First,
+ consistency
+ of
+ the
+ policy
+ strat-
+egy
+ incorporates
+ the
+ alignment
+ of
+ policy
+ objectives
+ (Mickwitz
+ et
+ al.,
+2009a;
+ OECD,
+ 2003a),
+ which
+ suggests
+ that
+ these
+ can
+ be
+ achieved
+simultaneously
+ without
+ any
+ signiﬁcant
+ trade-offs.
+ This
+ is
+ important
+since
+ conﬂicting
+ objectives
+ are
+ a
+ major
+ source
+ of
+ tension
+ between
+the
+ instruments
+ in
+ a
+ policy
+ mix
+ (Flanagan
+ et
+ al.,
+ 2011).
+ Examples
+are
+ whether
+ climate
+ targets
+ are
+ consistent
+ with
+ energy
+ security
+ or
+competitiveness
+ targets,
+ or
+ whether
+ interim
+ targets
+ are
+ consistent
+with
+ long-term
+ targets.
+ In
+ addition,
+ it
+ captures
+ whether
+ principal
+plans,
+ i.e.
+ framework
+ conventions,
+ guidelines,
+ strategic
+ action
+ plans
+and
+ roadmaps,
+ are
+ free
+ of
+ contradictions
+ or
+ mutually
+ supportive.
+This
+ ﬁrst
+ level
+ of
+ consistency
+ also
+ captures
+ whether
+ these
+ plans
+are
+ consistent
+ with
+ policy
+ objectives.
+ An
+ example
+ of
+ this
+ is
+ the
+ Ger-
+man Energy
+ Concept’s
+ (2010)
+ conﬁrmation
+ of
+ the
+ German
+ 40%
+ GHG
+emissions
+ reduction
+ target
+ by
+ 2020
+ as
+ originally
+ speciﬁed
+ in
+ 2002.
+The
+ second
+ level
+ of
+ consistency
+ concerns
+ the
+ instrument
+ mix
+ and
+can
+ be
+ assessed
+ through
+ interaction
+ analysis.
+ The
+ instruments
+ in
+an
+ instrument
+ mix
+ are
+ consistent
+ when
+ they
+ reinforce
+ rather
+ than
+undermine
+ each
+ other
+ in
+ the
+ pursuit
+ of
+ policy
+ objectives
+ (Howlett
+and
+ Rayner,
+ 2013).
+ “They
+ are
+ inconsistent
+ when
+ they
+ work
+ against
+each
+ other
+ and
+ are
+ counterproductive”
+ (Kern
+ and
+ Howlett,
+ 2009,
+p.
+ 396).
+ Therefore,
+ strong
+ instrument
+ mix
+ consistency
+ is
+ associ-
+ated
+ with
+ positive
+ interactions,
+ weak
+ instrument
+ mix
+ consistency
+ is
+characterized
+ by
+ neutral
+ interactions,
+ while
+ instrument
+ mix
+ incon-
+sistency
+ is
+ captured
+ by
+ negative
+ interactions
+ (del
+ Río
+ González,
+2009a,
+ 2010; IEA,
+ 2011b; Sorrell
+ et
+ al.,
+ 2003).
+Finally,
+ third
+ level
+ policy
+ mix
+ consistency
+ addresses
+ the
+ inter-
+play
+ of
+ the
+ instrument
+ mix
+ and
+ the
+ policy
+ strategy.
+ This
+ overall
+ policy
+mix
+ consistency
+ is
+ characterized
+ by
+ the
+ ability
+ of
+ the
+ policy
+ strat-
+egy
+ and
+ the
+ instrument
+ mix
+ to
+ work
+ together
+ in
+ a
+ unidirectional
+ or
+mutually
+ supportive
+ fashion
+ (Howlett
+ and
+ Rayner,
+ 2013),
+ thereby
+contributing
+ to
+ the
+ achievement
+ of
+ policy
+ objectives.
+ Thus,
+ a
+ higher
+degree
+ of
+ ﬁrst-
+ and
+ second-level
+ consistency
+ positively
+ inﬂuences
+the
+ degree
+ of
+ third-level
+ consistency.
+ This
+ implies
+ that
+ a
+ consis-
+tent
+ policy
+ strategy
+ is
+ implemented
+ by
+ a
+ consistent
+ instrument
+mix
+ encompassing
+ instruments
+ with
+ design
+ features
+ capable
+ of
+reaching
+ the
+ objectives.
+ For
+ example,
+ the
+ instrument
+ mix
+ oper-
+ationalizing
+ the
+ German
+ Energiewende
+ is
+ currently
+ perceived
+ as
+inconsistent
+ with
+ its
+ ambitious
+ targets
+ (ARD,
+ 2013;
+ WDR,
+ 2013).
+Ultimately,
+ consistency
+ at
+ these
+ three
+ levels
+ may
+ be
+ one
+ determi-
+nant
+ of
+ the
+ performance
+ of
+ a
+ policy
+ mix,
+ particularly
+ regarding
+ its
+effectiveness
+ and
+ efﬁciency.
+3.3.2.
+ Coherence
+ of
+ processes
+To
+ characterize
+ policy
+ processes
+ we
+ use
+ the
+ term
+ coherence,
+thereby
+ following
+ studies
+ that
+ focus
+ on
+ the
+ process
+ dimension
+ (Den
+Hertog
+ and
+ Stroß,
+ 2011,
+ 2002; OECD,
+ 2001,
+ 2003a,b).
+ Building
+ on
+Jones
+ (2002)
+ we suggest
+ deﬁning
+ policy
+ coherence
+ as
+ referring
+to
+ synergistic
+ and
+ systematic
+ policy
+ making
+ and
+ implementation
+processes
+ contributing
+ –
+ either
+ directly
+ or
+ indirectly
+ –
+ towards
+the
+ achievement
+ of
+ policy
+ objectives.
+ Such
+ more
+ synergistic
+ and
+systematic
+ policy
+ processes
+ may
+ be
+ achieved
+ through
+ a
+ num-
+ber
+ of
+ structural
+ and
+ procedural
+ mechanisms,
+ such
+ as
+ strategic
+planning,
+ coordinating
+ structures
+ and
+ communication
+ networks
+(Ashoff,
+ 2005;
+ den
+ Hertog
+ et
+ al.,
+ 2004; OECD,
+ 1996,
+ 2001).
+
+<!-- 第8页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+8
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+We highlight
+ three
+ key
+ features
+ of
+ this
+ deﬁnition.
+ First,
+ it
+addresses
+ the
+ coherence
+ of
+ policy
+ processes
+ across
+ different
+ policy
+ﬁelds
+ and
+ governance
+ levels.
+ These
+ processes
+ shape
+ all
+ elements
+ of
+the
+ policy
+ mix,
+ thereby
+ underlining
+ that
+ neither
+ the
+ policy
+ strat-
+egy
+ nor
+ instruments
+ are
+ seen
+ as
+ given.
+ Second,
+ it
+ points
+ to
+ the
+need
+ of
+ systematic
+ capabilities
+ of
+ policy
+ makers
+ (Jacobsson
+ and
+Bergek,
+ 2011).
+ That
+ is,
+ coherence
+ of
+ policy
+ making
+ and
+ implemen-
+tation
+ requires
+ advanced
+ organizational
+ capacities,
+ including,
+ for
+example,
+ the
+ ability
+ to
+ assemble
+ related
+ knowledge
+ from
+ diverse
+sources,
+ to
+ build
+ networks
+ with
+ all
+ relevant
+ actors,
+ or
+ to
+ engage
+with
+ multiple
+ stakeholders
+ (Quitzow,
+ 2011,
+ 2015a).
+ Third,
+ we dif-
+ferentiate
+ between
+ a
+ direct
+ and
+ indirect
+ effect
+ of
+ coherence.
+ Its
+ direct
+effect
+ refers
+ to
+ how
+ coherence
+ inﬂuences
+ the
+ behavior
+ of
+ actors
+and
+ thus
+ the
+ performance
+ of
+ a
+ policy
+ mix,
+ as
+ measured
+ by
+ stan-
+dard
+ assessment
+ criteria.
+ For
+ example,
+ we
+ propose
+ a
+ positive
+ direct
+link
+ between
+ coherence
+ and
+ the
+ effectiveness
+ of
+ a
+ policy
+ mix.
+ In
+contrast,
+ the
+ indirect
+ effect
+ addresses
+ how
+ coherence
+ contributes
+to
+ shaping
+ the
+ policy
+ mix
+ elements
+ and
+ their
+ consistency,
+ thereby
+indirectly
+ affecting
+ the
+ performance
+ of
+ a
+ policy
+ mix.
+ For
+ this
+ we
+ pre-
+sume
+ a
+ positive
+ link,
+ meaning
+ that
+ greater
+ coherence
+ is
+ expected
+to
+ be
+ associated
+ with
+ greater
+ consistency.
+Two
+ major
+ tools
+ for
+ improving
+ policy
+ coherence
+ are
+ policy
+ inte-
+gration
+ (OECD,
+ 2003a; Underdal,
+ 1980) and
+ coordination
+ (Bouckaert
+et
+ al.,
+ 2010;
+ Magro
+ et
+ al.,
+ 2015; OECD,
+ 1996).18 The
+ former
+ can
+improve
+ policy
+ coherence
+ by
+ enabling
+ a
+ more
+ holistic
+ thinking
+across
+ different
+ policy
+ sectors,
+ at
+ the
+ same
+ time
+ involving
+ more
+holistic
+ processes.
+ In
+ contrast,
+ the
+ latter
+ can
+ strengthen
+ coherence
+by
+ aligning
+ the
+ tasks
+ and
+ efforts
+ of
+ public
+ sector
+ organizations
+(Bouckaert
+ et
+ al.,
+ 2010),
+ e.g.
+ in
+ enhancing
+ information
+ ﬂows
+ through
+formal
+ mechanisms
+ (OECD,
+ 1996).
+ For
+ example,
+ the
+ establishment
+of
+ an
+ integrated
+ energy
+ and
+ climate
+ policy
+ department,
+ as
+ accom-
+plished
+ in
+ the
+ UK
+ and
+ Denmark,
+ seems
+ to
+ be
+ a
+ promising
+ approach
+of
+ structural
+ coordination
+ for
+ overcoming
+ the
+ recurring
+ conﬂict
+of
+ jurisdictions
+ between
+ the
+ German
+ Federal
+ Departments
+ for
+ the
+Environment
+ (BMU)
+ and
+ Economics
+ (BMWi),
+ which
+ may
+ have
+ ham-
+pered
+ the
+ realization
+ of
+ the
+ German
+ Energiewende
+ (Rave
+ et
+ al.,
+2013).
+In conclusion,
+ we
+ want
+ to
+ stress
+ that
+ it
+ may
+ be
+ impossible
+ to
+actually
+ achieve
+ complete
+ coherence
+ and
+ consistency
+ (Carbone,
+2008;
+ Hoebink,
+ 2004;
+ McLean
+ Hilker,
+ 2004).
+ Reasons
+ for
+ this
+ may
+include
+ the
+ complexity
+ of
+ the
+ systems
+ and
+ associated
+ sustainability
+challenges
+ we
+ are
+ faced
+ with,
+ including
+ path
+ dependence
+ and
+ lock-
+in,
+ resistance
+ of
+ regime
+ actors,
+ conﬂicting
+ interests
+ and
+ tensions,
+and
+ fragmentation
+ of
+ policy
+ making
+ (Meadowcroft,
+ 2007;
+ Unruh,
+2002).
+ Therefore,
+ “the
+ aim
+ is
+ to
+ make
+ progress
+ towards
+ maximum
+coherence
+ within
+ the
+ limited
+ resources
+ available”
+ (McLean
+ Hilker,
+2004),
+ thereby
+ also
+ striving
+ to
+ maximize
+ policy
+ mix
+ consistency.
+Yet,
+ ultimately
+ neither
+ coherence
+ nor
+ consistency
+ should
+ be
+ seen
+ as
+goal
+ in
+ itself
+ but
+ rather
+ as
+ means
+ for
+ improving
+ the
+ performance
+ of
+ a
+policy
+ mix
+ regarding
+ the
+ standard
+ assessment
+ criteria,
+ particularly
+effectiveness
+ and
+ efﬁciency.
+3.3.3.
+ Credibility
+In
+ addition
+ to
+ consistency
+ and
+ coherence,
+ credibility
+ may
+ also
+ be
+relevant
+ for
+ describing
+ the
+ nature
+ of
+ policy
+ mixes
+ for
+ sustainability
+transitions.
+ Such
+ policy
+ credibility
+ is
+ rooted
+ in
+ macroeconomics
+ and
+monetary
+ policy
+ and
+ refers
+ to
+ the
+ challenges
+ that
+ short
+ time
+ hori-
+zons
+ (electoral
+ cycles)
+ pose
+ for
+ policy
+ makers’
+ credibility
+ (Kydland
+and
+ Prescott,
+ 1977).
+ However,
+ while
+ the
+ term
+ appears
+ frequently
+ in
+current
+ debates
+ on
+ climate
+ policy,
+ its
+ underlying
+ meaning
+ remains
+18 While
+ some
+ studies
+ view
+ coherence
+ as
+ equivalent
+ to
+ integration
+ and
+ coordina-
+tion
+ (Duraiappah
+ and
+ Bhardwaj,
+ 2007; Geerlings
+ and
+ Stead,
+ 2003),
+ we follow
+ others
+in
+ seeing
+ them
+ as
+ distinct
+ formalized
+ tools
+ for
+ improving
+ policy
+ coherence
+ (Carbone
+2008;
+ Di
+ Francesco
+ 2001;
+ McLean
+ Hilker
+ 2004; OECD,
+ 2003a).
+rather
+ vague.
+ Therefore,
+ we
+ deﬁne
+ credibility
+ as
+ the
+ extent
+ to
+ which
+the
+ policy
+ mix
+ is
+ believable
+ and
+ reliable
+ (Newell
+ and
+ Goldsmith,
+2001),
+ both
+ overall
+ and
+ regarding
+ its
+ elements
+ and
+ processes.
+Credibility
+ may
+ be
+ inﬂuenced
+ by
+ a
+ range
+ of
+ factors,
+ such
+ as
+ the
+commitment
+ from
+ political
+ leadership,
+ the
+ operationalization
+ of
+targets
+ by
+ a
+ consistent
+ instrument
+ mix
+ or
+ the
+ delegation
+ of
+ com-
+petencies
+ to
+ independent
+ agencies.
+ For
+ example,
+ for
+ the
+ case
+ of
+solar
+ PV
+ in
+ Germany
+ a
+ content
+ analysis
+ of
+ the
+ industry
+ journal
+ Pho-
+ton
+ (1996–2012)
+ suggests
+ that
+ the
+ most
+ relevant
+ determinants
+ of
+the
+ perceived
+ degree
+ of
+ credibility
+ were
+ the
+ stability
+ and
+ temporal
+consistency
+ of
+ the
+ policy
+ mix,
+ and
+ the
+ commitment
+ from
+ political
+leadership,
+ followed
+ by
+ the
+ consistency
+ of
+ the
+ instrument
+ mix
+ and
+the
+ support
+ level
+ of
+ policy
+ instruments
+ (Bödeker
+ and
+ Rogge,
+ 2014).
+We
+ argue
+ that
+ the
+ credibility
+ of
+ the
+ policy
+ mix
+ may
+ play
+ an
+important
+ role
+ in
+ the
+ achievement
+ of
+ policy
+ objectives
+ and
+ thus
+in
+ determining
+ the
+ effectiveness
+ of
+ the
+ mix
+ (Gilardi,
+ 2002;
+ Majone,
+1997).
+3.3.4.
+ Comprehensiveness
+The
+ comprehensiveness
+ of
+ the
+ policy
+ mix
+ captures
+ how
+ exten-
+sive
+ and
+ exhaustive
+ its
+ elements
+ are
+ and
+ the
+ degree
+ to
+ which
+ its
+processes
+ are
+ based
+ on
+ extensive
+ decision-making
+ (Atuahene-Gima
+and
+ Murray,
+ 2004; Miller,
+ 2008).
+That
+ is,
+ comprehensiveness
+ of
+ the
+ elements
+ of
+ the
+ policy
+ mix
+implies
+ that
+ the
+ policy
+ mix
+ is
+ constituted
+ of
+ both
+ a
+ policy
+ strategy
+with
+ its
+ objectives
+ and
+ principal
+ plans
+ and
+ at
+ least
+ one
+ instrument
+ in
+the
+ instrument
+ mix
+ operationalizing
+ the
+ policy
+ strategy.
+ The
+ com-
+prehensiveness
+ of
+ this
+ instrument
+ mix
+ is
+ determined
+ by
+ the
+ degree
+to
+ which
+ the
+ instrument
+ mix
+ addresses
+ all
+ market,
+ system
+ and
+institutional
+ failures,
+ including
+ barriers
+ and
+ bottlenecks
+ (Lehmann,
+2012;
+ Sorrell,
+ 2004;
+ Sovacool,
+ 2009; Weber
+ and
+ Rohracher,
+ 2012).
+As
+ such,
+ a
+ comprehensive
+ instrument
+ mix
+ may
+ address
+ all
+ three
+instrument
+ purposes
+ of
+ technology-push,
+ demand-pull
+ and
+ sys-
+temic
+ concerns.
+By
+ contrast,
+ the
+ comprehensiveness
+ of
+ policy
+ processes
+ can
+ be
+inﬂuenced
+ by
+ their
+ structure,
+ rigor
+ and
+ thoroughness
+ (Atuahene-
+Gima
+ and
+ Murray,
+ 2004).
+ As
+ with
+ the
+ other
+ characteristics,
+ the
+comprehensiveness
+ of
+ a
+ policy
+ mix
+ may
+ impact
+ its
+ performance
+regarding
+ standard
+ assessment
+ criteria.
+3.4.
+ Dimensions
+All
+ three
+ building
+ blocks
+ of
+ the
+ policy
+ mix
+ concept
+ can
+ be
+ spec-
+iﬁed
+ along
+ a
+ number
+ of
+ dimensions,
+ including
+ the
+ policy
+ ﬁeld,
+governance
+ level,
+ geography,
+ and
+ time.
+ These
+ dimensions
+ capture
+the
+ space
+ in
+ which
+ interactions
+ can
+ occur
+ (Flanagan
+ et
+ al.,
+ 2011)
+by
+ pointing
+ to
+ the
+ origin
+ of
+ the
+ different
+ components
+ of
+ the
+ policy
+mix.
+The
+ ﬁrst
+ dimension
+ policy
+ ﬁeld
+ refers
+ to
+ the
+ policy
+ domain,
+ such
+as
+ energy,
+ environmental,
+ climate,
+ innovation,
+ technology,
+ science,
+industrial
+ and
+ transition
+ policy
+ (van
+ den
+ Bergh
+ et
+ al.,
+ 2007).
+ For
+instance,
+ a
+ policy
+ strategy
+ aiming
+ at
+ the
+ promotion
+ of
+ renewable
+power
+ generation
+ technologies
+ does
+ not
+ have
+ to
+ originate
+ from
+the
+ ﬁeld
+ of
+ climate
+ or
+ energy
+ policy
+ but
+ instead
+ could
+ be
+ based
+on
+ industrial
+ policy,
+ e.g.
+ depending
+ on
+ the
+ national
+ circumstances.
+Analyzing
+ policy
+ mixes
+ across
+ policy
+ ﬁelds
+ matters
+ because
+ internal
+and
+ external
+ inconsistencies
+ and
+ incoherencies
+ within
+ and
+ across
+policy
+ ﬁelds
+ could
+ render
+ these
+ mixes
+ ineffective
+ (Huttunen
+ et
+ al.,
+2014).
+For
+ the
+ second
+ dimension
+ governance
+ level
+ we
+ focus
+ on
+ the
+distinction
+ between
+ vertical
+ and
+ horizontal
+ governance,
+ a
+ distinc-
+tion
+ typically
+ made
+ in
+ studies
+ on
+ policy
+ coherence
+ and
+ consistency
+(Carbone,
+ 2008;
+ den
+ Hertog
+ et
+ al.,
+ 2004;
+ Pal,
+ 2006).
+ The
+ vertical
+ level
+differentiates,
+ for
+ example,
+ between
+ the
+ EU
+ and
+ its
+ member
+ states
+as
+ well
+ as
+ between
+ international,
+ federal
+ or
+ local
+ levels.
+ It
+ further
+distinguishes
+ between
+ government
+ departments
+ and
+ implement-
+
+<!-- 第9页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+9
+201 0 
+2012
+01/2009
+2nd amendment
+11/2010
+NER30 0, 1st call
+01/201 2
+3rd amendment
+09/20 10
+EnergyConcept
+2000
+04/20 00
+EEG
+01/20 13
+EnEconLaw amendment
+11/2008
+20/20/20 targets
+2008
+12/201 1
+Energy Roadmap 2050
+11/2007
+SET-Plan
+2004
+07/2004
+TEHG
+06/2009
+RES-Direcve
+POLICY STRATEGY
+INSTRUMENT MIX
+Year
+10/2003
+EU ETS 
+08/2004
+1st amendment
+Phase 2
+Phase 3
+12/2006
+InfrStrAcc Act
+04/2013
+2nd call
+Phase 1
+09/199 9
+KfW RES Programme
+<-StrEG, 1990
+04/2002
+Nuclear phase-out
+02/2005
+Kyoto 
+ Protocol 
+in eﬀect
+08/2011
+Phase-out, 2nd decision
+09/2010
+Lifeme extension
+08/2010
+NREAP
+08/2011
+6th Energy Research Programme
+5th
+<- 1st – 4th
+200 6
+2002
+04/19 99
+ElectrTa xAct
+12/20 07
+HardCoalFinAct
+<- signed in 1997
+08/200 9
+PowerLineDevAct
+LEGE
+ 
+ND:  Germany (in black), EU (i n grey itali cs), Δ = further amend ment
+201 1 
+2013
+9
+0
+0
+2
+1
+0
+0
+2
+20
+ 
+05
+200 7
+2003
+1999
+<- adopted in 199 2
+<- Direcve 79/40 9/EE C, 1979
+01/2007
+Habitats-Direcve amendment
+07/2011
+GridExAccAct
+<-EnEconLaw, 1935
+<- FedNatConsAct, 1976
+03/201 0
+FedNatConsAct
+revision
+<-Atomic Energy Act, 1960
+Extension 
+unl 2020
+11/20 09
+Bird s-Direcve
+Fig.
+ 1.
+ Development
+ of
+ the
+ elements
+ of
+ the
+ policy
+ mix
+ for
+ renewable
+ energies
+ in
+ Germany
+ over
+ time.
+ing
+ agencies.
+ For
+ example,
+ in
+ the
+ ﬁrst
+ and
+ second
+ EU
+ ETS
+ trading
+phase,
+ policy
+ making
+ has
+ occurred
+ both
+ at
+ the
+ level
+ of
+ the
+ EU
+ and
+the
+ member
+ states,
+ while
+ its
+ implementation
+ has
+ predominantly
+taken
+ place
+ at
+ the
+ member
+ state
+ level.
+ In
+ contrast,
+ the
+ horizon-
+tal
+ level
+ allows
+ for
+ differentiating
+ between
+ different
+ political
+ or
+administrative
+ entities
+ at
+ the
+ same
+ vertical
+ governance
+ level,
+ such
+as
+ federal
+ departments
+ of
+ different
+ policy
+ ﬁelds.
+ An
+ example
+ is
+ the
+German
+ Energiewende,
+ in
+ which
+ six
+ federal
+ departments
+ have
+ been
+involved.
+Third,
+ closely
+ related
+ to
+ this
+ abstract
+ space
+ of
+ governance
+ level
+is
+ the
+ geography
+ dimension,
+ constituting
+ the
+ space
+ from
+ which
+ the
+policy
+ mix
+ originates.
+ The
+ inclusion
+ of
+ this
+ dimension
+ is
+ in
+ line
+ with
+the
+ increasing
+ attention
+ to
+ the
+ geographical
+ perspective
+ in
+ tran-
+sition
+ studies
+ (Coenen
+ et
+ al.,
+ 2012;
+ Raven
+ et
+ al.,
+ 2012; Späth
+ and
+Rohracher,
+ 2012).
+ An
+ example
+ of
+ this
+ is
+ a
+ regional
+ policy
+ strategy
+and
+ instruments
+ targeted
+ towards
+ a
+ certain
+ geographical
+ region
+(Navarro
+ et
+ al.,
+ 2014),
+ such
+ as
+ funding
+ initiatives
+ of
+ speciﬁc
+ cities
+or
+ regions
+ aiming
+ at
+ promoting
+ green
+ industrial
+ clusters.
+Finally,
+ time
+ is
+ another
+ crucial
+ dimension
+ in
+ the
+ policy
+ mix
+ con-
+cept,
+ capturing
+ its
+ dynamic
+ nature.
+ That
+ is,
+ a
+ policy
+ mix
+ develops
+over
+ time
+ in
+ terms
+ of
+ its
+ elements,
+ processes
+ and
+ characteristics.
+First,
+ the
+ elements
+ of
+ the
+ policy
+ mix
+ change
+ over
+ time,
+ which
+ we
+illustrate
+ using
+ the
+ example
+ of
+ the
+ evolution
+ of
+ the
+ elements
+ of
+ the
+German
+ policy
+ mix
+ for
+ renewable
+ energies
+ from
+ 2000
+ to
+ 2013.
+ As
+can
+ be
+ seen
+ in
+ Fig.
+ 1, particularly
+ the
+ instrument
+ mix
+ has
+ changed
+over
+ the
+ years,
+ with
+ new
+ instruments
+ having
+ been
+ added,
+ existing
+ones
+ amended
+ but
+ only
+ few
+ ones
+ terminated.
+ Policy
+ instruments
+may not
+ only
+ change
+ in
+ terms
+ of
+ their
+ contents,
+ ideally
+ resulting
+in
+ continuous
+ improvement
+ (Kivimaa,
+ 2007),
+ but
+ also
+ in
+ terms
+ of
+their
+ effects
+ as
+ they
+ are
+ interpreted
+ against
+ changing
+ rationales
+(Flanagan
+ et
+ al.,
+ 2011) and
+ changing
+ contexts.
+ Similarly
+ and
+ result-
+ing
+ from
+ changing
+ instruments,
+ interactions
+ are
+ not
+ stable
+ over
+time
+ either,
+ which
+ may
+ cause
+ the
+ instrument
+ mix
+ to
+ drift
+ out
+ of
+alignment
+ (IEA,
+ 2011b; Sorrell
+ et
+ al.,
+ 2003).
+ Second,
+ policy
+ processes
+may
+ also
+ change
+ over
+ time
+ (Flanagan
+ et
+ al.,
+ 2011).
+ For
+ example,
+adaptive
+ policy
+ making
+ allows
+ for
+ adjusting
+ the
+ policy
+ mix
+ as
+ “the
+world
+ changes
+ and
+ new
+ information
+ becomes
+ available”
+ (Walker
+et
+ al.,
+ 2001; p.
+ 283).,
+ thereby
+ enabling
+ policy
+ learning
+ for
+ transi-
+tions
+ (Loorbach,
+ 2007; Rotmans
+ et
+ al.,
+ 2001).
+ Finally,
+ characteristics
+can
+ change
+ over
+ time.
+ For
+ example,
+ the
+ adherence
+ to
+ long-term
+ tar-
+gets
+ beyond
+ electoral
+ cycles
+ and
+ thus
+ the
+ stability
+ of
+ targets
+ may
+ be
+one
+ factor
+ inﬂuencing
+ policy
+ mix
+ credibility.
+ Also,
+ large
+ unexpected
+changes
+ in
+ policy
+ instruments
+ may
+ lead
+ to
+ temporal
+ inconsistency
+of
+ the
+ instrument
+ mix
+ and
+ thus
+ to
+ a
+ loss
+ of
+ credibility
+ (White
+ et
+ al.,
+2013).
+ Another
+ example
+ concerns
+ increases
+ of
+ coherence
+ due
+ to
+ a
+move
+ away
+ from
+ unscheduled
+ ad-hoc
+ changes
+ to
+ advanced
+ plan-
+ning,
+ prior
+ announcements
+ and
+ stakeholder
+ participation
+ in
+ the
+light
+ of
+ envisaged
+ changes
+ to
+ the
+ policy
+ mix.
+3.5.
+ Synopsis
+Having
+ introduced
+ the
+ three
+ building
+ blocks
+ and
+ the
+ dimen-
+sions,
+ we
+ now
+ integrate
+ them
+ into
+ an
+ extended
+ policy
+ mix
+ concept
+(see
+ Fig.
+ 2).
+First,
+ the
+ elements
+ (E)
+ are
+ at
+ the
+ core
+ of
+ the
+ policy
+ mix
+ concept
+and
+ refer
+ to
+ the
+ content
+ of
+ the
+ policy
+ mix,
+ including
+ (i)
+ the
+ instru-
+ment
+ mix
+ –
+ with
+ interacting
+ policy
+ instruments
+ characterized
+ by
+their
+ goals,
+ type
+ and
+ design
+ features
+ –
+ and
+ (ii)
+ the
+ policy
+ strategy
+ –
+with
+ its
+ objectives
+ (including
+ long-term
+ targets)
+ and
+ principal
+ plans
+(Section
+ 3.1).
+Second,
+ in
+ incorporating
+ the
+ policy
+ processes
+ (P)
+ of
+ policy
+ making
+and
+ implementation
+ the
+ concept
+ includes
+ political
+ problem-
+solving
+ processes
+ among
+ constrained
+ social
+ actors
+ in
+ the
+ search
+ for
+
+<!-- 第10页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+10
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+• polic y field
+• governance level
+• geograp
+ 
+hy
+• time
+dimensions
+characteristics
+consistency
+coherence
+credibility
+comprehensiveness
+of elements
+of processes
+• objecti
+ 
+ves
+• principal plans
+elements
+• polic y making
+• policy
+implementation
+polic y processes
+Polic
+ 
+y st
+ 
+rategy
+• goal
+• type & purpose
+• design
+ 
+ features
+instrument
+instrument mix
+Fig.
+ 2.
+ Building
+ blocks
+ of
+ the
+ extended
+ policy
+ mix
+ concept.
+solutions
+ to
+ societal
+ problems
+ (Section
+ 3.2).
+ These
+ policy
+ processes
+determine
+ the
+ policy
+ mix
+ elements.
+Third,
+ overarching
+ characteristics
+ (C)
+ describe
+ the
+ policy
+ mix.
+While
+ consistency
+ refers
+ to
+ the
+ alignment
+ of
+ the
+ elements
+ of
+ the
+policy
+ mix,
+ the
+ term
+ coherence
+ relates
+ to
+ synergic
+ and
+ system-
+atic
+ policy
+ processes.
+ In
+ addition,
+ credibility
+ captures
+ the
+ extent
+ to
+which
+ the
+ policy
+ mix
+ is
+ believable
+ and
+ reliable,
+ while
+ comprehen-
+siveness
+ describes
+ how
+ extensive
+ and
+ exhaustive
+ it
+ is.
+ These
+ policy
+mix
+ characteristics
+ may
+ be
+ important
+ determinants
+ for
+ the
+ perfor-
+mance
+ of
+ the
+ policy
+ mix
+ regarding
+ standard
+ assessment
+ criteria,
+such
+ as
+ its
+ effectiveness.
+Finally,
+ the
+ dimensions
+ (D)
+ can
+ serve
+ to
+ specify
+ the
+ elements,
+processes
+ and
+ characteristics
+ of
+ a
+ policy
+ mix.
+ For
+ example,
+ a
+ study
+could
+ consider
+ the
+ temporal
+ consistency
+ of
+ the
+ policy
+ mix
+ (D:
+ time)
+or
+ its
+ horizontal
+ coherence
+ (D:
+ governance
+ level).
+4.
+ Application
+ of
+ the
+ policy
+ mix
+ concept
+4.1.
+ Towards
+ an
+ analytical
+ framework
+ for
+ evaluating
+ policy
+ mixes
+The
+ main
+ intention
+ of
+ this
+ paper
+ is
+ to
+ derive
+ a
+ policy
+ mix
+ concept
+that
+ serves
+ as
+ interdisciplinary
+ analytical
+ framework
+ for
+ studying
+the
+ link
+ between
+ policy
+ and
+ technological
+ change
+ in
+ the
+ context
+ of
+sustainability
+ transitions.
+ In
+ the
+ following
+ we
+ therefore
+ outline
+ how
+the
+ three
+ building
+ blocks
+ of
+ the
+ policy
+ mix
+ concept
+ relate
+ to
+ each
+other
+ and,
+ based
+ on
+ this,
+ derive
+ key
+ implications
+ for
+ how
+ the
+ con-
+cept
+ can
+ be
+ used
+ for
+ evaluating
+ policy
+ mix
+ impacts
+ on
+ technological
+change.
+ Fig.
+ 3
+ illustrates
+ these
+ linkages
+ with
+ numbered
+ arrows.
+For
+ redirecting
+ and
+ accelerating
+ technological
+ change
+ towards
+sustainability
+ objectives
+ not
+ only
+ the
+ instrument
+ mix
+ with
+ its
+ inter-
+acting
+ instruments
+ (1)
+ but
+ also
+ the
+ policy
+ strategy
+ (2)
+ is
+ important
+to
+ consider.
+ That
+ is,
+ their
+ impact
+ on
+ technological
+ change
+ is
+ likely
+to
+ be
+ a
+ joint
+ one
+ due
+ to
+ the
+ combined
+ effect
+ of
+ the
+ elements
+ of
+ a
+policy
+ mix
+ (3).
+ While
+ the
+ policy
+ strategy,
+ such
+ as
+ the
+ EU
+ 2020
+ cli-
+mate
+ and
+ energy
+ targets,
+ may
+ provide
+ some
+ long-term
+ orientation
+it
+ is
+ how
+ such
+ targets
+ are
+ translated
+ into
+ concrete
+ instruments
+ –
+at
+ potentially
+ different
+ governance
+ levels
+ –
+ which
+ may
+ ultimately
+help
+ to
+ explain
+ the
+ redirection
+ and
+ acceleration
+ of
+ technological
+change
+ (Reichardt
+ and
+ Rogge,
+ 2016).
+In
+ addition,
+ policy
+ mix
+ analysis
+ should
+ go
+ beyond
+ analyzing
+ how
+these
+ elements
+ of
+ the
+ policy
+ mix
+ come
+ about
+ and
+ why
+ they
+ change
+(4)
+ but
+ should
+ also
+ investigate
+ how
+ the
+ resulting
+ strategies
+ and/or
+instruments
+ impact
+ technological
+ change
+ (4
+ +
+ 3).
+ Such
+ a
+ combined
+analysis
+ of
+ policy
+ processes
+ and
+ elements
+ enables
+ highlighting
+ the
+impact
+ of
+ politics
+ and
+ power
+ not
+ only
+ on
+ targets
+ and
+ instruments
+but
+ also
+ on
+ innovation.
+ By
+ considering
+ the
+ political
+ realities
+ such
+an
+ integrated
+ impact
+ analysis
+ may
+ also
+ enable
+ more
+ realistic
+ policy
+recommendations.
+A
+ closer
+ look
+ at
+ the
+ processes
+ of
+ policy
+ making
+ and
+ implemen-
+tation
+ may
+ even
+ reveal
+ a
+ direct
+ link
+ between
+ such
+ policy
+ processes
+and
+ technological
+ change
+ (5).
+ We indicate
+ the
+ bi-directionality
+ of
+this
+ link
+ between
+ technological
+ change
+ and
+ policy
+ making
+ using
+ a
+double-sided
+ arrow.
+ That
+ is,
+ the
+ innovation
+ impact
+ of
+ policy
+ mixes
+can
+ have
+ repercussions
+ for
+ the
+ evolution
+ of
+ the
+ policy
+ mix
+ as
+ it
+ may
+have
+ to
+ be
+ adjusted
+ due
+ to
+ technological
+ developments
+ (Hoppmann
+et
+ al.,
+ 2014).
+ Such
+ patterns
+ of
+ the
+ co-evolution
+ of
+ the
+ policy
+ mix
+and
+ technological
+ change
+ can
+ only
+ be
+ revealed
+ through
+ dynamic
+analyses,
+ for
+ example
+ regarding
+ the
+ joint
+ development
+ of
+ techno-
+logical
+ innovation
+ systems
+ and
+ policy
+ mixes
+ for
+ emerging
+ green
+technologies
+ (Reichardt
+ et
+ al.,
+ 2016).
+Finally,
+ policy
+ mix
+ characteristics
+ may
+ be
+ crucial
+ for
+ assessing
+the
+ effectiveness
+ of
+ policy
+ mixes
+ in
+ redirecting
+ and
+ accelerating
+technological
+ change.
+ The
+ extent
+ to
+ which
+ the
+ proposed
+ character-
+istics
+ are
+ relevant
+ in
+ this
+ regard
+ needs
+ to
+ be
+ uncovered
+ (6).
+ Such
+ an
+analysis
+ requires
+ a
+ detailed
+ understanding
+ of
+ policy
+ mix
+ elements
+(7)
+ and
+ policy
+ processes
+ (8)
+ as
+ these
+ may
+ determine
+ policy
+ mix
+characteristics.
+ For
+ example,
+ a
+ stable
+ and
+ ambitious
+ policy
+ strat-
+egy
+ backed
+ up
+ by
+ attractive
+ demand-pull
+ instruments
+ may
+ signal
+a
+ strong
+ political
+ will
+ and
+ hence
+ lead
+ to
+ high
+ credibility.
+ Similarly,
+controversial
+ public
+ debates
+ and
+ political
+ discussions
+ may
+ lower
+such
+ credibility.
+ In
+ this
+ context
+ research
+ should
+ also
+ investigate
+the
+ interplay
+ between
+ different
+ characteristics,
+ such
+ as
+ between
+the
+ consistency
+ of
+ the
+ policy
+ mix
+ and
+ its
+ credibility.
+In
+ conclusion,
+ such
+ extended
+ policy
+ mix
+ analysis
+ may
+ signif-
+icantly
+ enhance
+ our
+ understanding
+ of
+ the
+ complex
+ link
+ between
+policy
+ and
+ technological
+ change
+ and
+ their
+ co-evolution
+ (9).
+ For
+this,
+ studies
+ can
+ attempt
+ to
+ capture
+ the
+ complex
+ interplay
+ in
+ a
+comprehensive
+ manner
+ (Bödeker
+ and
+ Rogge,
+ 2014),
+ but
+ can
+ also
+
+<!-- 第11页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+11
+T e c h n o l o g i c a l     c h a n g e
+characteristics
+elements
+policy processes
+policy strategy
+instrument mix
+P o l i c y    m i x 
+1
+2
+5
+8
+7
+6
+9
+3
+4
+Fig.
+ 3.
+ Framework
+ for
+ analyzing
+ the
+ link
+ between
+ the
+ policy
+ mix
+ and
+ technological
+ change.
+reduce
+ the
+ complexity
+ by
+ focusing
+ on
+ just
+ some
+ of
+ the
+ linkages.
+Meta-studies
+ can
+ then
+ utilize
+ the
+ policy
+ mix
+ concept
+ as
+ integrat-
+ing
+ analytical
+ framework
+ to
+ synthesize
+ these
+ partial
+ contributions
+to
+ further
+ advance
+ our
+ understanding
+ of
+ how
+ technological
+ change
+can
+ be
+ redirected
+ and
+ accelerated
+ towards
+ sustainability
+ objectives.
+Thereby,
+ this
+ line
+ of
+ policy
+ mix
+ research
+ –
+ which
+ includes
+ but
+ also
+goes
+ well
+ beyond
+ the
+ analysis
+ of
+ instrument
+ interactions
+ –
+ may
+generate
+ an
+ improved
+ basis
+ for
+ more
+ nuanced
+ policy
+ recommen-
+dations
+ aimed
+ at
+ redirecting
+ and
+ accelerating
+ technological
+ change
+as
+ key
+ requirement
+ of
+ sustainability
+ transitions.
+4.2.
+ Challenges
+ of
+ empirical
+ policy
+ mix
+ analyses
+Applying
+ the
+ extended
+ policy
+ mix
+ concept
+ as
+ analytical
+ frame-
+work
+ for
+ investigating
+ the
+ link
+ between
+ real-world
+ policy
+ mixes
+and
+ technological
+ change
+ poses
+ several
+ practical
+ challenges
+ for
+ pol-
+icy
+ analysts.
+ In
+ the
+ following
+ we
+ discuss
+ two
+ key
+ challenges,
+ namely
+boundary
+ setting
+ (Section
+ 4.2.1)
+ and
+ operationalization
+ (Section
+4.2.2).
+4.2.1.
+ Boundary
+ setting
+One
+ key
+ challenge
+ of
+ any
+ policy
+ mix
+ study
+ concerns
+ the
+ task
+ of
+setting
+ its
+ boundaries,
+ thereby
+ determining
+ the
+ complexity
+ of
+ the
+studied
+ policy
+ mix
+ as
+ well
+ as
+ its
+ observable
+ impact.
+ As
+ usual,
+ such
+boundary
+ setting
+ is
+ dependent
+ on
+ the
+ concrete
+ research
+ question
+and
+ research
+ case,
+ and
+ therefore
+ the
+ boundaries
+ of
+ different
+ policy
+mix studies
+ can
+ vary
+ substantially.
+ In
+ the
+ following
+ we will
+ discuss
+boundary
+ setting
+ in
+ terms
+ of
+ the
+ policy
+ mix
+ to
+ be
+ studied
+ –
+ its
+ scope
+–
+ and
+ in
+ terms
+ of
+ the
+ analysis
+ of
+ the
+ impact
+ of
+ the
+ policy
+ mix
+ –
+ the
+study’s
+ unit
+ of
+ analysis.
+Regarding
+ the
+ scope
+ of
+ the
+ policy
+ mix
+ analysts
+ have
+ to
+ decide
+whether
+ it
+ is
+ sufﬁcient
+ to
+ focus
+ on
+ the
+ policy
+ mix
+ creating
+ the
+ pro-
+tected
+ space
+ for
+ an
+ emerging
+ sustainable
+ technology
+ or
+ whether
+they
+ also
+ need
+ to
+ pay
+ attention
+ to
+ the
+ policy
+ mix
+ of
+ the
+ encom-
+passing
+ regime,
+ including,
+ for
+ example,
+ subsidies
+ for
+ competing
+technologies.19 In
+ line
+ with
+ Kivimaa
+ and
+ Kern
+ (2016)
+ we suggest
+that
+ research
+ on
+ policy
+ mixes
+ for
+ sustainability
+ transitions
+ should
+include
+ the
+ latter,
+ thereby
+ calling
+ for
+ greater
+ attention
+ to
+ poli-
+cies
+ (de)stabilizing
+ unsustainable
+ regimes,
+ such
+ as,
+ for
+ example
+ the
+existence
+ and
+ stringency
+ of
+ political
+ carbon
+ constraints.
+ In
+ addi-
+tion,
+ researchers
+ need
+ to
+ decide
+ whether
+ they
+ only
+ provide
+ a
+ static
+snapshot
+ of
+ a
+ policy
+ mix
+ at
+ a
+ given
+ point
+ in
+ time,
+ or
+ offer
+ a
+ dynamic
+perspective
+ by
+ capturing
+ its
+ development
+ over
+ time
+ (see
+ below).
+Of
+ course,
+ the
+ speciﬁcation
+ of
+ the
+ system
+ boundaries
+ in
+ terms
+ of
+the
+ scope
+ of
+ the
+ policy
+ mix
+ to
+ be
+ studied
+ also
+ determines
+ the
+ alleged
+feasibility
+ of
+ achieving
+ policy
+ mix
+ consistency
+ and
+ coherence.
+ For
+example,
+ a
+ study
+ of
+ the
+ policy
+ mix
+ regarding
+ renewable
+ energies
+could
+ focus
+ on
+ the
+ niche
+ for
+ one
+ speciﬁc
+ technology
+ (e.g.
+ wind),
+widen
+ its
+ scope
+ to
+ all
+ renewable
+ energy
+ technologies
+ or
+ assume
+ a
+holistic
+ energy
+ sector
+ perspective.
+ Given
+ conﬂicting
+ interests
+ and
+tensions
+ between
+ niches
+ (e.g.
+ onshore
+ wind
+ vs.
+ offshore
+ wind
+ vs.
+solar
+ PV)
+ and
+ regimes
+ (e.g.
+ renewable
+ energies
+ vs.
+ fossil
+ fuels),
+ the
+wider
+ the
+ boundaries
+ are
+ set
+ and
+ thus
+ the
+ greater
+ the
+ scope
+ of
+ the
+policy
+ mix,
+ the
+ greater
+ the
+ challenges
+ for
+ consistency
+ and
+ coher-
+ence,
+ as
+ indicated
+ by
+ the
+ arrow
+ in
+ Fig.
+ 4.
+ However,
+ widening
+ the
+system
+ boundaries
+ may
+ allow
+ for
+ a
+ more
+ holistic
+ perspective
+ of
+ the
+problem
+ –
+ both
+ in
+ terms
+ of
+ policies
+ and
+ politics
+ –
+ and
+ may
+ thereby
+enable
+ a
+ better
+ achievement
+ of
+ policy
+ objectives.20
+Apart
+ from
+ the
+ scope
+ of
+ the
+ policy
+ mix
+ to
+ be
+ studied
+ researchers
+also
+ need
+ to
+ decide
+ on
+ the
+ appropriate
+ boundaries
+ for
+ the
+ analy-
+sis
+ of
+ the
+ impact
+ of
+ the
+ policy
+ mix
+ on
+ technological
+ change,
+ i.e.
+ on
+the
+ unit
+ of
+ analysis. Such
+ a
+ decision
+ should
+ be
+ based
+ on
+ a
+ detailed
+understanding
+ of
+ the
+ relevant
+ innovation
+ system
+ for
+ the
+ technology
+or
+ sector
+ in
+ question,
+ including,
+ among
+ others,
+ its
+ past
+ development
+and
+ the
+ current
+ techno-economic
+ maturity
+ of
+ the
+ technology,
+ the
+sectoral
+ pattern
+ of
+ innovation
+ and
+ the
+ relevant
+ actors
+ and
+ networks
+(Hekkert
+ et
+ al.,
+ 2007;
+ Malerba,
+ 2004;
+ Pavitt,
+ 1984).
+ For
+ example,
+ a
+19 For
+ example,
+ Quitzow
+ (2015a)
+ analyses
+ the
+ technology-speciﬁc
+ policy
+ mix
+ for
+solar
+ PV
+ in
+ India.
+20 For
+ example,
+ a
+ recent
+ study
+ on
+ aligning
+ policies
+ for
+ a low-carbon
+ economy
+included,
+ among
+ others,
+ not
+ only
+ climate
+ and
+ innovation
+ policies
+ but
+ also
+ tax
+ and
+trade
+ policies
+ (OECD/IEA/NEA/ITF,
+ 2015).
+
+<!-- 第12页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+12
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+Poli cy Mix 
+Wind
+Poli cy Mix 
+Renewable Energies
+Poli cy Mix 
+Energy System
+Fig.
+ 4.
+ Link
+ between
+ policy
+ mix
+ boundaries
+ and
+ consistency/coherence.
+study
+ on
+ the
+ policy
+ mix
+ for
+ renewable
+ power
+ generation
+ technolo-
+gies
+ should
+ expect
+ a
+ supplier-dominated
+ pattern
+ of
+ innovation
+ and
+thus
+ include
+ technology
+ providers
+ and
+ their
+ innovation
+ activities
+in
+ the
+ analysis
+ (Rogge
+ et
+ al.,
+ 2011c).
+ Another
+ example
+ concerns
+ the
+relevant
+ actors
+ (e.g.
+ authorities,
+ companies,
+ consumers)
+ and
+ their
+networks
+ (e.g.
+ industry
+ associations
+ and
+ non-governmental
+ organi-
+zations)
+ to
+ be
+ included
+ in
+ the
+ analysis
+ of
+ policy
+ processes
+ (Markard
+et
+ al.,
+ 2015).
+ One
+ possible
+ criterion
+ for
+ their
+ inclusion
+ or
+ exclusion
+may
+ be
+ their
+ degree
+ of
+ inﬂuence
+ and
+ power
+ in
+ decision
+ making.
+Similarly,
+ researchers
+ need
+ to
+ decide
+ on
+ the
+ geographical
+ conﬁnes
+of
+ the
+ impact
+ analysis.
+ For
+ the
+ example
+ of
+ the
+ German
+ energy
+ tran-
+sition
+ and
+ the
+ policy
+ mix
+ promoting
+ solar
+ PV
+ the
+ increasingly
+ global
+innovation
+ system
+ would
+ imply
+ to
+ not
+ only
+ investigate
+ innovation
+effects
+ within
+ Germany,
+ but
+ also
+ the
+ interplay
+ with
+ the
+ resulting
+technological
+ and
+ structural
+ change
+ in
+ foreign
+ countries,
+ such
+ as
+in
+ China
+ (Quitzow,
+ 2015b).
+ A
+ ﬁnal
+ example
+ concerns
+ the
+ timing
+ of
+the
+ impact,
+ with
+ today’s
+ policy
+ mix
+ determining
+ tomorrow’s
+ tech-
+nological
+ change,
+ which
+ in
+ turn
+ may
+ have
+ repercussions
+ for
+ future
+changes
+ in
+ the
+ policy
+ mix.
+ This
+ co-evolution
+ of
+ impacts
+ and
+ policy
+mix
+ can
+ only
+ be
+ unpacked
+ by
+ a
+ dynamic
+ analysis
+ covering
+ decades
+rather
+ than
+ years,
+ while
+ a
+ static
+ analysis
+ of
+ a
+ certain
+ year
+ provides
+in-depth
+ insights
+ into
+ the
+ current
+ link
+ between
+ the
+ policy
+ mix
+ and
+technological
+ change.
+To
+ conclude,
+ boundary
+ setting
+ is
+ by
+ no
+ means
+ a
+ straightforward
+exercise,
+ and
+ the
+ initially
+ set
+ boundaries
+ may
+ change
+ as
+ the
+ anal-
+ysis
+ proceeds.
+ Given
+ its
+ analytical
+ consequences,
+ boundary
+ setting
+should
+ be
+ seen
+ as
+ an
+ important
+ iterative
+ task,
+ which
+ requires
+ con-
+tinuous
+ attention.
+4.2.2.
+ Operationalizing
+ the
+ policy
+ mix
+After
+ an
+ initial
+ delineation
+ of
+ the
+ scope
+ of
+ the
+ policy
+ mix
+ under
+study
+ a
+ second
+ key
+ challenge
+ concerns
+ the
+ capturing
+ of
+ the
+ relevant
+real-world
+ policy
+ mix.
+The
+ operationalization
+ of
+ the
+ instrument
+ mix
+ requires
+ the
+ iden-
+tiﬁcation
+ of
+ key
+ instruments
+ and
+ their
+ design
+ features.
+ As
+ starting
+point
+ research
+ can
+ draw
+ on
+ data
+ bases
+ of
+ policy
+ instruments,
+ such
+ as
+the
+ IEA
+ policies
+ and
+ measures
+ data
+ bases
+ for
+ renewable
+ energies
+ or
+energy
+ efﬁciency
+ (IEA,
+ 2012).
+ Analysts
+ may
+ also
+ refer
+ to
+ the
+ original
+laws,
+ acts,
+ governmental
+ strategies
+ and
+ other
+ public
+ documents,
+particularly
+ for
+ extracting
+ information
+ on
+ the
+ design
+ features
+ of
+selected
+ instruments.
+ One
+ example
+ is
+ the
+ German
+ Renewable
+Energy
+ Sources
+ Act
+ (EEG)
+ as
+ core
+ instrument
+ of
+ the
+ Energiewende,
+which,
+ among
+ others,
+ established
+ technology-speciﬁc
+ feed-in
+ tar-
+iffs.
+ These
+ provide
+ one
+ proxy
+ for
+ the
+ level
+ of
+ support,
+ which
+ –
+ due
+to
+ several
+ regular
+ and
+ irregular
+ amendments
+ –
+ have
+ changed
+ over
+time.
+ Another
+ example
+ concerns
+ the
+ EU
+ Emission
+ Trading
+ System
+(EU
+ ETS)
+ whose
+ stringency
+ can
+ be
+ operationalized,
+ for
+ example,
+ by
+tracking
+ carbon
+ prices
+ published
+ by
+ the
+ relevant
+ stock
+ exchanges.21
+Often,
+ however,
+ the
+ speciﬁcation
+ of
+ design
+ features
+ will
+ not
+ be
+as
+ straightforward
+ but
+ require
+ further
+ analysis,
+ as
+ these
+ cannot
+always
+ be
+ directly
+ derived
+ from
+ publicly
+ available
+ documents
+ and
+data
+ bases.
+ Further
+ analysis
+ may
+ also
+ be
+ needed
+ for
+ identifying
+instrument
+ interactions.
+ For
+ example,
+ in
+ order
+ to
+ study
+ interac-
+tions
+ between
+ technology
+ push
+ and
+ systemic
+ instruments
+ public
+R&D
+ funding
+ needs
+ to
+ be
+ separated
+ into
+ these
+ two
+ categories,
+ as
+done
+ by
+ Cantner
+ et
+ al.
+ (2016)
+ for
+ the
+ case
+ of
+ public
+ R&D
+ funding
+ for
+wind
+ and
+ solar
+ PV
+ in
+ Germany.
+Apart
+ from
+ capturing
+ the
+ relevant
+ instrument
+ mix
+ our
+ extended
+policy
+ mix
+ concept
+ points
+ to
+ the
+ need
+ to
+ also
+ consider
+ the
+ policy
+strategy,
+ and
+ thus
+ long-term
+ targets
+ and
+ principal
+ plans.
+ Targets
+can
+ be
+ operationalized
+ based
+ on
+ ﬁgures
+ included
+ in
+ strategic
+ policy
+documents.
+ For
+ example,
+ in
+ terms
+ of
+ the
+ German
+ energy
+ transition
+these
+ data
+ could
+ be
+ extracted
+ from
+ the
+ German
+ Monitoring
+ reports
+published
+ on
+ a
+ yearly
+ basis
+ (BMWi,
+ 2015).
+ Such
+ quantitative
+ tar-
+gets
+ could
+ then,
+ for
+ example,
+ be
+ integrated
+ in
+ a
+ policy
+ mix
+ index,
+as
+ was
+ done
+ by
+ Hess
+ and
+ Mai
+ (2014)
+ who
+ developed
+ a
+ policy
+ mix
+index
+ including
+ not
+ only
+ feed-in
+ tariffs
+ and
+ emissions
+ trading
+ but
+also
+ renewable
+ electricity
+ targets
+ as
+ part
+ of
+ Asian
+ countries’
+ policy
+strategies.
+ Of
+ course,
+ dynamic
+ analysis
+ will
+ need
+ to
+ pay
+ attention
+to
+ changes
+ in
+ long-term
+ targets
+ over
+ time,
+ such
+ as
+ an
+ increase
+ or
+decrease
+ in
+ ambition
+ levels.
+ In
+ contrast
+ to
+ the
+ fairly
+ straightforward
+measurement
+ of
+ long-term
+ targets,
+ the
+ details
+ typically
+ included
+ in
+the
+ associated
+ principal
+ plans
+ are
+ likely
+ more
+ difﬁcult
+ to
+ be
+ oper-
+ationalized
+ and
+ made
+ comparable
+ across
+ countries,
+ and
+ may
+ thus
+require
+ more
+ sophisticated
+ analysis
+ but
+ also
+ major
+ simpliﬁcations.
+One
+ avenue
+ may
+ be
+ obtaining
+ expert
+ judgments
+ on
+ the
+ quality
+ of
+ a
+given
+ principal
+ plan,
+ e.g.
+ in
+ terms
+ of
+ its
+ credibility
+ or
+ comprehen-
+siveness
+ (see
+ below).
+For
+ the
+ analysis
+ of
+ policy
+ processes
+ researchers
+ can
+ draw
+ on
+ the
+standard
+ methods
+ and
+ variables
+ for
+ operationalizing
+ these
+ pro-
+cesses
+ used
+ within
+ the
+ study
+ of
+ public
+ policy
+ (Howlett
+ et
+ al.,
+ 2009;
+Sabatier
+ and
+ Weible,
+ 2014).
+ Operationalizing
+ them
+ could,
+ among
+others,
+ draw
+ on
+ a
+ content
+ analysis
+ of
+ media
+ coverage
+ and
+ could
+be
+ further
+ supplemented
+ by
+ interviews
+ with
+ involved
+ policy
+ mak-
+ers
+ and
+ other
+ stakeholders.
+ By
+ doing
+ so,
+ analysts
+ could
+ track,
+ for
+example,
+ the
+ debate
+ about
+ the
+ suggested
+ retrospective
+ adjustment
+of
+ previously
+ guaranteed
+ feed-in
+ tariffs
+ received
+ by
+ plant
+ operators
+in
+ Germany
+ initiated
+ by
+ the
+ Federal
+ Minister
+ of
+ the
+ Environment
+ at
+the
+ beginning
+ of
+ 2013
+ (Spiegel
+ Online,
+ 2013a).
+ This
+ would
+ allow
+ for
+analyzing,
+ among
+ others,
+ whether
+ this
+ heavily
+ debated
+ and
+ later
+withdrawn
+ suggestion
+ had
+ a
+ detrimental
+ effect
+ on
+ innovation,
+ e.g.
+by
+ casting
+ doubt
+ on
+ the
+ predictability
+ of
+ the
+ EEG
+ and
+ the
+ credibil-
+ity
+ of
+ the
+ policy
+ strategy
+ (Spiegel
+ Online,
+ 2013b),
+ thereby
+ enabling
+insights
+ on
+ the
+ direct
+ link
+ between
+ policy
+ processes
+ and
+ technolog-
+ical
+ change.
+This
+ leads
+ us
+ to
+ the
+ need
+ for
+ operationalizing
+ policy
+ mix
+ charac-
+teristics, such
+ as
+ the
+ above
+ mentioned
+ credibility,
+ which
+ may
+ pose
+one
+ of
+ the
+ greatest
+ analytical
+ challenge
+ as
+ ofﬁcial
+ databases
+ or
+ doc-
+uments
+ typically
+ do
+ not
+ capture
+ such
+ characteristics.
+ Rather,
+ their
+operationalization
+ may
+ require
+ original
+ data
+ collection
+ and
+ inter-
+pretation.
+ Two
+ main
+ routes
+ for
+ capturing
+ policy
+ mix
+ characteristics
+may exist:
+ the
+ ﬁrst
+ one
+ is
+ the
+ derivation
+ of
+ these
+ characteristics
+from
+ the
+ analysis
+ of
+ policy
+ mix
+ elements;
+ the
+ second
+ one
+ pursues
+the
+ collection
+ of
+ perceptions
+ of
+ innovators
+ or
+ other
+ stakeholders
+regarding
+ these
+ characteristics.
+ An
+ example
+ for
+ the
+ former
+ is
+ the
+observation
+ of
+ renewable
+ energies
+ having
+ come
+ under
+ the
+ auspices
+of
+ the
+ German
+ environmental
+ department
+ in
+ October
+ 2002
+ (BMU,
+2013).
+ This
+ structural
+ change
+ could
+ be
+ interpreted
+ as
+ increase
+ of
+the
+ coherence
+ of
+ policy
+ making
+ as
+ it
+ may,
+ for
+ example,
+ have
+ eased
+21 Botta
+ and
+ Kozluk
+ (2014)
+ provide
+ an
+ example
+ of
+ available
+ options
+ and
+ difﬁculties
+for
+ operationalizing
+ the
+ stringency
+ of
+ environmental
+ policy
+ across
+ OECD
+ countries.
+
+<!-- 第13页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+13
+the
+ integrated
+ consideration
+ of
+ demand-pull,
+ technology-push
+ and
+some
+ of
+ the
+ systemic
+ concerns
+ relevant
+ for
+ the
+ transition
+ to
+ renew-
+able
+ energies.
+ An
+ example
+ for
+ the
+ latter
+ is
+ the
+ conduction
+ of
+ a
+ survey
+asking
+ companies
+ about
+ their
+ judgment
+ on
+ the
+ credibility
+ of
+ the
+Energiewende
+ policy
+ mix.22 Such
+ direct
+ questions
+ appear
+ particu-
+larly
+ suitable
+ for
+ eliciting
+ innovators’
+ perceptions
+ on
+ the
+ current
+level
+ of
+ credibility,
+ whereas
+ changes
+ of
+ these
+ perceptions
+ over
+ time
+may
+ be
+ more
+ difﬁcult
+ to
+ capture,
+ unless
+ such
+ surveys
+ are
+ regularly
+repeated.
+Overall,
+ this
+ implies
+ that
+ studies
+ applying
+ the
+ extended
+ pol-
+icy
+ mix
+ concept
+ are
+ likely
+ to
+ require
+ the
+ development,
+ testing
+ and
+further
+ reﬁnement
+ of
+ novel
+ ways
+ of
+ operationalizing
+ relevant
+ pol-
+icy
+ mix
+ components.
+ Only
+ then
+ will
+ future
+ policy
+ mix
+ research
+ be
+able
+ to
+ provide
+ answers
+ to
+ the
+ questions
+ raised
+ by
+ the
+ analytical
+framework
+ proposed
+ in
+ this
+ paper
+ (see
+ Section
+ 4.1).
+5.
+ Conclusion
+This
+ paper
+ on
+ policy
+ mixes
+ for
+ sustainability
+ transitions
+contributes
+ to
+ the
+ literature
+ on
+ the
+ link
+ between
+ policy
+ and
+ tech-
+nological
+ change
+ in
+ two
+ major
+ ways.
+ First,
+ it
+ advocates
+ an
+ extended
+concept
+ of
+ the
+ policy
+ mix
+ that
+ takes
+ into
+ account
+ the
+ complexity
+ and
+dynamics
+ of
+ real-world
+ policy
+ mixes
+ and
+ provides
+ a
+ uniform
+ ter-
+minology
+ applicable
+ across
+ academic
+ disciplines,
+ thereby
+ enabling
+interdisciplinary
+ research.
+ Speciﬁcally,
+ the
+ concept
+ stresses
+ that
+ a
+policy
+ mix
+ goes
+ beyond
+ the
+ combination
+ of
+ interacting
+ instruments
+–
+ the
+ instrument
+ mix
+ –
+ but
+ also
+ includes
+ a
+ policy
+ strategy,
+ pol-
+icy
+ processes
+ and
+ characteristics.
+ Second,
+ the
+ paper
+ provides
+ an
+integrating
+ analytical
+ framework
+ which
+ may
+ aid
+ empirical
+ research
+by
+ pointing
+ to
+ previously
+ neglected
+ aspects
+ to
+ be
+ considered
+ in
+empirical
+ policy
+ mix
+ studies.
+ Such
+ studies
+ are
+ faced
+ with
+ multiple
+analytical
+ challenges,
+ among
+ them
+ the
+ setting
+ of
+ the
+ boundaries
+ for
+the
+ considered
+ policy
+ mix
+ and
+ its
+ impact,
+ for
+ which
+ the
+ paper
+ pro-
+poses
+ some
+ analytical
+ guidelines.
+ Thereby,
+ the
+ paper
+ aims
+ to
+ pave
+the
+ way
+ for
+ increasing
+ our
+ insights
+ on
+ the
+ role
+ of
+ policy
+ mixes
+ for
+sustainability
+ transitions.23
+We
+ derive
+ three
+ main
+ policy
+ implications.
+ First,
+ the
+ paper
+underlines
+ the
+ importance
+ of
+ thinking
+ in
+ terms
+ of
+ policy
+ mixes
+ for
+redirecting
+ and
+ accelerating
+ technological
+ change
+ towards
+ sus-
+tainability
+ objectives,
+ and
+ it
+ provides
+ an
+ analytical
+ framework
+helpful
+ in
+ assuming
+ such
+ a
+ broader
+ and
+ systematic
+ perspective.
+More
+ precisely,
+ it
+ highlights
+ the
+ need
+ for
+ policy
+ makers
+ to
+ con-
+sider
+ instrument
+ mixes
+ and
+ instrument
+ interactions
+ along
+ with
+ the
+policy
+ strategy
+ with
+ its
+ long-term
+ orientation
+ as
+ equally
+ impor-
+tant
+ elements
+ of
+ a
+ policy
+ mix.
+ It
+ also
+ stresses
+ that
+ policy
+ processes
+may
+ directly
+ inﬂuence
+ innovation
+ and
+ emphasizes
+ the
+ relevance
+ of
+characteristics
+ such
+ as
+ credibility.
+Second,
+ policy
+ makers
+ are
+ advised
+ to
+ work
+ on
+ improving
+ both
+the
+ consistency
+ of
+ the
+ elements
+ of
+ the
+ policy
+ mix
+ and
+ the
+ coher-
+ence
+ of
+ policy
+ processes.
+ Of
+ course,
+ and
+ particularly
+ in
+ times
+ of
+fundamental
+ societal
+ transitions,
+ a
+ certain
+ degree
+ of
+ inconsisten-
+cies
+ and
+ incoherence
+ may
+ be
+ expected
+ due
+ to
+ the
+ complexities
+involved
+ in
+ addressing
+ sustainability
+ challenges,
+ conﬂicting
+ objec-
+tives
+ and
+ mutually
+ exclusive
+ interests,
+ for
+ example
+ between
+ niche
+and
+ regime
+ actors.
+ Yet,
+ given
+ the
+ relevance
+ of
+ consistency
+ and
+coherence
+ for
+ the
+ performance
+ of
+ policy
+ mixes
+ in
+ terms
+ of
+ assess-
+ment
+ criteria,
+ such
+ as
+ its
+ effectiveness
+ in
+ redirecting
+ innovation,
+22 A
+ possible
+ question
+ for
+ the
+ case
+ of
+ the
+ German
+ Energiewende
+ could,
+ for
+ example,
+ask
+ respondents
+ for
+ their
+ opinion
+ regarding
+ a
+ number
+ of
+ statements
+ on
+ the
+ policy
+mix
+ for
+ renewable
+ energies
+ in
+ Germany,
+ such
+ as
+ regarding
+ the
+ existence
+ of
+ a
+ broad
+consensus
+ across
+ all
+ political
+ parties,
+ the
+ clarity
+ of
+ the
+ political
+ vision,
+ the
+ stability
+of
+ the
+ political
+ will
+ or
+ the
+ unambiguity
+ of
+ political
+ signals
+ –
+ measured,
+ e.g.
+ with
+ a
+Likert
+ scale
+ ranging
+ from
+ “very
+ low”
+ to
+ “very
+ high”.
+23 Besides
+ the
+ importance
+ of
+ analyzing
+ policy
+ mixes
+ and
+ their
+ impacts,
+ detailed
+policy
+ instrument
+ evaluations
+ remain
+ indispensable
+ as
+ well.
+policy
+ makers
+ are
+ advised
+ to
+ intentionally
+ and
+ continuously
+ strive
+for
+ their
+ enhancement.
+Third,
+ the
+ paper
+ stresses
+ the
+ necessity
+ to
+ assume
+ a
+ system
+ per-
+spective
+ in
+ policy
+ making.
+ For
+ example,
+ an
+ instrument
+ mix
+ should
+not
+ only
+ address
+ demand
+ pull
+ or
+ technology
+ push
+ instruments
+but
+ should
+ cover
+ all
+ concerns,
+ including
+ systemic
+ ones.
+ In
+ addi-
+tion,
+ policy
+ makers
+ should
+ also
+ scan
+ the
+ existing
+ instrument
+ mix
+for
+ instruments
+ inconsistent
+ with
+ a
+ given
+ policy
+ strategy,
+ includ-
+ing
+ from
+ different
+ policy
+ ﬁelds,
+ which
+ therefore
+ may
+ have
+ to
+ be
+adjusted
+ or
+ phased
+ out.
+ Such
+ an
+ analysis
+ requires
+ systemic
+ capabil-
+ities,
+ which
+ could
+ be
+ supported
+ through
+ coherent
+ policy
+ processes
+and
+ further
+ developed
+ through
+ policy
+ learning.
+We
+ see
+ two
+ main
+ limitations
+ of
+ the
+ policy
+ mix
+ concept
+ proposed
+in
+ this
+ paper.
+ First,
+ since
+ it
+ has
+ been
+ developed
+ for
+ technologi-
+cal
+ change,
+ it
+ may
+ not
+ be
+ directly
+ applicable
+ to
+ non-technological
+innovations.
+ Second,
+ some
+ of
+ the
+ components
+ of
+ the
+ concept
+ lack
+well-established
+ indicators,
+ which
+ may
+ complicate
+ their
+ investiga-
+tion
+ in
+ empirical
+ studies.
+In
+ conclusion,
+ this
+ paper
+ calls
+ for
+ unpacking
+ the
+ link
+ between
+policy
+ mixes
+ and
+ technological
+ change
+ in
+ the
+ context
+ of
+ sus-
+tainability
+ transitions,
+ for
+ which
+ we envisage
+ four
+ main
+ areas
+ of
+future
+ research.
+ First,
+ empirical
+ studies
+ should
+ analyze
+ the
+ inter-
+play
+ within
+ and
+ between
+ the
+ three
+ building
+ blocks
+ of
+ the
+ policy
+ mix
+and
+ how
+ such
+ interplay
+ affects
+ the
+ effectiveness
+ of
+ policy
+ mixes
+in
+ redirecting
+ and
+ accelerating
+ innovation
+ towards
+ sustainability
+objectives.
+ In
+ doing
+ so,
+ studies
+ will
+ need
+ to
+ ﬁnd
+ new
+ or
+ improved
+ways
+ of
+ operationalizing
+ the
+ policy
+ mix.
+ Second,
+ the
+ nature
+ of
+ pol-
+icy
+ processes
+ –
+ including
+ the
+ underlying
+ politics
+ –
+ and
+ their
+ direct
+and
+ indirect
+ inﬂuence
+ on
+ the
+ performance
+ of
+ policy
+ mixes
+ regard-
+ing
+ innovation
+ and
+ sustainability
+ transitions
+ should
+ be
+ explored
+in
+ more
+ depth.
+ Third,
+ empirical
+ research
+ should
+ investigate
+ the
+determinants
+ and
+ relevance
+ of
+ policy
+ mix
+ characteristics,
+ such
+ as
+credibility,
+ for
+ innovation.
+ Finally,
+ the
+ integration
+ of
+ the
+ policy
+ mix
+concept
+ with
+ other
+ research
+ approaches,
+ such
+ as
+ the
+ technological
+innovation
+ system
+ approach,
+ may
+ further
+ sharpen
+ the
+ analytical
+clarity
+ and
+ policy
+ advice
+ of
+ such
+ approaches
+ in
+ the
+ context
+ of
+ sus-
+tainability
+ challenges.
+Acknowledgements
+We
+ gratefully
+ acknowledge
+ funding
+ of
+ this
+ work
+ by
+ the
+ German
+Ministry
+ of
+ Education
+ and
+ Research
+ (BMBF)
+ within
+ its
+ fund-
+ing
+ priority
+ “Economics
+ of
+ Climate
+ Change”
+ (GRETCHEN,
+ www.
+project-gretchen.de, support
+ code
+ 01LA1117A),
+ and
+ by
+ the
+ UK
+EPSRC
+ through
+ the
+ Centre
+ for
+ Innovation
+ and
+ Energy
+ Demand
+(CIED,
+ http://cied.ac.uk/, grant
+ number
+ EP/KO11790/1).
+ No
+ new
+data
+ were
+ created
+ during
+ this
+ study.
+ We would
+ like
+ to
+ thank
+ the
+GRETCHEN
+ team
+ (Barbara
+ Breitschopf,
+ Uwe
+ Cantner,
+ Holger
+ Graf,
+Johannes
+ Herrmann,
+ Martin
+ Kalthaus,
+ Christian
+ Lutz,
+ Katharina
+Mattes,
+ Kirsten
+ Wiebe)
+ and
+ researchers
+ at
+ Fraunhofer
+ ISI
+ (Miriam
+Hufnagl,
+ Ralf
+ Lindner,
+ Nina
+ Möhrle,
+ Rainer
+ Walz),
+ the
+ University
+ of
+Sussex
+ (Florian
+ Kern),
+ ETH
+ Zurich
+ (Volker
+ Hoffmann,
+ Jörn
+ Hopp-
+mann,
+ Tobias
+ Schmidt),
+ IASS
+ (Rainer
+ Quitzow)
+ and
+ the
+ University
+of
+ Utrecht
+ (Marko
+ Hekkert,
+ Simona
+ Negro)
+ for
+ fruitful
+ discussions
+and
+ comments
+ during
+ the
+ development
+ of
+ the
+ paper.
+ Earlier
+ ver-
+sions
+ of
+ this
+ paper
+ were
+ presented
+ at
+ the
+ International
+ Workshop
+on
+ “Designing
+ Optimal
+ Policy
+ Mixes:
+ Principles
+ and
+ Methods”
+ in
+February
+ 2013
+ (Singapore),
+ the
+ ESEE
+ Conference
+ on
+ Ecological
+ Eco-
+nomics
+ and
+ Institutional
+ Dynamics
+ in
+ June
+ 2013
+ (Lille)
+ and
+ the
+ 4th
+International
+ Conference
+ on
+ Sustainability
+ Transitions
+ in
+ June
+ 2013
+(Zurich).
+ We thank
+ all
+ participants
+ and
+ two
+ anonymous
+ reviewers
+for
+ their
+ constructive
+ feedback.
+ The
+ usual
+ disclaimer
+ applies.
+
+<!-- 第14页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+14
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+References
+ARD,
+ 2013.
+ Kein
+ Land
+ in
+ Sicht
+ Beim
+ Strompreisgipfel
+ (accessed
+ 23.04.13.)
+ http://
+www.tagesschau.de/inland/strompreisbremse102.html.
+Agora
+ Energiewende,
+ 2012.
+ 12
+ Thesen
+ Zur
+ Energiewende.
+ Agora
+ Energiewende,
+Berlin.
+Allen,
+ C.R.,
+ Fontaine,
+ J.J.,
+ Pope,
+ K.L.,
+ Garmestani,
+ A.S.,
+ 2011.
+ Adaptive
+ management
+for a
+ turbulent
+ future.
+ J.
+ Environ.
+ Manage.
+ 92,
+ 1339–1345.
+Andrews,
+ K.R.,
+ 1987.
+ The
+ concept
+ of
+ corporate
+ strategy.
+ In:
+ Perry,
+ K.
+ (Ed.),
+ The
+Concept
+ of
+ Corporate
+ Strategy.
+ Richard
+ D.
+ Irwin,
+ New
+ York,
+ pp.
+ 13–34.
+Ashford,
+ N.A.,
+ Ayers,
+ C.,
+ Stone,
+ R.F.,
+ 1985.
+ Using
+ regulation
+ to
+ change
+ the
+ market
+ for
+innovation.
+ Harv.
+ Environ.
+ Law
+ Rev.
+ 9,
+ 419–466.
+Ashoff,
+ G.,
+ 2005.
+ Enhancing
+ Policy
+ Coherence
+ for
+ Development:
+ Justiﬁcation,
+Recognition
+ and
+ Approaches
+ to
+ Achievement.
+ Deutsches
+ Institut
+ für
+Entwicklungspolitik,
+ Tulpenfeld.
+Atuahene-Gima,
+ K.,
+ Murray,
+ J.,
+ 2004.
+ Antecedents
+ and
+ outcomes
+ of
+ marketing
+strategy
+ comprehensiveness.
+ J. Mark.
+ 68,
+ 33–46.
+Bödeker,
+ P.,
+ Rogge,
+ K.S.,
+ 2014.
+ The
+ Impact
+ of
+ the
+ Policy
+ Mix
+ for
+ Renewable
+ Power
+Generation
+ on
+ Invention:
+ a
+ Patent
+ Analysis
+ for
+ Germany,
+ 15th
+ ISS
+ Conference
+of
+ the
+ International
+ Schumpeter
+ Society
+ , Jena:
+ ISS.
+BMU,
+ 2013.
+ 25
+ Jahre
+ Bundesumweltministerium
+ (accessed
+ 23.04.03.)
+ http://www.
+bmu.de/bmu/chronologie/25-jahre-bmu/25-jahre-
+bundesumweltministerium-2002/.
+BMWi,
+ 2015.
+ The
+ Energy
+ of
+ the
+ Future:
+ Fourth
+ Energy
+ Transition
+ Monitoring
+Report
+ −
+ Summary.
+ Federal
+ Ministry
+ for
+ Economic
+ Affairs
+ and
+ Energy,
+ Berlin.
+Bennett,
+ C.J.,
+ Howlett,
+ M.,
+ 1992.
+ The
+ lessons
+ of
+ learning:
+ reconciling
+ theories
+ of
+policy
+ learning
+ and
+ policy
+ change.
+ Policy
+ Sci.
+ 25,
+ 275–294.
+Bigsten,
+ A.,
+ 2007.
+ Development
+ policy:
+ coordination,
+ conditionality
+ and
+ coherence.
+In: Sapir,
+ A.
+ (Ed.),
+ Fragmented
+ Power:
+ Europe
+ and
+ the
+ Global
+ Economy.
+ Bruegel
+Books,
+ Brussels,
+ pp.
+ 94–127.
+Blazejczak,
+ J.,
+ Edler,
+ D.,
+ Hemmelskamp,
+ J.,
+ Jänicke,
+ M.,
+ 1999.
+ Environmental
+ policy
+and
+ innovation—an
+ international
+ comparison
+ of
+ policy
+ frameworks
+ and
+innovation
+ effects.
+ In:
+ Klemmer,
+ P.
+ (Ed.),
+ Innovation
+ Effects
+ of
+ Environmental
+Policy
+ Instruments.
+ Analytica,
+ Berlin,
+ pp.
+ 9–30.
+Boekholt,
+ P.,
+ 2010.
+ The
+ evolution
+ of
+ innovation
+ paradigms
+ and
+ their
+ inﬂuence
+ on
+research,
+ technological
+ development
+ and
+ innovation
+ policy
+ instruments.
+ In:
+Smits,
+ R.,
+ Kuhlmann,
+ S.,
+ Shapira,
+ P.
+ (Eds.),
+ The
+ Theory
+ and
+ Practice
+ of
+Innovation
+ Policy—An
+ International
+ Research
+ Handbook.
+ Edward
+ Elgar,
+Cheltenham,
+ pp.
+ 333–359.
+Borrás,
+ S.,
+ Edquist,
+ C.,
+ 2013.
+ The
+ choice
+ of
+ innovation
+ policy
+ instruments.
+ Technol.
+Forecast.
+ Soc.
+ Change
+ 80,
+ 1513–1522.
+Botta,
+ E.,
+ Kozluk,
+ T.,
+ 2014.
+ Measuring
+ Environmental
+ Policy
+ Stringency
+ in
+ OECD
+Countries:
+ A
+ Composite
+ Index
+ Approach.
+ OECD
+ Publishing,
+ Paris.
+Bouckaert,
+ G.,
+ Peters,
+ B.G.,
+ Verhoest,
+ K.,
+ 2010.
+ The
+ Coordination
+ of
+ Public
+ Sector
+Organizations,
+ Shifting
+ Patterns
+ of
+ Public
+ Management.
+ Palgrave
+ Macmillan,
+Basingstoke.
+Braathen,
+ N.A.,
+ 2007.
+ Instrument
+ mixes
+ for
+ environmental
+ policy:
+ how
+ many
+stones
+ should
+ be
+ used
+ to
+ kill
+ a
+ bird?
+ Int.
+ Rev.
+ Environ.
+ Resour.
+ Econ.
+ 1,
+ 185–235.
+Cantner,
+ U.,
+ Pyka,
+ A.,
+ 2001.
+ Classifying
+ technology
+ policy
+ from
+ an
+ evolutionary
+perspective.
+ Res.
+ Policy
+ 30,
+ 759–775.
+Cantner,
+ U.,
+ Graf,
+ H.,
+ Herrmann,
+ J.,
+ Kalthaus,
+ M.,
+ 2016.
+ Inventor
+ networks
+ in
+renewable
+ energies:
+ the
+ inﬂuence
+ of
+ the
+ policy
+ mix
+ in
+ Germany.
+ Res.
+ Policy
+Forthcom.
+Carbone,
+ M.,
+ 2008.
+ Mission
+ impossible:
+ the
+ European
+ Union
+ and
+ policy
+ coherence
+for
+ development.
+ J.
+ Eur.
+ Integr.
+ 30,
+ 323–342.
+Coenen,
+ L.,
+ Benneworth,
+ P.,
+ Truffer,
+ B.,
+ 2012.
+ Toward
+ a
+ spatial
+ perspective
+ on
+sustainability
+ transitions.
+ Res.
+ Policy
+ 41,
+ 968–979.
+Daly,
+ H.E.,
+ Farley,
+ J.,
+ 2010.
+ Ecological
+ Economics:
+ Principles
+ and
+ Applications.
+ Island
+Press,
+ Washington,
+ DC.
+Den
+ Hertog,
+ L.,
+ Stroß,
+ S.,
+ 2011.
+ Policy
+ Coherence
+ in
+ the
+ EU
+ System
+ –
+ Concepts
+ and
+Legal Rooting
+ of
+ an
+ Ambiguous
+ Term.,
+ Madrid.
+Di Francesco,
+ M.,
+ 2001.
+ Process
+ not
+ outcomes
+ in
+ New
+ Public
+ Management?
+ ’Policy
+coherence’
+ in
+ Australien
+ government.
+ Drawing
+ Board:
+ An
+ Aust.
+ Rev.
+ Public
+ Aff.
+1, 103–116.
+Dunn,
+ W.N.,
+ 2004.
+ Public
+ Policy
+ Analysis:
+ An
+ Introduction.
+ Pearson,
+ Upper
+ Saddle
+River.
+Duraiappah,
+ A.K.,
+ Bhardwaj,
+ A.,
+ 2007.
+ Measuring
+ Policy
+ Coherence
+ Among
+ the
+MEAs
+ and
+ MDGs.
+ International
+ Institute
+ for
+ Sustainable
+ Development
+ (IISD),
+Winnipeg.
+Dye,
+ T.R.,
+ 2008.
+ Understanding
+ Public
+ Policy.
+ Pearson,
+ Upper
+ Saddle
+ River.
+EU,
+ 2005.
+ Policy
+ Coherence
+ for
+ Development:
+ Accelerating
+ Progress
+ Towards
+Attaining
+ the
+ Millennium
+ Development
+ Goals.
+ Council
+ of
+ the
+ European
+ Union,
+Brussels.
+EU,
+ 2008.
+ 20
+ 20
+ by
+ 2020
+ –
+ Europe’s
+ climate
+ change
+ opportunity.
+ Communication
+from
+ the
+ Commission
+ to
+ the
+ European
+ Parliament,
+ the
+ Council,
+ the
+ European
+Economic
+ and
+ Social
+ Committee
+ and
+ the
+ Committee
+ of
+ the
+ Regions.
+ EU,
+Brussels.
+EU,
+ 2008.
+ Energy
+ efﬁciency:
+ Delivering
+ the
+ 20%
+ target.
+ EU,
+ Brussels.
+EU, 2010.
+ The
+ EU
+ Policy
+ Coherence
+ for
+ Development
+ and
+ the
+ ‘Ofﬁcial
+ Development
+Assistance
+ plus
+ concept’.
+ The
+ European
+ Parliament.
+EU,
+ 2013.
+ Green
+ Paper,
+ A
+ 2030
+ framework
+ for
+ climate
+ and
+ energy
+ policies.
+ EU,
+Brussels.
+Edler,
+ J.,
+ Georghiou,
+ L.,
+ 2007.
+ Public
+ procurement
+ and
+ innovation—resurrecting
+ the
+demand
+ side.
+ Res.
+ Policy
+ 36,
+ 949–963.
+Engau,
+ C.,
+ Hoffmann,
+ V.H.,
+ 2009.
+ Effects
+ of
+ regulatory
+ uncertainty
+ on
+ corporate
+strategy—an
+ analysis
+ of
+ ﬁrms’
+ responses
+ to
+ uncertainty
+ about
+ post-Kyoto
+policy.
+ Environ.
+ Sci.
+ Policy
+ 12,
+ 766–777.
+Fischer,
+ C.,
+ Preonas,
+ L.,
+ 2010.
+ Combining
+ policies
+ for
+ renewable
+ energy:
+ is
+ the
+whole
+ less
+ than
+ the
+ sum
+ of
+ its
+ parts?
+ Int.
+ Rev.
+ Environ.
+ Resour.
+ Econ.
+ 4,
+ 51–92.
+Flanagan,
+ K.,
+ Uyarra,
+ E.,
+ Laranja,
+ M.,
+ 2011.
+ Reconceptualising
+ the
+ ‘policy
+ mix’
+ for
+innovation.
+ Res.
+ Policy
+ 40,
+ 702–713.
+Forster,
+ J.,
+ Stokke,
+ O.,
+ 1999.
+ Coherence
+ of
+ policies
+ towards
+ developing
+ countries:
+approaching
+ the
+ problematique.
+ In:
+ Forster,
+ J.,
+ Stokke,
+ O.
+ (Eds.),
+ Policy
+Coherence
+ in
+ Development
+ Co-operation.
+ Frank
+ Cass
+ Publishers,
+ London,
+ pp.
+16–57.
+Foxon,
+ T.J.,
+ Pearson,
+ P.J.G.,
+ 2007.
+ Towards
+ improved
+ policy
+ processes
+ for
+ promoting
+innovation
+ in
+ renewable
+ electricity
+ technologies
+ in
+ the
+ UK.
+ Energy
+ Policy
+ 35,
+1539–1550.
+Foxon,
+ T.J.,
+ Pearson,
+ P.J.G.,
+ 2008.
+ Overcoming
+ barriers
+ to
+ innovation
+ and
+ diffusion
+ of
+cleaner
+ technologies:
+ some
+ features
+ of
+ a
+ sustainable
+ innovation
+ policy
+ regime.
+J.
+ Clean.
+ Prod.
+ 16,
+ 148–161.
+Frantzeskaki,
+ N.,
+ Loorbach,
+ D.,
+ Meadowcroft,
+ J.,
+ 2012.
+ Governing
+ societal
+transitions
+ to
+ sustainability.
+ Int.
+ J.
+ Sustain.
+ Dev.
+ 15,
+ 19–36.
+Frondel,
+ M.,
+ Horbach,
+ J.,
+ Rennings,
+ K.,
+ 2007.
+ End-of-Pipe
+ or
+ cleaner
+ production?
+ an
+empirical
+ comparison
+ of
+ environmental
+ innovation
+ decisions
+ across
+ OECD
+countries.
+ Bus.
+ Strat.
+ Environ.
+ 16,
+ 571–584.
+Fukasaku,
+ K.,
+ Hirata,
+ A.,
+ 1995.
+ The
+ OECD
+ and
+ ASEAN:
+ changing
+ economic
+ linkages
+and
+ the
+ challenge
+ of
+ policy
+ coherence.
+ In:
+ Fukasaku,
+ K.,
+ Plummer,
+ M.,
+ Tan,
+ J.
+(Eds.),
+ OECD
+ and
+ ASEAN
+ Economies,
+ The
+ Challenge
+ of
+ Policy
+ Coherence.
+ OECD,
+Paris,
+ pp.
+ 19–40.
+Gauttier,
+ P.,
+ 2004.
+ Horizontal
+ coherence
+ and
+ the
+ external
+ competences
+ of
+ the
+European
+ Union.
+ Eur.
+ Law
+ J.
+ 10,
+ 23–41.
+Geerlings,
+ H.,
+ Stead,
+ D.,
+ 2003.
+ The
+ integration
+ of
+ land
+ use
+ planning,
+ transport
+ and
+environment
+ in
+ European
+ policy
+ and
+ research.
+ Transp.
+ Policy
+ 10,
+ 187–196.
+Gilardi,
+ F.,
+ 2002.
+ Policy
+ credibility
+ and
+ delegation
+ to
+ independent
+ regulatory
+agencies:
+ a
+ comparative
+ empirical
+ analysis.
+ J.
+ Eur.
+ Public
+ Policy
+ 9,
+ 873–893.
+Grant,
+ R.M.,
+ 2005.
+ Contemporary
+ Strategy
+ Analysis.
+ Blackwell
+ Publishers
+ Ltd.,
+Malden.
+Guerzoni,
+ M.,
+ Raiteri,
+ E.,
+ 2015.
+ Demand-side
+ vs.
+ supply-side
+ technology
+ policies:
+hidden
+ treatment
+ and
+ new
+ empirical
+ evidence
+ on
+ the
+ policy
+ mix.
+ Res.
+ Policy
+44, 726–747.
+Gunningham,
+ N.,
+ Grabosky,
+ P.,
+ 1998.
+ Smart
+ Regulation
+ Designing
+ Environmental
+Policy.
+ Oxford
+ University
+ Press,
+ New
+ York.
+Guy,
+ K.,
+ Boekholt,
+ P.,
+ Cunningham,
+ P.,
+ Hofer,
+ R.,
+ Nauwelaers,
+ C.,
+ Rammer,
+ C.,
+ 2009.
+The
+ ‘Policy
+ Mix’
+ Project:
+ Monitoring
+ and
+ Analysis
+ of
+ Policies
+ and
+ Public
+Financing
+ Instruments
+ Conducive
+ to
+ Higher
+ Levels
+ of
+ R&D
+ Investments.
+ The
+Policy
+ Mix
+ project:
+ Thematic
+ Report
+ R&D–R&D
+ Policy
+ Interactions
+ Vienna.
+Joanneum
+ Research.
+Haˇscic,
+ I.,
+ Johnstone,
+ N.,
+ Kalamova,
+ M.,
+ 2009.
+ Environmental
+ policy
+ ﬂexibility,
+search
+ and
+ innovation.
+ Fin.
+ Uver
+ –
+ Czech
+ J.
+ Econ.
+ Fin.
+ 59,
+ 426–441.
+Hekkert,
+ M.P.,
+ Suurs,
+ R.A.A.,
+ Negro,
+ S.O.,
+ Kuhlmann,
+ S.,
+ Smits,
+ R.E.H.M.,
+ 2007.
+Functions
+ of
+ innovation
+ systems:
+ a
+ new
+ approach
+ for
+ analysing
+ technological
+change.
+ Technol.
+ Forecast.
+ Soc.
+ Change
+ 74,
+ 413–432.
+Hemmelskamp,
+ J.,
+ 1999.
+ Umweltpolitische
+ Instrumente
+ und
+ ihre
+Innovationseffekte
+ –
+ ein
+ Literaturüberblick.
+ In:
+ Böhringer,
+ C.
+ (Ed.),
+Umweltpolitik
+ Und
+ Technischer
+ Fortschritt.
+ Physica-Verlag,
+ Heidelberg,
+ pp.
+25–42.
+Hess,
+ D.,
+ Mai,
+ Q.D.,
+ 2014.
+ Renewable
+ electricity
+ policy
+ in
+ Asia:
+ a
+ qualitative
+comparative
+ analysis
+ of
+ factors
+ affecting
+ sustainability
+ transitions.
+ Environ.
+Innov.
+ Soc.
+ Trans.
+ 12,
+ 31–46.
+Hillman,
+ A.J.,
+ Hitt,
+ M.A.,
+ 1999.
+ Corporate
+ political
+ strategy
+ formulation:
+ a
+ model
+ of
+approach,
+ participation,
+ and
+ strategy
+ decisions.
+ Acad.
+ Manage.
+ Rev.
+ 24,
+825–842.
+Hoebink,
+ P.,
+ 2004.
+ Evaluating
+ Maastricht’s
+ tripple
+ C:
+ the
+ ’C’
+ of
+ coherence.
+ In:
+Hoebink,
+ P.
+ (Ed.),
+ The
+ Treaty
+ of
+ Maastricht
+ and
+ Europe’s
+ Development
+Co-operation.
+ EU,
+ Brussels,
+ pp.
+ 183–218.
+Hoffmann,
+ V.H.,
+ Trautmann,
+ T.,
+ Schneider,
+ M.,
+ 2008.
+ A
+ taxonomy
+ for
+ regulatory
+uncertainty—application
+ to
+ the
+ European
+ Emission
+ Trading
+ Scheme.
+ Environ.
+Sci.
+ Policy
+ 11,
+ 712–722.
+Hoppmann,
+ J.,
+ Huenteler,
+ J.,
+ Girod,
+ B.,
+ 2014.
+ Compulsive
+ policy-making
+ –
+ the
+Evolution
+ of
+ the
+ German
+ feed-in
+ tariff
+ system
+ for
+ solar
+ photovoltaic
+ power.
+Res.
+ Policy
+ 43,
+ 1422–1441.
+Howlett,
+ M.,
+ Rayner,
+ J.,
+ 2007.
+ Design
+ principles
+ for
+ policy
+ mixes:
+ cohesion
+ and
+coherence
+ in
+ ‘New
+ governance
+ arrangements’.
+ Policy
+ Soc.
+ 26,
+ 1–18.
+Howlett,
+ M.,
+ Rayner,
+ J.,
+ 2013.
+ Patching
+ Vs
+ Packaging:
+ Complementary
+ Effects,
+Goodness
+ of
+ Fit,
+ Degrees
+ of
+ Freedom
+ And
+ Intentionality
+ in
+ Policy
+ Portfolio
+Design
+ , Lille,
+ France:
+ ESEE
+ Meetings.
+Howlett,
+ M.,
+ Ramesh,
+ M.,
+ Perl,
+ A.,
+ 2009.
+ Studying
+ Public
+ Policy:
+ Policy
+ Cycles
+ and
+Policy
+ Subsystems.
+ Oxford
+ University
+ Press.
+Howlett,
+ M.,
+ 2005.
+ What
+ is
+ a
+ policy
+ instrument?
+ Tools,
+ mixes
+ and
+ implementation
+styles.
+ In:
+ Eliadis,
+ P.,
+ Hill,
+ M.M.,
+ Howlett,
+ M.
+ (Eds.),
+ Designing
+ Government.
+From
+ Instruments
+ to
+ Governance.
+ McGill-Queen’s
+ University
+ Press,
+ Montreal,
+pp. 31–50.
+Hufnagl,
+ M.,
+ 2010.
+ Dimensionen
+ von
+ Policy-Instrumenten
+ –
+ eine
+ Systematik
+ am
+Beispiel
+ Innovationspolitik.
+ Fraunhofer
+ ISI,
+ Karlsruhe.
+Huttunen,
+ S.,
+ Kivimaa,
+ P.,
+ Vikramaki,
+ V.,
+ 2014.
+ The
+ need
+ for
+ policy
+ coherence
+ to
+trigger
+ a
+ transition
+ to
+ biogas
+ production.
+ Environ.
+ Innov.
+ Soc.
+ Trans.
+ 12,
+ 14–30.
+Hydén,
+ G.,
+ 1999.
+ The
+ shifting
+ grounds
+ of
+ policy
+ coherence
+ in
+ development
+Co-operation.
+ In:
+ Forster,
+ J.,
+ Stokke,
+ O.
+ (Eds.),
+ Policy
+ Coherence
+ in
+ Development
+Co-operation.
+ Frank
+ Cass
+ Publishers,
+ London,
+ pp.
+ 58–77.
+
+<!-- 第15页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+ 
+15
+IEA,
+ 2011a.
+ Interactions
+ of
+ Policies
+ for
+ Renewable
+ Energy
+ and
+ Climate.
+International
+ Energy
+ Agency,
+ Paris.
+IEA,
+ 2011b.
+ Summing
+ up
+ the
+ Parts,
+ Combining
+ Policy
+ Instruments
+ for
+ Least-Cost
+Climate
+ Mitigation
+ Strategies.
+ International
+ Energy
+ Agency
+ (IEA),
+ Paris,
+ France.
+IEA,
+ 2012.
+ Policies
+ and
+ Measures
+ Databases
+ (accessed
+ 11.10.12.)
+ http://www.iea.
+org/policiesandmeasures/.
+IRENA,
+ 2012.
+ Evaluating
+ Policies
+ in
+ Support
+ of
+ the
+ Deployment
+ of
+ Renewable
+Power.
+ IRENA,
+ Abu
+ Dhabi.
+Jänicke,
+ M.,
+ Blazejczak,
+ J.,
+ Edler,
+ D.,
+ Hemmelskamp,
+ J.,
+ 2000.
+ Environmental
+ policy
+and
+ innovation:
+ an
+ international
+ comparison
+ of
+ policy
+ frameworks
+ and
+innovation
+ effects.
+ In:
+ Hemmelskamp,
+ J.,
+ Rennings,
+ K.,
+ Leone,
+ F.
+ (Eds.),
+Innovation-Oriented
+ Environmental
+ Regulation:
+ Theoretical
+ Approach
+ and
+Empirical
+ Analysis.
+ Springer
+ Verlag,
+ Heidelberg,
+ pp.
+ 125–152.
+Jänicke,
+ M.,
+ 1998.
+ Umweltinnovation
+ aus
+ der
+ Sicht
+ der
+ Policy-Analyse:
+ vom
+instrumentellen
+ zum
+ strategischen
+ Ansatz
+ der
+ Umweltpolitik.
+ In:
+ Jann,
+ W.,
+König,
+ K.,
+ Landfried,
+ C.,
+ Wordelmann,
+ P.
+ (Eds.),
+ Politik
+ und
+ Verwaltung
+ auf
+ dem
+Weg
+ in
+ die
+ transindustrielle
+ Gesellschaft.
+ Nomos
+ Verlagsgesellschaft,
+Baden-Baden,
+ pp.
+ 323–338.
+Jänicke,
+ M.,
+ 2009.
+ On
+ ecological
+ and
+ political
+ modernization.
+ In:
+ Mol,
+ A.P.J.,
+Sonnenfeld,
+ D.A.,
+ Spaargaren,
+ G.
+ (Eds.),
+ The
+ Ecological
+ Modernisation
+ Reader.
+Environmental
+ Reform
+ in
+ Theory
+ and
+ Practice.
+ Routledge,
+ Milton
+ Park,
+ pp.
+28–41.
+Jacobsson,
+ S.,
+ Bergek,
+ A.,
+ 2011.
+ Innovation
+ system
+ analyses
+ and
+ sustainability
+transitions:
+ contributions
+ and
+ suggestions
+ for
+ research.
+ Environ.
+ Innov.
+ Soc.
+Trans.
+ 1,
+ 41–57.
+Jacobsson,
+ S.,
+ Lauber,
+ V.,
+ 2006.
+ The
+ politics
+ and
+ policy
+ of
+ energy
+ system
+transformation
+ –
+ explaining
+ the
+ German
+ diffusion
+ of
+ renewable
+ energy
+technology.
+ Energy
+ Policy
+ 34,
+ 256–276.
+Jaffe,
+ A.B.,
+ Newell,
+ R.G.,
+ Stavins,
+ R.N.,
+ 2002.
+ Environmental
+ policy
+ and
+ technological
+change.
+ Environ.
+ Resour.
+ Econ.
+ 22,
+ 41–69.
+Johnstone,
+ N.,
+ Haˇscic,
+ I.,
+ 2009.
+ Environmental
+ Policy
+ Design
+ and
+ the
+ Fragmentation
+of International
+ Markets
+ for
+ Innovation.
+Johnstone,
+ N.,
+ Haˇscic,
+ I.,
+ Popp,
+ D.,
+ 2010.
+ Renewable
+ energy
+ policies
+ and
+technological
+ innovation:
+ evidence
+ based
+ on
+ patent
+ counts.
+ Environ.
+ Resour.
+Econ. 45,
+ 133–155.
+Jones,
+ T.,
+ 2002.
+ Policy
+ coherence,
+ global
+ environmental
+ governance,
+ and
+ poverty
+reduction.
+ Int.
+ Environ.
+ Agreem.:
+ Polit.
+ Law
+ Econ.
+ 2,
+ 389–401.
+Kay,
+ A.,
+ 2006.
+ The
+ Dynamics
+ of
+ Public
+ Policy,
+ Theory
+ and
+ Evidence.
+ Edward
+ Elgar,
+Cheltenham.
+Kemp,
+ R.,
+ Pontoglio,
+ S.,
+ 2011.
+ The
+ innovation
+ effects
+ of
+ environmental
+ policy
+instruments
+ –
+ a
+ typical
+ case
+ of
+ the
+ blind
+ men
+ and
+ the
+ elephant?
+ Ecol.
+ Econ.
+ 72,
+28–36.
+Kemp,
+ R.,
+ Rotmans,
+ J.,
+ 2005.
+ The
+ management
+ of
+ the
+ Co-Evolution
+ of
+ technical,
+environmental
+ and
+ social
+ systems.
+ In:
+ Weber,
+ M.,
+ Hemmelskamp,
+ J.
+ (Eds.),
+Towards
+ Environmental
+ Innovation
+ Systems.
+ Springer,
+ Heidelberg,
+ pp.
+ 33–55.
+Kemp,
+ R.,
+ Loorbach,
+ D.,
+ Rotmans,
+ J.,
+ 2007.
+ Transition
+ management
+ as
+ a
+ model
+ for
+managing
+ processes
+ of
+ co-evolution
+ towards
+ sustainable
+ development.
+ Int.
+ J.
+Sustain.
+ Dev.
+ World
+ Ecol.
+ 14,
+ 78–91.
+Kemp,
+ R.,
+ 1997.
+ Environmental
+ Policy
+ and
+ Technical
+ Change.
+ Edward
+ Elgar,
+Cheltenham,
+ Brookﬁeld.
+Kemp,
+ R.,
+ 2007.
+ Integrating
+ environmental
+ and
+ innovation
+ policies.
+ In:
+ Parto,
+ S.,
+Herbert-Copley,
+ B.
+ (Eds.),
+ Industrial
+ Innovation
+ and
+ Environmental
+ Regulation:
+Developing
+ Workable
+ Solutions.
+ United
+ Nations
+ University
+ Press,
+ Hong
+ Kong,
+pp. 258–283.
+Kemp,
+ R.,
+ 2011.
+ Ten
+ themes
+ for
+ eco-innovation
+ policies
+ in
+ Europe.
+ S.A.P.I.EN.S
+ 4,
+1–20.
+Kern,
+ F.,
+ Howlett,
+ M.,
+ 2009.
+ Implementing
+ transition
+ management
+ as
+ policy
+reforms:
+ a
+ case
+ study
+ of
+ the
+ Dutch
+ energy
+ sector.
+ Policy
+ Sci.
+ 42,
+ 391–408.
+Kivimaa,
+ P.,
+ Kern,
+ F.,
+ 2016.
+ Creative
+ destruction
+ or
+ mere
+ niche
+ support?
+ Innovation
+policy
+ mixes
+ for
+ sustainability
+ transitions.
+ Res.
+ Policy
+ 45,
+ 205–217.
+Kivimaa,
+ P.,
+ Mickwitz,
+ P.,
+ 2006.
+ The
+ challenge
+ of
+ greening
+technologies—environmental
+ policy
+ integration
+ in
+ Finnish
+ technology
+ policies.
+Res. Policy
+ 35,
+ 729–744.
+Kivimaa,
+ P.,
+ 2007.
+ The
+ determinants
+ of
+ environmental
+ innovation:
+ the
+ impacts
+ of
+environmental
+ policies
+ on
+ the
+ Nordic
+ pulp,
+ paper
+ and
+ packaging
+ industries.
+Eur. Environ.
+ 17,
+ 92–105.
+Komor,
+ P.,
+ Bazilian,
+ M.,
+ 2005.
+ Renewable
+ energy
+ policy
+ goals,
+ programs,
+ and
+technologies.
+ Energy
+ Policy
+ 33,
+ 1873–1881.
+Kydland,
+ F.E.,
+ Prescott,
+ E.C.,
+ 1977.
+ Rules
+ rather
+ than
+ discretion:
+ the
+ inconsistency
+ of
+optimal
+ plans.
+ J.
+ Polit.
+ Econ.
+ 85,
+ 473–491.
+Lafferty,
+ W.,
+ Hovden,
+ E.,
+ 2003.
+ Environmental
+ policy
+ integration:
+ towards
+ an
+analytical
+ framework.
+ Environ.
+ Polit.
+ 12,
+ 1–22.
+Lehmann,
+ P.,
+ 2010.
+ Using
+ a
+ policy
+ mix
+ to
+ combat
+ climate
+ change—an
+ economic
+evaluation
+ of
+ policies
+ in
+ the
+ German
+ electricity
+ sector,
+ PhD
+ thesis.
+ Universität
+Halle-Wittenberg.
+Lehmann,
+ P.,
+ 2012.
+ Justifying
+ a
+ policy
+ mix
+ for
+ pollution
+ control:
+ a
+ review
+ of
+economic
+ literature.
+ J.
+ Econ.
+ Surv.
+ 26,
+ 71–97.
+Lockhart
+ C.,
+ 2005.
+ From
+ aid
+ effectiveness
+ to
+ development
+ effectiveness:
+ strategy
+and
+ policy
+ coherence
+ in
+ fragile
+ states.,
+ Background
+ paper
+ prepared
+ for
+ the
+Senior
+ Level
+ Forum
+ on
+ Development
+ Effectiveness
+ in
+ Fragile
+ States.
+Loorbach,
+ D.,
+ 2007.
+ Transition
+ Management
+ –
+ New
+ Mode
+ of
+ Governance
+ for
+Sustainable
+ Development,
+ PhD
+ Thesis.
+ Erasmus
+ Universiteit,
+ Rotterdam.
+Magro,
+ E.,
+ Navarro,
+ M.,
+ Zabala-Iturruagagoitia,
+ J.M.,
+ 2015.
+ Coordination-Mix:
+ the
+hidden
+ face
+ of
+ STI
+ policy.
+ Rev.
+ Policy
+ Res.
+ 31,
+ 367–389.
+Majone,
+ G.,
+ 1976.
+ Choice
+ among
+ policy
+ instruments
+ for
+ pollution
+ control.
+ Policy
+Anal.
+ 2,
+ 589–613.
+Majone,
+ G.,
+ 1997.
+ Independent
+ agencies
+ and
+ the
+ delegation
+ problem:
+ theoretical
+and normative
+ dimensions.
+ In:
+ Steuenberg,
+ B.,
+ van
+ Vught,
+ F.
+ (Eds.),
+ Political
+Institutions
+ and
+ Public
+ Policy.
+ Kluwer
+ Academic
+ Publishers,
+ Dordrecht,
+ pp.
+139–156.
+Malerba,
+ F.,
+ 2004.
+ Sectoral
+ Systems
+ of
+ Innovation.
+ Concepts,
+ Issues
+ and
+ Analyses
+ of
+Six Major
+ Sectors
+ in
+ Europe.
+ Cambridge
+ University
+ Press,
+ Cambridge.
+Markard,
+ J.,
+ Raven,
+ R.,
+ Truffer,
+ B.,
+ 2012.
+ Sustainability
+ transitions:
+ an
+ emerging
+ ﬁeld
+of research
+ and
+ its
+ prospects.
+ Res.
+ Policy
+ 41,
+ 955–967.
+Markard,
+ J.,
+ Suter,
+ M.,
+ Ingold,
+ K.,
+ 2015.
+ Socio-technical
+ transitions
+ and
+ policy
+change
+ −Advocacy
+ coalitions
+ in
+ Swiss
+ energy
+ policy.
+ Environ.
+ Innov.
+ Soc.
+ Trans.
+18, 215–237.
+Matthes,
+ F.C.,
+ 2010.
+ Developing
+ an
+ Ambitious
+ Climate
+ Policy
+ Mix
+ with
+ a
+ Focus
+ on
+Cap-and-trade
+ Schemes
+ and
+ Complementary
+ Policies
+ and
+ Measures.
+Öko-Institut,
+ Berlin.
+Matthews,
+ F.,
+ 2011.
+ The
+ capacity
+ to
+ co-ordinate
+ −Whitehall,
+ governance
+ and
+ the
+challenge
+ of
+ climate
+ change.
+ Public
+ Policy
+ Adm.
+ 27,
+ 169–189.
+May,
+ P.J.,
+ 2003.
+ Policy
+ design
+ and
+ implementation.
+ In:
+ Peters,
+ B.G.,
+ Pierre,
+ J.
+ (Eds.),
+Handbook
+ of
+ Public
+ Administration.
+ Sage
+ Publications
+ Ltd,
+ London,
+ pp.
+223–233.
+Mazmanian,
+ D.A.,
+ Sabatier,
+ P.A.,
+ 1981.
+ Effective
+ Policy
+ Implementation.
+ Lexington
+Books,
+ Toronto.
+McLean
+ Hilker,
+ L.,
+ 2004.
+ A
+ Comparative
+ Analysis
+ of
+ Institutional
+ Mechanisms
+ to
+Promote
+ Policy
+ Coherence
+ for
+ Development.
+ OECD,
+ Paris.
+Meadowcroft,
+ J.,
+ 2007.
+ Who
+ is
+ in
+ charge
+ here?:
+ Governance
+ for
+ sustainable
+development
+ in
+ a complex
+ world.
+ J.
+ Environ.
+ Policy
+ Plann.
+ 9,
+ 299–314.
+Meadowcroft,
+ J.,
+ 2009.
+ What
+ about
+ the
+ politics?
+ Sustainable
+ development,
+transition
+ management,
+ and
+ long
+ term
+ energy
+ transitions.
+ Policy
+ Sci.
+ 42,
+323–340.
+Mickwitz,
+ P.,
+ Aix,
+ F.,
+ Beck,
+ S.,
+ Carss,
+ D.,
+ Ferrand,
+ N.,
+ Görg,
+ C.,
+ Jensen,
+ A.,
+ Kivimaa,
+ P.,
+Kuhlicke,
+ C.,
+ Kuindersma,
+ W.,
+ Má˜nez,
+ M.,
+ Melanen,
+ M.,
+ Monni,
+ S.,
+ Pedersen,
+ A.,
+Reinert,
+ H.,
+ van
+ Bommel,
+ S.,
+ 2009.
+ Climate
+ Policy
+ Integration,
+ Coherence
+ and
+Governance.
+ Partnership
+ for
+ European
+ Environmental
+ Research,
+ Helsinki.
+Mickwitz,
+ P.,
+ Kivimaa,
+ P.,
+ Hilden,
+ M.,
+ Estlander,
+ A.,
+ Melanen,
+ M.,
+ 2009.
+Mainstreaming
+ climate
+ policy
+ and
+ policy
+ coherence
+ –
+ A
+ background
+ report
+ for
+the
+ compiling
+ of
+ the
+ foresight
+ report
+ of
+ Vanhanen’s
+ second
+ government.
+ Prime
+Minister’s
+ Ofﬁce,
+ Helsinki.
+Miles,
+ R.E.,
+ Snow,
+ C.C.,
+ 1978.
+ Organizational
+ Strategy,
+ Structure,
+ and
+ Process.
+McGraw-Hill,
+ New
+ York.
+Miller,
+ C.,
+ 2008.
+ Decisional
+ comprehensiveness
+ and
+ ﬁrm
+ performance:
+ towards
+ a
+more
+ complete
+ understanding.
+ J.
+ Behav.
+ Decis.
+ Mak.
+ 21,
+ 598–620.
+Mintzberg,
+ H.,
+ 1999. ¨Und
+ hier,
+ meine
+ Damen
+ und
+ Herren,
+ sehen
+ Sie:
+ Das
+ wilde
+ Tier
+Strategisches
+ Management.¨. In:
+ Mintzberg,
+ H.
+ (Ed.),
+ Strategy
+ Safari:
+ eine
+ Reise
+durch
+ die
+ Wildnis
+ des
+ strategischen
+ Managements.
+ Ueberreuter,
+ Wien,
+ pp.
+13–36.
+Missiroli,
+ A.,
+ 2001.
+ European
+ security
+ policy:
+ the
+ challenge
+ of
+ coherence.
+ Eur.
+Foreign
+ Aff.
+ Rev.
+ 6,
+ 177–196.
+Mowery,
+ D.C.,
+ 1995.
+ The
+ practice
+ of
+ technology
+ policy.
+ In:
+ Stoneman,
+ P.
+ (Ed.),
+Handbook
+ of
+ the
+ Economics
+ of
+ Innovation
+ and
+ Technological
+ Change.
+Blackwell
+ Publishers
+ Inc.,
+ Oxford,
+ UK,
+ Cambridge,
+ USA,
+ pp.
+ 511–557.
+Murphy,
+ L.,
+ Meijer,
+ F.,
+ Visscher,
+ H.,
+ 2012.
+ A
+ qualitative
+ evaluation
+ of
+ policy
+instruments
+ used
+ to
+ improve
+ energy
+ performance
+ of
+ existing
+ private
+ dwellings
+in the
+ Netherlands.
+ Energy
+ Policy
+ 45,
+ 459–568.
+Nauwelaers,
+ C.,
+ Boekholk,
+ P.,
+ Mostert,
+ B.,
+ Cunningham,
+ P.,
+ Guy,
+ K.,
+ Hofer,
+ R.,
+Rammer,
+ C.,
+ 2009.
+ Policy
+ Mixes
+ for
+ R&D
+ in
+ Europe.
+ European
+ Commission
+ –
+Directorate
+ –
+ General
+ for
+ Research,
+ Maastricht.
+Navarro,
+ M.,
+ Valdaliso,
+ J.M.,
+ Aranguren,
+ M.J.,
+ Magro,
+ E.,
+ 2014.
+ A
+ holistic
+ approach
+ to
+regional
+ strategies:
+ the
+ case
+ of
+ the
+ Basque
+ Country.
+ Sci.
+ Public
+ Policy
+ 41,
+532–547.
+Newell,
+ S.J.,
+ Goldsmith,
+ R.E.,
+ 2001.
+ The
+ development
+ of
+ a
+ scale
+ to
+ measure
+perceived
+ corporate
+ credibility.
+ J.
+ Bus.
+ Res.
+ 52,
+ 235–247.
+Nilsson,
+ M.,
+ Zamparutti,
+ T.,
+ Petersen,
+ J.E.,
+ Nykvist,
+ B.,
+ Rudberg,
+ P.,
+ McGuinn,
+ J.,
+ 2012.
+Understanding
+ policy
+ coherence:
+ analytical
+ framework
+ and
+ examples
+ of
+Sector–Environment
+ policy
+ interactions
+ in
+ the
+ EU.
+ Environ.
+ Policy
+ Gov.
+ 22,
+395–423.
+Norberg-Bohm,
+ V.,
+ 1999.
+ Stimulating
+ ‘green’
+ technological
+ innovation:
+ an
+ analysis
+of alternative
+ policy
+ mechanisms.
+ Policy
+ Sci.
+ 32,
+ 13–38.
+OECD,
+ 1996.
+ Building
+ Policy
+ Coherence:
+ Tools
+ and
+ Tensions.
+ OECD,
+ Paris.
+OECD,
+ 2001.
+ The
+ DAC
+ Guidelines
+ Poverty
+ Reduction.
+ OECD,
+ Paris.
+OECD,
+ 2003a.
+ Policy
+ Coherence.
+ PUMA
+ Series.
+ OECD,
+ Paris.
+OECD,
+ 2003b.
+ Policy
+ Coherence:
+ Vital
+ for
+ Global
+ Development.
+ OECD,
+ Paris.
+OECD,
+ 2007.
+ Instrument
+ Mixes
+ for
+ Environmental
+ Policy.
+ OECD,
+ Paris.
+OECD/IEA/NEA/ITF,
+ 2015.
+ Aligning
+ Policies
+ for
+ a
+ Low-carbon
+ Economy.
+ OECD
+Publishing,
+ Paris.
+Oikonomou,
+ V.,
+ Jepma,
+ C.,
+ 2008.
+ A
+ framework
+ on
+ interactions
+ of
+ climate
+ and
+ energy
+policy
+ instruments.
+ Mitig.
+ Adapt.
+ Strat.
+ Global
+ Change
+ 13,
+ 131–156.
+Pal,
+ L.A.,
+ 2006.
+ Policy
+ Analysis:
+ Concepts
+ and
+ Practice,
+ Beyond
+ Policy
+ Analysis
+ −
+Public
+ Issue
+ Management
+ in
+ Turbulent
+ Times.
+ Nelson,
+ Toronto,
+ pp.
+ 10–13.
+Pavitt,
+ K.,
+ 1984.
+ Sectoral
+ patterns
+ of
+ technical
+ change:
+ towards
+ a
+ taxonomy
+ and
+ a
+theory.
+ Res.
+ Policy
+ 13,
+ 343–373.
+Philibert,
+ C.,
+ Pershing,
+ J.,
+ 2001.
+ Considering
+ the
+ options:
+ climate
+ targets
+ for
+ all
+countries.
+ Clim.
+ Policy
+ 2,
+ 211–227.
+Picciotto,
+ R.,
+ Alao,
+ C.,
+ Ikpe,
+ E.,
+ Kimani,
+ M.,
+ Slade,
+ R.,
+ 2004.
+ Striking
+ a New
+ Balance:
+Donor
+ Policy
+ Coherence
+ and
+ Development
+ Cooperation
+ in
+ Difﬁcult
+Environments.
+ Global
+ Policy
+ Project
+ Dec.
+ 30,
+ 2004.
+Picciotto,
+ R.,
+ 2005.
+ The
+ evaluation
+ of
+ policy
+ coherence
+ for
+ development.
+ Evaluation
+11,
+ 311–330.
+
+<!-- 第16页 -->
+Please
+ cite
+ this
+ article
+ in
+ press
+ as:
+ Rogge,
+ K.S.,
+ Reichardt,
+ K.,
+ Policy
+ mixes
+ for
+ sustainability
+ transitions:
+ An
+ extended
+ concept
+ and
+framework
+ for
+ analysis.
+ Res.
+ Policy
+ (2016),
+ http://dx.doi.org/10.1016/j.respol.2016.04.004
+ARTICLE IN PRESS
+G Model
+RESPOL-3282;
+ 
+No.
+ of
+ Pages
+ 16
+16
+ 
+K.S.
+ Rogge,
+ K.
+ Reichardt
+ /
+ Research
+ Policy
+ xxx
+ (2016)
+ xxx–xxx
+Popp,
+ D.,
+ Newell,
+ R.G.,
+ Jaffe,
+ A.B.,
+ 2009.
+ Energy,
+ the
+ Environment,
+ and
+ Technological
+Change.
+ NBER
+ Working
+ Paper
+ Series,
+ 14832,
+ Cambridge.
+Porter,
+ M.E.,
+ 1980.
+ Competitive
+ Strategy.
+ Free
+ Press,
+ New
+ York.
+Quitzow,
+ R.,
+ 2015a.
+ Assessing
+ policy
+ strategies
+ for
+ the
+ promotion
+ of
+ environmental
+technologies:
+ a review
+ of
+ India’s
+ National
+ Solar
+ Mission.
+ Res.
+ Policy
+ 44,
+233–243.
+Quitzow,
+ R.,
+ 2015b.
+ Dynamics
+ of
+ a policy-driven
+ market:
+ the
+ co-evolution
+ of
+technological
+ innovation
+ systems
+ for
+ solar
+ photovoltaics
+ in
+ China
+ and
+Germany.
+ Environ.
+ Innov.
+ Soc.
+ Trans.
+ 17,
+ 126–148.
+Quitzow,
+ R.,
+ 2011.
+ Towards
+ a
+ strategic
+ framework
+ for
+ promoting
+ environmental
+innovations.
+ Working
+ Paper
+ No.
+ 4
+ within
+ the
+ project:
+ Lead
+ Markets,
+ Berlin.
+Rammer,
+ C.,
+ 2009.
+ Innovation
+ and
+ Technology
+ Policy.
+ Deutsche
+ Gesellschaft
+ für
+Technische
+ Zusammenarbeit,
+ Eschborn.
+Rave,
+ T.,
+ Triebswetter,
+ U.,
+ Wackerbauer,
+ J.,
+ 2013.
+ Koordination
+ von
+ Innovations-,
+Energie-
+ und
+ Umweltpolitik.
+ Expertenkommission
+ Forschung
+ und
+ Innovation
+(EFI),
+ Berlin.
+Raven,
+ R.,
+ Schot,
+ J.,
+ Berkhout,
+ F.,
+ 2012.
+ Space
+ and
+ scale
+ in
+ socio-technical
+transitions.
+ Environ.
+ Innov.
+ Soc.
+ Trans.
+ 4,
+ 63–78.
+Reichardt,
+ K.,
+ Rogge,
+ K.S.,
+ 2016.
+ How
+ the
+ policy
+ mix
+ impacts
+ innovation:
+ Findings
+from
+ company
+ case
+ studies
+ on
+ offshore
+ wind
+ in
+ Germany.
+ Environ.
+ Inno.
+ Soc.
+Trans.
+ 18,
+ 62–81.
+Reichardt,
+ K.,
+ Negro,
+ S.O.,
+ Rogge,
+ K.S.,
+ Hekkert,
+ M.P.,
+ 2016.
+ Analyzing
+interdependencies
+ between
+ policy
+ mixes
+ and
+ technological
+ innovation
+systems:
+ the
+ case
+ of
+ offshore
+ wind
+ in
+ Germany.
+ Technol.
+ Forecast.
+ Soc.
+ Change
+106, 11–21.
+Reid,
+ A.,
+ Miedzinski,
+ M.,
+ 2008.
+ Sectoral
+ Innovation
+ Watch
+ in
+ Europe
+ –
+Eco-Innovation,
+ Brussels.
+Rennings,
+ K.,
+ Kemp,
+ R.,
+ Bartolomeo,
+ M.,
+ Hemmelskamp,
+ J.,
+ Hitchens,
+ D.,
+ 2003.
+Blueprints
+ for
+ an
+ Integration
+ of
+ Science,
+ Technology
+ and
+ Environmental
+ Policy
+(BLUEPRINT).
+ Zentrum
+ für
+ Europäische
+ Wirtschaftsforschung
+ GmbH
+ (ZEW),
+Mannheim.
+Rennings
+ K.,
+ Rammer
+ C.,
+ Oberndorfer
+ U.,
+ 2008.
+ Instrumente
+ zur
+ Förderung
+ von
+Umweltinnovationen
+ –
+ Bestandsaufnahme,
+ Bewertung
+ und
+ Deﬁzitanalyse.
+Umweltbundesamt
+ (UBA),
+ Bundesministerium
+ für
+ Umwelt,
+ Naturschutz
+ und
+Reaktorsicherheit
+ Referat
+ Öffentlichkeitsarbeit,
+ Mannheim,
+ Berlin.
+Rennings,
+ K.,
+ 2000.
+ Redeﬁning
+ innovation
+ −
+ eco-innovation
+ research
+ and
+ the
+contribution
+ from
+ ecological
+ economics.
+ Ecol.
+ Econ.
+ 32,
+ 319–332.
+Requate,
+ T.,
+ 2005.
+ Dynamic
+ incentives
+ by
+ environmental
+ policy
+ instruments—a
+survey.
+ Ecol.
+ Econ.
+ 54,
+ 175–195.
+Richardson,
+ J.,
+ 1982.
+ The
+ concept
+ of
+ policy
+ style.
+ In:
+ Richardson,
+ J.
+ (Ed.),
+ Policy
+Styles in
+ Western
+ Europe.
+ George
+ Allen
+ &
+ Unwin,
+ London,
+ pp.
+ 1–16.
+Ring,
+ I.,
+ Schröter-Schlaack,
+ C.,
+ 2011.
+ Instrument
+ Mixes
+ for
+ Biodiversity
+ Policies.
+Helmholtz
+ Centre
+ for
+ Environmental
+ Research.
+Rogge,
+ K.S.,
+ Schleich,
+ J.,
+ Haussmann,
+ P.,
+ Roser,
+ A.,
+ Reitze,
+ F.,
+ 2011a.
+ The
+ role
+ of
+ the
+regulatory
+ framework
+ for
+ innovation
+ activities:
+ the
+ EU
+ ETS
+ and
+ the
+ German
+paper
+ industry.
+ International
+ Journal
+ of
+ Technology.
+ Policy
+ Manage.
+ 11,
+250–273.
+Rogge,
+ K.S.,
+ Schmidt,
+ T.S.,
+ Schneider,
+ M.,
+ 2011b.
+ Relative
+ Importance
+ of
+ Different
+Climate
+ Policy
+ Elements
+ for
+ Corporate
+ Climate
+ Innovation
+ Activities:
+ Findings
+for
+ the
+ Power
+ Sector.
+ Fraunhofer
+ ISI,
+ Karlsruhe.
+Rogge,
+ K.S.,
+ Schneider,
+ M.,
+ Hoffmann,
+ V.H.,
+ 2011c.
+ The
+ innovation
+ impact
+ of
+ the
+ EU
+Emission
+ Trading
+ System
+ −
+ Findings
+ of
+ company
+ case
+ studies
+ in
+ the
+ German
+power
+ sector.
+ Ecol.
+ Econ.
+ 70,
+ 513–523.
+Rogge,
+ K.S.,
+ 2010.
+ The
+ Innovation
+ Impact
+ of
+ the
+ EU
+ Emission
+ Trading
+ System:
+ An
+Empirical
+ Analysis
+ of
+ the
+ Power
+ Sector.
+ PhD
+ Thesis.
+ ETH
+ Zurich,
+ Zurich.
+Rotmans,
+ J.,
+ Kemp,
+ R.,
+ van
+ Asselt,
+ M.,
+ 2001.
+ Emerald
+ Article:
+ more
+ evolution
+ than
+revolution:
+ transition
+ management
+ in
+ public
+ policy.
+ Foresight
+ 3,
+ 15–31.
+Ruud,
+ A.,
+ Larsen,
+ O.M.,
+ 2004.
+ Coherence
+ of
+ Environmental
+ and
+ Innovation
+ Policies:
+A
+ green
+ innovation
+ policy
+ in
+ Norway?
+ Working
+ Paper.
+Sabatier,
+ P.A.,
+ Mazmanian,
+ D.A.,
+ 1981.
+ The
+ Implementation
+ of
+ Public
+ Policy:
+ A
+Framework
+ of
+ Analysis,
+ Effective
+ Policy
+ Implementation.
+ Lexington
+ Books,
+Toronto,
+ pp.
+ 3–35.
+Sabatier,
+ P.A.,
+ Weible,
+ C.M.,
+ 2014.
+ Theories
+ of
+ the
+ Policy
+ Process.
+ Westview
+ Press,
+Boulder.
+Salamon,
+ L.M.,
+ 2002.
+ The
+ new
+ governance
+ and
+ the
+ tools
+ of
+ public
+ action:
+ an
+introduction.
+ In:
+ Salamon,
+ L.M.
+ (Ed.),
+ The
+ Tools
+ of
+ Government,
+ A
+ Guide
+ to
+ the
+New Governance.
+ Oxford
+ University
+ Press,
+ Oxford,
+ pp.
+ 1–47.
+Schmidt,
+ T.S.,
+ Schneider,
+ M.,
+ Hoffmann,
+ V.H.,
+ 2012a.
+ Decarbonising
+ the
+ power
+sector
+ via
+ technological
+ change:
+ differing
+ contributions
+ from
+ heterogeneous
+ﬁrms.
+ Energy
+ Policy
+ 43,
+ 466–479.
+Schmidt,
+ T.S.,
+ Schneider,
+ M.,
+ Rogge,
+ K.S.,
+ Schuetz,
+ M.J.A.,
+ Hoffmann,
+ V.H.,
+ 2012b.
+The
+ effects
+ of
+ climate
+ policy
+ on
+ the
+ rate
+ and
+ direction
+ of
+ innovation:
+ a
+ survey
+of
+ the
+ EU
+ ETS
+ and
+ the
+ electricity
+ sector.
+ Environ.
+ Innov.
+ Soc.
+ Trans.
+ 2,
+ 23–48.
+Schubert,
+ K.,
+ Bandelow,
+ N.C.,
+ 2009.
+ Lehrbuch
+ der
+ Politikfeldanalyse
+ 2.0.
+Oldenbourg
+ Wissenschaftsverlag,
+ München.
+Smits,
+ R.,
+ Kuhlmann,
+ S.,
+ 2004.
+ The
+ rise
+ of
+ systemic
+ instruments
+ in
+ innovation
+policy.
+ Int.
+ J.
+ Fores.
+ Innov.
+ Policy
+ 1,
+ 4–32.
+Sorrell,
+ S.,
+ Smith,
+ A.,
+ Betz,
+ R.,
+ Walz,
+ R.,
+ Boemare,
+ C.,
+ Quirion,
+ P.,
+ Sijm,
+ J.,
+ Konidari,
+D.M.P.,
+ Vassos,
+ S.,
+ Haralampopoulos,
+ D.,
+ Pilinis,
+ C.,
+ 2003.
+ Interaction
+ in
+ EU
+climate
+ policy.
+ SPRU,
+ Sussex.
+Sorrell,
+ S.,
+ 2004.
+ Understanding
+ barriers
+ to
+ energy
+ efﬁciency.
+ In:
+ Sorrell,
+ S.,
+O’Malley,
+ E.,
+ Schleich,
+ J.,
+ Scott,
+ S.
+ (Eds.),
+ The
+ Economics
+ of
+ Energy
+ Efﬁciency
+ –
+Barriers
+ to
+ Cost-Effective
+ Investment.
+ Edward
+ Elgar,
+ Celtenham,
+ pp.
+ 25–94.
+Sovacool,
+ B.K.,
+ 2009.
+ The
+ importance
+ of
+ comprehensiveness
+ in
+ renewable
+electricity
+ and
+ energy-efﬁciency
+ policy.
+ Energy
+ Policy
+ 37,
+ 1–1529.
+Späth,
+ P.,
+ Rohracher,
+ H.,
+ 2012.
+ Local
+ demonstrations
+ for
+ global
+transitions–dynamics
+ across
+ governance
+ levels
+ fostering
+ socio-Technical
+regime
+ change
+ towards
+ sustainability.
+ Eur.
+ Plann.
+ Stud.
+ 20,
+ 461–479.
+Spiegel
+ Online,
+ 2013a.
+ Altmaier
+ und
+ Rösler
+ einigen
+ sich
+ bei
+ Strompreisbremse
+(accessed
+ 17.04.13.)
+ http://www.spiegel.de/politik/deutschland/
+energiewende-altmaier-und-roesler-einigen-sich-bei-strompreisbremse-a-
+883266.html.
+Spiegel
+ Online,
+ 2013b.
+ Strompreisbremse:
+ Großer
+ Öko-Anleger
+ droht
+ m
+ it
+Investitionsstopp
+ (acessed
+ 17.04.13.)
+ http://www.spiegel.de/wirtschaft/
+soziales/stadtwerke-muenchen-stoppen-oeko-investitionen-wegen-
+strompreisbremse-a-885101.html.
+Steinhilber,
+ S.,
+ Ragwitz,
+ M.,
+ Rathmann,
+ M.,
+ Klessmann,
+ C.,
+ Noothout,
+ P.,
+ 2011.
+Shaping
+ an
+ effective
+ and
+ efﬁcient
+ European
+ renewable
+ energy
+ market.
+Fraunhofer
+ ISI,
+ Karlsruhe.
+Sterner,
+ T.,
+ 2000.
+ Review
+ of
+ Policy
+ Instruments,
+ in:
+ Sterner,
+ T.
+ (Ed.),
+ Policy
+Instruments
+ for
+ Environmental
+ and
+ Natural
+ Resource
+ Management.
+ Resources
+for
+ the
+ Future
+ Press,
+ Washington,
+ DC,
+ pp.
+ 67–70.
+Stirling,
+ A.,
+ 2014.
+ Transforming
+ power:
+ social
+ science
+ and
+ the
+ politics
+ of
+ energy
+choices.
+ Energy
+ Res.
+ Soc.
+ Sci.
+ 1,
+ 83–95.
+Tietje,
+ C.,
+ 1997.
+ The
+ concept
+ of
+ coherence
+ in
+ the
+ treaty
+ on
+ European
+ Union
+ and
+ the
+Common
+ Foreign
+ and
+ Security
+ Policy.
+ Eur.
+ Foreign
+ Aff.
+ Rev.
+ 2,
+ 211–233.
+Tuominen,
+ A.,
+ Himanen,
+ V.,
+ 2007.
+ Assessing
+ the
+ interaction
+ between
+ transport
+policy
+ targets
+ and
+ policy
+ implementation—a
+ ﬁnnish
+ case
+ study.
+ Transp.
+ Policy
+14,
+ 388–398.
+Twomey,
+ P.,
+ 2012.
+ Rationales
+ for
+ additional
+ climate
+ policy
+ instruments
+ under
+ a
+carbon
+ price.
+ Econ.
+ Labour
+ Relat.
+ Rev.
+ 23,
+ 7–30.
+UNFCCC,
+ 2011.
+ Compilation
+ and
+ Synthesis
+ of
+ Fifth
+ National
+ Communications.
+UNFCCC.
+Underdal,
+ A.,
+ 1980.
+ Integrated
+ marine
+ policy
+ –
+ what?
+ why?
+ how?
+ Mar.
+ Policy
+ 4,
+159–169.
+Unruh,
+ G.C.,
+ 2002.
+ Escaping
+ carbon
+ lock-in.
+ Energy
+ Policy
+ 30,
+ 317–325.
+Van
+ Bommel,
+ S.,
+ 2008.
+ Policy
+ Integration,
+ Coherence
+ and
+ Governance
+ in
+ Dutch
+Climate
+ Policy:
+ A
+ Multi-level
+ Analysis
+ of
+ Mitigation
+ and
+ Adaptation
+ Policy.
+Alterra,
+ Wageningen.
+Vollebergh,
+ H.,
+ 2007.
+ Impacts
+ of
+ environmental
+ policy
+ instruments
+ on
+technological
+ change.
+ COM/ENV/EPOC/CTPA/CFA(2006)36/FINAL,
+ OECD,
+ Paris.
+Wüstenhagen,
+ R.,
+ Bilharz,
+ M.,
+ 2006.
+ Green
+ energy
+ market
+ development
+ in
+Germany:
+ effective
+ public
+ policy
+ and
+ emerging
+ customer
+ demand.
+ Energy
+Policy
+ 34,
+ 1681–1696.
+WDR,
+ 2013.
+ NRW-Reaktionen
+ zur
+ Strompreisbremse
+ −
+ Energiewende
+ usgebremst,
+downloaded
+ on
+ 23
+ April
+ 2013
+ http://www1.wdr.de/themen/wirtschaft/
+strompreisbremse112.html.
+Walker,
+ W.E.,
+ Rahman,
+ S.A.,
+ Cave,
+ J.,
+ 2001.
+ Adaptive
+ policies,
+ policy
+ analysis,
+ and
+policy-making.
+ Eur.
+ J.
+ Oper.
+ Res.
+ 128,
+ 282–289.
+Weber,
+ K.M.,
+ Rohracher,
+ H.,
+ 2012.
+ Legitimizing
+ research,
+ technology
+ and
+innovation
+ policies
+ for
+ transformative
+ change
+ Combining
+ insights
+ from
+innovation
+ systems
+ and
+ multi-level
+ perspective
+ in
+ a
+ comprehensive
+ ‘failures’
+framework.
+ Res.
+ Policy
+ 41,
+ 1037–1047.
+Weston,
+ A.,
+ Pierre-Antoine,
+ D.,
+ 2003.
+ A
+ Case
+ Study
+ of
+ Canada’s
+ Relations
+ with
+Developing
+ Countries.
+ The
+ North-South
+ Institute.
+White,
+ W.,
+ Lunnan,
+ A.,
+ Nybakk,
+ E.,
+ Kulisic,
+ B.,
+ 2013.
+ The
+ role
+ of
+ governments
+ in
+renewable
+ energy:
+ the
+ importance
+ of
+ policy
+ consistency.
+ Biomass
+ Bioenergy
+57,
+ 97–105.
+Wieczorek,
+ A.J.,
+ Hekkert,
+ M.P.,
+ 2012.
+ Systemic
+ instruments
+ for
+ systemic
+ innovation
+problems:
+ a
+ framework
+ for
+ policy
+ makers
+ and
+ innovation
+ scholars.
+ Sci.
+ Public
+Policy 39,
+ 74–87.
+de
+ Heide,
+ M.J.L.,
+ 2011.
+ R&D,
+ Innovation
+ and
+ the
+ Policy
+ Mix.
+ PhD
+ Thesis.
+ Tinbergen
+Institute,
+ Erasmus
+ Universiteit
+ Rotterdam.
+del
+ Río
+ González,
+ P.,
+ 2006.
+ The
+ interaction
+ between
+ emissions
+ trading
+ and
+renewable
+ electricity
+ support
+ schemes:
+ an
+ overview
+ of
+ the
+ literature.
+ Mitig.
+Adapt.
+ Strat.
+ Global
+ Change
+ 12,
+ 1363–1390.
+del
+ Río
+ González,
+ P.,
+ 2009a.
+ Interactions
+ between
+ climate
+ and
+ energy
+ policies:
+ the
+case of
+ Spain.
+ Clim.
+ Policy
+ 9,
+ 119–138.
+del
+ Río
+ González,
+ P.,
+ 2009b.
+ The
+ empirical
+ analysis
+ of
+ the
+ determinants
+ for
+environmental
+ technological
+ change:
+ a
+ research
+ agenda.
+ Ecol.
+ Econ.
+ 68,
+861–878.
+del
+ Río
+ González,
+ P.,
+ 2010.
+ Analysing
+ the
+ interactions
+ between
+ renewable
+ energy
+promotion
+ and
+ energy
+ efﬁciency
+ support
+ schemes:
+ the
+ impact
+ of
+ different
+instruments
+ and
+ design
+ elements.
+ Energy
+ Policy
+ 38,
+ 4978–4989.
+del
+ Río,
+ P.,
+ Carrillo-Hermosilla,
+ J.,
+ Könnölä,
+ T.,
+ 2010.
+ Policy
+ strategies
+ to
+ promote
+eco-Innovation.
+ J.
+ Ind.
+ Ecol.
+ 14,
+ 541–557.
+del
+ Río,
+ P.,
+ 2012.
+ The
+ dynamic
+ efﬁciency
+ of
+ feed-in
+ tariffs:
+ the
+ impact
+ of
+ different
+design
+ elements.
+ Energy
+ Policy
+ 41,
+ 139–151.
+del
+ Rio,
+ P.,
+ Ragwitz,
+ M.,
+ Steinhilber,
+ S.,
+ Resch,
+ G.,
+ Busch,
+ S.,
+ Klessmann,
+ C.,
+ de
+Lovinfosse,
+ I.,
+ Nysten,
+ J.V.,
+ Fouquet,
+ D.,
+ Johnston,
+ A.,
+ 2012.
+ Assessment
+ criteria
+for identifying
+ the
+ main
+ alternatives
+ –
+ Advantages
+ and
+ drawbacks,
+ synergies
+and conﬂicts.
+ Intelligent
+ Energy
+ k
+ Europe,
+ beyond
+ 2020.
+den Hertog,
+ P.,
+ Boekholt,
+ P.,
+ Halvorsen,
+ T.,
+ Roste,
+ R.,
+ Remoe,
+ S.,
+ 2004.
+ MONIT
+conceptual
+ paper.
+ MONIT,
+ Oslo.
+van
+ den
+ Bergh,
+ J.C.J.M.,
+ Faber,
+ A.,
+ Idenburg,
+ A.M.,
+ Oosterhuis,
+ F.H.,
+ 2007.
+Evolutionary
+ Economics
+ and
+ Environmental
+ Policy-Survival
+ of
+ the
+ Greenest.
+Edward
+ Elgar
+ Publishing
+ Limited,
+ Cheltenham,
+ UK;
+ Northampton,
+ MA,
+ USA.
