@@ -288,11 +288,3 @@ _fE.e_coherence(R, INS2)
 _fE.e_merge_ch56(R, INS2, DEL, FMT)
 _fE.e_kw_abstract(R)
 
-# ===== 篇幅压缩（≤18000字，作者要求不动引言与理论） =====
-import finalF as _fF
-_fF.compress(R, INS2)
-_fF.compress2(R, INS2)
-DEL.add(90)
-_fF.compress3(R, INS2, DEL)
-_fF.compress4(R, INS2)
-_fF.polish(R)
