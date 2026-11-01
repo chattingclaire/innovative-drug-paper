@@ -275,3 +275,12 @@ IMG['word/media/image7.png'] = _os.path.join(_FIG, 'fig1.png')   # C12/C13：图
 _fD.readthrough_fix(R)
 _fD.review_fix_A(R)
 _fD.review_fix_B(R)
+
+# ===== 作者第二轮意见（2026-11-01） =====
+import finalE as _fE
+_fE.e_fix(R, INS2)
+_fE.e_dedup(R, INS2)
+_fE.e_terms(R, INS2)
+_fE.e_policy(R, INS2, DEL)
+_fE.e_misc(R)
+_fE.e_policy2(R)
