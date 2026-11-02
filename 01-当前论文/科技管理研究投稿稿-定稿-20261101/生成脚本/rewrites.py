@@ -292,3 +292,5 @@ _fE.e_kw_abstract(R)
 # ===== 逐句压紧（不删内容） =====
 import finalG as _fG
 _fG.tighten(R, INS2, DEL)
+import finalH as _fH
+_fH.shorten44(R, DEL)
