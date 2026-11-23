@@ -1,0 +1,50 @@
+《科技管理研究》投稿系统填写信息（新投稿，2026-11-23）
+
+【中文题名】
+创新药评价的部门注意力配置差异与协同治理
+
+【英文题名】
+Differences in Departmental Attention Allocation in Innovative Drug Evaluation and Collaborative Governance
+
+【中文摘要】
+创新药上市审评、医保准入与临床使用分别由国家药品监督管理局、国家医疗保障局和国家卫生健康委员会负责，三部门评价规则的衔接影响企业研发证据准备与创新成果转化。基于“制度逻辑—组织注意力”分析框架，采用经人工核验的大语言模型编码，对三部门2018—2026年发布的51个政策来源的4 481条句段进行编码，比较安全性、有效性、经济性、创新性和公平性五维注意力配置，并结合政策条文与访谈资料考察评价对象、比较药品和结论用途。结果表明：药监局安全性与有效性注意力占比合计为68.38%，医保局经济性注意力占比为76.48%，该格局经多种稳健性检验保持稳定；卫健委安全性与经济性注意力占比较高，但二者排序受联合发文影响；药监局创新性注意力占比为20.96%，高于医保局的5.84%和卫健委的3.94%；同一评价维度在不同部门服务于不同决策任务，既有研发证据的跨环节使用须考虑评价对象、比较药品与结论用途。跨部门协同并非统一评价标准，而是明确评价结论的适用条件，提高评价规则可预期性与证据使用效率。据此提出通过前置沟通、补充研究统筹和临床应用反馈3条协同路径，为优化支持创新药的政策组合和促进成果转化提供参考。
+
+【英文摘要】
+Innovative drugs are subject to sequential evaluations for market authorization, health insurance access, and clinical use by the National Medical Products Administration, National Healthcare Security Administration, and National Health Commission, respectively. Coordination of these evaluation rules directly affects enterprises' preparation of evidence during R&D and the translation of innovation outputs. Drawing on an institutional logics–organizational attention framework, this study uses a large language model validated against human coding to code 4,481 passages from 51 policy sources issued by the three departments between 2018 and 2026. It compares attention allocation across five dimensions—safety, efficacy, economic value, innovativeness, and equity—and examines evaluation objects, comparators, and uses of conclusions through policy provisions and interview materials. The results show that safety and efficacy together account for 68.38% of the attention allocated by the National Medical Products Administration, while economic value accounts for 76.48% of that allocated by the National Healthcare Security Administration; these patterns remain robust across multiple checks. The National Health Commission allocates relatively more attention to safety and economic value, although their ranking is sensitive to jointly issued documents. Attention to innovativeness is higher at the National Medical Products Administration (20.96%) than at the National Healthcare Security Administration (5.84%) and the National Health Commission (3.94%). The same dimension serves different decision tasks across departments, and the cross-stage use of existing evidence requires checking evaluation objects, comparators, and uses of conclusions. Cross-departmental coordination should therefore clarify the conditions under which evaluation conclusions apply, rather than unify evaluation standards, so as to improve the predictability of evaluation rules and the efficiency of evidence use. Accordingly, three pathways are proposed: early communication, coordinated supplementary studies, and feedback from clinical use. These findings provide a reference for optimizing the innovation policy mix and translating innovation outputs.
+
+【中文关键词】
+创新药；跨部门协同；组织注意力；制度逻辑；创新政策组合；大语言模型
+
+【英文关键词】
+innovative drugs; cross-departmental coordination; organizational attention; institutional logics; innovation policy mix; large language model
+
+【中图分类号】G311；R197
+【文献标识码】A
+【建议栏目】科技发展与政策（或：科技指标与评价）
+
+【基金项目】
+项目类别：国家自然科学基金面上项目
+课题名称：中国新兴产业创新政策组合的绩效影响机制研究
+项目编号：72074204
+
+【作者（按署名顺序）】
+1. 王孝炯（通信作者）
+   单位：中国科学院科技战略咨询研究院，北京 100190
+   英文：WANG Xiaojiong, Institutes of Science and Development, Chinese Academy of Sciences, Beijing 100190, China
+2. 陈海婷
+   单位：中国科学院科技战略咨询研究院，北京 100190；中国科学院大学公共政策与管理学院，北京 100049
+   英文：CHEN Haiting, Institutes of Science and Development, Chinese Academy of Sciences, Beijing 100190, China; School of Public Policy and Management, University of Chinese Academy of Sciences, Beijing 100049, China
+3. 刘中全
+   单位：国家发展和改革委员会创新驱动发展中心，北京 100038
+   英文：LIU Zhongquan, Innovation-driven Development Center, National Development and Reform Commission, Beijing 100038, China
+
+【作者简介】
+王孝炯（1982—），通信作者，男，安徽合肥人，博士研究生，中国科学院科技战略咨询研究院创新研究员，主要研究方向为创新发展政策；陈海婷（2002—），女，福建建瓯人，硕士研究生，主要研究方向为科技创新管理与政策；刘中全（1988—），男，河南郸城人，硕士研究生，国家发展改革委创新驱动发展中心处长、副研究员，主要研究方向为生物经济、生物医药、生物制造及未来产业、科技创新政策等。
+
+【上传文件】
+正文（署名稿）：创新药评价的部门注意力配置差异与协同治理-投稿版.docx
+匿名稿（如有此项）：创新药评价的部门注意力配置差异与协同治理-匿名稿.docx
+附件：补充材料（匿名稿或署名版）、作者贡献声明书、版权转让协议（刘中全签字后）
+
+【附件说明可写】
+补充材料：编码规范与LLM运行设置、政策来源清单、编码质量检验、稳健性检验、两种编码方法全量对照、部门差异检验完整结果、正式编码执行说明与编码手册
